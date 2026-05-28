@@ -202,6 +202,7 @@ BASE_TEMPLATE = """<!DOCTYPE html>
                 <ul>
                     <li><a href="{root_path}index.html">Home</a></li>
                     <li><a href="{root_path}articles.html">Articles</a></li>
+                    <li><a href="{root_path}books.html">Books</a></li>
                     <li><a href="{root_path}biography.html">Biography</a></li>
                 </ul>
             </nav>
@@ -416,6 +417,25 @@ def main():
     articles_list_html += "</ul>"
 
     generate_page(os.path.join(OUTPUT_DIR, "articles.html"), "Articles", articles_list_html, depth=0)
+
+    # Generate Books Page
+    books_html = "<h1>Books & Editions</h1>\n<ul class='article-list'>\n"
+    bib_path = os.path.join(ROOT_DIR, "metadata", "bibliography.json")
+    if os.path.exists(bib_path):
+        import json
+        with open(bib_path, 'r', encoding='utf-8') as f:
+            bib_data = json.load(f)
+        
+        books = sorted([(k, v) for k, v in bib_data.items() if k.startswith("7.b.")])
+        for book_id, citation in books:
+            # Clean and present book citation beautifully
+            display_id = book_id.replace("7.b.", "Book ")
+            books_html += f'<li><strong style="color: var(--primary-color); font-family: var(--font-heading); font-size: 1.2rem; display: block;">{display_id}</strong><p style="margin: 0.2rem 0 0 0; color: var(--text-color); font-size: 1rem;">{citation}</p></li>\n'
+    else:
+        books_html += "<li>No books found in bibliography.</li>\n"
+    books_html += "</ul>"
+    
+    generate_page(os.path.join(OUTPUT_DIR, "books.html"), "Books", books_html, depth=0)
     print("\nSite generation complete!")
 
 if __name__ == "__main__":
