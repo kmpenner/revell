@@ -317,11 +317,23 @@ def main():
 
     for md_path in article_files:
         filename = os.path.basename(md_path)
+        
+        # Filter out extraneous non-article files
+        if not filename.startswith("07a."):
+            continue
+        if "reject" in filename.lower() or "checklist" in filename.lower() or "transcription" in filename.lower():
+            continue
+        if "reviews" in md_path.lower() or "rescan" in md_path.lower() or "to do" in md_path.lower():
+            continue
+            
         output_filename = filename.replace('.md', '.html')
         content, meta = convert_md_to_html(md_path)
         title = meta.get('title', os.path.splitext(filename)[0].replace('_', ' ')).strip('"')
         date = meta.get('date', '').strip('"')
         article_id = meta.get('article_id', '').strip('"')
+        
+        if not article_id:
+            continue
 
         # Facsimile Handling
         facsimile_html = ""
