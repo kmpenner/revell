@@ -300,6 +300,8 @@ def main():
     core_pages = [("index.md", "Home"), ("biography.md", "Biography")]
     for filename, default_title in core_pages:
         md_path = os.path.join(ROOT_DIR, filename)
+        if not os.path.exists(md_path):
+            md_path = os.path.join(ROOT_DIR, "documentation", filename)
         if os.path.exists(md_path):
             content, meta = convert_md_to_html(md_path)
             title = meta.get('title', default_title)
