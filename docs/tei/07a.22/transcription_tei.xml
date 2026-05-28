@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Syntactic/Semantic Structure and the Reflexes of Original Short 'a' in Tiberian Pointing</title>
+      <author>
+        <forename>E.</forename>
+        <forename>J.</forename>
+        <surname>Revell</surname>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>The Ohio State University</publisher>
+      <date when="1981">1981</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Syntactic/Semantic Structure and the Reflexes of Original Short 'a' in Tiberian Pointing</title>
+          <author>
+            <forename>E.</forename>
+            <forename>J.</forename>
+            <surname>Revell</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Hebrew Annual Review</title>
+          <imprint>
+            <biblScope unit="volume">V</biblScope>
+            <date when="1981">1981</date>
+            <biblScope unit="page" from="75" to="100">75-100</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <notesStmt>
+    <note type="filename">07a.22_Syntactic-Semantic_Structure_and_the_Reflexes_of_Original_Short_'a'_in_Tiberian_Pointing.pdf</note>
+  </notesStmt>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="right">
+    <note place="top-right">BLA 22</note>
+</p>
+<p rendition="center">
+    Offprint from
+</p>
+<head rendition="center" type="title">
+    HEBREW ANNUAL REVIEW
+</head>
+<p rendition="center">
+    Volume 5
+</p>
+<p rendition="center">
+    1981
+</p>
+<p rendition="center">
+    DAVID GOLOMB, Editor
+</p>
+<p rendition="center">
+    Department of Judaic and Near Eastern
+    <lb/>Languages and Literatures
+</p>
+<p rendition="center">
+    The Ohio State University
+</p>
+      <pb n="[unnumbered]" facs="image.jpg"/>
+<p>
+    <!-- The provided image is entirely black/blank and contains no visible text, headings, or lists to transcribe. -->
+</p>
+      <pb/>
+<p></p>
+      <pb/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE AND THE REFLEXES OF ORIGINAL SHORT <hi rend="italic">a</hi> IN TIBERIAN POINTING.</head>
+<p>By</p>
+<p>E. J. REVELL</p>
+<p><hi rend="italic">University of Toronto</hi></p>
+
+<p>ABSTRACT: General statements on the history of vowel change account satisfactorily for most of the reflexes of original short vowels which appear in the Masoretic Text but not all. This article examines three cases in which the reflexes of short vowels have not been fully explained: the pointing of conjunctive <hi rend="italic">waw</hi> immediately before a stressed syllable, and of monosyllables in which short <hi rend="italic">a</hi> was followed by a doubled consonant, or in which a short vowel was followed by a consonant plus <hi rend="italic">yod</hi>. In each case either of two reflexes may appear in non-pausal situations. The article concludes that appearance of one reflex rather than the other was determined by suprasegmental contours which delimited phrases. It is further argued that these same contours determine the appearance of <hi rend="italic">pataḥ</hi>, rather than <hi rend="italic">qameṣ</hi> in closed stressed final syllables in contextual forms of verbs.</p>
+
+<head>1. INTRODUCTION</head>
+
+<p>The reflexes in the Masoretic text of the original short vowels, <hi rend="italic">a, i,</hi> and <hi rend="italic">u</hi> can be divided into two groups: "long" and "short". The "long" reflexes, appearing in stressed, or open "pre-tonal" syllables, are <hi rend="italic">qameṣ, ṣere</hi> (or <hi rend="italic">pataḥ</hi>), and <hi rend="italic">ḥolem</hi> respectively. The "short" reflexes appearing elsewhere are <hi rend="italic">shewa</hi> in an open syllable, and <hi rend="italic">pataḥ, segol, ḥireq, qameṣ,</hi> or <hi rend="italic">qibbuṣ</hi> in a closed syllable.<note place="foot">1. The terms "long" and "short" are here used as a convenience, to permit general statements, and avoid the need constantly to name particular vowels. They should not be taken as implying that there necessarily was a significant difference in length in the vowels of words such as <hi rend="italic">'am</hi> 'people', <hi rend="italic">'em</hi> 'mother', <hi rend="italic">bat</hi> 'daughter', and <hi rend="italic">'ap</hi> 'nose'.</note> General statements on the history of vowel change in Hebrew account satisfactorily for the appearance of a reflex from one group or the other in most cases. There are, however, exceptions, particularly with short <hi rend="italic">a</hi>, in which the reasons for the</p>
+
+<fw type="footer">75</fw>
+      <pb n="76"/>
+<fw type="page-number">76</fw>
+<fw type="author">E. J. REVELL</fw>
+
+<p>appearance of a particular reflex in MT are not clear. In this paper three situations of this sort are described: the use of <hi rend="italic">qameṣ</hi> with conjunctive <hi rend="italic">waw</hi>; the vowels used in nouns of base form <hi rend="italic">*CaC:</hi> (originally a monosyllable with a short <hi rend="italic">a</hi> followed by a doubled consonant); and <hi rend="italic">*CVCy</hi> (originally a monosyllable with a short vowel followed by a cluster formed of a consonant plus <hi rend="italic">y</hi>). It is suggested, on the basis of this description, that the reflexes of original short vowels in these situations are conditioned by suprasegmental contours, as in the case of construct and pausal forms. Finally a fourth situation of this sort, the use of <hi rend="italic">pataḥ</hi> in the final syllable of verb forms, is considered in the light of this suggestion.</p>
+
+<head>2. THE USE OF <hi rend="italic">QAMEṢ</hi> WITH <hi rend="italic">WAW</hi></head>
+
+<p>The vowel of the conjunction <hi rend="italic">waw</hi> in Hebrew, appears in MT as <hi rend="italic">qameṣ</hi> in a number of situations. In the most common, <hi rend="italic">waw</hi> “consecutive” before the 1cs imperfect, the appearance of this long reflex of the original short vowel is easily explained as compensating for the loss of the original doubling of the <hi rend="italic">ʼalep</hi> of the first person pronoun. In the other cases in which <hi rend="italic">qameṣ</hi> appears, however, there is no obvious explanation for the use of this long reflex, and the treatment of this phenomenon in the grammars is generally vague and incomplete, and sometimes incorrect.<note n="2">The most exhaustive description is that of Böttcher, 1866, §600 (vol. I, p. 396–8).</note></p>
+
+<p>The conditions under which most cases of <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> (apart from <hi rend="italic">waw</hi> “consecutive”) occur can be described in a single statement. Where the conjunction joins two or more words of the same grammatical class which function as a unit (i.e. as the equivalent of a single word of that class), if the last member of the group is stressed on its first syllable, the conjunction <hi rend="italic">waw</hi> preceding it has <hi rend="italic">qameṣ</hi>. Groups of this sort contained within one biblical verse most commonly have two members, but may have up to ten.<note n="3">Lists of names may extend over several verses (as Josh 15:21–32), but nothing definite can be said about the use of <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> in such lists as a whole (see examples 20–25 below).</note> Words grouped in this way are most commonly nouns (example 1), but the statement is true for words of any kind: e.g. infinitives (2), even a noun and an infinitive where they function as a unit (3), pronouns (4), verbs (5), adverbs (6), or prepositional phrases (7).</p>
+
+<list>
+    <item>1. Judg 19:19 <foreign xml:lang="he">וְגַם לֶחֶם וָיַיִן יֶשׁ-לִי</foreign></item>
+    <item>2. Gen 8:7 <foreign xml:lang="he">וַיֵּצֵא יָצוֹא וָשׁוֹב</foreign></item>
+    <item>3. Isa 32:17 <foreign xml:lang="he">וַעֲבֹדַת הַצְּדָקָה הַשְׁקֵט וָבֶטַח</foreign></item>
+</list>
+      <pb n="77"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE <space quantity="5" unit="chars"/> 77</head>
+
+<list>
+    <item>4. Gen 41:11 <foreign xml:lang="heb">וַנַּחַלְמָה . . . אֲנִי וָהוּא</foreign></item>
+    <item>5. 1 Sam 12:2 <foreign xml:lang="heb">וַאֲנִי זָקַנְתִּי וָשַׂבְתִּי</foreign></item>
+    <item>6. Exod 2:12 <foreign xml:lang="heb">וַיִּפֶן כֹּה וָכֹה</foreign></item>
+    <item>7. 1 Kgs 17:18 <foreign xml:lang="heb">מַה־לִּי וָלָךְ</foreign></item>
+</list>
+
+<p>A pair or list of words of this sort can function in any position available to a member of the same class. Thus a pair of nouns can function as subject of a clause (1, 4), or as predicate (3), or as object of a verb (37), or of a preposition (Isa 34:17), or as governed item in the bound structure (20, 24). Such a pair even follows the definite article in Jer 29: 23, Neh 1:5.<note n="4">4. These readings may not be original (cf. BHS notes), but that is irrelevant here. The case in Neh 1:5 is noted in the Masorah (cf. BHS) so that the error—if it was caused by one—must have occurred before the final stages of the development of the text.</note> Similarly, a pair of adjectives can function either as a simple attributive (8), or in the comparative structure (9).</p>
+
+<list>
+    <item>8. Gen 18:7 <foreign xml:lang="heb">בֶּן־בָּקָר רַךְ וָטוֹב</foreign></item>
+    <item>9. Deut 9:14 <foreign xml:lang="heb">לְגוֹי־עָצוּם וָרָב מִמֶּנּוּ</foreign></item>
+</list>
+
+<p>In compound numerals, <hi rend="italic">qameṣ</hi> is used with <hi rend="italic">waw</hi>, according to the description, before the last member of the compound if it is stressed on its first syllable (10). This is true even where the numeral is followed by the noun numbered (11).<note n="5">5. So also with <hi rend="italic">wšŝ</hi> ‘six’ (1 Kgs 10:14 etc.); <hi rend="italic">wšb‘</hi> ‘seven’ (1 Kgs 16:15 etc.); <hi rend="italic">w‘śr</hi> ‘ten’ (Gen 50:22). Note also <hi rend="italic">w’lp</hi> ‘thousand’ within a compound numeral (Num 26:51).</note> The phenomenon also occurs with words denoting units of measurement (12),<note n="6">6. Also <hi rend="italic">tpḥ</hi> ‘span’ (Ezek 40:5, 43:13).</note> and with the word ‘half’ in phrases stating measurements (13). Certain adverbs (formed with <hi rend="italic">heh</hi> “directional”) used to express measurements in terms such as ‘from X and upwards’ also have <hi rend="italic">qameṣ</hi> on prefixed <hi rend="italic">waw</hi> if they are stressed on the first syllable (14).<note n="7">7. Also <hi rend="italic">hl‘h</hi> ‘onwards’ (Lev 22:27 etc.); <hi rend="italic">byth</hi> ‘inwards’ (2 Sam 5:9, Ezek 44:17); <hi rend="italic">hwsh</hi> ‘outwards’ (Num 35:4); <hi rend="italic">ymh</hi> ‘westwards’ (Josh 15:46); and <hi rend="italic">hnh</hi> ‘hither’ (1 Sam 20:21).</note></p>
+
+<list>
+    <item>10. 2 Chr 16:12 <foreign xml:lang="heb">בִּשְׁנַת שְׁלֹשִׁים וָתֵשַׁע לְמַלְכוּתוֹ</foreign></item>
+    <item>11. Gen 17:24 <foreign xml:lang="heb">וְאַבְרָהָם בֶּן־תִּשְׁעִים וָתֵשַׁע שָׁנָה</foreign></item>
+    <item>12. 1 Sam 17:4 <foreign xml:lang="heb">גָּבְהוֹ שֵׁשׁ אַמּוֹת וָזֶרֶת</foreign></item>
+    <item>13. Exod 25:17 <foreign xml:lang="heb">אַמָּתַיִם וָחֵצִי אָרְכָּהּ</foreign></item>
+    <item>14. Lev 27:7 <foreign xml:lang="heb">מִבֶּן־שִׁשִּׁים שָׁנָה וָמַעְלָה</foreign></item>
+</list>
+      <pb n="78"/>
+<fw type="header">78 <space/> E. J. REVELL</fw>
+<p>
+    <hi rend="italic">Qameṣ</hi> is also used with <hi rend="italic">waw</hi> in two cases which are not included in the general statement above. It may be used before words stressed on the first syllable which form a clause by themselves (usually verbs), and it may be used before words stressed on the first syllable which occur within longer lists. <hi rend="italic">Qameṣ</hi> is used with <hi rend="italic">waw</hi> before a verb which functions by itself as a clause in some 44 cases, most frequently with forms of <hi rend="italic">mwt</hi> (15), and also commonly with <hi rend="italic">ḥy</hi> (16).<note n="8">8. With forms of other verbs, Exod 12:32, Judg 9:29, 1 Sam 29:10, 2 Kgs 4:29, Isa 8:9, Jer 36:14, 48:1, 50:36, Zech 10:9, Prov 24:16, Eccl 8:10, and the anomalous <hi rend="italic">whyh</hi> Exod 1:16.</note> The negative <hi rend="italic">'yn</hi> also has <hi rend="italic">qameṣ</hi> on prefixed <hi rend="italic">waw</hi> where it stands alone and functions as a clause (17). The same occurs in two cases with the negative <hi rend="italic">l'</hi> in recorded speech (18), and there is a single case of a similar usage with the affirmative <hi rend="italic">yš</hi> (19).
+</p>
+<list>
+    <item>15. Deut 19:5 <space/> <foreign xml:lang="heb">וּמָצָא אֶת־רֵעֵהוּ וָמֵת</foreign></item>
+    <item>16. Deut 19:5 <space/> <foreign xml:lang="heb">הוּא יָנוּס . . . וָחָי</foreign></item>
+    <item>17. Isa 41:17 <space/> <foreign xml:lang="heb">מְבַקְשִׁים מַיִם וָאָיִן</foreign></item>
+    <item>18. 2 Sam 13:26 <space/> <foreign xml:lang="heb">וַיֹּאמֶר אַבְשָׁלוֹם וָלֹא</foreign></item>
+    <item>19. 2 Kgs 10:15 <space/> <foreign xml:lang="heb">וַיֹּאמֶר יְהוֹנָדָב יֵשׁ וָיֵשׁ</foreign></item>
+</list>
+<p>
+    Where more than two words joined by <hi rend="italic">waw</hi> form a list, <hi rend="italic">qameṣ</hi> is regularly used with <hi rend="italic">waw</hi> before the last, if it is stressed on its first syllable, but <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> may be used before any other word in the list (except the first) so long as it is stressed on its first syllable. There are few examples in which all, or even most, of the words in a longer list are stressed on the first syllable, so no very clear idea of the use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> within lists can be obtained. In lists of three words, the second item, where stressed on the first syllable, has <hi rend="italic">qameṣ</hi> on preceding <hi rend="italic">waw</hi> in 20 cases (as example 20), and has <hi rend="italic">šǝwa</hi> in 16 cases (as example 21).<note n="9">9. The figures would be 22 with <hi rend="italic">qameṣ</hi> on the second item, 19 with <hi rend="italic">šǝwa</hi>, if three-word units treated as separate verses but forming part of a list covering several verses (as 1 Chr 3:7, 8:22) were included. The use of <hi rend="italic">qameṣ</hi> on <hi rend="italic">waw</hi> before the second item may sometimes reflect a deeper structure—e.g. <hi rend="italic">zhb wksp</hi> ‘gold and silver’ is a common pair, and the use of <hi rend="italic">qameṣ</hi> on <hi rend="italic">waw</hi> before <hi rend="italic">ksp</hi> in the group <hi rend="italic">zhb wksp wnḥšt</hi> ‘gold, silver and copper’ (Exod 25:3, 1 Chr 18:10, cf. Zech 14:14) may be due to this. However, it does not seem likely that this was a major factor, since the wording of conventional pairs or groups does not seem, overall, to have been very firmly fixed. Cf. e.g. <hi rend="italic">slt wdbš wsmn</hi> ‘flour, honey, and oil’ (Ezek 16:13) with <hi rend="italic">slt wsmn wdbš</hi> (Ezek 16:19).</note> In lists of four items, where the second and third are stressed on the first syllable, three of the four possible combinations of the use of <hi rend="italic">qameṣ</hi> and <hi rend="italic">šǝwa</hi> on
+</p>
+      <pb n="79"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 79</head>
+<p>preceding <hi rend="italic">waw</hi> occur (22–24). The fact that there is no example in which <hi rend="italic">waw</hi> has <hi rend="italic">šəwa</hi> before the second item, but <hi rend="italic">qameṣ</hi> before the third, cannot be given very much weight, but it clearly was common to divide the items in lists into groups of two or three, with <hi rend="italic">qameṣ</hi> on <hi rend="italic">waw</hi> before the last member of each group (as 24–25).<note n="10">10</note> The commonness of this type of arrangement is shown by the fact that, in lists of four or more words, the second item, where stressed on the first syllable, has <hi rend="italic">qameṣ</hi> on prefixed <hi rend="italic">waw</hi> in 14 of 20 cases, while the second last has it in only six of 30 possible cases. However some lists (as 1 Chr 1: 17, 9:36) clearly were not treated in this way.</p>
+<list>
+    <item n="20.">Ezek 2:10 וְכָת֤וּב אֵלֶ֙יהָ֙ קִנִ֥ים וָהֶ֖גֶה וָהִֽי׃</item>
+    <item n="21.">Lev 7:23 כָּל־חֵֶ֫לֶב שֹׁ֥ור וְכֶ֖שֶׂב וָעֵֽז׃</item>
+    <item n="22.">Gen 13:14 צָפֹ֥נָה וָנֶ֖גְבָּה וָקֵ֥דְמָה וָיָֽמָּה ... וּרְאֵה</item>
+    <item n="23.">1 Chr 4:17 וּבֶן־עֶזְרָה יֶ֥תֶר וּמֶ֥רֶד וְעֵ֥פֶר וְיָלֹ֑ון</item>
+    <item n="24.">Esth 1:6 רִֽצְפַת בַּהַט־וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת׃</item>
+    <item n="25.">Gen 8:22 זֶ֡רַע וְקָצִיר֩ וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְיֹ֥ום וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃</item>
+</list>
+<p>As a general rule, a word stressed on the first syllable will not have <hi rend="italic">qameṣ</hi> on prefixed <hi rend="italic">waw</hi> if it is closely associated with the word which follows it. Thus <hi rend="italic">waw</hi> before a construct noun never has <hi rend="italic">qameṣ</hi> (e.g. 26). The case of nouns followed by attributives or other modifiers is less clear. Where a noun, otherwise suitable, is followed by an adjective, or a prepositional phrase or similar modifier, <hi rend="italic">qameṣ</hi> may or may not be used (27–30). It may be generally true to say that where <hi rend="italic">qameṣ</hi> is used, the following modifier modifies the group of nouns as a whole, but that where <hi rend="italic">qameṣ</hi> is not used, it modifies the last word in the group. This could be maintained reasonably where the modifier is an adjective, but not in the other cases, where factors other than syntax must be involved.<note n="11">11</note></p>
+<list>
+    <item n="26.">Gen 2:12 שָׁ֥ם הַבְּדֹ֖לַח וְאֶ֥בֶן הַשֹּֽׁהַם׃</item>
+    <item n="27.">Jer 48:3 קֹ֥ול צְעָקָ֖ה מֵחֹרֹונָ֑יִם שֹׁ֥ד וָשֶׁ֖בֶר גָּדֹֽול׃</item>
+</list>
+<note n="10">10. Some grammars treat Gen. 8:22 (example 25) as a series of pairs. Certainly the phonological structuring (marked by <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> emphasizes here the semantic structuring (in pairs of opposites) exactly as one would expect, but this semantic structuring is merely one possible way of dealing with the grammatical fact—eight nouns forming a unit acting as subject of the following verb.</note>
+<note n="11">11. The most probable factor would be the natural rhythm of rhetoric or recitation, but this rhythm, if it had an influence, was not that marked by the accents.</note>
+      <pb n="80"/>
+<head>E. J. REVELL</head>
+
+<list>
+<item>28. 2 Kgs 6:14 <foreign xml:lang="heb">וַיִּשְׁלַח־שָׁמָּה סוּסִים וְרֶכֶב וְחַיִל כָּבֵד</foreign></item>
+<item>29. Eccl 2:7 <foreign xml:lang="heb">גַּם מִקְנֶה בָקָר וָצֹאן הַרְבֵּה הָיָה לִי</foreign></item>
+<item>30. 1 Kgs 1:19 <foreign xml:lang="heb">וַיִּזְבַּח שׁוֹר וּמְרִיא־וְצֹאן לָרֹב</foreign></item>
+</list>
+
+<p>A verb form stressed on the first syllable does not usually show <emph rendition="#italic">qames</emph> on preceding <emph rendition="#italic">waw</emph> where it does not stand last in its clause (as 31). However this does occur with the second verb of a pair in five cases where it is followed by a modifier (as 32), and in five more where it is followed by a “vocative” (as 33). A single verb followed by its subject (34) or a modifier (as 35) has <emph rendition="#italic">qames</emph> on preceding <emph rendition="#italic">waw</emph> in nine cases.<note n="12">12. The verb in these nine case is always <foreign xml:lang="heb">חָי</foreign> ‘live’ (Gen 3:22, Lev 18:5, 25:35, Ezek 20:11, 13, 21) or a form of <foreign xml:lang="heb">mwṭ</foreign> ‘die’ (Gen 33:13, 2 Kgs 7:4, Ezek 28:8), forms which make up two thirds of the other cases of single verbs preceded by <emph rendition="#italic">waw</emph> with <emph rendition="#italic">qames</emph>, so <emph rendition="#italic">qames</emph> in some of these nine cases may appear by attraction.</note></p>
+
+<list>
+<item>31. 1 Kgs 1:13 <foreign xml:lang="heb">לְכִי וּבֹאִי אֶל־הַמֶּלֶךְ דָּוִד</foreign></item>
+<item>32. 1 Kgs 22:30 <foreign xml:lang="heb">הִתְחַפֵּשׂ וָבֹא בַּמִּלְחָמָה</foreign></item>
+<item>33. Isa 12:6 <foreign xml:lang="heb">צַהֲלִי וָרֹנִּי יוֹשֶׁבֶת צִיּוֹן</foreign></item>
+<item>34. Gen 33:13 <foreign xml:lang="heb">וּדְפָקוּם ... וָמֵתוּ כָּל־הַצֹּאן</foreign></item>
+<item>35. Lev 18:5 <foreign xml:lang="heb">יַעֲשֶׂה ... וָחַי בָּהֶם</foreign></item>
+</list>
+
+<p>Grammars describing the use of <emph rendition="#italic">qames</emph> with <emph rendition="#italic">waw</emph> do not regard it as following a fixed pattern, but there are, in fact, very few exceptions to the description just given. Where the second of a pair of words is stressed on the first syllable, and is not followed by a modifier, I have noted only eleven cases where <emph rendition="#italic">qames</emph> is not used with prefixed <emph rendition="#italic">waw</emph>,<note n="13">13. Exod 17:12, 24:14, 1 Sam 22:13, 23:27, 1 Kgs 18:45, Isa 49:4, Jer 46:9, Ps 87:5, 94:6, Neh 6:2, 1 Chr 5:18.</note> as against some 350 cases where it does occur (3% exceptions). There are four cases where <emph rendition="#italic">qames</emph> is not used where expected at the end of a longer list.<note n="14">14. Exod 17:10, Jer 40:10, 1 Chr 1:32, 2 Chr 3:14; <emph rendition="#italic">wqw'</emph> in Ezek 23:23 is considered to be within a longer list.</note> With a single verb, under the same conditions, <emph rendition="#italic">qames</emph> is not used in three cases (see note 17), but is used in 53 (5% exceptions). There are no exceptions at all in the numeral and measurement categories. Some exceptions may be due, at least in part, to the phonological context. In seven of the 18 cases where expected <emph rendition="#italic">qames</emph> does not occur, the stressed vowel is <emph rendition="#italic">šureq</emph>.<note n="15">15. In proper nouns, <foreign xml:lang="heb">hwr</foreign> (Exod 17:10, 12, 24:14); <foreign xml:lang="heb">pwt</foreign> (Jer 46:9); <foreign xml:lang="heb">šwh</emph> (1 Chr 1:32); common nouns <foreign xml:lang="heb">rwh</foreign> ‘wind’ (1 Kgs 18:45); <foreign xml:lang="heb">bws</foreign> ‘linen’ (2 Chr 3:14). One can also note the absence of <emph rendition="#italic">qames</emph> on <emph rendition="#italic">waw</emph> before proper nouns of this form with longer lists, as Ezek 30:5, but this is not necessarily significant.</note></p>
+      <pb n="81"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 81</head>
+
+<p><hi rend="italic">Qameṣ</hi> is used before this vowel in eleven cases,<note n="16">In common nouns <hi rend="italic">swp</hi> ‘reeds’ (Isa 19:6); <hi rend="italic">sws</hi> ‘horse’ (Isa 43:17, Ps 76:7); <hi rend="italic">bwz</hi> ‘contempt’ (Ps 31:19, 119:22); <hi rend="italic">ḥwr</hi> ‘white’ (Esth 8:15); also (with adverbial ending) <hi rend="italic">ḥwṣh</hi> ‘outwards’ (Num 35:4); in the 3ms pronoun <hi rend="italic">hw’</hi> (Gen 41:11); and in verb forms (Exod 32:27, Prov 3:28, Job 2:9).</note> so <hi rend="italic">šureq</hi> cannot be definitely said to cause the exceptions. However more than a third of the exceptions occur before this vowel, and these constitute more than a third of all cases where <hi rend="italic">qameṣ</hi> could be used in this situation, and include all cases with proper nouns. This suggests that <hi rend="italic">šureq</hi>, although not determinative, was at least a contributory cause of the failure to use <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi>. The four cases where expected <hi rend="italic">qameṣ</hi> does not occur before a verb all occur with pausal forms in which the stressed vowel of the first syllable is replaced by <hi rend="italic">šəwa</hi> in context.<note n="17"><hi rend="italic">wayehî</hi> (Isa 38:21); <hi rend="italic">wəšebû</hi> (Jer 29:5, 28); also (second of a pair) <hi rend="italic">wəlekā</hi>, (1 Sam 23:27).</note> <hi rend="italic">Qameṣ</hi> is used before such forms in four cases.<note n="18"><hi rend="italic">wālekû</hi> (Gen 42:33, Exod 12:32, 1 Sam 29:10); <hi rend="italic">wāsē’ā</hi> (Judg 9:29).</note> There is, then, a tendency not to use <hi rend="italic">waw</hi> before such forms, although there is, again, no clear case of conditioning.</p>
+
+<p>In a few cases, <hi rend="italic">waw</hi> before a word stressed on the first syllable has <hi rend="italic">qameṣ</hi> even though it is not second in a pair and does not function as a clause. With <hi rend="italic">w’rṣ</hi> ‘earth’ (Isa 26:19, 65:17, Prov 25:3) this is certainly due to the influence of the common pair <hi rend="italic">šmym w’rṣ</hi> ‘heaven and earth’.<note n="19">Even though <hi rend="italic">šmym</hi> does not occur in Isa 26:19. Wherever <hi rend="italic">’rṣ</hi> has <hi rend="italic">qameṣ</hi>, preceding <hi rend="italic">waw</hi> has it too.</note> The influence of a common pair is also probable in the case of <hi rend="italic">wmlk</hi> ‘king’ in Prov 24:21. <hi rend="italic">YHWH wmlk</hi> ‘Lord and King’ does not occur anywhere else in the Bible, but <hi rend="italic">’lhym wmlk</hi> ‘God and King’ in 1 Kgs 21:10, 13, suggests that there was a common formula in which various forms of divine name may have been used. Similarly <hi rend="italic">wrmḥ</hi> ‘spear’ in Judg 5:8 probably derives from a conventional pair <hi rend="italic">mgn wrmḥ</hi> ‘shield and spear’. This pair occurs in the plural in Neh 4:10, 2 Chr 26:14, and a synonymous pair, <hi rend="italic">ṣnh wrmḥ</hi> is found in 1 Chr 12:9, 25, 2 Chr 14:7, with order reversed in 2 Chr 25:5, and in the plural in 2 Chr 11:12. A final case of anomalous use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> is the 3fs pronoun <hi rend="italic">why’</hi> in Ezek 23:43, where the syntax is obscure.</p>
+
+<p>The use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi>, then, follows easily discernible patterns (save where it occurs within a longer list), with very few exceptions. It occurs before the last word in a phrase (which may be the last in a clause), or (much less commonly) before the last of a group of items within a longer list, or before a verb form within a clause. It is not conditioned (as is often claimed) by a particular semantic relationship between the words joined by the conjunction, but is used with members of any word class, wherever the phonological conditions are suitable. Finally, it is highly</p>
+      <pb n="82"/>
+<head>82 E. J. REVELL</head>
+<p>probable that the use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> is not an isolated phenomenon, but is the sole clear evidence of a “bundle” of features characteristic of groups of words which function as a single member of a word class. In 36–37, <hi rend="italic">qameṣ</hi> is used with <hi rend="italic">waw</hi> before the second item in a pair of which the first item is not a single word, showing that these features are not restricted to pairs or groups of single words. There is also evidence that the features which determine the use of <hi rend="italic">qameṣ</hi> also govern lists joined by conjunctions other than <hi rend="italic">waw</hi>. In 38, <hi rend="italic">wmt</hi> must form part of such a list, for <hi rend="italic">waw</hi> before <hi rend="italic">mt</hi> regularly has <hi rend="italic">qameṣ</hi> if the verb stands alone. In 39, <hi rend="italic">’m</hi> functions as a conjunction joining the third noun to the group, for if this were not so, <hi rend="italic">waw</hi> on <hi rend="italic">wṣwr</hi> should have <hi rend="italic">qameṣ</hi>. Consequently the features in question also govern groups joined by <hi rend="italic">’w</hi> or <hi rend="italic">’m</hi>.</p>
+
+<list>
+<item>36. Ezek 46:6 <foreign xml:lang="heb">וְשֵׁשֶׁת כְּבָשִׂים וָאָיִל</foreign></item>
+<item>37. Ps 119:66 <foreign xml:lang="heb">טוּב טַעַם וָדַעַת לִמְּדֵנִי</foreign></item>
+<item>38. Exod 22:9 <foreign xml:lang="heb">וּמֵת אוֹ-נִשְׁבַּר אוֹ-נִשְׁבָּה</foreign></item>
+<item>39. Ps 87:4 <foreign xml:lang="heb">פְּלֶשֶׁת וְצוֹר עִם־כּוּשׁ</foreign></item>
+</list>
+
+<p>It is important to note that the use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> reflects the usage of a period much earlier than that of the Masoretes. In the pairs of words discussed here, the second member usually has a disjunctive accent, and the first member a conjunctive or subordinate disjunctive. There are, however, a number of cases where the second member has a conjunctive (as 1, 10, 29, 32, 37, cf. 22) and a few in which the members of the pair are separated by a disjunctive.<note n="20">20. E.g. example 27. Also Mic 2:11, Ps 10:15 (cf. LXX), Eccl 2:23. There are also cases in which <hi rend="italic">qameṣ</hi> is not used on <hi rend="italic">waw</hi> preceding a noun with a major pausal accent, as with the name <hi rend="italic">wshr</hi> (with <hi rend="italic">’atnaḥ</hi>, Gen 46:10, the penultimate item in a list).</note> Variants in the use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> are extremely rare in the MSS checked in Ginsburg (1926). Palestinian MSS show two variants (the equivalent of <hi rend="italic">šəwa</hi>) in 50 cases where BHS has <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi>.<note n="21">21. In the places names <hi rend="italic">w’sm</hi> (Jos 15:29, pausal in MT but not in Pal) and <hi rend="italic">w'tr</hi> (Josh 15:42) in P203(= Dietrich, 1968, MS Ob 1).</note> Babylonian MSS are said by Yeivin (1973, §544) to show some variation in this feature, but the material from the Book of Proverbs recorded by A. Navarro-Peiro (1976) shows only one variant in the 21 cases where BHS has <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi>, and one in the more than 150 cases where BHS has <hi rend="italic">waw</hi> with <hi rend="italic">šəwa</hi> before a word stressed on the first syllable.<note n="22">22. In Prov 25:3, <hi rend="italic">w’rṣ</hi> ‘earth’ is contextual in form, and so has <hi rend="italic">šəwa</hi> on the <hi rend="italic">waw</hi> in Ec 61 (cf. Ec 22), and in Prov 25:14, <hi rend="italic">wrwh</hi> ‘wind’ shows <hi rend="italic">qameṣ</hi> in all the Babylonian material noted. In both cases the Tiberian form is an exception to the common pattern.</note> Clearly, then, the use of <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi> was</p>
+      <pb n="83"/>
+<fw type="header">SYNTACTIC/SEMANTIC STRUCTURE <space quantity="5" unit="character"/> 83</fw>
+
+<p>substantially the same in the medieval traditions, despite their differences in accentuation. The vowelling of the conjunction is, then (contrary to the statements of some grammars), clearly independent of the accentuation, and must be presumed to have been fixed in the text before it was.</p>
+
+<p>In the second column of the Hexapla, according to Brønno (1943, p. 235) the conjunction is represented by <hi rend="italic">oua</hi> in two cases where BHS has <hi rend="italic">qameṣ</hi> with <hi rend="italic">waw</hi>, but by <hi rend="italic">ou</hi> in three others.<note place="foot" n="23">The cases with <hi rend="italic">oua-</hi> are <hi rend="italic">wrsn</hi> ‘bridle’ (Ps 32:9), and <hi rend="italic">wdwr</hi> ‘generation’ (Ps 49:12). The cases with <hi rend="italic">ou-</hi> are <hi rend="italic">w'z</hi> ‘strength’ (Ps 29:1, 46:2) and <hi rend="italic">wb'r</hi> ‘dolt’ (Ps 49:11).</note> Conjunctive <hi rend="italic">waw</hi> is commonly represented by <hi rend="italic">ou</hi>. The other cases where <hi rend="italic">oua</hi> appears are as follows:
+<list>
+    <item>(i) where the word following the conjunction begins (in BHS) with a guttural followed by a vowel or <hi rend="italic">šəwa</hi>, the Greek usually represents the combination (<hi rend="italic">wVCV-</hi>) by <hi rend="italic">ou</hi> followed by a vowel. Thus <hi rend="italic">oua</hi> is used in 17 cases where the vowel under the guttural is <hi rend="italic">qameṣ</hi>, <hi rend="italic">pataḥ</hi>, or <hi rend="italic">ḥaṭep pataḥ</hi> (Brønno, 1943, pp. 227–8, 237);<note place="foot" n="24">Elsewhere in this situation, <hi rend="italic">oue-</hi> appears in three cases where BHS has <hi rend="italic">pataḥ</hi> under the guttural (Brønno, 1943, pp. 227, 228), and in two cases the Greek form appears to represent a variant or corruption (p. 237).</note></item>
+    <item>(ii) where BHS has <hi rend="italic">šureq</hi> followed by a consonant with <hi rend="italic">šəwa</hi> (3 cases). In one additional case the vowel following <hi rend="italic">ou</hi> is <hi rend="italic">e</hi>, in another it is lost (Brønno, 1943, p. 231);</item>
+    <item>(iii) where BHS has <hi rend="italic">wa-</hi> in the imperfect with <hi rend="italic">waw</hi> “consecutive”, <hi rend="italic">oua-</hi> is used in three cases, <hi rend="italic">oue-</hi> in two, and <hi rend="italic">ou-</hi> in five (Brønno, 1943, p. 235);</item>
+    <item>(iv) where BHS has <hi rend="italic">wîhî</hi> (Ps 49:10) <hi rend="italic">ouai</hi> appears, presumably representing a variant (Brønno, 1943, p. 237).</item>
+</list></p>
+
+<p>It is therefore unlikely in the extreme that <hi rend="italic">oua-</hi> corresponding to BHS <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> reflects the ordinary form of the conjunction (BHS <hi rend="italic">waw</hi> with <hi rend="italic">šəwa</hi>). Moreover it seems very probable that the three cases where <hi rend="italic">ou-</hi> corresponds to BHS <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> represent a tendency of the Greek copyists to replace an uncommon form of the conjunction with the common one, as with the <hi rend="italic">waw</hi> “consecutive.” It can be concluded, then, that the second column of the Hexapla reflects a pronunciation in which the form of the conjunction used where BHS has <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> differed in at least some cases from the ordinary form in a way similar to the MT difference between <hi rend="italic">qameṣ</hi> and <hi rend="italic">šəwa</hi>, and may have differed in all cases.</p>
+
+<p>It appears, then, that the feature reflected by the MT vocalization of <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> was, in all probability, characteristic of the Hebrew language of the time of Origen (ca. 200 CE) or before, and was certainly fixed in the text before the received accentuation was. (The evidence leads to similar conclusions about the pausal forms. See Revell, 1980, p. 170). The use of the term “fixed” here is, of course, relative, as some change</p>
+      <pb n="84"/>
+<p>84 E. J. REVELL</p>
+<p>certainly did occur. It would seem that the fixation being discussed would have occurred naturally when the biblical passages ceased to be “read” from a written text in the native tongue of the reader, but were “recited” in a form learned orally by a speaker of some other form of language, (although he followed a written text). The relative uniformity of the medieval evidence presumably derives here, as in other areas of religious practice, from the rabbinic leadership, but we do not know the origin of the tradition which the Rabbis disseminated.</p>
+<p>Where a text is passed on orally in an archaic form of language, the sounds of the language may change very little, but the isolation or disruption of social groups, or mere human carelessness, would allow change to occur. In the case of the vowels discussed here, it would seem that the distinction between the long and short reflexes was maintained with little variation (at least in the carefully maintained Tiberian and Babylonian traditions), but that the quality of the reflexes did change, causing the variation in the short reflexes and in the use of <hi rend="italic">pataḥ</hi> or <hi rend="italic">ṣere</hi> as the long reflex of <hi rend="italic">i</hi>, between Tiberian and Babylonian MSS.</p>
+<head>3. THE VOWELLING OF WORDS OF BASE FORM *CaC:</head>
+<head>3.1. The Effect of Phonological Environment.</head>
+<p>The MT reflex of original short <hi rend="italic">a</hi> in monosyllabic bases in which it was originally followed by a doubled consonant is either <hi rend="italic">pataḥ</hi> (short) or <hi rend="italic">qameṣ</hi> (long). Either may appear where the noun is in the absolute state and not in pause, and the tendency to take <hi rend="italic">qameṣ</hi> is more pronounced when the definite article is prefixed to the noun. The following nouns show a significant<note n="25" place="foot">“Significant” here indicates that <hi rend="italic">qameṣ</hi> appears in these nouns in situations additional to those in which <hi rend="italic">qameṣ</hi> is expected according to section 3.2.1 below.</note> tendency to take <hi rend="italic">qameṣ</hi> when in the absolute state and not in pause, even where the article is not prefixed:<lb/>
+<hi rend="italic">br</hi> ‘grain’, <hi rend="italic">gg</hi> ‘roof’, <hi rend="italic">dl</hi> ‘weak’, <hi rend="italic">ḥg</hi> ‘feast’, <hi rend="italic">ḥm</hi> ‘hot’, <hi rend="italic">ym</hi> ‘sea’, <hi rend="italic">‘m</hi> ‘people’, <hi rend="italic">pḥ</hi> ‘trap’, <hi rend="italic">pr</hi> ‘young bull’, <hi rend="italic">ṣr</hi> ‘narrow’/‘enemy’, <hi rend="italic">qw</hi> ‘line’, <hi rend="italic">rb</hi> ‘many’, <hi rend="italic">r‘</hi> ‘bad’, <hi rend="italic">tm</hi> ‘complete’, also probably <hi rend="italic">ṣw</hi> ‘command’. Of these nouns, <hi rend="italic">br, ḥm, ṣw,</hi> and <hi rend="italic">tm</hi> have the definite article prefixed only when they stand in pausal position. <hi rend="italic">Dl</hi> and <hi rend="italic">pḥ</hi> regularly show <hi rend="italic">pataḥ</hi> when the definite article is prefixed. The remaining nouns show <hi rend="italic">qameṣ</hi> either commonly or exclusively when the definite article is prefixed, and this is also true of <hi rend="italic">bd</hi> ‘linen’, <hi rend="italic">gn</hi> ‘garden’, <hi rend="italic">hr</hi> ‘mountain’ and <hi rend="italic">śr</hi> ‘chief’.</p>
+<p>From this it seems quite clear that nouns with <hi rend="italic">g, w, m,</hi> or <hi rend="italic">r</hi> as final consonants show a stronger tendency to use <hi rend="italic">qameṣ</hi> than do others. The</p>
+      <pb n="85"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 85</head>
+
+<p>noun <hi rend="italic">mr</hi> ‘bitter(ness)’ does not show this tendency<note n="26">26. However, on <hi rend="italic">mr</hi> showing <hi rend="italic">pataḥ</hi> with the definite article prefixed see section 3.2.3 below. <hi rend="italic">Pataḥ</hi> also occurs in <hi rend="italic">sr</hi> ‘flint’ with the definite article (Isa 5:28) but a single case cannot be used to demonstrate a tendency.</note>, but the above lists include five words ending in <hi rend="italic">r</hi> which do show it. Final <hi rend="italic">w</hi> is certainly represented only by <hi rend="italic">qw</hi>, but the use of <hi rend="italic">qameṣ</hi> in <hi rend="italic">tawek</hi> ‘middle’ and <hi rend="italic">mawet</hi> ‘death’, as opposed to <hi rend="italic">pataḥ</hi> or <hi rend="italic">segoal</hi> in the first syllable of other segolates demonstrates the tendency for the long reflex of <hi rend="italic">a</hi> to appear before <hi rend="italic">w</hi>. Other consonants which appear at the end of forms showing <hi rend="italic">qameṣ</hi> are <hi rend="italic">b</hi>, <hi rend="italic">d</hi>, <hi rend="italic">ḥ</hi>, <hi rend="italic">l</hi>, <hi rend="italic">n</hi>, and <hi rend="italic">‘</hi>. Not all words ending in <hi rend="italic">b</hi>, <hi rend="italic">d</hi>, <hi rend="italic">ḥ</hi>, and <hi rend="italic">l</hi> do show a tendency to take <hi rend="italic">qameṣ</hi> (cf. <hi rend="italic">gb</hi> ‘back’, <hi rend="italic">kd</hi> ‘jar’, <hi rend="italic">sd</hi> ‘breast’, <hi rend="italic">lḥ</hi> ‘moist’, <hi rend="italic">gl</hi> ‘heap’, <hi rend="italic">ql</hi> ‘light’) and words ending in these consonants show little tendency to take <hi rend="italic">qameṣ</hi> when preceded by the article (cf. <hi rend="italic">ph</hi>,<hi rend="italic">dl</hi>; <hi rend="italic">bd</hi> appears to be an exception.) Consequently it seems unlikely that <hi rend="italic">b</hi>, <hi rend="italic">d</hi>, <hi rend="italic">ḥ</hi>, and <hi rend="italic">l</hi> had any significant effect on preceding short <hi rend="italic">a</hi>. The forms of <hi rend="italic">r</hi> ‘ show clearly that ‘ did have such an influence, but the evidence for the influence of <hi rend="italic">n</hi> provided by <hi rend="italic">gn</hi> is less certain.</p>
+
+<p>By a similar set of arguments it can be shown to be unlikely that the preceding consonant influenced the tendency to use <hi rend="italic">qameṣ</hi>, although it is possible that initial <hi rend="italic">b</hi>, <hi rend="italic">g</hi>, <hi rend="italic">ḥ</hi>, <hi rend="italic">‘</hi>, or <hi rend="italic">r</hi> may have done so.</p>
+
+<p>This information suggests that the following consonant had a tendency to induce the “long” reflex of original short <hi rend="italic">a</hi> only if it were voiced.<note n="27">27. Jacob of Edessa (ca. 700) indicates a relationship between back vowels and the voiced stops <hi rend="italic">g</hi> and <hi rend="italic">d</hi> in Syriac by his application of the same terms (‘<hi rend="italic">be’</hi> and <hi rend="italic">pte’</hi>, ‘hard’ or ‘thick’) to both. Conversely he refers to the front vowels and the voiceless stops <hi rend="italic">q</hi> and <hi rend="italic">t</hi> as <hi rend="italic">qatīn</hi> or <hi rend="italic">nqed</hi> ‘thin’ or ‘clear’). For the vowels, see Phillips, 1869, text p. 14, and for the consonants Merx, 1889, text p. 78.</note> The influence appears to be strong only where the consonant was articulated (i) with lips closed or rounded, as <hi rend="italic">w</hi> and <hi rend="italic">m</hi>,<note n="28">28. Closure or rounding would approximate the lip position for <hi rend="italic">qameṣ</hi> as opposed to the open position for <hi rend="italic">pataḥ</hi></note> or (ii) at or behind a velar position, as <hi rend="italic">g</hi>, <hi rend="italic">‘</hi>, and (presumably) <hi rend="italic">r</hi>.<note n="29">29. Velar articulation would approximate the back position of <hi rend="italic">qameṣ</hi> rather than the central position of <hi rend="italic">pataḥ</hi>. Early sources from Israel list <hi rend="italic">r</hi> with the “palate letters” (<hi rend="italic">g</hi>, <hi rend="italic">y</hi>, <hi rend="italic">k</hi>, <hi rend="italic">r</hi>, <hi rend="italic">q</hi>,), not the “teeth letters” (<hi rend="italic">z</hi>, <hi rend="italic">s</hi>, <hi rend="italic">ṣ</hi>, <hi rend="italic">r</hi>, <hi rend="italic">š</hi>) as later sources consistent with Arabic. Cf. e.g. the <hi rend="italic">Hidāyat al-Qāri</hi> in Taylor-Schechter MS Ar 31:79, 1 r 11 ff., NS 301:18a Ir 2ff, and the Hebrew translation in Bodleian MS Opp. 625, f. 241v, l.11.</note> If the consonant preceding <hi rend="italic">a</hi> had any influence on the production of the “long” reflex, it would appear that the most significant feature was a “back” position, as <hi rend="italic">g</hi>, <hi rend="italic">‘</hi>, <hi rend="italic">r</hi>, and even the voiceless <hi rend="italic">ḥ</hi>.</p>
+
+<p>It is probable that, in the same way, some consonants inhibited the development of the long reflex of a preceding short <hi rend="italic">a</hi>. The most obvious suggestion is <hi rend="italic">y</hi>, which is regularly preceded by <hi rend="italic">pataḥ</hi>, even in stressed syllables, as in ‘<hi rend="italic">ayin</hi> ‘eye’ or <hi rend="italic">gobay</hi> ‘locust’; cf. also the <hi rend="italic">pataḥ</hi> in the 1cs</p>
+      <pb n="86"/>
+<fw type="header">86 E. J. REVELL</fw>
+
+<p>pronominal suffix <hi rend="italic">-anî</hi> (maintained by the following laterally open <hi rend="italic">ḥireq</hi>) as opposed to the <hi rend="italic">qameṣ</hi> in the <hi rend="italic">1cpl</hi> suffix <hi rend="italic">-anû</hi> (influenced by the following rounded <hi rend="italic">šureq</hi>). The relatively restricted use of <hi rend="italic">qameṣ</hi> in <hi rend="italic">ḥy</hi> ‘living’ would seem to support this suggestion. Note that this is the only word of form <hi rend="italic">*CaC:</hi> which shows <hi rend="italic">pataḥ</hi> when preceded by <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> (see 3.2.1 below).</p>
+
+<head>3.2 The Effect of Position or Function</head>
+
+<p>The effects of the following consonant cannot alone account for the distribution of the short and long reflexes of original short <hi rend="italic">a</hi> in words of form <hi rend="italic">*CaC:</hi>. Position in the clause, or grammatical function, also clearly had an important influence. This can be seen in the fact that the short reflex (<hi rend="italic">pataḥ</hi>) is (almost) invariably used in the construct form,<note n="30">The only exception is <hi rend="italic">ym</hi> ‘sea’.</note> and the long reflex (<hi rend="italic">qameṣ</hi>) regularly appears when the noun stands in pausal position. This “pausal position” can only be defined in a general way, since pausal forms are not determined by the accentuation. These forms occur (1) at the ends of “sentences” composed of a single clause, or of two or more closely associated clauses; (2) at major breaks within clauses, particularly before (a) explanatory modifiers, or (b) items in parallel function; (3) at the end of a stich in poetry.<note n="31">For the use of pausal forms, see Revell, 1980, 1981.</note> Thus <hi rend="italic">qameṣ</hi> is regularly used where a word of form <hi rend="italic">*CaC:</hi> stands at the end of a clause (situation 1), as <hi rend="italic">’p</hi> ‘anger’ Exod 11:8, 1 Sam 20:34, etc., and this does not depend on the accent, as is shown by <hi rend="italic">śq</hi> ‘sacking’, Jer 6:26, with <hi rend="italic">pašṭa</hi>. Exceptions occur only where the clause in question can be understood as closely related to what follows, and was presumably read as a unit with it, as with <hi rend="italic">’p</hi>, Ps 37:8, Lam 3:43, 66, and <hi rend="italic">śq</hi>, 2 Sam 21:10, Jonah 3:6.<note n="32">Whether or not two clauses are closely related is obviously a matter of individual opinion, but in most cases the accentuation supports the conclusion based on the vowelling. The most problematical case would seem to be that of <hi rend="italic">ḥy</hi> in Gen 43:7 (but note that <hi rend="italic">qameṣ</hi> tends to be inhibited before <hi rend="italic">yod</hi>, see section 3.1 above). On <hi rend="italic">qš</hi> ‘stubble’, see section 3.2 below.</note> Examples of <hi rend="italic">qameṣ</hi> used in situation 3, the end of a poetic stich which is not the end of a clause, are found with <hi rend="italic">śq</hi> in Ps 35:13, and <hi rend="italic">kp</hi> ‘hand’ Prov 22:26.</p>
+
+<p>In these two cases, then, the use of a particular reflex of original short <hi rend="italic">a</hi> correlates with position in the clause (for pausal forms) or grammatical function (construct forms). Such correlation may be observed in other cases as well. However, as was shown above, position and function are not the only features which affected the reflex of this vowel. Consequently, in order to display the effects of these features as clearly as possible, not all words of forms <hi rend="italic">*CaC:</hi> are included in the following survey. Those</p>
+      <pb n="87"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 87</head>
+<p>omitted are (1) those which show <hi rend="italic">qameṣ</hi> in all situations: <hi rend="italic">ym</hi> ‘sea’, <hi rend="italic">ʿš</hi> ‘moth’, <hi rend="italic">tm</hi> ‘whole’, and (with the definite article) <hi rend="italic">hgg</hi> ‘roof’, <hi rend="italic">hhr</hi> ‘mountain’, <hi rend="italic">hʿm</hi> ‘people’, <hi rend="italic">hpr</hi> ‘bullock’, <hi rend="italic">hrb</hi> ‘great’, <hi rend="italic">hrʿ</hi> ‘bad’; (2) words which do not conform to the common patterns displayed here, causing some doubt as to the original vowel. Where original short <hi rend="italic">i</hi> gives rise to MT <hi rend="italic">pataḥ</hi>, <hi rend="italic">qameṣ</hi> may appear as long reflex as it does for original short <hi rend="italic">a</hi>, but this is not regular.<note place="foot" n="33">As in “stative” verb forms: <hi rend="italic">zqnty</hi> ‘I am old’ has <hi rend="italic">pataḥ</hi> in pausal position in Gen 18:13 and 27:2, but in Prov 30:10 <hi rend="italic">ʿšmt</hi> ‘you are held guilty’ has <hi rend="italic">qameṣ</hi></note> Consequently, the vowel of <hi rend="italic">qš</hi> ‘stubble’ is regarded as uncertain because it shows <hi rend="italic">pataḥ</hi> at the end of a clause in Exod 15:7, Isa 33:11, 47:14, Obad 18, and Mal 3:19, even though it shows <hi rend="italic">qameṣ</hi> within one in Joel 2:5.</p>
+<head>3.2.1. The Use of Qameṣ</head>
+<p>As was noted in 3.2 above, words of form <hi rend="italic">*CaC</hi>: regularly show <hi rend="italic">qameṣ</hi> in pausal position. In addition, <hi rend="italic">qameṣ</hi> regularly appears in a word of this form which is preceded by <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi>. The only exception of which I am aware is <hi rend="italic">wāḥay</hi>, used as a verb in the few anomalous cases in which it is followed by a modifier (listed in note 12). <hi rend="italic">Qameṣ</hi> is also used in words of this form where they stand as last in a group joined by some other conjunction, as <hi rend="italic">śq</hi> ‘sacking’ (Lev 11:32), and <hi rend="italic">rʿ</hi> ‘bad’ (Jer 42:6). Where the items are longer, <hi rend="italic">qameṣ</hi> may be used in words of this form at the end of each item in a list, as <hi rend="italic">lbd</hi> ‘alone’ in Zech 12:12-14.</p>
+<p>There is a stong tendency to use <hi rend="italic">qameṣ</hi> in a noun of form <hi rend="italic">*CaC</hi>: when it functions as an adjective following the substantive it modifies. Thus <hi rend="italic">zk</hi> ‘pure’ shows <hi rend="italic">qameṣ</hi> in this situation in Exod 27:20 and Lev 24:2, but <hi rend="italic">pataḥ</hi> in other situations. However, this tendency is undoubtedly modified by the function of the resulting noun phrase. Thus, where <hi rend="italic">rb</hi> ‘great’ functions as an adjective modifying a preceding substantive, <hi rend="italic">qameṣ</hi> is used in 17 cases, including situations in which <hi rend="italic">pataḥ</hi> is common, such as the end of the first part of a noun clause (Ps 119:165), or the end of a subject (2 Chr 20:2), or a modifier (Num 21:6) following a verb and followed by another modifier (see below, 3.2.5). <hi rend="italic">Qameṣ</hi> is also used in three cases where <hi rend="italic">rb</hi> as an attributive is followed by a demonstrative.<note place="foot" n="34"><hi rend="italic">hʿm/hhmwn hrb hzh</hi> 1 Kgs 5:21, 2 Chr 20:12, 15. So also <hi rend="italic">rʿ</hi> in eight cases.</note> However, in three cases in which a noun followed by <hi rend="italic">rb</hi> is the subject of a verb, <hi rend="italic">pataḥ</hi> appears (Exod 12:38, Num 32:1, 2 Chr 26:10). <hi rend="italic">Pataḥ</hi> is also used where <hi rend="italic">rb</hi> is followed by <hi rend="italic">mʾd</hi> ‘very much’ (Josh 11:4, 22:8, 1 Kgs 10:2, Ezra 47:7, Joel 2:11, Ezra 10:1, 2 Chr 32:29), or <hi rend="italic">mn</hi> comparative (Deut 20:1, Josh 19:9, 1 Kgs 19:7, Dan 11:13, 2 Chr 32:7, also Exod 9:28, but not Deut</p>
+      <pb n="88"/>
+<fw type="header">88 <space resp="platform"/> E. J. REVELL</fw>
+
+<p>9:14, quoted in example 9 above). In the only other case where <hi rend="italic">rb</hi> used as an attributive adjective shows <hi rend="italic">pataḥ</hi>, it stands at the end of the object immediately before the verb (Deut 28:38). In 2 Chr 28:8, the only other case in which it occurs in this position, it shows <hi rend="italic">qameṣ</hi>.</p>
+
+<p><hi rend="italic">Qameṣ</hi> occurs in nouns of form *<hi rend="italic">CaC</hi>: functioning as attributives as follows: with <hi rend="italic">zk</hi> and <hi rend="italic">rb</hi> as noted, and also with <hi rend="italic">ṣr</hi> (2 cases) and <hi rend="italic">rˁ</hi> (15 cases). <hi rend="italic">Pataḥ</hi> occurs with <hi rend="italic">rb</hi> (as noted), and also with <hi rend="italic">hy</hi> (seven cases), <hi rend="italic">lh</hi> (Gen 30:37, Ezra 21:3, <hi rend="italic">mr</hi> (Hab 1:6), <hi rend="italic">ql</hi> (Isa 19:1), <hi rend="italic">ṣh</hi> (Jer 4:11), and <hi rend="italic">rk</hi> (Deut 28:54). It could be said that <hi rend="italic">pataḥ</hi> is to be expected, for some reason, in nearly all these cases. Thus the adjective stands first in a group of nouns (or at the end of a phrase in this position) in Gen 30:37, Ezra 21:3, Hab 1:6 (see 3.2.3 below); it is followed by a prepositional modifier in Deut 28:54 and virtually in Jer 4:11 (see 3.2.4), the vowel is followed by a <hi rend="italic">yod</hi> in <hi rend="italic">hy</hi> (see 3.1 above). The only real anomaly is Isa 19:1, where <hi rend="italic">ql</hi> stands at the end of a clause, but even here the clause is closely joined to what follows. However, with so many exceptions, the appearance of the long reflex in a word of form *<hi rend="italic">CaC</hi>: used as an attributive adjective can only be considered a very strong tendency, but not a firmly established rule.</p>
+
+<head>3.2.2. The Use of Pataḥ</head>
+
+<p>Where the words of form *<hi rend="italic">CaC</hi>: do not stand as second of a pair, or as attributive adjective, they most commonly show <hi rend="italic">pataḥ</hi>. This would scarcely call for comment were it not for the fact that some words which show <hi rend="italic">qameṣ</hi> in most situations in the absolute nevertheless regularly show <hi rend="italic">pataḥ</hi> in some.</p>
+
+<head>3.2.3. The First of a Pair of Words</head>
+
+<p>The use of <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> before the second of two nouns shows that they form a closely knit pair. If the first member of such a pair is of form *<hi rend="italic">CaC</hi>:, the reflex of the original short <hi rend="italic">a</hi> is regularly <hi rend="italic">pataḥ</hi>, as in <hi rend="italic">rk</hi> ‘tender’ (Gen 18:7), <hi rend="italic">śq</hi> ‘sacking’ (Isa 58:5; Esth 4:1), <hi rend="italic">rˁ</hi> ‘bad’ (Jer 2:19), <hi rend="italic">ṣr</hi> (Isa 5:30),<note n="35">Whatever the syntactic structure may originally have been here, and despite the translators (cf. Jerome) and many commentators (cf. Redaq), both accentuation and vocalization treat <hi rend="italic">ṣr w’wr</hi> as a pair (cf. Rashi).</note> and <hi rend="italic">ˁm</hi> ‘people’ (Esth 1:22, 3:12, 12, 8:9; Neh 13:24). This is particularly significant with the last three words, as their final consonants tend to induce the long reflex of short <hi rend="italic">a</hi> (see 3.1 above). The only exceptions (among the words included in this study) are <hi rend="italic">br</hi> ‘grain’ (Gen</p>
+      <pb n="89"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE</head>
+<p>45:23) and <hi rend="italic">pr</hi> ‘bullock’ (Num 23:2, 4, 14, 30), in which a final consonant of this sort actually has induced the long reflex. In fact, <hi rend="italic">pataḥ</hi> appears regularly in words of form <hi rend="italic">*CaC</hi>: which stand as first in a pair or group of words joined by any conjunction under all conditions. Thus (listing only words which have a tendency to show <hi rend="italic">qameṣ</hi>), where the <hi rend="italic">waw</hi> before the second word does not have <hi rend="italic">qameṣ</hi>, in <hi rend="italic">hr</hi> ‘mountain’ (Isa 40:4), <hi rend="italic">hmr</hi> ‘bitter’ (Hab 1:6), <hi rend="italic">ṣr</hi> ‘narrow/enemy’ (Ps 119:143; Lam 4:12; Esth 7:6), <hi rend="italic">brb</hi> ‘many’ (1 Sam 14:6), <hi rend="italic">śr</hi> ‘leader’ (Exod 2:14; 2 Sam 3:38). With other conjunctions, as <hi rend="italic">r‘</hi> (<hi rend="italic">pataḥ</hi>) <hi rend="italic">’w ṭwb</hi> ‘bad or good’ (Gen 24:50), or even where such words stand at the end of longer phrases, as <hi rend="italic">m’l kl hr</hi> (<hi rend="italic">pataḥ</hi>) <hi rend="italic">wm’l kl gb‘h</hi> ‘from every mountain and hill’ (Jer 16:16). Among the words included in this study, exceptions occur only with <hi rend="italic">r‘</hi> in 1 Sam 30:22 and 2 Sam 13:22.</p>
+
+<head>3.2.4. <hi rend="italic">A Noun Followed By An Adjective Or Other Modifier</hi></head>
+<p>Nouns of form <hi rend="italic">*CaC</hi>: also regularly show <hi rend="italic">pataḥ</hi> where they are followed by an adjective or similar attributive or by a demonstrative, as <hi rend="italic">hr</hi> ‘mountain’ in Isa 13:2 and nine other cases, <hi rend="italic">’m</hi> ‘people’ in Gen 11:6 and 68 other cases, <hi rend="italic">pr</hi> ‘bullock’ in Exod 29:1 and 14 other cases, <hi rend="italic">hṣr</hi> ‘enemy’ in Num 10:9, and <hi rend="italic">hśr</hi> ‘prince’ in Dan 12:1, to list only the forms with a tendency to show <hi rend="italic">qameṣ</hi>.<note n="36">36. In these cases the noun usually has <hi rend="italic">maqqep</hi> or a conjunctive, which reflects the close association with the following adjective also indicated by the vowel <hi rend="italic">pataḥ</hi> The accents do not determine this association, however, as the noun may have a disjunctive, as <hi rend="italic">paśṭa</hi> in Num 10:9, and <hi rend="italic">yetib</hi> in Deut 20:1.</note> The only exceptions among the words included in this study are <hi rend="italic">hnh ’m ywrd/ywrdym</hi> ‘behold people coming down’ in Judg 9:36–37.<note n="37">37. Cf. such cases as <hi rend="italic">hnh ’m b’</hi> ‘behold people coming’ (Jer 6:22, 50:41) where <hi rend="italic">’m</hi> has <hi rend="italic">pataḥ</hi> Possibly the semantic analysis differed, the emphasis being on the noun in the cases in Joshua, on the participle in those in Jeremiah. Cf. the different accentuation of <hi rend="italic">hnh</hi>.</note></p>
+<p>Words of form <hi rend="italic">*CaC</hi>: usually show <hi rend="italic">pataḥ</hi> before a prepositional or adverbial modifier, as with <hi rend="italic">rb</hi> followed by <hi rend="italic">m‘d</hi> or comparative <hi rend="italic">mn</hi> (as noted in 3.2.1 above). Other adjectives of this form showing <hi rend="italic">pataḥ</hi> when used in the comparative structure are <hi rend="italic">mr</hi> ‘bitter’ (Eccl 7:26), <hi rend="italic">‘z</hi> ‘strong’ (Judg 14:18), and <hi rend="italic">ṣr</hi> ‘narrow’ (2 Kgs 6:1). The only exceptions I have noted are <hi rend="italic">rb</hi> ‘much’ (Gen 36:7), and <hi rend="italic">r‘</hi> ‘bad’ (2 Chr 33:9). Adjectives modified by other prepositional phrases also regularly show <hi rend="italic">pataḥ</hi>, as in <hi rend="italic">’m rb k’pr h’rṣ</hi> (2 Chr 1:9), also <hi rend="italic">rb l- . . .</hi> (Num 16:3 etc.), <hi rend="italic">r‘ b‘yny</hi>, (Gen 38:7 and often, but not 1 Sam 29:7), <hi rend="italic">r‘ lpny</hi> (Neh 2:1, 9:28), <hi rend="italic">r‘ ’l</hi> (Eccl 2:17), <hi rend="italic">ṣr l- . . .</hi> (Judg 11:7 etc.). This was probably also the rule with substantives modified by such phrases, as <hi rend="italic">ḥg</hi> ‘feast’ (Exod 12:14 etc.),</p>
+      <pb n="90"/>
+<p>
+    90 <space dim="horizontal" extent="50" unit="chars"/> E. J. REVELL
+</p>
+<p>
+    <hi rend="italic">qw, ṣw</hi> in Isa 28:10, 13, and (with nouns not showing a tendency to take
+    <hi rend="italic">qameṣ</hi>) Num 31:18, Ezek 45:14, Mic 5:6, Prov 19:12. However, <hi rend="italic">'m</hi> shows
+    <hi rend="italic">qameṣ</hi> in this situation in 1 Sam 13:5, Deut 27:9, 2 Kgs 11:17, and 2 Chr
+    23:16.
+</p>
+<p>
+    <hi rend="italic">Pataḥ</hi> also appears to be usual in a noun of form <hi rend="italic">*CaC</hi>: modified by
+    a relative clause, but the evidence from words showing a tendency to take
+    <hi rend="italic">qameṣ</hi> is limited. <hi rend="italic">Pataḥ</hi> appears in <hi rend="italic">'m</hi> before a relative clause marked
+    as relative in Exod 15:13, 16, Deut 28:33, Isa 43:21, Ruth 2:11, before
+    an unmarked relative clause in Deut 33:29, Judg 5:18, 2 Sam 22:44, Isa
+    30:5, 6, 51:7, Ps 18:44, Prov 30:25, 26, and Hab 3:16. Exceptions occur
+    with <hi rend="italic">'m</hi> before an unmarked relative clause in Hos 4:14.<note n="38">The case before a marked relative clause in Ps 3:7 stands at the end of a stich, so that <hi rend="italic">qameṣ</hi> is expected. See 3.2 above.</note> Similarly <hi rend="italic">br‘</hi>
+    shows <hi rend="italic">qameṣ</hi> before a marked relative clause in Gen 44:34.
+</p>
+
+<head>3.2.5. Other Situations</head>
+
+<p>
+    In those cases in which even words with a tendency to show <hi rend="italic">qameṣ</hi>,
+    such as <hi rend="italic">'m</hi>, regularly show <hi rend="italic">pataḥ</hi>, the word in question stands within a
+    structure acting as a noun substitute, i.e. a structure which functions as
+    the equivalent of a single noun. Where a noun of form <hi rend="italic">*CaC</hi>: stands at
+    the end of a noun substitute or stands alone, <hi rend="italic">pataḥ</hi> is still overall the
+    vowel most commonly shown (except in the situations discussed above),
+    but there are many exceptions.<note n="39">Some of these may be pausal situations of the type noted under (2) in 3.2 above.</note> The common situations are:
+    <list>
+        <item>(1) subject or modifier before a verb;</item>
+        <item>(2) subject or modifier following a verb, but not at the end of a clause;</item>
+        <item>(3) the first part of a non-verbal clause.</item>
+    </list>
+    The exceptions, showing the long reflex in these situations, are overwhelmingly words with final consonants which tend to induce the long reflex,
+    as <hi rend="italic">ḥg</hi> ‘feast’, <hi rend="italic">ḥm</hi> ‘hot’, <hi rend="italic">'m</hi> ‘people’, <hi rend="italic">ṣr</hi> ‘narrow’ or ‘enemy’, <hi rend="italic">qw</hi> ‘line’ and
+    <hi rend="italic">r‘</hi> ‘bad’. Other words which show <hi rend="italic">qameṣ</hi> are <hi rend="italic">'p</hi> ‘anger’ (2 Chr 28:13), <hi rend="italic">bd</hi>
+    ‘linen’ (Exod 28:42, 39:28), <hi rend="italic">hgn</hi> ‘garden’ (Gen 2:16, 3:2, 8), and <hi rend="italic">dl</hi> ‘poor’
+    (Exod 23:3, Prov 14:31, 19:4, 22:16). The following examples provide an
+    idea of the kind of variation found with words showing a tendency to take
+    <hi rend="italic">qameṣ</hi>.
+    <list>
+        <item>(1) With <hi rend="italic">pataḥ</hi>: <hi rend="italic">'m yṣ' mmṣrym</hi> ‘a people came out from Egypt’ (Num 22:5, no cases with <hi rend="italic">r‘</hi>);</item>
+        <item><space dim="horizontal" extent="4" unit="chars"/> With <hi rend="italic">qameṣ</hi>: <hi rend="italic">w'm l' yhrdw</hi> ‘people will not be afraid’ (Amos 3:6, common with <hi rend="italic">r‘</hi>);</item>
+    </list>
+</p>
+      <pb n="91"/>
+<fw type="header">SYNTACTIC/SEMANTIC STRUCTURE<lb/>91</fw>
+
+<list>
+    <item>(2) With <foreign>pataḥ</foreign>: <foreign>y’mrw r‘ ly</foreign> ‘they speak evil against me’ (Ps 41:6 and
+    two other cases, no examples with <foreign>’m</foreign>);<lb/>
+    With <foreign>qameṣ</foreign>: <foreign>yrd r‘ m’t YHWH</foreign> ‘evil has come down from the Lord’
+    (Mic 1:12 and three other cases, a few cases with <foreign>’m</foreign>);</item>
+    <item>(3) With <foreign>pataḥ</foreign>: <foreign>w’y mzh ’m ’th</foreign> ‘from what people are you?’ (Jonah 1:8,
+    no cases of <foreign>r‘</foreign>);<lb/>
+    With <foreign>qameṣ</foreign>: <foreign>brb ’m hdrt mlk</foreign> ‘in many people is the king’s glory’
+    (Prov 14:28, several cases of <foreign>r‘</foreign>).</item>
+</list>
+
+<head>4. WORDS OF ORIGINAL BASE FORM <foreign>*CVCy</foreign></head>
+
+<p>In words whose base was originally a monosyllable containing a short
+vowel followed by two consonants of which the second was <foreign>y</foreign>, the MT
+reflex of the vowel may be either long (as <foreign>perî</foreign>) or short (as <foreign>pərî</foreign>). The
+form showing the long reflex is usually called “pausal,” but in fact the
+distribution of these forms is somewhat similar to that of the long and
+short reflex forms of nouns of base form <foreign>*CaC:</foreign>.<note n="40">There is no clear evidence that the development of the short vowel in these forms
+was influenced by the following consonant.</note></p>
+
+<head>4.1. The Use of the Long Reflex Form</head>
+
+<p>The form with the long reflex of the original short vowel is used at the
+ends of clauses, that is, in pausal position.<note n="41">Since <foreign>’ry</foreign> ‘lion’ shows <foreign>šəwa</foreign> under the <foreign>’alep</foreign> in all situations (e.g. Judg 14:18 at the
+end of both stich and clause) it is not included here.</note> Examples with accents with
+which pausal forms do not regularly occur are found in Lev 26:41, Judg
+15:19, 1 Sam 17:49, 2 Kgs 4:6, Jer 43:11, 48:11, Ezek 17:23,<note n="42">Also Ezek 17:12, introducing speech.</note> Nah 3:10,
+Ps 68:19, and Lam 3:30. Exceptions occur with such lesser pausal accents
+in Judg 14:6, 1 Kgs 17:10, Isa 1:5, Jer 10:19, and Dan 11:16, 41. In all
+of these cases the clause in question can be said to be closely joined to
+what follows. The short reflex form of nouns of this sort also occurs with
+major pausal accents in three cases. It might possibly be argued that the
+clause ending with <foreign>bky</foreign> ‘weeping’ in Gen 45:2 is closely joined to what
+follows, but this could not be claimed for <foreign>r’y</foreign> ‘seeing’ in Gen 16:13, or for
+<foreign>šty</foreign> ‘drinking’ in Eccl 10:17. Consequently the vowelling in all three of
+these cases is to be regarded as anomalous from any point of view.</p>
+
+<p>The long reflex form is also used in nouns of this structure where the
+noun is preceded by <foreign>waw</foreign> with <foreign>qameṣ</foreign>, as <foreign>whṣy</foreign> ‘half’ (Dan 12:7 and 15
+other cases), <foreign>wnhy</foreign> ‘wailing’ (Jer 9:9), <foreign>wmšy</foreign> ‘silk’ (Ezek 16:13), and <foreign>wṣry</foreign>
+‘balm’ (Ezek 27:17).</p>
+      <pb n="92"/>
+<p>92 <space dim="horizontal"/> E. J. REVELL</p>
+
+<head>4.2. The Use of the Short Reflex Form</head>
+
+<p>The short reflex form of nouns of this structure is regularly used within noun substitutes, e.g., as first of a pair of nouns, <hi rend="italic">bky</hi> ‘weeping’ in Jer 9:9 (where the second of the pair is preceded by <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi>) or Mal 2:13 (where it is not); or before an adjective, as <hi rend="italic">bky</hi> in 2 Sam 13:36; or before a relative clause as <hi rend="italic">kly</hi> ‘vessel’ in Lev 15:6.</p>
+
+<p>The short reflex form is also generally used when words of form <hi rend="italic">*CVCy</hi>: stand alone, or at the end of a phrase acting as a noun substitute, within a clause. The long reflex form does, however, occasionally occur in this position. Examples are:</p>
+
+<list>
+    <item>(1) before the verb <hi rend="italic">wpty y'rm</hi> ‘the simple will learn prudence’ (Prov 19:25, also Prov 9:4, 16). Cf. the short reflex form in <hi rend="italic">qwl nhy nšm' mṣywn</hi> ‘the sound of wailing is heard from Zion’ (Jer 9:18);</item>
+    <item>(2) after the verb <hi rend="italic">'d yṣ'w . . . mn hhly ymym 'l ymym</hi> ‘until they come out . . . from the disease day after day’ (2 Chr 21:15). Cf. the short reflex form in <hi rend="italic">ngpw . . . lḥly l'yn mrp'</hi> ‘smote him . . . with disease without cure’ (2 Chr 21:18);</item>
+    <item>(3) the first part of a non-verbal clause <hi rend="italic">btwk byt hmry 'th yšb</hi> ‘within a house of rebellion are you dwelling’ (Ezek 12:2). Cf. the short reflex form in <hi rend="italic">ky byt mry hm</hi> ‘for a house of rebellion are they’ (Ezek 12:2).</item>
+</list>
+
+<head>5. INTERPRETATION</head>
+
+<p>In general, then, the long reflex forms of nouns of form <hi rend="italic">*CaC:</hi> and <hi rend="italic">*CVCy</hi> do not occur within phrases. They occur regularly at the end of some types of phrases, and the evidence of those nouns of form <hi rend="italic">*CaC:</hi> which, due to the nature of the final consonant, show <hi rend="italic">qameṣ</hi> most frequently, shows that the tendency was to use this long reflex form at the end of phrases of all types (see 3.2.5). This suggests some affinity with the pausal forms which appear at the ends of clauses.</p>
+
+<p>Long reflex forms of these nouns are regularly used at the end of phrases consisting of a group of words of the same grammatical class functioning as a unit. This is the most common situation in which <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> occurs. In the other situations in which this vowelling occurs, the word preceded by <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> is nearly always the last in a syntactic unit, a position which again suggests relationship with pausal forms. Of course, <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> often is prefixed to a word in pausal position, as when it precedes a verb not followed by subject or modifiers, since such verbs necessarily stand at the end of a clause. However, even the few cases where <hi rend="italic">waw</hi> with <hi rend="italic">qameṣ</hi> precedes a verb which is followed by subject or modifiers are not distinct from pausal situations, as a verb</p>
+      <pb n="93"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 93</head>
+
+<p>followed by modifiers may occur in pausal form as <emph rend="italic">wšmʿ</emph> ‘and hear’ (Deut 5:27). Similarly, the tendency to use <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph> before every second item in longer lists also has its parallel in the use of pausal forms, since longer lists are sometimes divided into groups of two or three by pausal forms, which stand at the end of each group, as in the commandment on the seventh day (Deut 5:14). Consequently the resemblance of <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph> and the use of pausal forms can be seen even in the cases where <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph> does not stand at the end of a syntactic unit. On the other hand, the units marked by <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph> (pairs of nouns, etc.) are not usually of the “sentence” size typically marked by pausal forms.</p>
+
+<p>In terms of phonology, the use of <emph rend="italic">qameṣ</emph> with <emph rend="italic">waw</emph> is characterized by the appearance of the “long” reflex of original short <emph rend="italic">a</emph> (the vowel of the conjunction) instead of <emph rend="italic">šəwa</emph>, the “short” reflex, in an open syllable immediately before the main word stress. A similar phenomenon does occur in a few pausal forms of imperfect verbs with the so-called “paragogic <emph rend="italic">nun</emph>”, as <emph rend="italic">tišmāʿûn</emph> ‘you will hear’ (Deut 1:17). In most pausal forms, however, if an original short vowel is represented by its “long” reflex instead of <emph rend="italic">šəwa</emph>, it is stressed. Furthermore, in pause original short <emph rend="italic">a</emph> would give rise to <emph rend="italic">qameṣ</emph> rather than <emph rend="italic">pataḥ</emph> or <emph rend="italic">segol</emph> in a stressed syllable, and this is not the case in all words preceded by <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph>.<note n="43">43. Before <emph rend="italic">patah</emph> in examples 1, 14, 17, 25, 35, 36, and 37; before <emph rend="italic">segol</emph> in 27 and see <emph rend="italic">hsd</emph> ‘goodness’ in Ps 23:6, Esth 2:17, and Neh 1:5 (cf. Prov 21:21).</note> These phonological phenomena, then, reflect at once a similarity and a difference between pausal forms and words preceded by <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph>, as do the situations in which the two types of form can be used. Consequently, it seems probable that the use of <emph rend="italic">waw</emph> with <emph rend="italic">qameṣ</emph> is the result of a lighter form of “pause,” which marks the ends of phrases composed of two or more words of the same grammatical class functioning as a unit.</p>
+
+<p>The use of the long and short reflex forms of nouns of form <emph rend="italic">*CaC</emph>: and <emph rend="italic">*CVCy</emph> supports this view. Where a noun of such structure occurs in a pair joined by a conjunction, if it stands first, it shows the short reflex form; if it stands last, it shows the long reflex form. This would seem to be a clear demonstration of the fact that the first word in a phrase of this sort was at one time comparatively lightly stressed—something like a noun in construct, while the second was comparatively heavily stressed—something like a word in pause. That is, as with construct phrases and sentences ending with pausal forms, phrases of the sort discussed here were governed by suprasegmental contours, involving stress, and perhaps other features, which determined the reflexes of originally short vowels.</p>
+
+<p>This use of the long and short reflexes is not, however, restricted to groups of words of the same grammatical class. Nouns of form <emph rend="italic">*CaC</emph>: or <emph rend="italic">*CVCy</emph> regularly show the short reflex within phrases of any composition.</p>
+      <pb n="94"/>
+<head>E. J. REVELL</head>
+
+<p>The long reflex occurs equally regularly at the ends of phrases of certain types, and is common at the ends of phrases generally. It seems reasonable to suggest that the major factor determining the appearance of one reflex rather than the other in all these cases was the effect of suprasegmental contours which delimited phrases.</p>
+
+<p>The fact that the distribution of the two reflexes is not fully consistent is no obstacle to this suggestion. As was noted, other factors in the phonological environment, such as the nature of the following consonant, also affected the reflexes of original short vowels. Furthermore, it seems clear that, like the unit marked by pausal forms, the phrase marked by these contours was defined on a semantic basis, not on a purely syntactic one. Consequently, the subject preceding its verb (for instance) would in some cases have been closely joined to the following verb (i.e. not treated as a separate phrase), while in other cases it would have been treated as a separate phrase, despite the fact that the syntactic relationship was the same in all cases. Therefore we may accept as a working hypothesis the suggestion that within the <quote>sentence</quote> units marked by pausal forms, <quote>phrase</quote> units were delimited by suprasegmental contours, and that these contours played a major part in the determination of the particular reflex of an originally short vowel to be used in any position.</p>
+
+<p>As far as can be discerned from cognate languages, the construct form originally differed from the absolute only in the absence of mimation or nunation. Any difference in the vowel patterns results from developments within the individual languages, determined by the phonological processes characteristic of that language. In Hebrew, the determining feature is usually described by the statement that the construct form lost its stress to the following word. The construct phrase, then, was treated as a single stress unit; in terms of stress, it had the same suprasegmental contour as a single word. As a result, the production of the long reflex of original short <hi rend="italic">a</hi> was inhibited in the construct form, just as in unstressed syllables elsewhere. If, as suggested above, other nominal phrases were governed by suprasegmental contours similar to those governing construct phrases, the development of the long reflex of original short <hi rend="italic">a</hi> would be inhibited within these other phrases as well.<note n="44">It is, of course, clear that the factors affecting the development of short vowels in words within other phrases were not the same as those affecting the development of the construct form, or nouns of feminine singular form would regularly show final <hi rend="italic">taw</hi> instead of final <hi rend="italic">heh</hi> before adjectives as well as in the construct. Presumably the contours affecting other phrases resulted in a less closely-knit unit than those affecting the construct phrase, and/or came into operation at a later point in the history of the language. As pointed out in note 36, the accentuation probably provides a general guide to these contours, but it does not represent the actual contours which determined the vowelling.</note> This is a reasonable explanation of the use of <hi rend="italic">pataḥ</hi> and <hi rend="italic">qameṣ</hi> in nouns of form *CaC:.</p>
+      <pb n="95"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE <space quantity="5" unit="character"/> 95</head>
+
+<p>Words of form <hi rend="italic">*CVCy</hi> provide an even more telling support for the view that the short reflex form is in all cases the product of suprasegmental contours similar to those governing the construct phrase. Words ending <hi rend="italic">-VCV</hi> generally have penultimate stress in MT, unless the final vowel represents a suffixed morph. Words of original base form <hi rend="italic">*CVCC</hi> generally appear in MT as <hi rend="italic">CVCVC</hi>, also with penultimate stress. The terminal stress of the short reflex form of <hi rend="italic">*CVCy</hi> words conflicts with both these patterns. The only reasonable explanation for the fact that this short reflex form is used both in the construct position and at the beginning of other phrases and clauses is that it was affected by similar suprasegmental contours in both situations. This offers significant support for the hypothesis that all noun phrases were delimited by suprasegmental contours which could affect the vowelling.</p>
+
+<p>In nouns in which the production of the long reflex of original short <hi rend="italic">a</hi> was not inhibited by a following doubled consonant, this long reflex is normally used under or immediately before the main word stress in all situations but the construct. There are, however, occasional cases in which the short reflex form appears before an attributive adjective such as <hi rend="italic">‘yn</hi> ‘eye’ (1 Sam 11:2), a prepositional phrase such as <hi rend="italic">’ḥd</hi> ‘one’ (1 Sam 9:3), or a relative clause such as <hi rend="italic">mqwm</hi> ‘place’ (Gen 39:20 etc.), see GK §130. These are all situations in which nouns of form <hi rend="italic">*CaC:</hi> and <hi rend="italic">*CVCy</hi> regularly show the short reflex. In nouns of form <hi rend="italic">*CaC:</hi> and <hi rend="italic">*CVCy</hi>, the use of the form with the short reflex in these situations is said to be “absolute,” but in nouns of other structures it is generally seen as “construct.” It is certainly true that the clearly marked construct forms of fs and mpl nouns also occur in these positions, but it is generally agreed that in some cases at least, the short reflex form in positions of this sort is an absolute form, (e.g. the initial element of the numerals eleven to nineteen, see Fleisch, 1961, §106n).</p>
+
+<p>The appearance of the short reflex of original short <hi rend="italic">a</hi> where the long reflex is usual in absolute nouns cannot result from “a rhythmical shortening of the original tone-lengthened form” (as suggested in GK §130g). Where vowel change results from the close association of words in the Masoretic text (as where <hi rend="italic">ṣere</hi> and <hi rend="italic">ḥolem</hi> are replaced by <hi rend="italic">segol</hi> and <hi rend="italic">qameṣ</hi> before <hi rend="italic">maqqep</hi>), <hi rend="italic">qameṣ</hi> is not affected. Such changes operate on the vowels as they were in the time of the Masoretes, when <hi rend="italic">pataḥ</hi> and <hi rend="italic">qameṣ</hi> represented distinct qualities. Thus, in words like <hi rend="italic">tm</hi> ‘perfect’ and <hi rend="italic">lt</hi> ‘to give’, when followed by <hi rend="italic">maqqep</hi> the vowel quality <hi rend="italic">qameṣ</hi> remains (although it was presumably shortened), and is not replaced by <hi rend="italic">pataḥ</hi> or <hi rend="italic">šəwa</hi>.<note n="45">Consequently, the appearance of the short reflex of original short</note></p>
+
+<note n="45">45. It must be remembered that the pronunciation and transliteration of biblical Hebrew generally in vogue in academic circles represents a historical reconstruction, not the facts of the Tiberian Masorah. See Blau, 1976, §3.4.</note>
+      <pb n="96"/>
+
+<p>96 <space extent="15" unit="chars"/> E. J. REVELL</p>
+
+<p><hi rend="italic">a</hi> in the stress pretone syllable of absolute forms shows that the long reflex was never produced.<note n="46">Or if it was produced, it must also have been reduced at a period when the long and short reflex differed in length but not in quality. The question of the dating of such a stage (if it did exist in the prehistory of the Tiberian tradition) cannot be attacked here.</note></p>
+
+<p>The differentiation of the long and short reflexes of original short vowels probably took place relatively late in the history of the language (see Blau, 1976, p. 31). When it first occurred, some morphosyntactic confusion would set in. It would create two groups of nouns which appeared in more than one form. In one—fs and mpl—one of the forms would be restricted to use in construct position, the other(s) to use in absolute position. In the other group—mainly ms—, one form would be used alone, or at the ends of clauses and certain phrases, the other would be used within phrases, whether in construct or absolute position. Confusion of this sort typically results in conflicting tendencies. In this case, it appears that the long reflex form came to be used wherever the construct structure was not involved, so that in all nouns showing two forms, one was restricted to construct position. At the same time, short reflex forms of ms and fpl nouns were taken to be construct forms in all cases, so that genuine construct forms from fs and mpl nouns were used before adjectives, prepositions, etc., in imitation of short reflex absolute forms.</p>
+
+<p>The alternative to the above explanation is the suggestion that the anomalous use of these short reflex forms originated in a sporadic extension of the use of the construct form (cf. König, 1897, §337; 1899). This is very unlikely, as this would not explain the very consistent pattern shown in nouns of form <hi rend="italic">*CaC:.</hi><note n="47">These remarks should perhaps be restricted to the use of construct form nouns before adjectives and prepositional phrases, although it does not seem to me that the use of such forms before relative clauses can really be considered a general Semitic phenomenon, as argued by König (1899).</note> There seems every reason, then, to accept the suggestion that phrases of all sorts were delimited by suprasegmental contours which induced the production of the long reflex of original short <hi rend="italic">a</hi> at the end of the phrase, but inhibited it in other positions.</p>
+
+<p>The difference between the long and short reflexes of originally short vowels which are induced by these contours is generally described in terms of length. In fact, however, while significant difference in length seems unlikely for the Masoretic period (cf. note 1), it is certain that the reflexes differed in quality. The tongue position for the long reflex is lower and/or further back than that for the short. In terms of acoustics, the long reflex (or probably more specifically, its second formant) is lower in pitch than the short.<note n="48">This would be true for <hi rend="italic">holem/qibbus</hi> only if the latter was a front vowel (rounded), but it seems from Saadya’s description (Skoss, 1952, p. 292) that this was the case.</note> This suggests that the suprasegmental contours may have</p>
+      <pb n="97"/>
+<head>SYNTACTIC/SEMANTIC STRUCTURE 97</head>
+<p>involved differences in pitch. If so, we must postulate that, at the end of the contours governing phrases and clauses, the pitch was low, inducing the quality change which distinguished the “long” reflex from the short, while elsewhere it was high, inhibiting this change.</p>
+<p>The existence of linguistically meaningful suprasegmental contours in the Hebrew of early periods can be deduced from the fact that questions are not always introduced by interrogative particles (GK §150a), and so must have been marked phonologically. Such contours are presumably reflected in the systems of accentuation used in the Samaritan Pentateuch and the Mishna, in which signs may be used to distinguish questions etc. from statements (see Macuch, 1969, §29, Yeivin, 1960, p. 213 ff. See also Revell, 1974, pp. 26–29). The Jewish biblical accentuation appears to reflect musical phenomena more closely than such speech contours. However the suggestion that the contours governing phrases and clauses showed high initial and medial pitch, and low terminal pitch, corresponds generally with what is known of the accentuation. (See Wickes, 1887, p. 13 f., Yeivin, 1976, §195).</p>
+
+<head>6. THE REFLEX OF SHORT <emph rend="italic">a</emph> IN THE FINAL SYLLABLES OF VERB FORMS</head>
+
+<p>Where a word of form <emph rend="italic">*CaC:</emph> is used as a verb, the long reflex appears in seventeen cases. Fourteen of these stand indisputably at the end of a clause.<note n="49">49. <emph rend="italic">ḥay</emph> ‘he lived’ (Exod 33:20, Num 21:8, 9, Deut 4:42, 5:21, 19:4, 5, Jer 38:2, Ezek 18:13, 24, Neh 6:11); <emph rend="italic">daq</emph> ‘it is pulverized’ (Exod 32:20); <emph rend="italic">mar</emph> ‘it is bitter’ (Isa 38:17); <emph rend="italic">raʻ</emph> ‘it was evil’ (Num 11:10), although admittedly the categorization of a form of this sort as a verb or as a predicate adjective can be somewhat arbitrary.</note> The other three are: Gen 25:7, where <emph rend="italic">ḥay</emph> ‘lived’ stands at the end of a non-verbal clause acting as title to a list; Isa 31:1, where <emph rend="italic">rab</emph> ‘it is numerous’ stands at the end of a subordinate clause followed by further material parallel to the words to which the clause is subordinate; Ezek 47:9, where <emph rend="italic">wāḥāy</emph> ‘and will live’ is the second of a pair of verbs followed by a noun phrase which is the subject of both.</p>
+<p>However one describes the position of these words in relation to the structure of which they form a part, there can be no doubt that they stand in positions in which pausal forms are frequently used.<note n="50">50. See the examples in Revell, 1980, p. 172 ff.</note> Consequently, it can reasonably be maintained that where words of form <emph rend="italic">*CaC:</emph> are used as verbs, the long reflex form appears only in pausal position. The validity of this conclusion is emphasized by the fact that the final <emph rend="italic">m</emph> of <emph rend="italic">tām</emph> used as a noun has induced <emph rend="italic">qameṣ</emph> in all positions, while it has never had this</p>
+      <pb n="100"/>
+<head>E. J. REVELL</head>
+<list>
+    <item>Böttcher, F. 1866. <title level="m">Ausführliche Lehrbuch der hebräischen Sprache</title>. Leipzig.</item>
+    <item>Brønno, E. 1943. <title level="m">Studien über hebräische Morphologie und Vokalismus</title> (= <title level="s">Abhandlungen für die Kunde des Morgenlandes</title> xxviii). Leipzig.</item>
+    <item>Dietrich, M. 1968. <title level="m">Neue palästinisch punktierte Bibelfragmente</title>. Leiden.</item>
+    <item>Fleisch, H. 1961. <title level="m">Traité de philologie arabe</title>. Beyrouth.</item>
+    <item>Ginsburg, C. D. 1926. <title level="m">The Old Testament . . . with the Various Readings from MSS . . .</title> (New Edition). London.</item>
+    <item>Köning, F. E. 1897. <title level="m">Historisch-comparative Syntax der hebräischen Sprache</title> (= <title level="m">Historisch-kritisches Lehrgebäude der hebräischen Sprache</title> vol. III). Leipzig.</item>
+    <item>—— 1899. "Die Überwucherung des Status constructus-Gebrauchs im Semitischen." <title level="j">Zeitschrift der Deutschen Morgenlaendischen Gesellschaft</title> 53:521–524.</item>
+    <item>Macuch, R. 1969. <title level="m">Grammatik des samaritanischen Hebräisch</title>. Berlin.</item>
+    <item>Merx, A. 1889. <title level="m">Historia artis grammaticae apud Syros</title> (= <title level="s">Abhandlungen für die Kunde des Morgenlandes</title> Bd, 9, Nr. 2). Leipzig.</item>
+    <item>Navarro-Peiro, A. 1976. <title level="m">Biblia Babilónica: Proverbios</title>. Madrid.</item>
+    <item>Phillips, G. 1869. <title level="m">A Letter by Mār Jacob, Bishop of Edessa, on Syriac Orthography</title>. London.</item>
+    <item>Revell, E. J. 1974. "Aristotle and the Accents." <title level="j">Journal of Semitic Studies</title> 19:19–35.</item>
+    <item>—— 1980. "Pausal Forms in Biblical Hebrew." <title level="j">Journal of Semitic Studies</title> 25:165–179.</item>
+    <item>—— 1981. "Pausal Forms and the Structure of Hebrew Poetry." To appear in <title level="j">Vetus Testamentum</title> 31.</item>
+    <item>Skoss, S. L. 1952. "A Study of Hebrew Vowels from Saadia Gaon's Grammatical Work ‘Kutub al-Lughah’." <title level="j">Jewish Quarterly Review</title> 42:283–317.</item>
+    <item>Wickes, W. 1887. <title level="m">A Treatise on the Accentuation of the Twenty-One so-called Prose Books of the Old Testament</title>. Oxford.</item>
+    <item>Yeivin, I. 1960. "Prosodic Accents to Rabbinic Literature." <title level="j">Ləšonenu</title> 24:47–69, 167–178, 207–231.</item>
+    <item>—— 1973. <title level="m">Masoret hallašon haʿibrit hammištaqepet banniqqud habbabli</title>. Jerusalem (Akademon).</item>
+    <item>—— 1976. <title level="m">Mabo lammasora haṭṭabranit</title>. Jerusalem (Akademon), now in English as <title level="m">Introduction to the Tiberian Masorah</title>, Missoula, 1980.</item>
+</list>
+      <pb/>
+<p/>
+    </body>
+  </text>
+</TEI>

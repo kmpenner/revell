@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>The Grammar of Jacob of Edessa and the Other Near Eastern Grammatical Traditions</title>
+            <author>
+                <persName>
+                    <forename>E.</forename>
+                    <forename>J.</forename>
+                    <surname>Revell</surname>
+                </persName>
+            </author>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Parole d'Orient</publisher>
+            <date when="1972">1972</date>
+        </publicationStmt>
+        <sourceDesc>
+            <biblStruct>
+                <analytic>
+                    <author>Revell, E. J.</author>
+                    <title level="a">The Grammar of Jacob of Edessa and the Other Near Eastern Grammatical Traditions</title>
+                </analytic>
+                <monogr>
+                    <title level="j">Parole d'Orient</title>
+                    <imprint>
+                        <biblScope unit="volume">3</biblScope>
+                        <date when="1972">1972</date>
+                        <biblScope unit="page">365-374</biblScope>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="en">English</language>
+        </langUsage>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2023-10-27">Digital transformation of 07a.09_The_Grammar_of_Jacob_of_Edessa_and_the_Other_Near_Eastern_Grammatical_Traditions.pdf</change>
+    </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="center">Bib ④</p>
+<lb/>
+<head rend="center" type="main">THE GRAMMAR OF JACOB OF EDESSA AND THE OTHER NEAR EASTERN GRAMMATICAL TRADITIONS</head>
+<lb/>
+<p rend="center">BY</p>
+<p rend="center">E. J. REVELL</p>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<p rend="center">Extrait de la revue <title>Parole de l'Orient</title>, Vol. III, Nº 2, 1972</p>
+      <pb n="[unnumbered]" facs="image.jpg"/>
+<p>
+  <figure>
+    <figDesc>Underexposed or damaged photograph showing a dark, indistinct form, possibly a hand or soft texture, against a black background with some light scratching or dust on the original film/print.</figDesc>
+  </figure>
+</p>
+      <pb/>
+      <pb/>
+<head>THE GRAMMAR OF JACOB OF EDESSA AND THE OTHER NEAR EASTERN GRAMMATICAL TRADITIONS *</head>
+<p>BY</p>
+<p>E. J. REVELL</p>
+<p>1. The work known as the grammar of Jacob of Edessa (1) is represented now by three small fragments containing part of the introduction, and part of the description of the inflections of nouns. The extant part the introduction begins with a comparison of the Syriac script — which is declared to be inadequate for the writing of the language — with the Greek script, which is said to have been perfected by the Greeks themselves. Jacob goes on to state that he was requested by a friend to invent vowel signs, and so perfect the Syriac script, which is inadequate only because it lacks them. He was at first unwilling to do so — as were former scholars who had considered the problem — from fear that earlier, unvocalized texts would thenceforward be ignored. He points out, however, the difficulties of reading without vowel signs, and notes that former scholars had made some attempt to alleviate them by placing an extra <quote>“silent”</quote> letter as a diacritic in one member of a number of pairs of homographs. Even this aid was, however, often misunderstood in his time, so Jacob eventually decided to use vowel signs as a teaching aid, to illustrate the morphology of the language, although he did not intend them for general use.</p>
+<p>2. It seems probable that the introduction proceeded from here to the description of the vowels of Syriac, and the signs which Jacob devised</p>
+<note type="footnote">* The original form of this paper was read before the 28th International Congress of Orientalists in Canberra.
+(1) The text is available in A. <hi rend="smallcaps">Merx</hi>, <hi rend="italic">Historia artis grammaticae apud Syros</hi> (Leipzig, 1889), Syriac p. 74-84. Merx’s assesment of the grammar (p. 84 ff.) is, however, distorted by his erroneous opinion that it closely followed Greek models.</note>
+      <pb n="366"/>
+<head>E. J. REVELL [2</head>
+
+<p>to represent them, but, most unfortunately, the text breaks off at this point, and the signs occur only in the paradigms of noun forms. Eight vowel signs are used, designed as letters to be written as an integral part of the script, not, as in later systems, as an external addition to it. They are all the invention of Jacob (possibly inspired by the corresponding Greek letters) except for the sign for <hi rend="italic">zqåfå</hi>, for which <hi rend="italic">’ålaf</hi> is used.</p>
+
+<p>3. The next section in the edition is misplaced, as it deals with nouns of several syllables, and nouns formed with various affixes, and should follow the paradigms of shorter noun forms, which are placed last in the edition (2). In his discussion of these longer noun forms, Jacob mentions the phenomenon of partial assimilation affecting the first member of certain consonant clusters. As a result of this we learn of Jacob’s classification of such consonants into three groups, “heavy, medium, and clear”. The remaining fragments of the grammar discuss the inflection of various classes of nouns. The nouns are classified according to the syllabic structure of the singular emphatic form of the noun, and the vowels characteristic of it.</p>
+
+<p>4. Jacob distinguishes three types of syllable: <hi rend="italic">pšiṭå</hi> (simple), <hi rend="italic">mrakbå</hi> (compound), and <hi rend="italic">‘pipå</hi> (doubly compound), consisting of a vowel preceded by one, two, or three consonants respectively. Moberg showed that Merx was wrong in his claim that Jacob was copying the standard Greek classification of syllables, based on the length of the vowel and the number of consonants following it, but he still suggests, on the basis of the speculations of Steinthal, that Jacob’s classification was Greek in origin (3). This is</p>
+
+<note n="2">
+(2) British Museum MS Add. 17, 217 fol. 37 should follow fol. 38. The correct order of the grammatical material is, then, 1) BM MS Add. 17, 217, f. 38: inflection of nouns of structure CCVCV (where C is any consonant, V any vowel). 2) BM MS Add. 14, 665, f. 28: inflection of nouns of structure CCVCCV. 3) BM MS Add. 17, 217, f. 37: (a) inflection of nouns of much more complex structure (CVCVCCVCV, CVCCVCCVCV), including discussion of partial assimilation of consonants. (b) “Rules for 47 types of masculine nouns of <hi rend="italic">pšiṭå</hi> type” (e.g. <hi rend="italic">metragšånå</hi>). (c) The beginning of a discussion of nouns of the <hi rend="italic">‘eltånå</hi> type; i.e. nouns which are formed by the addition of the suffixes <hi rend="italic">—nå</hi>, <hi rend="italic">—yå</hi>, or <hi rend="italic">—nåyå</hi> to a base which is itself used as a noun (which is not the case in nouns of the <hi rend="italic">pšiṭå</hi> type formed in this way).
+</note>
+
+<note n="3">
+(3) <list>
+<item>A. MOBERG, in <hi rend="italic">Buch der Strahlen</hi> (Leipzig, 1913) p. 103*, referring to H. STEINTHAL, <hi rend="italic">Geschichte der Sprachwissenschaft bei den Griechen und Römern</hi>, Vol. I (Berlin, 1890), p. 256, who is clearly speculating without concrete evidence.</item>
+</list>
+</note>
+      <pb n="367" facs="3]"/>
+<p>
+    <hi rend="italic">3]</hi>
+    <space dim="horizontal" extent="medium"/>
+    THE GRAMMAR OF JACOB OF EDESSA
+    <space dim="horizontal" extent="medium"/>
+    367
+</p>
+
+<p>
+typical of the general attitude, which regards the Syrian grammarians as mere imitators, copying first the Greeks, then the Arabs, and unworthy of their own place in the history of language study. It seems to me most likely that Jacob’s classification of syllables, like his nomenclature, was native to Syria. It is clear from the treatise on metrics published by Martin, that a standard method of determining the number of syllables in a line of poetry was by counting the vowels, a system which would easily lead to the idea that the syllable boundary followed the vowel (4).
+</p>
+
+<p>
+5. That Jacob of Edessa was influenced by Greek ideas is, of course, undeniable. He used them wherever he could, but he used them as tools, not as blueprints, adapting them to his own purposes wherever necessary. His classification of the consonants is an excellent example of this. The grouping “heavy — medium — clear” was undoubtedly inspired by the Greek classification “rough — intermediate — smooth”. In the Greek classification, however, the voiced stops are “intermediate”, whereas for Jacob they are “heavy”, and the voiceless stops are “medium”. The original basis of the Greek classification was aspiration. Their voiceless stops <hi rend="italic">pi, tau,</hi> and <hi rend="italic">kappa</hi>, were unaspirated, and therefore “smooth”. The homorganic group <hi rend="italic">phi, theta</hi>, and <hi rend="italic">chi</hi>, were heavily aspirated, and so “rough” while the voiced stops were lightly aspirated, and so “intermediate”. Long before Jacob’s time, however, the two groups of aspirates had become fricatives (5). The Syrian <hi rend="italic">begad-kefat</hi> letters and the corresponding “emphatics” must have represented sounds quite similar to these Greek ones. Transliterations in the Talmud and Midrash, and other contemporary sources, show that the Aramic-Hebrew <hi rend="italic">begad-kefat</hi> letters never represented stops in any position, but fricatives, (or possibly affricates), while the “emphatics” represented voiceless stops (6). Bar-Hebraeus gives definite evidence that, in his time, some, at least, of the <hi rend="italic">begad-kefat</hi> letters still represented fricatives or affricates, whether marked with <hi rend="italic">rukkåkå</hi> or <hi rend="italic">quššåyå</hi>,
+</p>
+
+<note n="4" place="bottom">
+    (4) See Abbé <hi rend="smallcaps">Martin</hi>, “De la métrique chez les Syriens” (Abhandlungen für die Kunde des Morgenlandes 7, Nr. 2, 1879), p. 18 and note 1.
+</note>
+<note n="5" place="bottom">
+    (5) See E.H. <hi rend="smallcaps">Sturteyvant</hi>, <hi rend="italic">The Pronunciation of Greek and Latin</hi> (2nd ed., Philadelphia 1940), no. 92 (p. 83 ff.).
+</note>
+<note n="6" place="bottom">
+    (6) See <hi rend="smallcaps">Altheim-Stiehl</hi>, <hi rend="italic">Die Araber in der alten Welt</hi>, Bd. 3 (Berlin, 1966), p. 39 ff.
+</note>
+      <pb n="368"/>
+<head>
+    <persName>E. J. REVELL</persName> <space quantity="5" unit="chars"/> [4]
+</head>
+<p>
+    and this may have been true of all (7). Similar evidence can be found in
+    earlier grammars (8). For Bar-Hebraeus, the “emphatics” were still voice-
+    less stops. Consequently, for Jacob of Edessa, the <foreign xml:lang="syr">begad-kefat</foreign> letters and
+    their corresponding “emphatics” must have represented two sets of fricatives
+    and a corresponding set of voiceless stops, just as did the nine Greek “mutes”.
+    The traditional Greek classification in Jacob’s time, however, ran “smooth”
+    — voiceless stops, “intermediate” — voiced fricatives, and “rough”
+    — voiceless fricatives. Jacob used this framework for the classification of
+    the similar Syriac sounds, but rearranged it to get a more logical order:
+    “light” — voiceless stops, “medium” — voiceless fricatives, and “heavy”
+    — voiced fricatives.
+</p>
+<p>
+    6. It is thus quite clear that Jacob was not describing the Syriac
+    language in terms of Greek categories, but adapting Greek ideas to the
+    description of Syriac grammar. This alone should gain his grammar a
+    place in the history of language study, but, in addition to this, it shows
+    a feature so remarkable as to set it off not merely from the Greeks, but
+    from any other Near Eastern grammar known. The work is based entirely
+    on the sounds of the language, not on the written form. Jacob’s reliance
+    on sound is evident throughout the work. His treatment of “silent” letters
+    as diacritics, and his use of <hi rend="italic">’ālaf</hi> as a vowel sign, both show that he was
+    in no way bound by the written form, and his treatment of the partial
+    assimilation of consonnants, which was never represented in writing,
+    shows his interest in the sounds of the language. More important than
+    this, however, is his classification of nouns, which is based entirely on sound.
+</p>
+<note n="7" place="foot">
+    (7) This is most clear in the case of <hi rend="italic">pe</hi> and <hi rend="italic">gomal</hi>, <hi rend="italic">cf.</hi> inter alia Abbé <persName>MARTIN</persName> in <hi rend="italic">Journal
+    Asiatique</hi>, 6<hi rend="superscript">e</hi> série, tome 19, 1872, p. 379. No distinction is, however, made in this respect
+    between, e.g. <hi rend="italic">pe quššāyå</hi>, which was clearly fricative, and <hi rend="italic">beth quššāyå</hi>, about which we have
+    no direct evidence.
+</note>
+<note n="8" place="foot">
+    (8) Various sources refer to the three sounds represented by <hi rend="italic">pe</hi>. The first two (repre-
+    sented by <hi rend="italic">pe</hi> with <hi rend="italic">rukkåkå</hi> or with <hi rend="italic">quššāyå</hi>) are native to Syriac, and are both fricatives:
+    “soft” and “medium” according to Elias of Tirhan (See <hi rend="italic">Syrische Grammatik des Mar Elias
+    von Tirhan</hi>, ed. F. Baethgen, Leipzig 1880, Syriac p. 34). The third (“hard” and “plosive”
+    according to Elias) is the “Greek <hi rend="italic">pe</hi>”, which occurs only in loanwords, and is clearly a
+    stop. Jacob of Edessa had already found it necessary to create a special sign to represent
+    this sound.
+</note>
+      <pb n="369"/>
+<p>
+    <list>
+        <item n="5]">THE GRAMMAR OF JACOB OF EDESSA <space unit="chars" quantity="5"/> 369</item>
+    </list>
+</p>
+<p>
+    7. In Jacob’s classification, nouns of the same syllable structure and vowel pattern are put in the same class. This classification is used throughout, including cases in which differences in plural form are predictable from the singular, even though the main purpose of this section is to describe plural forms. Thus in canon 28 he says “Nouns of this class, if they contain <hi rend="italic">taw</hi>, (i.e. the feminine gender marker) are pronounced in the plural as trisyllabic, with one ‘e’ and two ‘å’ vowels, as <hi rend="italic">ṣbutå ṣebwåtå</hi>, etc., but if they have no <hi rend="italic">taw</hi>, they follow the common rule of plural formation, as ‘<hi rend="italic">burå ‘bure</hi>.” Similarly, in canon 19, Jacob shows that he is perfectly well aware that <hi rend="italic">lbetå</hi> and similar nouns are derived from roots with a final <hi rend="italic">nun</hi>, which appears in the plural form. Nevertheless he classifies them according to the spoken form, with other nouns <hi rend="italic">CCeCå</hi>. There is other evidence that the spoken form is the only basis for classification, but this is most striking in Jacob’s discussion of the only form in canon 21. This is first described according to the written form, as having a “doubly compound” and a “simple” syllable, i.e. ’<hi rend="italic">hri-tå</hi>. Jacob then remarks that the root contains <hi rend="italic">nun</hi>, so the word should be classed as having two “compound” syllables, as it is pronounced in some dialects, i.e. <hi rend="italic">hra-ntå</hi>. In the Edessan dialect, however, it is pronounced <hi rend="italic">hre-tå</hi>, and so it is finally classified as having one compound and one simple syllable. Jacob of Edessa, then, has the distinction of having produced the only grammar known to us from the Near East which was based entirely on the spoken form of the language, an ironic fact in view of the neglect of the Syrians shown by modern historians of the study of language.
+</p>
+<p>
+    8. It is sufficiently surprising to a modern linguist to find that a grammar based solely on the sounds of the language was produced in this period and area at all. What must be even more surprising, from this point of view, is that it bore no fruit. The approach to grammar through the spoken, rather than the written, form of the language has now become almost a conventional mark of grammatical enlightenment, even for students of dead languages. It seems scarcely conceivable that a culture which had actually achieved this pinnacle of grammatical evolution should deliberately have rejected it in favour of what is, to us, the immeasurably inferior approach through the written form. Yet this is clearly what
+</p>
+<p>
+    <hi rend="italic">I 2</hi>
+</p>
+      <pb n="370"/>
+<fw type="header">
+    <list>
+        <item>370</item>
+        <item>E. J. REVELL</item>
+        <item>[6</item>
+    </list>
+</fw>
+
+<p>happened among the Syrians. Jacob of Edessa’s work was not isolated and unknown. Various later grammarians quote it with respect, including Bar-Hebraeus, who, indeed, uses many of the same examples as Jacob in his discussion of the inflection of nouns. However he no longer uses Jacob’s simple phonological classification of noun forms, but a system based on the number of vowels, and the number of letters in the written form.</p>
+
+<p>9. This rejection of the approach to language through the spoken form is doubly surprising when we remember that not only the Syrian grammarians, but also those of the neighbouring languages — Arabic, Greek, and Hebrew — were strongly interested in the pronouciation of their languages, and achieved considerable accuracy and clarity in the analysis and description of speech sounds and their production. The Arabs were, of course, preeminent in this, but the Greeks were not far behind. Their culture turned the Jews into the most script-oriented of these language groups, but their grammarians were, nevertheless, perfectly well aware that there was nothing like a one-to-one relationship between the consonants of their speech and the letters of their writing, and they show a history of acute observation of speech sounds from Talmudic times one (9). As for the Syrians, we have already noted Jacob of Edessa’s interest in pronunciation, and other grammarians actually define grammar as concerned with spoken language (10). As far as ability goes, it is possible that the distinguishing of eight vowels by Jacob of Edessa was, in terms of phonemes, overdifferentiation, and this is even more likely for the somewhat different analysis of Bar-Hebraeus, but there is no reason to doubt the phonetic validity of these analyses. In his description of the consonants of Syriac, Bar-Hebraeus shows himself the equal of the Arabic grammarians. He is,</p>
+
+<note place="bottom">
+    <p>(9) The Talmuds discuss variations in the pronunciation of consonantal sounds, and the later pointing systems give evidence of a detailed analysis of vowel sounds. Saadya Gaon (died 942) distinguished 42 different sounds in spoken Hebrew, including 35 consonants; more than half as many again as the number of actual letters (22), although no doubt not all of these were phonemic in the modern sense. See the quotation by <hi rend="smallcaps">Dérenbourg</hi> in <hi rend="italic">Journal Asiatique</hi>, 6<hi rend="superscript">e</hi> série, tome 16 (1890), p. 515 f.</p>
+    <p>(10) E.g. Elias of Tirhan “The purpose of grammar is that we speak correctly” (<hi rend="italic">op. cit.</hi>, Syriac p. 4), and Bar-Hebraeus quoted below.</p>
+</note>
+      <pb n="371"/>
+<fw type="header" rend="align(center)">
+    <hi rend="left">7]</hi> THE GRAMMAR OF JACOB OF EDESSA <hi rend="right">371</hi>
+</fw>
+
+<p>
+    of course, copying them, but individual features, e.g. in his description of
+    <hi rend="italic">låmad</hi>, suggest that he is copying their techniques, not their descriptions.
+</p>
+<p>
+    10. It is clear, then, that the scholars of the Near East had both the
+    interest in speech sounds, and the skill in technical description, necessary
+    for the development of Jacob’s approach to grammar through the sounds
+    of the language. That they did not develop it can only mean that this
+    approach was, to them, inferior to the approach through the written form,
+    despite their insistence on correct pronunciation. The reasons for this merit
+    some investigation.
+</p>
+<p>
+    11. It is, of course, true that grammatical study was confined to literary
+    language. According to Dionysios of Thrax (whose work was translated
+    and studied by the Syrians), “Grammar is the knowledge of the usages
+    of language as current among the poets and prose writers” (11). A millenium
+    later, Bar-Hebraeus wrote “Grammar is the knowledge from which rules
+    are learned, by the observation of which one may avoid errors of speech
+    in literary language” (12). The Arabs, who might be considered an ex-
+    ception, were interested in the speech of the Beduin only insofar as it was
+    regarded as exemplifying literary language (13). Vernacular dialects were,
+    of course, known to exist, and are occasionally attested in literary sources,
+    but the only dialect forms which the Near Eastern grammarians record
+    with any interest are those of other acceptable literary dialects.
+</p>
+<p>
+    12. It would, however, be perfectly possible to study a literary language
+    in terms of sound rather than of writing. It is clear that the literary languages
+    were thought of as spoken. They must also have been passed on orally,
+    at least to a very large extent, and thus might well have been described
+    by grammarians solely in terms of sound (14). The Indian grammatical
+</p>
+
+<note n="11">(11) See <hi rend="small-caps">G. Uhlig</hi>, ed. <hi rend="italic">Grammatici Graeci</hi>, part I, vol. I (Lipsiae 1883), p. 5.</note>
+<note n="12">(12) <hi rend="small-caps">A. Moberg</hi> ed., <hi rend="italic">Le livre des splendeurs</hi> (Lund, 1922), p. 2-3.</note>
+<note n="13">(13) See <hi rend="small-caps">C. Rabin</hi>, <hi rend="italic">Ancient West Arabian</hi> (London, 1951), chapter 2, especially section v.</note>
+<note n="14">(14) Cf. e.g. Elias of Tirhan who says, separate signs for the “weaker” pronunciation of the <hi rend="italic">begad-kefat</hi> letters were never developed as “It is sufficient that pupils learn from their teachers in actual recitation (<hi rend="italic">qeryånå</hi>) that these letters are sometimes to be pronounced weaker and sometimes not, and that this should be carried on entirely without written tradition” (<hi rend="italic">op. cit.</hi>, Syriac p. 37). Such traditional forms of education are still, of course, widely used.</note>
+      <pb n="374"/>
+<fw type="header">
+    <fw type="pageNumber" rend="left">374</fw>
+    <fw type="author" rend="center">E. J. REVELL</fw>
+    <fw type="bracketedNumber" rend="right">[10</fw>
+</fw>
+<p>
+    to preserve it and hand it on unchanged. The grammars produced were
+    thus always basically prescriptive in intent, and, since preservation of a
+    uniform and exact pronounciation was not of importance to the culture,
+    the approach to the language through the written form, supported by a
+    well-maintained oral tradition and a sufficiently detailed writing system,
+    was perfectly adequate, and much simpler than the approach through
+    sound. In contrast, modern grammatical study is mainly concerned with
+    vernacular language. It is, at least in its early phases, descriptive in intent.
+    The readers of the grammar, and often the writer, are not native speakers,
+    and therefore cannot refer to a common oral tradition, and such vernaculars
+    usually lack an adequate writing system. Nevertheless, pronunciation is
+    required to be correct within narrow limits. Consequently, the approach
+    to the language through the sound system is the most efficient.
+</p>
+<p>
+    16. That the approach to language through sound was never developed
+    in the Near East is clearly a matter of cultural values, not of blind adherence
+    to a writing system, or of lack of technical ability. That Jacob of Edessa
+    based his grammar on sound is, no doubt, partly due to the fact that he
+    had to produce his own vowel signs, and so was forced to perform the
+    initial task of collection and analysis of forms in terms of sound. In part,
+    however, it is the mark of a great mind, which saw that sound, and not
+    writing, was the essence of the language.
+</p>
+      <pb/>
+    </body>
+  </text>
+</TEI>

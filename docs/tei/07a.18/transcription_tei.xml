@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Hebrew Accents and Greek Ekphonetic Neumes</title>
+      <author>
+        <persName>
+          <forename>E.</forename>
+          <forename>J.</forename>
+          <surname>Revell</surname>
+        </persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Studies in Eastern Chant</publisher>
+      <date when="1979">1979</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Hebrew Accents and Greek Ekphonetic Neumes</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Studies in Eastern Chant</title>
+          <imprint>
+            <biblScope unit="volume">IV</biblScope>
+            <date when="1979">1979</date>
+            <biblScope unit="page">140-170</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <notesStmt>
+    <note type="filename">07a.18_Hebrew_Accents_and_Greek_Ekphonetic_Neumes.pdf</note>
+  </notesStmt>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p>
+    <!-- This page appears to be a blank or damaged sheet with some foxing or staining at the top and bottom left. No legible text is present. -->
+</p>
+      <pb/>
+<head rend="center">STUDIES IN<lb/>
+EASTERN CHANT</head>
+
+<p rend="center">General Editors<lb/>
+EGON WELLESZ†<lb/>
+and<lb/>
+MILOŠ VELIMIROVIĆ</p>
+
+<p rend="center">VOLUME IV</p>
+
+<p rend="center">Edited by<lb/>
+MILOŠ VELIMIROVIĆ</p>
+
+<p rend="center">ST. VLADIMIR’S SEMINARY PRESS<lb/>
+Crestwood, N. Y. 10707<lb/>
+1979</p>
+      <pb/>
+<p rendition="center">
+    ISBN 0-913836-57-5<br/>
+    © 1979<br/>
+    St. Vladimir's Seminary Press
+</p>
+
+<p rendition="center" style="margin-top: 5em;">
+    <hi rend="italic">All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of St. Vladimir's Seminary Press.</hi>
+</p>
+
+<p rendition="center" style="margin-top: 20em;">
+    <hi rend="italic">Typed by J. A. P., Copenhagen<br/>
+    Printed in the United States of America<br/>
+    by<br/>
+    Athens Printing Company, New York, N. Y.</hi>
+</p>
+      <pb/>
+<head>Contents</head>
+<list>
+    <item>1. <title>In Memoriam Egon Wellesz</title> <space quantity="1" unit="chars"/> 1</item>
+    <item>2. Michael Adamis, <title level="a">A Reference to the Relation of Eastern and Western Chant</title> <space quantity="1" unit="chars"/> 3</item>
+    <item>3. Ilona Borsai, <title level="a">Deux chants caractéristiques de la Semaine Sainte Copte</title> <space quantity="1" unit="chars"/> 5</item>
+    <item>4. Dimitri E. Conomos,<lb/> <title level="a">The Iviron Folk-songs — A Re-examination</title> <space quantity="1" unit="chars"/> 28</item>
+    <item>5. Enrica Follieri, <title level="a">The ‘Living Heirmologion’ in the Hymnographic Production of John Mauropus, Metropolitan of Euchaita</title> <space quantity="1" unit="chars"/> 54</item>
+    <item>6. Christian Hannick, <title level="a">Les Lectionnaires Grecs de l’Apostolos avec Notation Ekphonétique</title> <space quantity="1" unit="chars"/> 76</item>
+    <item>7. Denise Jourdan-Hemmerdinger, <title level="a">Nouveaux fragments musicaux sur papyrus (une notation antique par points)</title> 81</item>
+    <item>8. A. E. Pennington, <title level="a">Seven Akolouthiai from Putna</title> <space quantity="1" unit="chars"/> 112</item>
+    <item>9. Danica Petrović, <title level="a">Hymns in Musical Manuscripts and Modern editions in Honour of Serbian Saints</title> <space quantity="1" unit="chars"/> 134</item>
+    <item>10. E. J. Revell, <title level="a">Hebrew Accents and Greek Ekphonetic Neumes</title> <space quantity="1" unit="chars"/> 140</item>
+    <item>11. Nanna Schiødt and Bj. Svengaard, <title level="a">A Method for Indexing Byzantine Music</title> <space quantity="1" unit="chars"/> 171</item>
+    <item>12. Gregorios Th. Stathis, <title level="a">An Analysis of the Sticheron <foreign xml:lang="grc">Τὸν ἥλιον κρύψαντα</foreign> by Germanos, Bishop of New Patras [The Old ‘Synoptic’ and the New ‘Analytical’ Method of Byzantine Notation’]</title> <space quantity="1" unit="chars"/> 177</item>
+    <item>13. Edward V. Williams, <title level="a">The Kalophonic Tradition and Chants for the Polyeleos Psalm 134</title> <space quantity="1" unit="chars"/> 228</item>
+    <item>Index 1. Byzantine Musicians <space quantity="1" unit="chars"/> 243</item>
+    <item>Index 2. Byzantine Musical Manuscripts Cited <space quantity="1" unit="chars"/> 246</item>
+</list>
+      <pb n="18"/>
+<byline>
+    <persName>E. J. Revell</persName>
+    <placeName>TORONTO, ONTARIO</placeName>
+</byline>
+
+<head>Hebrew Accents and Greek Ekphonetic Neumes</head>
+
+<p>At the end of the first millennium, Biblical (and other) texts in both Hebrew and Greek were frequently provided with ‘accent’ signs<ref target="#n1">¹</ref> to regulate the chanting of the text. The demonstration of relationship between Christian and Jewish liturgical music has led to various attempts to discover a relationship between these accent systems. The most recent of these, Gudrun Engberg’s article ‘Greek Ekphonetic Neumes and Masoretic Accents’ supports the idea of a close musical relationship between the systems, and suggests that the thesis there put forward be further investigated.<ref target="#n2">²</ref> The present article arises from an attempt to follow this suggestion from the viewpoint of a hebraist.</p>
+
+<p>Direct comparison of the accent systems is possible because, as far as we can tell, the use and function of the accents was the same both in Greek and in Hebrew texts. These texts were divided up into units — a word or a group of words — each of which was marked by an accent sign: at the end in Hebrew, at both beginning and end in Greek. Each accent had a ‘musical value’ in that it indicated the cadence to which the textual unit was to be chanted.<ref target="#n3">³</ref> Each accent also had an ‘interpunctional value’ in that it indicated the relationship between that textual unit and the others in the context.</p>
+
+<p>The accent signs are generally supposed to have been first introduced into texts in the fifth century, although we have definite</p>
+
+<note xml:id="n1" n="1">This term, conventional in Hebrew grammar, will be used to cover the Greek ekphonetic neumes as well.</note>
+
+<note xml:id="n2" n="2">See <title level="m">Studies in Eastern Chant</title>, I, ed. M. Velimirović, (London, 1966), p. 49. The beginning of this article (p. 37 f.) contains a survey of earlier studies.</note>
+
+<note xml:id="n3" n="3">Perhaps more truly ‘a range of musical values’. In modern chant the actual notes of the cadence vary with the syllable structure of the textual unit chanted to it (See S. Rosowsky, <title level="m">The Cantillation of the Bible</title>, New York, 1957, passim). Furthermore, the same text might be chanted in various modes, in each of which the same signs might represent a different cadence. R. Petahya of Regensburg, when visiting the Baghdad community in the twelfth century, was impressed by the number of tunes available for each psalm (see L. Grünhut, ed. <title level="m">Die Rundreise des R. Petachjah aus Regensburg</title>, Jerusalem, 1967, p. 24 f.), and similar variations may have existed earlier, even for ‘prose’ texts. Notation by means of accents, while not exact, was extremely versatile.</note>
+      <pb n="141"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES <num>141</num></head>
+<p>evidence only for Syriac (where this may have occured even earlier), and texts containing the full systems do not appear until much later. However this may be, it is certain that, for the Hebrew Biblical text at least, the phenomena indicated by the accents were in existence much earlier. The division into textual units was already established, in much the same form as later became traditionally fixed, in the second century B. C., and it is highly probable that there was equally little change in the music to which these units were chanted.<note n="4" place="foot">See my article ‘The Oldest Evidence for the Hebrew Accent System’ in the <title level="j">Bulletin of the John Rylands Library</title>, vol. 54 (1971-2) p. 214-22.</note> Before the introduction of written accent signs, the particular cadence required was indicated by a manual sign (cheironomy). It seems most likely that the written signs were, in fact, derived from these manual signs.<note n="5" place="foot">This idea has long been generally accepted. See e. g., Derenbourg, <title level="j">Journal Asiatique</title>, 6ème Ser. Tome XVI (1870) p. 492 note 1, W. Wickes, <title level="m">A Treatise on the Accentuation of the ... Poetical Books</title> (Oxford, 1881) p. 1 note 2, S. Levin, ‘The Traditional Cheironomy of the Hebrew Scriptures’, <title level="j">JBL</title> 87 (1968) p. 60. If true, it explains a number of the peculiar problems of the Hebrew accent systems as shown in my forthcoming book (see note 14).</note> The analysis of the Biblical text, and of the music to which it was chanted, was, therefore, well established before the introduction of written signs to mark it. It is highly likely that this was the case for the Rabbinic texts<note n="6" place="foot">In fact it is almost impossible that this should not be so—at least for the Mishna, as this material was traditionally chanted—at least from the end of the first century A. D. (see B. Gerhardsson, <title level="m">Memory and Manuscript</title>, Copenhagen 1964, p. 163 ff., and note 47 below)—and had been in a fixed textual form since (at least) the end of the second century.</note> and for the Greek Biblical texts as well.</p>
+<p>Of the two main functions of the accent signs:<note n="7" place="foot">In some Hebrew systems many accent signs also mark the position of the main word stress, but this is of no significance to the present study.</note> the marking of the cadence to which a textual unit was to be chanted, and the marking of the relationship of that unit to the others in the context, the latter appears generally to be considered the original.<note n="8" place="foot">So, e. g., E. Werner, <title level="m">The Sacred Bridge</title> (London, 1959) p. 105 f. The ancient information on the accents is found in the work of Massoretes and Grammarians, who were concerned above all with the written form of the text, and therefore with the form and position of the accent signs. They rarely make direct reference to their musical values, yet much of their terminology shows that, for them, the basic value of the accents was the musical one. See N. Allony, ‘Neima-nagma in the Middle Ages’ in <title level="j">Yuval</title> (Studies of the Jewish Music Research Centre) vol. 2, (1971) p. 25.</note> It has also been, almost exclusively, the basis of discussions by non-Jewish scholars of the Hebrew Biblical accents—presumably because it is the only function of the accent system significant for the study of the Biblical text. This has led to a tendency to regard these accents merely as ‘disjunctive’ markers of separation between phrases, or ‘conjunctive’ markers of connection between the words in a phrase, so that the interrelationship of the accents is scarcely regarded, save</p>
+      <pb n="142"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>insofar as they are said to mark ‘greater’ and ‘lesser’ pauses. The cheironomic signs must, however, have had a mainly musical significance, and, if the written signs are derived from them, their significance must be basically musical also.</p>
+<p>There are other indications that this is the correct view. The only sign in the Hebrew Biblical text which is indisputably a mark of punctuation (<hi rend="italic">sof pasuq</hi>, marking the end of a verse) is not connected with the accent system. The ‘major pausal accents’ <hi rend="italic">silluq</hi>, <hi rend="italic">atnaḥ</hi>, and <hi rend="italic">segolta</hi>, which mark the end of the main divisions of a verse, far from being the earliest accents known and the most commonly marked, are, in fact, the most frequently omitted, and the latest to be marked with specific signs (see below). This is understandable if the system has a basically musical significance (since there is considerable possibility of variation at the beginning of such a division, but not at the end) but not if it is a system of punctuation. There is, moreover, no evidence of development, in the Hebrew system, from one system using a few signs to mark punctuation towards another using many signs to mark music. There is only evidence of development in the detail and accuracy of the marking of the same phenomena. The system in which the signs are used does not change. This would seem to hold true for all Hebrew systems, whether used in Biblical or Rabbinic texts, and is probably true for the Greek system also. The Greek accent signs, it is true, may well have developed from punctuation signs, but I can see no evidence of a smooth process of evolution. I would assume that a system of signs intended to mark musical phenomena was intentionally created, using, in some cases, the same signs as were used as punctuation markers.</p>
+<p>It is, then, assumed in this paper that the basic function of the accent signs was musical, and that their function as markers of relationship was secondary.<note place="foot" n="9">They do not, however, constitute a real musical notation, because knowledge of the text to be chanted was necessary for their correct interpretation.</note> The signs are, moreover, regarded, not as individual entities with an intrinsic meaning, but as items in a system outside of which they are meaningless. The various types of accentuation are compared on the basis of the systems thus displayed, not on the basis of a particular text which they are used to punctuate. It is, after all, clearly true in all systems that the accentuation, in showing the relationship of the units of text to each other, shows which are to be emphasized, and to what extent. The accentuation controls the text, not vice versa (see note 66).</p>
+
+<pb n="143"/>
+<head>HEBREW ACCENTS AND GREEK EXPHONETIC NEUMES 143</head>
+<head>THE HEBREW BIBLICAL ACCENTS</head>
+<p><hi rend="italic">1. General</hi></p>
+<p>The basic unit of the Hebrew Biblical accentuation<note place="foot" n="10">This section refers only to the accentuation of the ‘21 Books’. The accentuation of the three ‘Poetical Books’: Psalms, Job, and Proverbs, is, in the standard Tiberian form, quite different from that of the ‘21 Books’, although there is some reason to think that this may not have been the case originally. I do not, myself, see any possibility of relationship between this ‘Poetic’ accentuation and the Greek Biblical accentuation, so I have not thought it necessary to discuss it here.</note> is, of course, the verse. The length of a verse may vary from a few words to many, and the syntactic structure relating those words from a part of a clause to a group of clauses. Nevertheless, the accentuation of each verse follows the same basic pattern, and is autonomous — independent of anything in the preceding or following verses.</p>
+<p>A verse is normally divided into two halves. The end of the first half is marked by <hi rend="italic">atnaḥ</hi>, and the end of the second (and of the whole verse) by <hi rend="italic">silluq</hi>. Excepting this feature (and the use of <hi rend="italic">segolta</hi>, see below) the two halves have the same possibilities of accentuation. They are composed of a terminal clause which may be preceded by one or more contextual clauses. The terminal clause is accented <hi rend="italic">tebir</hi> → <hi rend="italic">tifḥa</hi> → <hi rend="italic">atnaḥ</hi>/<hi rend="italic">silluq</hi>, with <hi rend="italic">tebir</hi> omitted from shorter clauses. In longer clauses, the minor accents from the contextual clause (<hi rend="italic">rebia</hi> etc.) are used to mark divisions preceding <hi rend="italic">tebir</hi>. The end of the contextual clause is marked with <hi rend="italic">zaqef</hi>. This may be the only accent in the contextual clause, but most commonly it is preceded by <hi rend="italic">pashṭa</hi>. Divisions preceding <hi rend="italic">pashṭa</hi> are marked by <hi rend="italic">rebia</hi>, <hi rend="italic">geresh</hi>, <hi rend="italic">pazer</hi>, <hi rend="italic">legarmeh</hi>, or <hi rend="italic">telisha</hi>, selected and arranged according to the requirements of the situation. More than one contextual clause may be used in one verse half. In the first verse half, the first of two or more contextual clauses may be made to stand out by the use of <hi rend="italic">zarqa</hi> and <hi rend="italic">segolta</hi> instead of <hi rend="italic">pashṭa</hi> and <hi rend="italic">zaqef</hi> to mark the last two phrases. A typical verse, then, is divided into two halves, each of which is composed of one contextual and one terminal clause (e. g. Lam. 1:1, 2). More than one contextual clause may occur in the first half (Lam. 1:3, 4), the second half (Lam. 1:10) or both halves (Lam. 1:7), and, if required, the first of two or more contextual clauses in the first verse half may be marked out by the use of <hi rend="italic">zarqa-segolta</hi> (Lam. 1:12). Either verse half may be composed only of a terminal clause (Lam. 1:3, 4, 5, second half, 1:6 first half). If the verse is unusually short, it is not divided into halves by <hi rend="italic">atnaḥ</hi>. It may then be composed of one contextual and one terminal clause (Lam. 3:1), or simply of one terminal clause (Lam. 3:2, 3).</p>
+<p>There are, then thirteen basic accents, four of which are confined to terminal clauses (<hi rend="italic">silluq</hi>, <hi rend="italic">atnaḥ</hi>, <hi rend="italic">tifḥa</hi> and <hi rend="italic">tebir</hi>), two to ordinary</p>
+      <pb n="144"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>contextual clauses (<hi rend="italic">zaqef</hi> and <hi rend="italic">pashṭa</hi>), and two to special context-
+ual clauses (<hi rend="italic">segolta</hi> and <hi rend="italic">zarqa</hi>). The remaining accents (<hi rend="italic">rebia, geresh,
+pazer, legarmeh,</hi> and <hi rend="italic">telisha</hi>) appear most commonly in the ordinary
+contextual clause, but can be used in any clause. These accents are
+known as ‘disjunctive’ because they are represented by signs which
+are placed on the last word in a phrase, and thus mark the divisions
+between the phrases into which the verse is divided. The words with-
+in these phrases are, in most manuscripts, marked with ‘conjunctive’
+accents, which indicate their interrelationship within the phrase.<ptr target="#n11"/>
+In a similar way, the disjunctive accents mark the interrelationship
+of the phrases within the verse, for, although, as described, wide
+variations are possible in the accentuation of verses, nevertheless
+certain definite patterns must be followed, and these serve to indi-
+cate the relationship of any one phrase to the others. These patterns
+are so definite that, in most cases where the first members of a
+group of accents are known, the remainder can be accurately pre-
+dicted.<ptr target="#n12"/> As shown above, this system of patterns covers the whole
+verse, so that each accent except that on the last word of a verse
+(<hi rend="italic">silluq</hi>) implies something to come. The accentuation of a verse is a
+unit which cannot be broken up.</p>
+<p>There is no indication, in the Hebrew Biblical accentuation, of
+the existence of units larger than the verse. Biblical texts do show
+a system of paragraphing, but this is not connected with the accents.
+In some present day communities a minor variation is used in the
+chanting of the final terminal clause of some large sections,<ptr target="#n13"/> but
+variations of this type are not marked in the accent system of any
+known manuscript. We may conclude, then, that the only unit of
+the Hebrew Biblical accentuation is the verse; characteristically
+divided into two halves, each of which shows a terminal clause
+which may be preceded by one or more contextual clauses.</p>
+<head>2. The Standard Tiberian Accentuation</head>
+<p>The Hebrew Biblical accentuation is known in several different
+forms, all of which were eventually superseded by the Standard Ti-</p>
+<note n="11" xml:id="n11">As pointed out, these signs also indicate musical features. The most sophisticated
+systems include signs which mark relationship only, and no musical features (<hi rend="italic">maqqef</hi>),
+and ‘secondary accent signs’ which mark only musical features, and not relationship
+(<hi rend="italic">gaʿya, darba</hi>, etc.).</note>
+<note n="12" xml:id="n12">There is an excellent example of this in the Bodleian manuscript Heb. e30 f. 48+ (P.
+Kahle, <hi rend="italic">Masoreten des Westens II</hi>, Stuttgart, 1930, MS M; M. Dietrich, <hi rend="italic">Neue palästinisch
+punktierte Bibelfragmente</hi>, Leiden, 1968, MS Cb 1). This manuscript is written in a
+system of brachygraphy designed mainly to show the accent system of the text, as
+shown in my forthcoming book (see note 14). Nevertheless many accents are not mark
+ed, because, if key signs are shown, the rest can be predicted. E. g. in Is. 61:8, only the 
+italicized accents are given: <hi rend="italic">munah</hi> mehuppak <hi rend="italic">pashṭa munah zaqef merka tifḥa atnaḥ</hi>
+mehuppak <hi rend="italic">pashṭa zaqef merka tifḥa merka silluq</hi>.</note>
+<note n="13" xml:id="n13">See Rosowsky, op. cit., p. 90 ff. According to his information such final terminal
+clauses are (in general) slightly higher in pitch and slower in tempo.</note>
+      <pb n="145"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 145</head>
+<p>berian, the system in use today and described in the various books on the Hebrew accents. The general description of the Biblical accentuation just given is based on this system. The Tiberian system uses a different sign for each of the thirteen basic disjunctive accents, and goes beyond this in using further signs to indicate musical variants of some of them (<hi rend="italic">zaqef gadol</hi>, <hi rend="italic">yetib</hi>, etc.) The actual forms of the signs vary slightly among the manuscripts, but in all Tiberian manuscripts, the four disjunctive accents characteristic of the terminal clause are all written below the line. The other disjunctives (with the exception of <hi rend="italic">yetib</hi>, a relatively rare variant of <hi rend="italic">pashṭa</hi>) are all written above the line. Tiberian manuscripts normally mark all conjunctive accents, and also use the secondary signs referred to in note 11.</p>
+
+<p><hi rend="italic">3. The Palestinian Accentuation</hi>
+This form of accentuation is known only from a few manuscripts.<ptr target="#n14"/> This paucity of information is bound to leave gaps in our knowledge of the system. It is therefore doubly unfortunate that the most accessible description of it was written at the very beginning of the study of the Palestinian texts.<ptr target="#n15"/> As a result, an altogether distorted view of this accentuation is current in the scholarly world. It is generally viewed as an extremely primitive system which was in use only prior to the invention of the Tiberian accentuation. The claim that ‘in the Old-Palestinian notation there was only one sign – a single dot over the line’ for the accents <hi rend="italic">rebia</hi>, <hi rend="italic">zaqef</hi>, and <hi rend="italic">segolta</hi> (an important point in the thesis of Engberg referred to above) is, unfortunately, an example of this.<ptr target="#n16"/>
+In fact, different signs are used for <hi rend="italic">zaqef</hi> and <hi rend="italic">rebia</hi> in all Palestinian manuscripts. The signs used are:</p>
+
+<note n="14" xml:id="n14">Perhaps 30, depending on how wide the term ‘Palestinian’ is extended. This description of the Palestinian accentuation is based on a detailed study of the manuscripts to appear in a forthcoming book on Palestinian accent systems and stress patterns. I have (mainly for the needs of this book) been able to obtain photographs of all the Hebrew manuscripts mentioned in this paper. I am deeply grateful to the Librarians of the Bodleian Library, Oxford, the University Library, Cambridge, and the Bibliothèque Nationale et Universitaire, Strassbourg, for supplying me with these photographs, and for permitting me to use unpublished materials. Materials from the Bodleian Library are quoted as Bod(leian) MS Heb(rew). Materials from the Cambridge University Library are quoted as TS–, referring to the Taylor-Schechter collection in that Library.</note>
+<note n="15" xml:id="n15">P. Kahle, in Bauer-Leander <hi rend="italic">Historische Grammatik der hebraischen Sprache</hi> (Halle, 1922), p. 139 ff. This description was based only on Bodleian MS Heb. e30 f. 48+ (see note 12).</note>
+<note n="16" xml:id="n16">G. Engberg, op. cit., p. 40 n. 16 (cf. p. 42). Kahle’s description (op. cit.) is referred to for support, but a brief check in his later publications would have shown that this statement needs, at the very least, considerable qualification. See, e. g., <hi rend="italic">Masoreten des Westens</hi>, II, p. 21*, 26*.</note>
+      <pb n="146"/>
+<head>STUDIES IN EASTERN CHANT</head>
+
+<list>
+    <item>Group I <space extent="3" unit="chars"/> <foreign xml:lang="heb">zaqef</foreign> <unclear>╎̇</unclear>-- <space extent="3" unit="chars"/> <foreign xml:lang="heb">rebia</foreign> <unclear>╎̈</unclear>--</item>
+    <item><space extent="6" unit="chars"/>II <space extent="12" unit="chars"/> --- (high) <space extent="7" unit="chars"/> <unclear>╎̇</unclear>-- (low)</item>
+    <item><space extent="6" unit="chars"/>III <space extent="11" unit="chars"/> <unclear>╎̤</unclear>-- <space extent="16" unit="chars"/> ---</item>
+    <item>TS 20:59 <space extent="11" unit="chars"/> <unclear>╎̤</unclear>-- <space extent="16" unit="chars"/> ---</item>
+</list>
+
+<p>It is thus true to say that both <foreign xml:lang="heb">zaqef</foreign> and <foreign xml:lang="heb">rebia</foreign> may be marked by dots, but what is significant is not the shape of the sign, but whether it is distinguished from other signs. It is quite clear that different signs were used for <foreign xml:lang="heb">zaqef</foreign> and <foreign xml:lang="heb">rebia</foreign> in all Palestinian manuscripts.<note n="17">The majority of manuscripts, including several generally considered as among the earliest, use the signs of pattern 1. (E. g. the Strassbourg MS, see note 41). Only four manuscripts use pattern 2, and of these, three are among the manuscripts which show the most sophisticated systems, and are therefore generally considered late. One of these is Bodleian MS Heb. e30 f. 48+, on which Engberg's claim is founded, although, as Kahle did not realize, the <foreign xml:lang="heb">zaqef</foreign> and <foreign xml:lang="heb">rebia</foreign> signs are distinct in this manuscript, as later noted by Dietrich (op. cit. p. 38-9).</note> <foreign xml:lang="heb">Segolta</foreign>, where it appears, is also always marked by a sign different from that used to indicate <foreign xml:lang="heb">rebia</foreign>. The <foreign xml:lang="heb">segolta</foreign> sign is, furthermore, always different from that used for <foreign xml:lang="heb">zaqef</foreign>, except in one manuscript, TS 20:59, as described in the next paragraph.<note n="18"><foreign xml:lang="heb">Segolta</foreign> is normally not marked in Bod. MS Heb. e30 f. 48+ (see my forthcoming study, referred to in note 14). In my opinion it never was marked, but there is room for doubt. If it was marked, the <foreign xml:lang="heb">zaqef</foreign> sign was used.</note></p>
+
+<p><foreign xml:lang="heb">Zaqef</foreign>, <foreign xml:lang="heb">rebia</foreign>, and <foreign xml:lang="heb">segolta</foreign>, are never, then, all marked by the same sign in Palestinian manuscripts. They are, in fact, almost always marked by three different signs. It is, however, true that no Palestinian manuscript uses a different sign for each of the thirteen basic disjunctive accents. The number of different signs actually found varies from eight to eleven, with nine as the most common number. Investigation shows that, where any group of accents is marked by the same sign, that sign is used in some other manuscript to mark only one member of that group, for which it may, therefore, be considered the specific sign. The accents most commonly grouped in this way are:</p>
+
+<list>
+    <item>1a <foreign xml:lang="heb">tifḥa/atnaḥ/segolta/(silluq)</foreign><note n="19"><foreign xml:lang="heb">Silluq</foreign> is usually not marked.</note> marked with the <foreign xml:lang="heb">tifḥa</foreign> sign.</item>
+    <item>1b <foreign xml:lang="heb">atnaḥ/segolta</foreign> marked with the <foreign xml:lang="heb">atnaḥ</foreign> sign.</item>
+    <item>2 <foreign xml:lang="heb">legarmeh/zarqa</foreign> marked with the <foreign xml:lang="heb">legarmeh</foreign> sign.</item>
+</list>
+
+<p>Groupings 1a or 1b and 2 are used in the vast majority of Palestinian manuscripts. In two manuscripts, however, <foreign xml:lang="heb">zaqef</foreign> and <foreign xml:lang="heb">atnaḥ</foreign> are marked by the same sign (the <foreign xml:lang="heb">zaqef</foreign> sign). In TS 20:59, <foreign xml:lang="heb">segolta</foreign> is also marked by this sign. In TS Misc. 29:19, there is no example of</p>
+      <pb n="147"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES</head>
+<p>
+    segolta.<note n="20">TS Misc. 29:19 is not published. TS 20:59 was published by P. Kahle (op. cit.) as MS H, and a further fragment from the same manuscript by M. Dietrich, op. cit., as MS Cb 5. This is generally considered one of the earliest manuscripts, but it differs considerably from all other Palestinian manuscripts (including TS Misc. 29:19). Part of the same scroll (TS 28:16) is accentuated with signs in an early form of the Tiberian system and here <hi rend="italic">segolta</hi> is marked with the <hi rend="italic">atnaḥ</hi> sign in Ez. 23:10, 22.</note> These two manuscripts (which are peripheral to the Palestinian tradition as we know it, and of which the accent systems differ in other features) might be held to show support for Engberg’s suggestion that <hi rend="italic">zaqef</hi>, <hi rend="italic">segolta</hi>, and <hi rend="italic">rebia</hi> were originally not distinct. It is far more likely, however, considering the situation in the majority of Palestinian manuscripts, that it was customary not to use specific signs for <hi rend="italic">atnaḥ</hi> and <hi rend="italic">segolta</hi> (perhaps because no signs had been developed) and that the traditions which these manuscripts represent chose to use the <hi rend="italic">zaqef</hi> sign for this purpose, rather than the more usual <hi rend="italic">tifḥa</hi> or <hi rend="italic">atnaḥ</hi> signs.<note n="21">In TS 12:197 and TS NS 246:22 (see below) <hi rend="italic">zaqef</hi>, <hi rend="italic">pazer</hi>, and <hi rend="italic">legarmeh</hi>, are all marked with the <hi rend="italic">zaqef</hi> sign.</note>
+</p>
+<p>
+    We may, then, properly describe the situation in the Palestinian manuscripts by saying that the thirteen basic disjunctive accents were always marked (<hi rend="italic">silluq</hi> usually by the verse end marker, <hi rend="italic">sof pasuq</hi>, rather than by a real accent sign). While most accents were marked by a specific sign, however, some were marked with the sign for some other accent. It is notable that the accents of which the identity is most consistently obscured in this way are the major disjunctive accents: <hi rend="italic">silluq</hi>, <hi rend="italic">atnaḥ</hi>, and <hi rend="italic">segolta</hi>. These signs come at the ends of clauses, and mark the characteristic ends of cadences. Their presence is, as was noted above, predictable. Consequently they are, in their musical significance, the least necessary of all the accent signs.<note n="22">Thus in Bod. MS Heb. e30 f. 48+ (see note 12) <hi rend="italic">silluq</hi> (and also probably <hi rend="italic">segolta</hi>) is never marked, <hi rend="italic">atnaḥ</hi> is marked only where it is the first disjunctive in a verse, and <hi rend="italic">zaqef</hi> only where it does not follow <hi rend="italic">pashṭa</hi>. We can, then, point out that Werner is quite wrong when he says that the ‘Old-Palestinian’ accentuation shows ‘only the strongest accents of separation’ (op. cit. p. 115). It is precisely these that are not specifically marked, or not marked at all.</note> The common failure to use different signs for <hi rend="italic">zarqa</hi> and <hi rend="italic">legarmeh</hi> might indicate that they were considered to be a single accent, but <hi rend="italic">zarqa</hi> is not always marked by the <hi rend="italic">legarmeh</hi> sign, and is, in one manuscript, given a specific sign of its own. It is more probable, in my opinion, that, just as it was not necessary to use specific signs for the major pausal accents because of their predictability, so it was not necessary to use a specific sign for <hi rend="italic">zarqa</hi> because of its rarity. <hi rend="italic">Zarqa</hi> characterized the ‘special contextual clause’ however, and had, therefore, to be distinguished from <hi rend="italic">pashṭa</hi> and <hi rend="italic">tifḥa</hi>, so — for whatever reason — <hi rend="italic">legarmeh</hi> was usually used to mark it.
+</p>
+<p>
+    It seems probable that, because they were not considered necessary, the use of specific signs for <hi rend="italic">zarqa</hi> and <hi rend="italic">atnaḥ</hi> was a late develop-
+</p>
+      <pb n="148"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>ment in the Palestinian system, while signs for <hi rend="italic">silluq</hi> and <hi rend="italic">segolta</hi>
+never were developed. To this extent one can say that the Palestin-
+ian writing system was more ‘primitive’ than the Tiberian. The
+question of ‘primitiveness’ is not, however, so easily settled. All
+the sophistications of the Tiberian system appear in Palestinian
+manuscripts, and, since different signs are used to mark these fea-
+tures, there can be no question of copying from one system to an-
+other.<note n="23" place="foot"><hi rend="italic">Paseq</hi> is marked quite widely, even in Bodleian MS Heb. d29 f. 17+ (Dietrich, op. cit.,
+MS Ob 1, Jos. 15:7, 55, 19:11, 20:4) which is otherwise almost identical to the Strass-
+bourg MS, which is considered one of the very earliest (see note 43). Bod. MS Heb.
+e30 f. 48+ marks the full range of conjunctive accents (although fewer signs are used
+than in Tiberian texts) and also marks the secondary accents referred to in note 11.</note> TS 12:197, and TS NS 246:22 outdo the Tiberian system in
+the detailed marking of certain features, as both distinguish three
+different conjunctives (as described in later grammatical works)
+where the Tiberian system uses only <hi rend="italic">munaḥ</hi>.<note n="24" place="foot">See W. Wickes, <hi rend="italic">A Treatise on the Accentuation of the Twentyone Books...</hi> (Oxford,
+1887), p. 22 f. TS 12:197 was published by P. Kahle, op. cit., as MS K, TS NS 246:22
+by A. Díez-Macho in <hi rend="italic">Studia Papyrologica</hi> 6, (1967) p. 15-25. The use of these accents
+differs slightly in the manuscripts.</note> These manuscripts,
+however, only use eight different signs to mark the thirteen basic
+disjunctives. The only reasonable explanation is that there was a
+deliberate attempt to limit the number of different signs used. The
+apparent ‘primitiveness’ of the system is, then, in many cases, really
+a mark of sophistication. The men of the Palestinian community
+were obviously unwilling to add more than was absolutely necessary
+to the Biblical text, and so used a limited number of signs with
+great ingenuity to convey a great deal of information. For the same
+reason, no doubt, they tended to use their vowel and diacritical
+signs sporadically. The Tiberian scholars, on the other hand, held a
+different point of view, and opted for the clear marking of detail by
+the use of a much larger number of different signs.</p>
+<p>A detailed study of the Palestinian accentuation has convinced
+me that it derives, in fact, from the same origin as does the Tiberian.
+Even in the most widely variant accentuation, the Palestinian dis-
+junctive accents still follow the rules of use derived by Wickes (op.
+cit.) from the study of Tiberian texts. The system of conjunctives
+appears to differ somewhat from the standard Tiberian, but similar
+anomalies can be found in Tiberian texts as late as the fifteenth
+century. A further mark of their common origin is the fact that, in
+both systems, the signs marking the terminal clause are written be-
+low the line, the other signs above. Even the different signs used in
+the two systems for the same accent can, it seems to me, be traced,</p>
+      <pb n="149"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 149</head>
+
+<p>in many cases, to the same original.<note n="25">An attempt is made to do this in my forthcoming study referred to above. It should be noted, however, that similarity of sign form is often not significant. The same sign is used for Palestinian <foreign>telisha</foreign> and Tiberian <foreign>zaqef</foreign>, Palestinian <foreign>merka/darga</foreign> and Tiberian <foreign>munah</foreign>. For this reason comparative lists, such as that published by Werner on p. 317 of the first volume of the <title>Oxford History of Music</title> (London, 1960) must be used with great caution.</note> It seems highly likely (as noted above) that this original was the hand movement used in cheironomy to mark the cadence later marked by the written sign. These movements, then, formed the common basis of the Tiberian and Palestinian systems, and of other ‘Western’ systems (represented by even fewer manuscripts than is the Palestinian) which use a mixture of Palestinian and Tiberian sign forms. The different written signs perhaps originated in different communities, and certainly developed differently, but represent the same basic phenomena.</p>
+
+<p>It is, then, my belief, which, I would claim, can be supported beyond any reasonable doubt, that the Palestinian and Tiberian accent systems derive from the same origin, and were in parallel, not successive, use.<note n="26">The date of the Palestinian texts is uncertain, but the Biblical manuscripts were probably produced in the eighth to tenth centuries.</note> The apparent ‘primitiveness’ of the Palestinian system is the result of differing cultural priorities in the two communities, not of earlier date or simpler structure. The two systems are different ways of indicating the same basic phenomena, used in different communities at the same time.</p>
+
+<head>4. The Babylonian System</head>
+<p>The Babylonian accentuation is known from many manuscripts. The description of A. Spanier<note n="27">Die massoretischen Akzente (Berlin, 1927) chapters 3 and 4. The known manuscripts are listed by Kahle in the prolegomena to the third edition of <title>Biblia Hebraica</title> (Stuttgart 1937) and (more completely) by I. Yeivin in his thesis <title>The Babylonian Vocalization</title> (Jerusalem 1968) p. 71 ff.</note> shows that several systems were in use. All of these, however, show certain characteristic differences from the Tiberian and other ‘Western’ systems. 1) The Babylonian accent signs are, characteristically, all written above the line, and mostly take the form of letters not strokes or dots. 2) <foreign>Tifha</foreign> before <foreign>atnah</foreign> and <foreign>tifha</foreign> before <foreign>silluq</foreign> are marked with different signs. Presumably, then, the terminal cadences of the two verse halves differed in their last two motifs, not, as in the Western systems, only in the final ones. 3) Each verse half can have only one contextual</p>
+      <pb n="150"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>clause, the end of which is marked by <hi rend="italic">zayin</hi>, which is thus not exactly equivalent to the Western <hi rend="italic">zaqef</hi>.<note n="28" place="bottom">Engberg, (op. cit. p. 49) is misleading on this. The Babylonian manuscript designated by Kahle as Eb 10 is particularly instructive in this respect. Palestinian accentuation (and some vocalization) was added to the complete Babylonian pointing, as described by A. Díez-Macho, <hi rend="italic">Estudios Bíblicos</hi> 13 (1954) p. 253 ff., I. Yeivin, <hi rend="italic">Textus</hi> 3, (1963), p. 124 ff. In the New York fragment published by Díez-Macho, Palestinian disjunctive accents are normally marked, save that the <hi rend="italic">zaqef</hi> sign is omitted where it would coincide with the Babylonian <hi rend="italic">zayin</hi> sign. This is also true of the fragments from Cambridge, where, in addition, the Palestinian <hi rend="italic">tifḥa</hi> sign is not used when it would coincide with either of the Babylonian <hi rend="italic">tifḥa</hi> signs, and the Palestinian <hi rend="italic">pashṭa</hi> sign is not used where it would coincide with the Babylonian <hi rend="italic">taw</hi>. This manuscript, then, affords a contemporary view of the relation between the Babylonian and ‘Western’ accent systems, and suggests that these three accents (and also <hi rend="italic">atnaḥ</hi> and <hi rend="italic">silluq</hi> which are not marked at all) could be equated in this way, but not the others. About fifty per cent of the cases of Palestinian <hi rend="italic">zaqef</hi> coincide with Babylonian <hi rend="italic">zayin</hi>.</note>
+This use of only one contextual clause in each verse half results in numerous variations from the Tiberian accentuation. Where the Tiberian system marks several contextual clauses, moreover, the different Babylonian systems may use different methods of marking the divisions of the text, often indicating quite different relationships between the divisions. The following quotation gives an example of this. (The first half of Ez. 16:63. The commas indicate minor disjunctive accents. C indicates ‘Contextual clause’, T ‘Terminal clause’. The Babylonian examples are from P. Kahle, <hi rend="italic">Masoreten des Ostens</hi>, Leipzig 1913, p. 44).</p>
+<list>
+    <item>Tiberian.</item>
+    <item>C1. That thou mayest remember, and be confounded.</item>
+    <item>C2. and never any more, open thy mouth.</item>
+    <item>T because of, thy shame.</item>
+</list>
+<list>
+    <item>Codex Babylonicus Petropolitanus.</item>
+    <item>C That thou mayest remember, and be confounded.</item>
+    <item>T and never any more, open thy mouth, because of, thy shame.</item>
+</list>
+<list>
+    <item>2nd Firkowitch Collection, MS 1545.</item>
+    <item>C That thou mayest remember and be confounded, and never, any more.</item>
+    <item>T open thy mouth, because of thy shame.</item>
+</list>
+<p>In terms of punctuation the differences are considerable (although not so great that all three examples might not be used by the same preacher to inculcate different lessons). No doubt the details of the music to which the three were chanted also differed considerably, but clearly there would be no difficulty in fitting all three into the same basic musical framework.</p>
+<p>The differences between the various Babylonian accent systems could be explained in terms of progressive assimilation to the Tibe-</p>
+      <pb n="151"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 151</head>
+
+<p>rian model. Whether or not this is true, however, it is clear that whatever development occurred was not from a simpler to a more complex system, but from one complex system to another.</p>
+<p>Similarly, there can be no question of the basic identity of the major accents of the contextual clause here any more than in the Western systems. The unique position of <hi rend="italic">zayin</hi> is, after all, clear from the brief description given above. The Babylonian systems, then, show considerable differences from the Western systems in details, but all show the same basic pattern. The basic unit, the verse, is divided into two halves, each composed of a terminal clause which may be preceded by one (or, in the Western systems, one or more) contextual clause(s).</p>
+
+<head>THE ACCENTUATION OF RABBINIC TEXTS</head>
+
+<p><hi rend="italic">1. General Description</hi>
+<lb/>Besides Biblical texts, a large number of other Hebrew texts are provided with accent signs. Some of these (the Targums, Ben Sira, etc.) show the system used in Biblical texts, but a large body of material, known generally as ‘Rabbinic Literature’ (Mishna, Talmud, Midrash) shows a completely different system. I. Yeivin has described a wide range of texts with this type of accentuation in his article ‘Prosodic Accents to Rabbinic Literature’,<ptr target="#n29"/> which has been most useful to this study. My own investigation of this accentuation has been based on texts of the Mishna, since the use of the different sets of accent signs can be most easily compared in texts of the same type — indeed, it is often possible to compare the use of different sets of signs in the same passage.<ptr target="#n30"/></p>
+
+<p><hi rend="italic">1a. The Basic System</hi>
+<lb/>In the Rabbinic texts, the basic unit of accentuation is the paragraph. This ‘paragraph’ is characteristically made up of a number of contextual clauses, all of which have the same possibilities of accentuation, followed by a terminal clause with different accents. The terminal clause is, in its characteristic form, divided into four phrases, marked by four accents, <hi rend="italic">1</hi> (the last), <hi rend="italic">2, 3,</hi> and <hi rend="italic">4</hi> (see Ex. 5:14).<ptr target="#n31"/> If the textual unit corresponding to the terminal cadence</p>
+
+<note n="29" xml:id="n29"><hi rend="italic">Leshonenu</hi> 24 (1959-60), pp. 47-69, 167-78, 207-31.</note>
+<note n="30" xml:id="n30">This study is based mainly on the texts listed in the <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> II, by A. Neubauer and A. E. Cowley (Oxford, 1906), and on those in Box F1 of The Taylor-Schechter Collection of the Cambridge University Library, although some other manuscripts have, of course, been used. I am most grateful to the Librarians concerned for providing me with photographs of these manuscripts.</note>
+<note n="31" xml:id="n31">The accent marking the last word in the paragraph, <hi rend="italic">1</hi>, is often omitted, as is <hi rend="italic">silluq</hi> in the Biblical accentuation, and, as there, the end of the paragraph is usually marked with some sign not connected with the accent system.</note>
+      <pb n="152"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>is short, the first phrase of the characteristic cadence is omitted, so
+that accent 4 does not appear (see Exx. 2:4a, 5:10). If the textual
+unit is long, it may be divided into more than four phrases. In this
+case the initial ones are usually marked with the sign used at the
+beginning of the contextual clause (accent 7, see Ex. 1:5b). In some
+cases, however, accent 3 is repeated (Ex. 1:5a).<note n="32">I have noticed some forty cases in the texts studied. Accents 2 and 4 also appear occasionally to be repeated, but examples are so rare that they are probably to be considered as due to error or misreading.</note></p>
+<p>If the paragraph is short, the whole of it may be accentuated as
+a terminal clause.<note n="33">e. g., Yebamot 14:2 in the Bodleian MSS Heb. c8 f. 3, and Heb. c 17 f. 27.</note> In most paragraphs, however, the terminal
+clause is preceded by one or more contextual clauses. These are
+characteristically marked with three accents, 5 (the last), 6, and 7
+(see Exx. 1:1, 1:2 etc.). If the textual unit marked is short, accent
+7 may not be used (see Exx. 2:2, 2:3, etc.), and, occasionally, a con-
+textual clause consists only of one phrase marked by accent 5. If
+the unit marked is long, any initial phrases are usually all marked
+with accent 7 (see Exx. 2:1a, 2:1b-2b). In a few cases, however, ac-
+cent 6 is repeated.<note n="34">This occurs in example 3:3a, rather surprisingly, as one would expect a preceding accent 7. In some manuscripts with unusual accent signs, such as the final folios of the Kaufmann Codex, accent 6 appears to be repeated rather frequently.</note></p>
+<head>Ib. Special Situations</head>
+<list>
+    <item>(i) Where a number of units in a contextual clause require equal emphasis</item>
+</list>
+<p>These seven accents used in this way constitute the basic system.
+In some manuscripts, however, in particular situations these basic
+accents are used differently, or further accents are marked. It may
+happen that several units within a contextual clause require the
+same emphasis. If they are relatively long, they are usually marked
+with accent 7, and, in many cases, a normal extended variation of
+the basic contextual clause is produced. In some cases, however,
+accent 6 is omitted &mdash; a situation frequent in lists where the con-
+textual clause ends with the last item in the list &mdash; so that the clause
+is accented 7 ..... 7 &rarr; 7 &rarr; 5 (as in the original accentuation of Ex.
+1:3b). If the units requiring equal emphasis are relatively short, as
+with one-word items in a list, a new sign, accent 8 may be used to
+mark them. This sign may be used before accent 5, 6, or 7 (see Exx.
+1:3a, 3:2a, 4:2, and 4:6). It may be repeated as often as is required,
+although single examples frequently occur.</p>
+<p>There do not appear to be any rigid prescriptions for the use of
+these accents. The same passage may be accented in one manuscript</p>
+      <pb n="153"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 153</head>
+<p>as a list, in another as a normal contextual clause. In some cases one finds that one manuscript uses accent <hi rend="italic">8</hi> where another uses <hi rend="italic">7</hi>, and in some manuscripts both are used on the same word (see Ex. 1:3b), suggesting that accent <hi rend="italic">8</hi> was a new introduction, and was sometimes added to manuscripts which had been accentuated before it was in use. It is possible that it did not indicate any innovation in the chant, but merely that no sign of cadence (or pause) should occur, even though (with the end of a syntactic unit) one might be expected.<note n="35" place="foot">On the musical level, then, it would indicate that the unit(s) marked with <hi rend="italic">8</hi> are to be chanted as part of the cadence indicated by the following accent sign, and so this sign, like <hi rend="italic">maqqef</hi> in the Biblical accentuation, would indicate not a particular cadence, but maintenance of any cadence. This form of the sign used for <hi rend="italic">8</hi> – that used for the Tiberian Biblical <hi rend="italic">shofar</hi> accent – may, then, be significant, as the name <hi rend="italic">shofar</hi> 'horn' appears to have been the origin of the latin <hi rend="italic">tuba</hi> as a name for the <hi rend="italic">tenor</hi>, or 'reciting note'. (But note that accent 6 in class 3 is marked with the same sign, see table 1.)</note> Similarly, it is possible that the repetition of other accent signs: <hi rend="italic">3</hi>, <hi rend="italic">6</hi>, or <hi rend="italic">7</hi>, may not indicate the repetition of a particular cadence, but the maintenance of it. This seems particularly likely in the case of accents <hi rend="italic">3</hi> and <hi rend="italic">6</hi>, which are not normally repeated. It is equally possible, however, that the repetition of these signs indicated that the cadence was to be repeated, and that accent <hi rend="italic">8</hi> was a particular cadence (or group of cadences) characteristic of (and used to mark) situations requiring a minor pause.</p>
+<p>(ii) <hi rend="italic">Where particular contextual clauses require special emphasis</hi></p>
+<p>In some manuscripts, certain contextual clauses are marked with special signs which differentiate them from normal contextual clauses. These indicate accent <hi rend="italic">9</hi>, which marks the end of the clause (corresponding to accent <hi rend="italic">5</hi> in an ordinary clause) and accent <hi rend="italic">10</hi> which marks the preceding division (corresponding to accent <hi rend="italic">6</hi>). Accent <hi rend="italic">10</hi> may be repeated once, but any preceding divisions are marked with accent <hi rend="italic">7</hi>, as in the ordinary contextual clause.<note n="36" place="foot">Accent <hi rend="italic">9</hi> is normally preceded immediately by accent <hi rend="italic">10</hi>, but, in one case I have noted, accent <hi rend="italic">6</hi> occurs between them. TS F 1:87+88, <hi rend="italic">Nedarim</hi> 9:10 'R. Ishmael said to him 7 My son <hi rend="italic">10</hi> did you make a vow about this one <hi rend="italic">6</hi> and he said No <hi rend="italic">9</hi>'. Here accent 9 is reserved for the strong emphasis of the negative rather than the question.</note> This type of accentuation is most commonly used in questions (see Ex. 5:13), although many questions are not marked in this way.<note n="37" place="foot">E.g., in TS F1:4 and Bod. MS Heb. d63 f. 6, the questions in <hi rend="italic">Berakot</hi> 2:5,6 and 7 are marked with accents <hi rend="italic">9</hi> and <hi rend="italic">10</hi>, but not that in <hi rend="italic">Berakot</hi> 4:2.</note> It is not, however, restricted to questions, but can also mark sharp contrast, or emphasis (see the example given in note 36). Consequently it seems best to regard it as marking a contextual clause as requiring special emphasis of some sort or another.<note n="38" place="foot">Cf. the Syriac accentuation, where the same sign was called <hi rend="italic">mᵉshaʿalana</hi> 'questioning' or <hi rend="italic">paqoda</hi> 'commanding' according to the type of emphasis involved. See J. B. Segal, <hi rend="italic">The Diacritical Point and the Accents in Syriac</hi> (London, 1953) p. 64, 68 f.</note></p>
+      <pb n="154"/>
+<head>STUDIES IN EASTERN CHANT</head>
+
+<p>Accents <hi rend="italic">9</hi> and <hi rend="italic">10</hi> occur only in manuscripts of class 1 or class 2 (see table I below), and not in all of those. These signs are not common in any manuscript, so it is likely that their non-appearance in some is due merely to the accident of preservation. It does seem probable, however, that a number of manuscripts, even in these classes, did not use them at all.<note n="39" place="foot">There are about thirty examples of the use of accents <hi rend="italic">9</hi> and <hi rend="italic">10</hi> in the texts studied. In the several cases in which two or three manuscripts include the passage in question, all mark accents <hi rend="italic">9</hi> and <hi rend="italic">10</hi> in the same position, and, perhaps by chance, there is no case in which one manuscript uses these accents while another uses accents 5 and 6 for the same clause. There is thus no definite evidence that some manuscripts did not use these accents.</note> It seems possible, then, that they too are a later addition to the writing system.</p>
+
+<p>Table I. <hi rend="italic">The Forms of Accent Signs Used in Mishnaic Texts</hi></p>
+<p>The combinations shown here are those which occurred in more than one of the manuscripts studied.</p>
+
+<table>
+    <row>
+        <cell>Accent</cell>
+        <cell>1</cell>
+        <cell>2</cell>
+        <cell>3</cell>
+        <cell>4</cell>
+        <cell>5</cell>
+        <cell>6</cell>
+        <cell>7</cell>
+        <cell>used in vocalization</cell>
+    </row>
+    <row>
+        <cell>Class 1</cell>
+        <cell> \ </cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>49 MSS Tiberian</cell>
+    </row>
+    <row>
+        <cell>2</cell>
+        <cell> / </cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>24 MSS Tiberian</cell>
+    </row>
+    <row>
+        <cell>3</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>┘</cell>
+        <cell>⸗</cell>
+        <cell>3 MSS Tibero-Palestinian<note n="40" place="foot">I. e., manuscripts with Tiberian signs used in a (more or less) ‘Palestinian’ manner. Described by A. Díez-Macho (under the name ‘pseudo-ben Naftali’) in D. W. Thomas, and W. H. McHardy, ed.), <hi rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver</hi> (Oxford, 1963), p. 16-52, and <hi rend="italic">Augustinianum</hi> 10, (1970-71) p. 213-40.</note></cell>
+    </row>
+    <row>
+        <cell>4</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>2 MSS</cell>
+    </row>
+    <row>
+        <cell>5</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell>⸗</cell>
+        <cell>┴</cell>
+        <cell>┴</cell>
+        <cell>┴</cell>
+        <cell>2 MSS</cell>
+    </row>
+    <row>
+        <cell>6</cell>
+        <cell>—</cell>
+        <cell> / </cell>
+        <cell>—</cell>
+        <cell>..</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>2 MSS Palestinian</cell>
+    </row>
+    <row>
+        <cell>7</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>⸗</cell>
+        <cell> / </cell>
+        <cell>..</cell>
+        <cell>..</cell>
+        <cell>3 MSS TP. 1<note n="41" place="foot">‘TP. 1’ indicates a small group of manuscripts which appear to represent an early stage of the ‘Tibero-Palestinian’ tradition (see note 40). The vowel signs are Tiberian, but <hi rend="italic">qames</hi> and <hi rend="italic">segol</hi> are not used. Some accent signs appear in forms used in Tiberian and/or Palestinian texts, and some in forms used in neither, as described in my paper ‘A New Subsystem of ‘Tibero-Palestinian’ Pointing’ read at the Fifth World Congress of Jewish Studies in 1969.</note></cell>
+    </row>
+</table>
+
+<p rend="right">(Table I contd. next p.)</p>
+      <pb n="155"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES</head>
+
+<p>Other Accents . . . . . 8 9 10 The forms of 10 occur in
+<list>
+    <item>
+        <graphic url="symbol_1.png"/> « class 1, 7 MSS, class 2, 2 MSS
+    </item>
+    <item>
+        <graphic url="symbol_2.png"/> » class 1, 1 MS
+    </item>
+    <item>
+        <graphic url="symbol_3.png"/> class 1, 1 MS
+    </item>
+    <item>
+        <graphic url="symbol_4.png"/> class 2, 1 MS
+    </item>
+    <item>
+        <graphic url="symbol_5.png"/> class 1, 2 MSS, class 2, 1 MS
+    </item>
+    <item>
+        <graphic url="symbol_6.png"/> class 1, 1 MS
+    </item>
+</list>
+</p>
+
+<p>Conjunctive accent signs of Tiberian form occur in a few manuscripts of classes 1, 2, and 3, and in some manuscripts with unique sets of basic accent signs. Most commonly <hi rend="italic">maqqef</hi> alone appears. In a few cases <hi rend="italic">merka</hi> is used with <hi rend="italic">maqqef</hi>, and rarely <hi rend="italic">munah</hi> also is used (e. g., TS E1:53).</p>
+
+<head>1c. The Forms of the Accent Signs</head>
+<p>The ‘classes’ referred to in the preceding paragraph are groups of manuscripts using the same set of signs.<note n="42" place="foot">Even within these classes some differences in the forms of signs do occur. In classes 1 and 2, the sign for accent 2 is usually impositive (as marked) but in some manuscripts it is prepositive (as in class 6). Similarly, as shown in table I, a considerable number of forms are used for accent 10. In TS E1:87+8 two of these forms appear to be used indiscriminately (the ‘v’ shaped form in <hi rend="italic">Nedarim</hi> 9 : 8, 8, 10, the ‘arrowheads’ pointing left in 9:10, 10:6, 6, 7) but possibly they are by different hands.</note> Some of the different sets of signs are shown in table I, but others were found (about twenty in all), and it is likely that if more different manuscripts had been studied, further different sets of signs would have been noted. It is true to say, however, that the only common sets are those used in classes one (about fifty per cent of the manuscripts) and two (about twenty-five percent). It is, moreover, generally true to say that, where different manuscripts give the same text, the phrase division is much the same, no matter what set of signs is used, although — as in the Babylonian Biblical accentuation — minor variations are not uncommon (see Exx. 1:4, 1:5, 2:1-2). The only major difference in the value of signs occurs in class 7, and in one other set of signs occurring only in TS E1:49, in which the standard terminal clause has only two phrases, often rather longer than the last two phrases of the more common type of terminal clause (see Exx. 2 and 3). Despite this difference, however, the basic structure of the accentuation — a paragraph composed of a number of contextual clauses followed by a single terminal clause — is the same in all classes.</p>
+      <pb n="156"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<head>2. The Relation of the Rabbinic to the Biblical Accentuation</head>
+<p>A number of the accent signs used in the texts of the Mishna are identical in form to signs used in Biblical texts. This naturally raises the question of the relationship of the systems of accentuation used in the two types of text. Yeivin, indeed, suggests that the accentuation used for Biblical texts was originally (at the ‘primitive’ stage of the Palestinian accentuation) identical to that used in Rabbinic texts, but was later developed to a higher stage.<note n="43">Op. cit. p. 229. By the ‘primitive’ stage he presumably means Bod. MS Heb. d49 f. 47+ (Kahle, op. cit. MS E) and the Strasbourg MS published by Díez-Macho (<hi rend="italic">Sefarad</hi> 17, 1957, p. 11-17) as he describes these as ‘among the earliest Palestinian manuscripts known to us’ (p. 55). Neither of these manuscripts is so primitive, however, that it does not clearly show the same system of disjunctive accents as do the Tiberian Biblical texts, and in fact Bod. MS Heb. d49 f. 47+ seems to me to show a relatively sophisticated system.</note> As we have seen, however, there is a basic difference in the articulation of the two types of text. The Biblical verse is (relatively) short, and is divided into two halves, each with its terminal clause, and, possibly, preceding contextual clause(s). The Rabbinic paragraph is (relatively) long, and shows only one terminal clause, usually preceded by several contextual clauses.</p>
+<p>If it is assumed — as I think it must be — that both types of text were articulated, at the time when the rabbinic texts were produced, in the same way as they are in the medieval manuscripts, the conclusion that a different type of accentuation and chant was used for each seems to me inevitable.<note n="44">Biblical quotations in Mishnaic texts are given (even within one manuscript) with either Biblical or Rabbinic accentuation (see example 5:2-3 and 5:12). In the latter case the difference between the two types of accentuation is obvious.</note> It would be possible, however, to regard the Rabbinic accentuation as a modification of Biblical accentuation. The accentuation of the Rabbinic paragraph could either be considered an extended form of the accentuation of shorter Biblical verses, in which (as described above) only one terminal clause is used, or it could be considered as developed from the accentuation of the standard Biblical verse in the same way as the accentuation found in lengthy verses of the Targum, in which more than one <hi rend="italic">atnaḥ</hi> can be used.<note n="45">Targums (Aramaic translations of the Bible) usually follow the original so closely that the same accent pattern can be applied to both. Occasionally, however, the Targum verse is considerably longer, in which case <hi rend="italic">atnaḥ</hi> may be used more than once. E. g., Gen. 38:25 in P. Kahle, op. cit. MS D and F.</note></p>
+<p>As a preliminary to the discussion of these possibilities, it must be pointed out that some manuscripts of classes 1, and 2, and all those of classes 3, 6, and 7, can be definitely associated with particular types of Biblical manuscripts, all of which use ‘Western’ accentuation.<note n="46">See table I. None of the examples have Babylonian pointing, so the ‘Eastern’ accent systems are not considered here.</note> We know, then, the exact significance of these signs</p>
+
+<pb n="157"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES</head>
+<p>in terms of Biblical accentuation. In these terms, in all classes shown in table I, the accent which marks the beginning of the terminal clause (accent <hi rend="italic">4</hi> in classes 1-6) is <hi rend="italic">tebir</hi>, and accent <hi rend="italic">1</hi>, which marks the end is (where marked) <hi rend="italic">silluq</hi>. This suggests a strong connection with the terminal clause of the Biblical accentuation. Accents 2 and 3, however, are also marked with accent signs used in the associated Biblical texts (except for accent <hi rend="italic">3</hi> of class 6), but these signs are never, in Biblical texts, used between <hi rend="italic">tebir</hi> and <hi rend="italic">silluq</hi> (except accent 2 in classes 4 and 5). A further point of difference from the terminal clause of the Western Biblical texts is that it has four phrases, not three, and that, in most manuscripts, one of the signs is written above the line. The signs marking the contextual clause in class 1 would be read, in the Tiberian Biblical accentuation, as <hi rend="italic">zaqef</hi> → <hi rend="italic">tifḥa</hi> → <hi rend="italic">atnaḥ</hi>, suggesting the accentuation of the first half of a Biblical verse, and therefore that this system is comparable to the ‘extended verse’ accentuation found in long verses of the Targums. The <hi rend="italic">atnaḥ</hi> divisions in the Targums are, however, very much longer and more complicated than is the typical contextual clause in the Mishna, and <hi rend="italic">zaqef</hi> marks a major clause, not an introductory phrase as so often in the Mishna accentuation.<note n="47">Accent 7 is commonly used on introductions to direct speech in Mishna ‘so and so said...’ (see example 5:12), whereas, for example, similar introductions in Kahle’s MS D of the ‘Palestinian’ Targum to Genesis 38:25 (see note 43) ‘and he said to him’ and ‘and she said’ are accented with <hi rend="italic">legarmeh</hi> and <hi rend="italic">rebia</hi> respectively, and both introductory phrases, and the two speeches they introduce, are contained within a single <hi rend="italic">zaqef</hi> clause, although his MS F uses <hi rend="italic">zaqef</hi> somewhat more freely.</note> It seems most unlikely that this is because the accentuation of the Mishna has retained the ‘primitive’ form of accentuation originally used for the Bible as well, for, where accents are added to the basic ten described, they are not disjunctives, expressing more subtle phrase division, but conjunctives.<note n="48">See table I. Systems with and without conjunctives can be compared, e. g. in Kilayim 9:10 (TS E 1:23 and Bod. MS Heb. d47 f 28).</note> It is also noteworthy that the accents of the contextual clause can not be read <hi rend="italic">zaqef</hi> → <hi rend="italic">tifḥa</hi> → <hi rend="italic">atnaḥ</hi> in any other class, which would be surprising — considering the almost complete homogeneity of the use of these signs in the different manuscripts — if they did originate from the accentuation of the Biblical half-verse. Finally, if the accentuation of class 1 were a true parallel to the ‘extended verse’ accentuation of the Targums, we would expect the standard terminal cadence to read <hi rend="italic">zaqef</hi> → <hi rend="italic">tifḥa</hi> → <hi rend="italic">silluq</hi>, but, as already noted, this is never the case. In fact we may say that the fact that the initial accent(s) of the basic terminal clause are never marked with the same signs as those of the contextual clause in any class of manuscripts effectively disposes of the ‘extended verse’ as a possibly parallel form of accentuation.</p>
+      <pb n="158"/>
+<head>STUDIES IN EASTERN CHANT</head>
+
+<p>In class 7, the accents marking the contextual clause would be read as <ref type="gloss">rebia → pashṭa → zaqef</ref>, suggesting the contextual clause of the Biblical accentuation, and therefore the ‘extended half verse’ pattern as a parallel. It is again noteworthy that this is the only class in which the accents of the contextual clause can be read in this way, and again, if the ‘shorter verse’ of the Biblical accentuation is a true parallel one would expect a different accentuation in the terminal clause.</p>
+
+<p>The accent signs marking the contextual clause in the remaining classes are all found in Biblical texts, but cannot be used there in the order in which they are used in the Mishnaic texts. Various arguments could be discussed, but it seems to me that only one conclusion is possible. If the same accent signs do indicate the same musical motifs in Mishnaic as in Biblical texts, we can say that the same motifs were used, but were used in a quite different way. If the same signs do not indicate the same motifs in the two types of text, there is no reason at all to suppose a close relationship between Biblical and Mishnaic chant. It is impossible, in my opinion, that the same signs should have had the same interpunctional value in the two types of text. There is no evidence to suggest that the Biblical accentuation as we know it was preceded by a stage in which verses (or paragraphs) were accentuated as a series of simple contextual clauses followed by a single terminal clause. The accentuation of the two types of text, therefore, could not have been the same in origin. My own opinion would be that some motifs were common to both types of chant, and that they are related in a few other features as well, but that the accentuation and chant used for Rabbinic texts was never either at its origin or during its development closely similar to that used for the Biblical text, and had, in fact, a completely different basic structure. This conclusion is, I would suggest, confirmed by the quotation ‘Whoever reads (the scriptures) without cantillation (<hi rend="italic">naʿimah</hi>) or recites (the Mishna) without chant (<hi rend="italic">zimrah</hi>) ...’ in which the use of two different words strongly suggests the use of two different types of chant.<note place="foot" n="49">The quotation is from Talmud Babli <hi rend="italic">Megilla</hi> 32a. Cf. the use of the verb <hi rend="italic">zammer</hi> by Rabbi Aqiba (c. 125 A. D.) meaning ‘chant the Oral Law’ (<hi rend="italic">Sanhedrin</hi> 99b, also quoted elsewhere).</note></p>
+
+<head>THE GREEK BIBLICAL ACCENTUATION</head>
+
+<p>The Greek Biblical accentuation is described by Carsten Höeg in <hi rend="italic">La notation ekphonétique</hi>.<note place="foot" n="50">MMB <hi rend="italic">Subsidia</hi> I, fasc. 2, (Copenhagen, 1935).</note> The unit of accentuation in this system is not the verse, as in the Hebrew Biblical accentuation, but the</p>
+      <pb n="159"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 159</head>
+
+<p>paragraph. This is made up of a number of units divisible as follows: (1) an opening clause — usually rather short, and with restricted possibilities of accentuation — ending with <hi rend="italic">teleia</hi> (2) a number of medial clauses, each also ending with <hi rend="italic">teleia</hi>. Their accentuation is similar to that of the opening clause, but has more varied possibilities. (3) A closing clause accentuated differently from the opening and medial clauses (and so not ending in <hi rend="italic">teleia</hi>), and with strictly limited possibilities of variation in this accentuation.</p>
+
+<p>It is immediately apparent that the basic structure of this accentuation is the same as that of the systems used in Rabbinic texts. Neither the <hi rend="italic">teleia</hi> unit, nor the paragraph, show the typical feature of the Hebrew Biblical accentuation: division into two halves, each of which has a terminal clause. On the contrary, we find a number of contextual clauses (<hi rend="italic">teleia</hi> units) followed by a single terminal clause, just as in the Mishna texts. There can be no question but that the Greek Biblical accentuation and the Hebrew Rabbinic accentuation follow the same pattern. It is, of course, obvious that the two types of accentuation show numerous differences. The most striking of these is in the writing system. Hebrew accentuation (of any type) marks only the end of a phrase. In the Greek accentuation both the beginning and the end are marked. This difference might be considered by some to be superficial, but it seems to me so basic as to eliminate the possibility of any important influence by one writing system on the other. It indicates a difference not just in the method of marking, but in the nature of what is marked. The Greek system is, it seems to me, marking a specific cadence to which the textual unit is to be chanted. The Hebrew method marks only the final motif, but (unless conjunctive accents are used) leaves the beginning of the cadence, where a certain amount of variation is possible, to the reader's knowledge of the tradition.</p>
+
+<p>Other obvious features in which the Greek Biblical accentuation differs from the systems used in Rabbinic texts are the use of an opening clause, and the more varied possibilities for the accentuation of contextual clauses, marked by a larger number of signs, the use of which is, to some extent, determined by the content of the textual unit marked. It seems to me, however, that these differences could easily be explained as the result of different developments from a common original. Certainly the introduction of accents <num value="9">9</num> and <num value="10">10</num> into the Rabbinic accentuation suggests a development towards a closer relationship between the accent signs and the content of the texts, as found in the Greek accentuation.<ref target="#n51"><sup>51</sup></ref></p>
+
+<note xml:id="n51" place="bottom">
+    <num value="51"><sup>51</sup></num> The suggestion would be that these signs were introduced to mark cadences which had been in use, but not distinguished in the writing system (as Biblical <hi rend="italic">zaqef gadol</hi> was introduced to mark a cadence formerly marked by the <hi rend="italic">zaqef qatan</hi> sign).
+</note>
+      <pb n="160"/>
+<head>STUDIES IN EASTERN CHANT</head>
+
+<p>As with the contextual clauses, so with the terminal clause, it is possible to suggest that the standard form in the Greek Biblical accentuation is a development from the same origin as the terminal clause in the Rabbinic texts. As described by Carsten Höeg, all terminal clauses have the last three phrases marked with bareiai diplai, kentemata, and, finally, apostrophoi. The shortest terminal clauses consist only of three phrases marked in this way, but these are not common.<note n="52" place="foot">They make up about seventeen per cent of the material studied. This material, from the <title>Prophetologium</title> (MMB <title>Lectionaria</title> I fascs. 1-6, Copenhagen 1939-70), contains 181 examples of terminal clauses. It should be noted that, in this study, the different forms in which the last accent of the terminal clause occurs, are (perhaps wrongly) not considered significant.</note> Longer terminal clauses are built up as follows (starting from the end).</p>
+
+<list>
+    <item>(i) <term>Apostrophoi</term> one phrase</item>
+    <item>(ii) <term>Kentemata</term> one phrase</item>
+    <item>(iii) <term>Bareiai diplai</term> one to four phrases, most commonly two.</item>
+    <item>(iv) <term>Oxeiai diplai</term> one phrase, or – if (v) is not used – rarely two.
+    <lb/>or <term>kathistai kathistai</term><note n="53" place="foot"><term>Oxeiai diplai</term> occurs in this position sixty-seven times, or eighty-one per cent of the cases in which item (iv) occurs. <term>Kathistai kathistai</term> occurs in twelve cases (14%). In the remaining five per cent of the cases apostrophos apostrophos occurs twice in this position (Pericopes Lhl (p. 392), and 43b; Once in the manuscript referred to as ‘pal’ and once not, cf. note 49). Bareiai-bareiai occurs once (pericope 36b) as does hypokrisis (41e). In both these latter cases some manuscripts show the regular pattern.</note> one phrase</item>
+    <item>(v) Other accents.</item>
+</list>
+
+<p>A terminal clause may begin with item (iii), (iv), or (v).</p>
+<p>Occasional minor variations from the pattern described do occur,<note n="54" place="foot">The variations listed in note 53 are the only ones which occur in the pericopes as printed. In the footnotes, some thirty cases are listed in which an individual manuscript shows a variant to this pattern. Many of these appear to be characteristic of particular manuscripts which may, then, show a terminal clause of structure slightly different from the typical. The most important variations are: In item (ii) <term>kentemata</term> is evidently repeated in MS S 99 in pericope 3b. In item (iii) the accent before <term>kentemata</term> is apostrophos apostrophos in MS L 177 in pericope 1a, 1b, 1e, 1f, 2k, 44b, in MS Sin<hi rend="sub">8</hi> in 41m, and in Pal in 43c, 44a, and so also the second accent before <term>kentemata</term> in MS L 190 in pericope 44c, 45a, and in Pal also in pericope 45a (cf. 43b). Also in item (iii) the last of several examples of bareiai diplai is replaced by Bareiai-Bareiai in MS Sin<hi rend="sub">13</hi> in pericope 41a, 41b, 41c, 41i, 41k, and in three cases in other manuscripts. In item (iv) <term>Oxeiai diplai</term> is replaced by oxeiai-oxeiai in MS Pal in pericope 43c, 44c, 45a, 47a (cf. 43b). Other accents occurring in this position are apostrophos apostrophos (three cases, in different manuscripts) and hypokrisis (one case).</note> but it is clear that this is the basic pattern. It appears to coincide with the basic pattern of the rabbinic terminal clause to a remarkable degree. Four accents are characteristic of the Greek terminal clause: apostrophoi, bareiai diplai, and oxeiai diplai (items i, iii, iv) because they are confined to it, and kentemata (item ii) because it is always used in it, although it may occur in contextual</p>
+      <pb n="161"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 161</head>
+
+<p>clauses as well. In the Rabbinic accentuation likewise, four accents are characteristic of the contextual clause. Most commonly, it is true, the signs used are all confined to the terminal clause, but in some manuscripts the sign for accent <hi rend="italic">2</hi> is also used in the contextual clause (classes 3 and 6), and this is the only one that ever is. In both systems (taking the Rabbinic classes 1-6 as standard) the shortest possible terminal clause has three phrases, marked with accents <hi rend="italic">1, 2, 3</hi> / items (i), (ii), (iii). In both systems the terminal clause can be extended almost indefinitely, in which cases the initial phrases are marked by the accents of the contextual clause. In the Greek accentuation considerable variation is possible in the accentuation of phrases before the last three. Bareiai diplai (item iii) is nearly always repeated, and other accents need not to be used at all.<note n="55" place="foot">In the material studied, 150 terminal clauses contain more than three phrases. Bareiai diplai is repeated in all but nineteen of these. In sixty-seven of them, no other accents (i. e. item iv or v) are used.</note> In the Rabbinic accentuation, accent <hi rend="italic">4</hi> is nearly always used in a clause of four or more phrases, and phrases before the last four are normally marked with the accents of the contextual phrase. In a number of manuscripts, however, accent <hi rend="italic">3</hi> is repeated (see note 32), showing, perhaps, sporadic use in the Hebrew chant of a feature which became standard in the Greek. Such phenomena as this may possibly be coincidental if isolated, but several such points of contact exist in this situation. These, allied with the similarity of the basic structure of the Greek accentuation to the Rabbinic, strongly suggest that they are different developments from the same origin.</p>
+
+<head>THE SYRIAC ACCENTUATION</head>
+
+<p>One cannot reasonably consider the problem of the relationship of the Greek and the Hebrew systems of accentuation without also considering the Syriac system. Syrian influence on the liturgy and music of the early Byzantine church is well known, and Syriac manuscripts provide the earliest known examples of accent signs. Their example may well have stimulated both the Jews and the Greeks to develop their own writing systems.</p>
+
+<p>The Syriac accentuation is described by J. B. Segal in <hi rend="italic">The Diacritical Point and the Accents in Syriac</hi>.<note n="56" place="foot">London, 1953. This study is further based on a very limited observation of Syriac accentuation in the texts reproduced in W. H. P. Hatch, <hi rend="italic">An Album of Dated Syriac Manuscripts</hi> (Boston 1946) and in photographs very kindly lent to me by my colleague Professor E. G. Clarke from his work on the Peshitta of the Book of Ruth. I am further indebted to Professor Clarke for his comments on the first draft of this paper.</note> It appears that the unit of accentuation here is a short clause ending with <hi rend="italic">pasoqa</hi>. The textual unit so marked is similar in length to the <hi rend="italic">teleia</hi> unit in the Greek accentuation, and in Biblical texts, the two often coincide exact-</p>
+      <pb n="162"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>ly.<note n="57" place="foot">It is, however, equally true to say that the divisions in Greek and Syriac Biblical texts often do not coincide. Similar, but not identical, systems of division were used. For comparison of a brief passage, see Ex. 6 below.</note> As with the <hi rend="italic">teleia</hi> unit, then, the <hi rend="italic">pasoqa</hi> unit is generally shorter than the Hebrew Biblical verse, and rarely coincides exactly with it. The possibilities for the accentuation of the <hi rend="italic">pasoqa</hi> unit are extremely varied, and much more closely connected with the content of the text even than the accents of the Greek system. There is, however, a strong tendency to divide the unit in two halves, although the accentuation is not otherwise similar to that of the Hebrew Biblical verse.</p>
+<p>Paragraphs are often marked in Syriac manuscripts, but by methods not connected with the accent system. I know of no evidence that a special terminal cadence was used at the end of such a division. This is possibly connected with the fact that the Syriac accentuation was used for all types of texts, and was not confined to texts intended for liturgical (or similar) use. This fact, together with the fact that most of the accents occur sporadically, not in regular patterns, and that many of them seem to be intended to bring out particular shades of meaning in the text,<note n="58" place="foot">Hence the term <hi rend="italic">Sinnaccente</hi> used, e. g. by T. Weiss <hi rend="italic">Zur ostsyrischen Laut- und Akzentlehre</hi> (Stuttgart, 1933), p. 56. It is, however, very difficult to classify the 'emotive' values of these accents, as a comparison of the descriptions by Weiss and Segal will show.</note> suggests that the Syriac accentuation perhaps reflects a form of reading which was less musical, and more closely similar to the tones of ordinary speech, than is the case with the Hebrew and Greek. It is my opinion, however, that further study of the Syriac accentuation, specifically for the purpose of comparison with the Greek might yield interesting results.</p>
+<head>CONCLUSION</head>
+<p>This brief survey suggests that, although the practice of chanting Biblical (and other) texts was current throughout the Judaeo-Christian world, several different forms of chant were in use. One of these, the Hebrew Biblical chant, appears to have been unique. It could be argued that the halving of Syriac <hi rend="italic">pasoqa</hi> units reflects a common basis, but the age of the Hebrew system, and the lack of any parallels in the Syriac system beyond the simple division into two parts, appear to deny this as a possibility. The Syriac system, it seems to me, should be classified with the Greek and Rabbinic systems, all of which are characterized by relatively short contextual clauses with relatively simple accentuation. In all three systems the texts were normally divided into paragraphs. In the Greek and Rabbinic systems, but not in the Syriac, the end of these was marked</p>
+      <pb n="163"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 163</head>
+
+<p>by a terminal clause. Despite this difference, and the differences which separate the Greek and the Rabbinic systems, it seems possible to me that all three derived from the same origin. This would have been a rather simple form of chant (or ‘elevated reading style’) used for the public (and not necessarily liturgical) reading and oratory. There is no difficulty in supposing that very similar systems would be in use over the whole Syria-Palestine area, both for Hebrew and for the grammatically similar Aramaic/Syriac language.<note n="59">It is tempting to connect this with the whining singsong style of oratory (<hi rend="italic">ululantique voce more Asiatico canere</hi>) about which Cicero (<hi rend="italic">Orator</hi> viii, 27) and after him Quintilian <hi rend="italic">De Institutione Oratoria</hi> I. vii. 2, XI. i. 56, XI. iii. 57, using <hi rend="italic">cantare</hi> and related words) complains. The style is said, however, to be characteristic of western Asia Minor, so there is no support for a suggestion that it originated among the Semites. Chanting was also used in various social contexts in pre-Islamic Arabia, and was accepted (with some mistrust) by Islam for the chanting of the <hi rend="italic">Qurʾan</hi> and other liturgical recitations. See H. G. Farmer, in the <hi rend="italic">New Oxford History of Music</hi> I (London, 1957) especially p. 438.</note> This form of chant was restricted in the Greek culture, to which it was foreign, to use with Biblical texts, but in that sphere it seems to have been developed to considerable musical complexity. In the Jewish culture it was used for Rabbinic texts, which were also fixed in form, and as enshrining the ‘Oral Law’, had a value similar to that placed upon the Bible. Here the chant seems to have undergone a development rather similar to that of the Greek chant, but (as it was used in pedagogical more than in liturgical situations) to a lesser degree of complexity. Among the Syrian Christians, where the chant was used for the public reading of any text, it seems to have remained musically rather simple, but to have been developed so as to bring out the meaning of a text, and its emotional overtones.</p>
+
+<p>It seems, then, that if the Greek Biblical accentuation did develop from some form of Hebrew accentuation, it must have developed from the type used for the Mishna and similar texts. If some of the motifs used in Biblical chant were also used in Mishnaic chant, as suggested above, this would account for the occurrence of similar motifs in European music.<note n="60">Note, however, that the examples given by Werner and others show similarities between European music and Jewish music of all types, not just Biblical chant.</note> We do know, however, that, in pre-Christian times, the Greek Bible was, in some communities, chanted to the same melody as was used for the Hebrew Bible,<note n="61">See my article referred to in note 4.</note> so it is surprising to find that this usage was not continued by the Christians.</p>
+
+<p>It is possible, however, to suggest an explanation. There was no form of chant traditional for New Testament texts, and these did not, anyway, receive, at first, a veneration equal to that for the Old Testament. They would naturally have been rendered in the form of chant in general use for public reading; i. e., the type of chant</p>
+      <pb n="164"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>used for Rabbinic texts.<note n="62">One could even suggest that New Testament texts were considered as parallel to the Mishna, as containing further interpretation of the Old Testament.</note> The Jewish Biblical chant may, indeed, have been used at first for the Old Testament lessons, but, as time went on, these became less numerous, and less important in the liturgy. It is easy to suppose that, as a result, the chant used for New Testament lessons would come to be considered as the characteristic Biblical chant, and used for the Old Testament also.<note n="63">This original use of the Jewish Biblical chant would, then, also account for the transfer of Jewish motifs to Greek music. Another possibility, however, is that the ornamental Jewish Biblical chant was deliberately rejected by the Christians as one of the (to them) undesirable aspects of temple/synagogue worship. There is a curious parallel in the pronunciation of Hebrew recorded by Origen and Jerome, which seems to have been used for Rabbinic texts, or every day speech, not the archaizing pronunciation used for the formal reading of the Biblical text. (See Wevers and Redford, ed. <hi rendition="italic">Essays on the Ancient Semitic World</hi>, Toronto, 1970, p. 80.)</note></p>
+<p>Gudrun Engberg notes that previous efforts to show relationship between the Greek and the Hebrew Biblical accentuation have not been fruitful.<note n="64">Op. cit. p. 38.</note> She suggests that such relationship can be shown, but investigation from the point of view of a Hebraist suggests that her results must be the effect of coincidence; apparent but not real. This does not, in fact, seem to me at all unlikely. As Engberg points out,<note n="65">Ibid. p. 49.</note> the Greek and Hebrew Biblical texts are theoretically identical, so it must be expected that they will produce divisions of similar content and relationship, and consequently that there will be a certain amount of coincidence between the major pausal accents in both systems. With this in mind, I do not find the proportion of coincidence of <hi rendition="italic">apostrophos</hi> with <hi rendition="italic">zaqef</hi> very impressive, even within the framework set up by Engberg. Because of this, and certain weak points (as I would consider them) in the framework itself,<note n="66">One such point has been noted above, in the discussion of the Palestinian pointing. Another is the statement on p. 41 that ‘In Hebrew the <hi rendition="italic">verbum dicendi</hi> is subordinated to the speech itself by a connecting accent’, supporting an important point in the argument by which the framework is created. There are, in fact, two cases of the use of a conjunctive accent with such a verb in examples 6:3 and 6:5 (note that the Greek does not use <hi rendition="italic">teleia</hi> there either), but, as example 6:1 shows, this cannot be taken as a general rule for Hebrew. In fact, in the first two chapters of Genesis, the statement ‘so and so said’ occurs eleven times at the beginning of the verse. The accent at the end of the unit is <hi rendition="italic">tifha</hi> (1:3), <hi rendition="italic">rebia</hi> (1:9, 11, 14, 24, 29), <hi rendition="italic">zaqef</hi> (1:6, 20, 26, 2:18) or <hi rendition="italic">segolta</hi> (2:23), never a conjunctive. If this introductory unit is a little longer, it is not unusual to find its end marked with <hi rendition="italic">atnah</hi> (Gen. 3:2) or even <hi rendition="italic">silluq</hi> (Ex. 13:1, 14:1). As was emphasized above, the syntax does not control the accentuation. The accentuation controls the emphasis to be put on any particular syntactic unit.</note> I would argue that Engberg’s attempt to demonstrate this relationship is no more fruitful than that of her predecessors. I would further suggest that any such attempt must fail because no such relationship existed, save indirectly, to the extent that the Hebrew Biblical and Rabbinic</p>
+      <pb n="165"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES 165</head>
+
+<p>accentuations are related, for, as shown above, if the Greek accentuation does represent a chant derived from Hebrew sources, it must have been derived from the type of chant used in Mishnaic and other Rabbinic texts.</p>
+
+<p><hi rend="italic">Examples</hi>
+Five passages are given here to illustrate the accentuation of Mishna texts. The fifth is repeated in translation for the benefit of those who do not read Hebrew. It should be noted that the language of the Mishna is extremely concise, so that an accurate translation must employ many more words than the original, and so gives a rather distorted idea of the length and syntactic structure of units into which the accents divide the text. For this reason the other examples are not given in translation. A sixth example attempts to show the relationship between the Hebrew Greek and Syriac accentuation of a short Biblical text. Here also it should be noted that the English translation cannot correspond closely to all three originals.
+The passages from the Mishna are intended to illustrate the different uses of the accents as well as possible within a limited space. Paragraphs are often longer than those given here, and composed of longer clauses. As shown in the examples, the accent signs are often not placed in the position standard in Tiberian texts. In some cases this is probably due to carelessness, but for the most part, undoubtedly, it reflects a stress position different from that of the standard Biblical pronunciation. These variant positions (which often recall those of the Palestinian Biblical accents) are presumably characteristic of the pronunciation of Mishnaic Hebrew, which, even in modern times, differs in many communities from that of Biblical Hebrew.</p>
+      <pb n="166"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>Ex. 1</p>
+<list>
+    <item>Peah 5:5 in (a) Bodleian MS Heb. d63 fol. 7.</item>
+    <item>(b) Bodleian MS Heb. c23 fol. 1.</item>
+</list>
+
+<p>
+1 a המחליף עם העניים שלו פטור ושלעניים חייב<lb/>
+b המַחליף עם העניים שלו פֿטור ושלעניים חייב<lb/>
+2 a שנים שקיבלו את השדה באריסות זה נותן לזה חלקו מעשר עני<lb/>
+b שנים שקיבלו שדה באריסות זה נותן לזה חלקו מעשׂר עני<lb/>
+a וזה נותן לזה חלקו מעשר עני<lb/>
+b וזה נותן לזה חלקו מעשֹר עני<lb/>
+3 a המקבל שדה לקצור אסור בלקט ובשכחה ובפאה ובמעשר עני<lb/>
+b המקבל שדה לקצור אסוּר בלקט ובשכחה ובפֿאה ובמעשׂר עני<lb/>
+4 a א' ר' יודה אמתי בזמן שקיבלה ממנו למחצה לשליש ולרביע<lb/>
+b אמי ר' יהודה אמתי בזמן שקיבלה הימנו למחצה ולשליש ולרביעי<lb/>
+5 a אבל אם אמר לו שליש מה שאת קוצר שלך מותר בלקט בשכחה<lb/>
+b אבל אם אמר לו שליש מה שאתה קוצר שלך מותר בלקט ובשכחה<lb/>
+a ובפֿאה ואסור במעשר עני :<lb/>
+b ובפיאה ואסור במעשׂר עני .
+</p>
+
+<p>Ex. 2</p>
+<list>
+    <item>Demai 7:2 in (a) Bodleian MS Heb. d47 fol. 35.</item>
+    <item>(b) Bodleian MS Heb. b10 fol. 2.</item>
+</list>
+
+<p>
+1 a מזג לו את הכוס ואמר מה שאני עתֿיד לשייר בשולי הכוס<lb/>
+b מזגו לו את הכוס אומר מה שאני עתיד לשייר בשולי הכוס<lb/>
+2 a הרי הוא מעשׂר ושאר מעשׂר סמוך לו<lb/>
+b הרי הוא מעשׂר ושאר מעשׂר סמוך לו<lb/>
+3 a זה שעשׂיתי מעשׂר עשׂוי תרומת מעשׂר עליו<lb/>
+b זה שעשׂיתי מעשׂר עשׂוי תרומת מעשׂר עליו<lb/>
+4 a ומעשׂר שֹני בפֿיו ומהולל על המעות<lb/>
+b מעשׂר שיני בפֿיו מהולל על המעות .
+</p>
+      <pb n="167"/>
+<head>HEBREW ACCENTS AND GREEK EXPHONETIC NEUMES</head>
+
+<note place="margin">Ex. 3</note>
+<p>Shabbath 19:2 in (a) Bodleian MS Heb. b13 fol. 3.
+<lb/>(b) Cambridge MS TS E1 49 fol. 1.</p>
+
+<list>
+    <item n="1">
+        <label>a</label> עוֹשין כל צרכֵי מילה
+        <lb/><label>b</label> עוֹשׂין כל צרכי מילהָ
+    </item>
+    <item n="2">
+        <label>a</label> מוֹלין ופורעים ומוצְצים ונותנין עליה אספלנית וכמֹן
+        <lb/><label>b</label> מולין ופורעין ומוצצין ונותנין עליה אספלנית וְכַמֹּן
+    </item>
+    <item n="3">
+        <label>a</label> אם לא שָׁחק מערב שבת לועס בשיניו ונותֵן
+        <lb/><label>b</label> אם לא שחק מערב שבת לועס בשניו ונותןָ
+    </item>
+    <item n="4">
+        <label>a</label> אם לא טרף יין ושמן נותן זה לעצמו וזה לעצמוֹ
+        <lb/><label>b</label> אם לא טרף יין ושמן נותןָ זה לעצמו וזה לעצמוֹ
+    </item>
+    <item n="5">
+        <label>a</label> אין עוֹשין לָה חלוק כתחלה אבל כורך עליה סמרטוט
+        <lb/><label>b</label> אין עושין לָה חלוק כתחלה אבֿל כורך עליה סמרטוטָ
+    </item>
+    <item n="6">
+        <label>a</label> אם לא התקין מערב שבת כורך על אצבעו ומביא
+        <lb/><label>b</label> אם לא התקין מערב שׁבת כורך על אצְבעו ומביא
+    </item>
+    <item>
+        <label>a</label> אפילו מחצר אחרת :
+        <lb/><label>b</label> [ ] מחצר אחרת ֿ
+    </item>
+</list>
+
+<note place="margin">Ex. 4</note>
+<p>Taanith 2:2-3 in Bodleian MS Heb. d19 fol. 7.</p>
+
+<list>
+    <item n="1">עמדו בתפלָה ומורידין לפני התיבָה</item>
+    <item n="2">זקן ורגיל ויש לו בנִים וביתו ריקָם</item>
+    <item n="3">כדי שיהא לבו שלם בתפלָה</item>
+    <item n="4">ואומר לפניהֶם עשרים וארבע ברכוֹת</item>
+    <item n="5">שמונה עשׂרה שבכל י̇ום ומוסיפין עליהם עוד שׁשׁ</item>
+    <item n="6">ואילוהן זכרונוֹת ושׂופרוֹת אל יי בצרתה לי אנָא עיני אל
+        <lb/>ההרים מממקים קראתיך יי תילה לענִי כי יעטֹף :
+    </item>
+</list>
+      <pb n="168"/>
+<head>STUDIES IN EASTERN CHANT</head>
+<p>Ex. 5</p>
+<p>Sotah 9:5–6 in Bodleian MS Heb. d62 fol. 51.</p>
+<list>
+    <item n="1">נפטרו זקני ירושלם והלכו להם</item>
+    <item n="2">זקני אותה העיר מביאים עגלת בקר</item>
+    <item n="3">אשר לא עבד בה אשר לא משכה בעול</item>
+    <item n="4">ואין המום פוסל בה</item>
+    <item n="5">ומורידין אותה אל [א] נחל איתן</item>
+    <item n="6">איתן כשימעו קשה</item>
+    <item n="7">אף על פי שאינו איתן כשר</item>
+    <item n="8">ועורפין אותה בקופיז מאחוריה</item>
+    <item n="9">ומקומה אסור מלזרע ומליעבד</item>
+    <item n="10">ומותר לסרוק שם פשתן ולנקר שם אבנים</item>
+    <item n="11">זקני אותה העיר רוחצים את ידיהם במים במקום עריפתה שלעגלה</item>
+    <item n="12">ואומרים ידינו לא שפכו את הדם הזה ועינינו לא ראו</item>
+    <item n="13">וכי עלת על לבינו שזקני בית דין שופכי דמים הם</item>
+    <item n="14">אלא שלא בא על ידינו ופטרנוהו ולא ראינוהו והנחנוהו</item>
+</list>
+
+<pb n="169"/>
+<head>HEBREW ACCENTS AND GREEK EKPHONETIC NEUMES</head>
+<p>Ex. 5(a)</p>
+<p>Sota 9:5-6 (as in example 5).</p>
+<list>
+    <item n="1">1. When the elders of Jerusalem had departed <hi rend="italic">6</hi> and gone away <hi rend="italic">5</hi></item>
+    <item n="2">2. The elders of that city <hi rend="italic">6</hi> brought ‘A heifer from the herd <hi rend="italic">5</hi></item>
+    <item n="3">3. Which had not been wrought with <hi rend="italic">6</hi> and which had not drawn in the yoke’ <hi rend="italic">5</hi> (Deut. 21:3)</item>
+    <item n="4">4. A blemish does not <hi rend="italic">6</hi> disqualify it <hi rend="italic">5</hi></item>
+    <item n="5">5. And they brought it down <hi rend="italic">6</hi> to a ‘rugged (etan) valley’ <hi rend="italic">5</hi></item>
+    <item n="6">6. And ‘etan’ <hi rend="italic">6</hi> (is used) in its literal meaning ‘rough’ <hi rend="italic">5</hi></item>
+    <item n="7">7. But even if it is not rough <hi rend="italic">6</hi> it is valid <hi rend="italic">5</hi></item>
+    <item n="8">8. And they broke its neck <hi rend="italic">6</hi> with a hatchet from behind it <hi rend="italic">5</hi></item>
+    <item n="9">9. And that place is forbidden <hi rend="italic">6</hi> for sowing and tillage <hi rend="italic">5</hi></item>
+    <item n="10">10. But it is permitted <hi rend="italic">3</hi> to comb out flax there <hi rend="italic">2</hi> or to quarry stones there <hi rend="italic">1</hi></item>
+    <item n="11">11. The elders of that city <hi rend="italic">7</hi> washed their hands in water <hi rend="italic">6</hi> at the place where the heifer's neck was broken <hi rend="italic">5</hi></item>
+    <item n="12">12. And they said <hi rend="italic">7</hi> ‘Our hands (<hi rend="italic">rebia</hi>) have not shed (<hi rend="italic">pasha</hi>) this blood (<hi rend="italic">zaqef</hi>) and our eyes (<hi rend="italic">tifha</hi>) have not seen it’ (<hi rend="italic">silluq</hi>) (Deut. 21 :7)</item>
+    <item n="13">13. But could we have thought <hi rend="italic">10</hi> that the elders of the court <hi rend="italic">10</hi> were shedders of blood <hi rend="italic">9</hi></item>
+    <item n="14">14. (They mean) however <hi rend="italic">4</hi> he did not come into our hands <hi rend="italic">3</hi> and we sent him away <hi rend="italic">2</hi> nor did we see him and leave him alone <hi rend="italic">1</hi></item>
+</list>
+
+<p>Ex. 6.</p>
+<p>1 Kings 18:34-5, showing the relationship between the accentuation in Syriac (Hatch, op. cit., see note 54, plate LXIV), Greek (Prophetologium lection 2.1, see note 50), and Hebrew</p>
+
+<list>
+    <item>1. And he said</item>
+    <item>Syr pāsoqā</item>
+    <item>Gk oxeia-teleia;</item>
+    <item>Heb rebia</item>
+</list>
+<note place="bottom" rend="italic">(Ex. 6 contd. next page)</note>
+      <pb n="170"/>
+<head>STUDIES IN EASTERN CHANT</head>
+
+<list>
+<item n="2.">
+<p>Fill four barrels with water and pour it (on the altar)<br/>
+Syr taḥtāyā ʿesyānā (<space extent="5" unit="chars"/>)<br/>
+Gk apostrophos -apostrophos; oxeia -oxeia;<br/>
+Heb pashṭa zaqef</p>
+
+<p rendition="indent">on the burnt offering and on the wood<br/>
+Syr sāmkā pāsoqā<br/>
+Gk synemba -teleia;<br/>
+var. apostrophos-apostrophos; synemba-teleia;<br/>
+Heb tifḥa atnaḥ</p>
+</item>
+
+<item n="3.">
+<p>And he said<br/>
+Syr pāsoqā<br/>
+Gk bareia-bareia;<br/>
+Heb</p>
+</item>
+
+<item n="4.">
+<p>Do it the second time and they did it the second time<br/>
+Syr sāmkā pāsoqā<br/>
+Gk bareia -bareia; bareia -bareia;<br/>
+Heb pashṭa zaqef</p>
+</item>
+
+<item n="5.">
+<p>And he said<br/>
+Syr pāsoqā<br/>
+Gk bareia-bareia;<br/>
+Heb</p>
+</item>
+
+<item n="6.">
+<p>Do it the third time and they did it the third time<br/>
+Syr sāmkā pāsoqā<br/>
+Gk bareia -bareia; bareia -bareia;<br/>
+Heb tifḥa silluq</p>
+</item>
+
+<item n="7.">
+<p>And the water ran round about the altar<br/>
+Syr sāmkā pāsoqā<br/>
+Gk oxeia -oxeia;<br/>
+var. oxeia -oxeia; syrmatike -teleia;<br/>
+var. apeso -exo;<br/>
+Heb zaqef tifḥa atnaḥ</p>
+</item>
+
+<item n="8.">
+<p>And the trench also he filled with water<br/>
+Syr ʿesyānā sāmkā pāsoqā<br/>
+Gk apostrophos-apostrophos; oxeia -teleia;<br/>
+Heb tifḥa silluq</p>
+</item>
+</list>
+      <pb/>
+<p rendition="center">
+    <persName>Nanna Schiødt</persName> and <persName>Bj. Svejgaard</persName>
+    <lb/>
+    <placeName>COPENHAGEN, DENMARK</placeName>
+</p>
+<head rendition="center">A Method for Indexing Byzantine Music</head>
+<p>
+    Since one of the fundamental aspects of Byzantine music is the
+    utilization of melodic formulae one might be led to believe that the
+    best way of musical identification of the hymns would be to pre-
+    pare an index (or repertory) of such melodic formulae. It appears
+    to us, however, that the traditional way of preparing catalogues of
+    incipits may actually be a better method for identification for the
+    Byzantine Chant. In Enrica Follieri's comprehensive catalogue of
+    text-incipits a sufficient number of letters of the text gives the full
+    identification of the hymn texts. A sufficient number of neumes is
+    supposed to result in the same kind of full identification of the
+    single melodies of the hymns.
+</p>
+<p>
+    This method was tried out on thirty-five Dogmatic hymns fully
+    encoded in a computer.<hi rend="superscript">1</hi> The machine was asked to take from the
+    encoded material the first twelve intervals of each hymn and the
+    corresponding neumes, the mode, the starting tone, and the refer-
+    ence to source as well as to Tillyard's transcription. The result of
+    this inquiry may be seen in Ex. 1. The thirty-five incipits were now
+    arranged by four criteria: interval, neume, mode, and starting tone,
+    which taken together give twenty-four indexing possibilities.<hi rend="superscript">2</hi> Only
+    four of these will be given here.
+</p>
+<p>
+    Ex. 1 shows musical incipits arranged by intervals. The intervals
+    are counted as steps, i. e. Ison = 0, Oligon = 1, Kentema = 2, etc.,
+    following the 'Dictionary of Intervals' (cf. <hi rend="italic">Studies in Eastern Chant</hi>,
+    II, p. 135). The intervals are ordered from the most positive to the
+    most negative through all the eight modes. It is thus possible with
+    the help of this index to look up any melody including melodies
+    transcribed in Western notation (in MMB, <hi rend="italic">Transcripta</hi>), and also
+    cases when the signature is not readable.
+</p>
+<p>
+    Already in this first example it appears that the same rule is valid
+    for the Byzantine Chant as it is for all other music: we have only to
+</p>
+<note n="1" place="foot">
+    See our article in <hi rend="italic">Studies in Eastern Chant</hi>, II.
+</note>
+<note n="2" place="foot">
+    To instruct the computer of the twenty-four arrangements of the incipits a Pascal
+    programme was used.
+</note>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>The Oldest Evidence of the Hebrew Accent System</title>
+            <author>
+                <persName>
+                    <forename>E.</forename>
+                    <forename>J.</forename>
+                    <surname>Revell</surname>
+                </persName>
+            </author>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>University of Manchester Library</publisher>
+            <date when="1971">1971</date>
+        </publicationStmt>
+        <sourceDesc>
+            <biblStruct>
+                <analytic>
+                    <title level="a">The Oldest Evidence of the Hebrew Accent System</title>
+                    <author>
+                        <persName>
+                            <forename>E.</forename>
+                            <forename>J.</forename>
+                            <surname>Revell</surname>
+                        </persName>
+                    </author>
+                </analytic>
+                <monogr>
+                    <title level="j">Bulletin of the John Rylands Library</title>
+                    <imprint>
+                        <biblScope unit="volume">54</biblScope>
+                        <biblScope unit="page" from="214" to="222">214-222</biblScope>
+                        <date when="1971">1971</date>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+        <change>
+            <desc>Initial TEI header creation based on file 07a.07_The_Oldest_Evidence_of_the_Hebrew_Accent_System.pdf</desc>
+        </change>
+    </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<head type="main">THE OLDEST EVIDENCE FOR THE HEBREW ACCENT SYSTEM</head>
+
+<p>BY<lb/>
+E. J. REVELL, M.A., Ph.D.<lb/>
+ASSOCIATE PROFESSOR IN THE DEPARTMENT OF NEAR EASTERN<lb/>
+STUDIES, VICTORIA COLLEGE, TORONTO</p>
+
+<p rend="italic">Reprinted from the "Bulletin of the John Rylands Library",<lb/>
+Vol. 54, No. 1, Autumn, 1971</p>
+
+<p>© The John Rylands Library 1971</p>
+
+<p>THE JOHN RYLANDS LIBRARY, MANCHESTER, M3 3EH<lb/>
+MCMLXXI</p>
+
+<p rend="italic">PRICE TWENTY PENCE NET</p>
+      <pb/>
+<p rendition="black-page"></p>
+      <pb/>
+<head>SOME PUBLICATIONS<lb/>OF<lb/>THE JOHN RYLANDS LIBRARY</head>
+
+<list>
+    <item>
+        <p><hi rend="bold">CATALOGUE OF THE GREEK PAPYRI IN THE JOHN RYLANDS LIBRARY.</hi> By ARTHUR S. HUNT, M.A., Litt.D., J. de. M. JOHNSON, M.A., Litt.D., VICTOR MARTIN, D.-ès-L., C. H. ROBERTS, M.A., and others.</p>
+        <list>
+            <item>Vol. 1: Literary texts (Nos. 1-61). 1911. 4to, pp. xii, 204. 10 plates of facsimiles in collotype. £3 10s. (£3·50).</item>
+            <item>Vol. 2: Documents of the Ptolemaic and Roman periods (Nos. 62-456). 1916. 4to, pp. xx, 488. 23 plates in collotype. £3 10s. (£3·50).</item>
+            <item>Vol. 3: Theological and Literary texts (Nos. 457-551). 1938. 4to, pp. xvi, 217. 10 plates in collotype. £3 10s. (£3·50).</item>
+            <item>Vol. 4: Documents of the Ptolemaic, Roman and Byzantine periods (Nos. 552-717). 1952. 4to, pp. xvi, 211. 6 plates in collotype. 5 guineas. (£5·25).</item>
+        </list>
+        <note place="inline">*⁎* The texts are reproduced <hi rend="italic">in extenso</hi> and comprise many interesting Biblical, liturgical and classical papyri, and non-literary documents of an official or legal character, ranging from the third century B.C. to the seventh century A.D.</note>
+    </item>
+
+    <item>
+        <p><hi rend="bold">CATALOGUE OF ARABIC PAPYRI IN THE JOHN RYLANDS LIBRARY.</hi> By D. S. MARGOLIOUTH, D.Litt., F.B.A. With indices of dates, names of persons, and of places. 4to, pp. xxiv, 242, uniform with the Catalogues of Arabic, Demotic, Greek and other manuscripts. With 40 facsimiles in collotype. 1933. In sheets. 2 guineas. (£2·10).</p>
+        <note place="inline">*⁎* The documents described formed part of the collection of manuscripts acquired from the Earl of Crawford in 1901. They comprise chiefly private letters, although tradesmen’s and household accounts, receipts for payments of <hi rend="italic">kharaj</hi> or land tax, and other types of record also occur. Of the dated items the greater number belong to the third century A.H., a few to the second, some to the fourth and (perhaps) a very few to the fifth. The town most frequently mentioned is Ushmun, sometimes in the dual form Ushmunain, explained by the division into an Upper and Lower Ushmun. The inhabitants were largely Copts, although Muslim and Jewish names also occur.</note>
+    </item>
+
+    <item>
+        <p><hi rend="bold">THE HISTORY OF THE QUMRAN SECT.</hi> By EMERITUS PROFESSOR H. H. ROWLEY, M.A., D.D., Theol. D., LL.D., F.B.A. 1966. 8vo, pp. 30. Price 6s. net. (30p).</p>
+    </item>
+
+    <item>
+        <p><hi rend="bold">THE DEAD SEA SCROLLS AND EARLY CHRISTIANITY.</hi> By F. F. BRUCE, M.A., D.D., Rylands Professor of Biblical Criticism and Exegesis in the University of Manchester. 1966. 8vo, pp. 22. Price 5s. net. (25p).</p>
+        <note place="inline">*⁎* The above two lectures were delivered on the 17th of February and the 10th of March, 1966, respectively, on the occasion of the exhibition of Dead Sea Scrolls.</note>
+    </item>
+
+    <item>
+        <p><hi rend="bold">A CATALOGUE OF SUMERIAN TABLETS IN THE JOHN RYLANDS LIBRARY.</hi> Transcribed and transliterated by T. FISH, Ph.D., with indices of deities, places and persons. one facsimile and 48 pages of hand-copies. 1932. 8vo, pp. xiv, 160. 12s. 6d. (63p).</p>
+        <note place="inline">*⁎* The collection described, consisting of upwards of a thousand tablets, was formed with the assistance of the late Professor Hogg, Canon C. H. W. Johns and the Rev. C. L. Bedale; some 600 of the examples were presented to the Library by Mrs. Bedale in memory of her husband. The mass of the collection consists of records of transactions connected with the great temples of Drehem and Umma.</note>
+    </item>
+</list>
+      <pb/>
+<head rend="center">THE OLDEST EVIDENCE FOR<lb/>
+THE HEBREW ACCENT SYSTEM</head>
+
+<p rend="center">
+    <lb/>BY
+    <lb/>E. J. REVELL, M.A., Ph.D.
+    <lb/><hi rend="small-caps">ASSOCIATE PROFESSOR IN THE DEPARTMENT OF NEAR EASTERN<lb/>
+    STUDIES, VICTORIA COLLEGE, TORONTO</hi>
+</p>
+
+<p rend="center" style="margin-top: 2em;">
+    <hi rend="italic">Reprinted from the “Bulletin of the John Rylands Library”,<lb/>
+    Vol. 54, No. 1, Autumn, 1971</hi>
+</p>
+
+<p rend="center" style="margin-top: 3em;">
+    © The John Rylands Library 1971
+</p>
+
+<p rend="center" style="margin-top: 2em;">
+    THE JOHN RYLANDS LIBRARY, MANCHESTER, M3 3EH<lb/>
+    MCMLXXI
+</p>
+      <pb/>
+<p rendition="center">LES ÉGAREMENTS</p>
+<p rendition="center">DU COEUR</p>
+<p rendition="center">ET DE L’ESPRIT,</p>
+<p rendition="center">OU MÉMOIRES</p>
+<p rendition="center">DE M. DE MEILCOUR.</p>
+<p rendition="center">PREMIÉRE PARTIE.</p>
+      <pb n="214"/>
+
+<head>THE OLDEST EVIDENCE FOR THE HEBREW ACCENT SYSTEM</head>
+
+<p>By E. J. REVELL, M.A., Ph.D.
+<lb/>ASSOCIATE PROFESSOR IN THE DEPARTMENT OF NEAR EASTERN STUDIES,
+<lb/>VICTORIA COLLEGE, TORONTO</p>
+
+<p><hi rend="initial">J</hi>OHN RYLANDS Greek Papyrus 458 is unique among Septuagint Papyri not only as the oldest of them known, but also because of its use of spaces in the text to separate groups of words. C. H. Roberts did suggest, in his original publication of the text, that the spacing might be connected with the formal, liturgical reading of the Bible,<note n="1">C. H. Roberts, <title>Two Biblical Papyri in the John Rylands Library</title> (Manchester, 1936), p. 28.</note> but, perhaps because there was no firm evidence of the use of the LXX in the synagogue, the idea was never followed up. It is the purpose of this paper to show that this suggestion was correct.</p>
+
+<p>In a number of Biblical texts from Qumran, spaces are used to mark divisions in the text which correspond either to verse divisions, or to the divisions within the verses which are marked by the major disjunctive accents in the Hebrew Bible (BHK).<note n="2">The text used here as the standard for all comparisons is the third edition of the Kittel-Kahle <title>Biblia Hebraica</title>, cited as BHK.</note> Several Psalms texts are written in hemistichs, and thus show divisions corresponding not only to <hi rend="italic">atnaḥ</hi> and <hi rend="italic">‘oleh weyored</hi>, the accents which mark the main verse divisions, but also to <hi rend="italic">rebia</hi> and <hi rend="italic">ṣinnor</hi>, which mark less important divisions.<note n="3">The Qumran Psalms MSS. are listed by J. A. Sanders, <title>CBQ</title>, 27, pp. 114 ff. Among the published fragments, the following are written in hemistichs: Yadin’s Nahal Hever MS. (Ps. xv), 8Q2 (Ps. xvii-xviii), the Masada scroll (Ps. lxxxii, see Yadin’s preliminary report, <title>The Excavation of Masada 1963/64</title>, Jerusalem, 1965), and 4QPs<hi rend="superscript">b</hi> (Ps. xci-cxviii, with exceptions).</note> In 1Q5,<note n="4"><title>Discoveries in the Judaean Desert of Jordan</title>, i (Oxford, 1955), 60 and pl. X.</note> the text of Deut. 32 was written regularly with four hemistichs to a line, separated by spaces, which marked both main and lesser verse divisions (and so correspond to <hi rend="italic">zaqef</hi> Deut. xxxii, 21, 22). There are no other examples, as far as I know, of Biblical texts which consistently mark divisions within the verse,<note n="5">The Ben Sira texts from Masada, and possibly also the fragments from Qumran, are written in hemistichs (Yadin, <title>The Ben Sira Scroll from Masada</title>, (Jerusalem, 1965), <title>Discoveries in the Judaean Desert of Jordan</title>, iii (Oxford, 1962), p. 75 ff.).</note> but spaces</p>
+      <pb n="215"/>
+<head>THE JOHN RYLANDS LIBRARY</head>
+<p>corresponding to disjunctive accents occur occasionally : e.g. 1QIs<hi rend="superscript">a</hi> 50 : 2,<hi rend="superscript">1</hi> where spaces correspond to <hi rend="italic">segolta</hi> and <hi rend="italic">atnaḥ</hi>, and 11QPs<hi rend="superscript">a</hi>,<hi rend="superscript">2</hi> corresponding to <hi rend="italic">atnaḥ</hi> Psalms 119 : 18, 42, 139, to <hi rend="italic">deḥi</hi> Psalm cxxii, 4, 6. Such spacing is, however, abnormal in these texts, and may not be an intentional mark of division within the verse. The normal practice in Qumran Biblical manuscripts is to mark divisions between words, but not between phrases or verses. In the few cases where such divisions are marked, the purpose must surely have been to aid the reader by marking the pauses necessary in recitation.</p>
+<p>The fragments of the scroll of the twelve prophets published by Barthélemy<hi rend="superscript">3</hi> provide an example of the marking of divisions within the verse in a Greek text. These are marked by the use of a large letter at the beginning of a new phrase, often separated from the preceding by a small space. Larger spaces mark divisions between the verses. Individual words are not separated. In the material which I have checked,<hi rend="superscript">4</hi> the divisions marked correspond to <hi rend="italic">silluq</hi>, <hi rend="italic">atnaḥ</hi>, and <hi rend="italic">zaqef</hi>, and, possibly in one case, to <hi rend="italic">tifha</hi>.<hi rend="superscript">5</hi> The text is regularly divided into hemistichs in this</p>
+<note place="bottom">75). The Biblical chant was also used with this book, as is shown by the Biblical accents marked in the medieval texts. Divisions between verses are not normally marked in Qumran texts, but Psalm 119 is written with one verse per line in the published examples, and in 3Q3 (ibid. p. 95 and pl. XVIII) Lamentations i was written in the same way, and in chapter 3 the three verses forming a stanza were written on one line, and separated by spaces. These types of layout also were probably connected with the formal reading of the text.
+<p><hi rend="superscript">1</hi> Ed. M. Burrows, <hi rend="italic">The Dead Sea Scrolls of St. Mark’s Monastery</hi>, vol. i (New Haven, 1950).</p>
+<p><hi rend="superscript">2</hi> Ed. J. A. Sanders, <hi rend="italic">Discoveries in the Judaean Desert of Jordan</hi>, vol. iv (Oxford, 1965).</p>
+<p><hi rend="superscript">3</hi> <hi rend="italic">Les dévanciers d’ Aquila, Supplements to Vetus Testamentum X</hi> (Leiden, 1963), text, pp. 170 ff., photographs at p. 168, and in <hi rend="italic">Revue Biblique</hi>, lx (1953) at p. 24. A few additional fragments were published by B. Lifshitz in <hi rend="italic">Yediot</hi>, xxvi (1962), 184 ff., and pl. 18.1.</p>
+<p><hi rend="superscript">4</hi> I have only used the material covered by the photographs. Barthélemy was not interested in giving an exact representation of the text in this edition (op. cit. p. 169) and so does not always mark divisions correctly. I would read a capital at αυτ]ου <hi rend="italic">Οτι</hi> (Hab. i. 16), εμοι <hi rend="italic">Και</hi> (ii. 1), εθνη <hi rend="italic">Και</hi> (ii. 5) σε <hi rend="italic">Και</hi> (ii. 17), αργυ]ριον <hi rend="italic">Και</hi> (ii. 19), where the edition does not, but not at σκοτια ουκ (ii. 4), where it does.</p>
+<p><hi rend="superscript">5</hi> At αλαζων <hi rend="italic">Και</hi> (Hab. ii. 5) according to the edition, but I think it probably wrong.</p>
+</note>
+      <pb n="216"/>
+<head>THE HEBREW ACCENT SYSTEM</head>
+<p>way through the first chapter of Habakkuk and part of the second.<hi rend="superscript">1</hi> After the <hi rend="italic">atnaḥ</hi> in Habakkuk ii. 17, however, this regularity disappears, and divisions within the verses are marked only sporadically. In the Zacharia fragments, which are by a later hand, words are separated by spaces, but no divisions are marked between phrases or verses.</p>
+<p>The first hand in this manuscript, then, clearly divided at least part of the text into hemistichs. Again, one cannot doubt that the purpose was to mark the pauses necessary in reading. Since this is a Greek text, its evidence is of greatest significance for the problem of the spaces in Rylands Greek Pap. 458. Besides the separation of verses, and divisions within verses, the Qumran text also shows another feature of later Hebrew Biblical texts: division into paragraphs.<hi rend="superscript">2</hi> The Massoretic traditions on the paragraphing of the twelve prophets are unstable, so Barthélemy is understandably hesitant to equate the paragraphing of his manuscript to the Massoretic “open” and “closed” sections. A fine example of the regular use of these divisions in a Greek Pentateuchal manuscript is, however, to be found in Papyrus Fouad inv. 266.<hi rend="superscript">3</hi></p>
+<p>In this manuscript paragraphs are marked by a combination of spacing and a <hi rend="italic">paragraphos</hi> mark: a short stroke over the first letter of the first full line of the section. They occur as follows:</p>
+<list>
+<item>(i) Corresponding to a “closed” section in the Hebrew Bible: <hi rend="italic">(a)</hi> The previous section ends towards the end of a line. The remaining space is left blank. The new section, marked by a <hi rend="italic">paragraphos</hi>, begins at the margin on the following line. Thus Deuteronomy xviii. 6, and (with only the <hi rend="italic">paragraphos</hi> extant) Deuteronomy xx. 19; xxiii. 15 (Heb. 16). <hi rend="italic">(b)</hi> The previous</item>
+</list>
+
+<note n="1">Expected divisions (where the Hebrew has <hi rend="italic">zaqef</hi>) do not seem to be marked at ορασιν και (Hab. ii. 2), nor at ii. 4 (see note 4, p. 215).</note>
+<note n="2">See Barthélemy's description (op. cit. p. 165 f.). The Hebrew Biblical texts from Qumran also normally show paragraph divisions. See C. Perrot in <hi rend="italic">Revue Biblique</hi>, lxxvi (1969), 52 f., 78 f.</note>
+<note n="3">Published by F. Dunand; the introduction as <hi rend="italic">Publications de l’institut français d'archéologie orientale du Caire, Recherches d'archéologie</hi> etc. xxvii (Cairo, 1966), and the text in <hi rend="italic">Études de papyrologie</hi>, ix. 81-150 with 15 plates (Cairo, 1966). I am most grateful to my colleague Professor J. W. Wevers for drawing this text to my attention, and for his comments on this paper.</note>
+      <pb n="217"/>
+<head>THE JOHN RYLANDS LIBRARY</head>
+<p>section ends towards the beginning of a line. The new section begins after a space sufficient for three or four letters, and the first letter of the next line has a <hi rend="italic">paragraphos</hi>. There is no complete example of this. The space alone remains at Deuteronomy xxii. 8 ; xxxi. 16, and (partially) xxii. 10 ; xxiv. 19. The <hi rend="italic">paragraphos</hi> alone is visible at Deuteronomy xxi. 15 ; xxv. 4, 5 ; xxix. 1 (Heb. xxviii. 69) and (probably) xxi. 18.<note n="1" place="foot">The division at Deut. xxii. 10 is marked as closed in Maimonides' list of paragraphs, given in Perrot (sup. p. 216, n. 2) p. 59 (and in many manuscripts), and in that list no divisions are marked at Deut. xxv. 4 and xxvi. 16. In BHK the division at Deut. xxii. 10 is marked as open, and closed divisions are marked at Deut. xxv. 4 and xxxi. 16.</note></p>
+<p>(ii) <hi rend="italic">Corresponding to an "open" section.</hi> The previous section ends on one line. The remainder is left blank, and the new section, marked by a <hi rend="italic">paragraphos</hi>, begins at the margin on the next line. Thus Deuteronomy xix. 11 ; xxi. 1 ; xxv. 17 ; xxviii. 1 ; xxii. 48. There is thus no clear distinction between the marking of "open" sections, and the type (a) marking of "closed" sections. In the case at xxviii. 1, however, about half a line must have been left blank, which suggests that an "open" division differed from a "closed" in that a new section could not start on the same line as that on which an old one ended.<note n="2" place="foot">This suggestion is not borne out by the solitary example of a paragraph division in a Greek Pentateuch text from Qumran, where a small space within a line, plus a paragraph marker, corresponds to the "open" section at Lev. xxvi. 14. (See P. W. Skehan in <hi rend="italic">Vetus Testamentum Supplements</hi>, <hi rend="italic">iv</hi> (Leiden, 1957), 159.) However Qumrani texts are frequently not consistent—in their paragraphing as in other features—either with BHK or with each other (see following note).</note></p>
+<p>(iii) <hi rend="italic">Other paragraphs.</hi> A <hi rend="italic">paragraphos</hi> is used at Deuteronomy xx. 6 and xxxi. 22, and a space occurs at Deuteronomy xxii. 11. These do not correspond to divisions in BHK, but can be accepted without difficulty as the paragraph divisions of a variant tradition.<note n="3" place="foot">Paragraphs are marked at Deut. xxii. 11 and xxxi. 22 in various manuscripts, see Perrot, op. cit. p. 60 f., 65 f. I do not know of any Hebrew manuscript which marks one at Deut. xx. 6, but a division there is not unreasonable. It is probable that various traditions of paragraphing existed at this time, as Perrot shows that they did later, even for the Pentateuch. The Qumran scrolls provide a telling example for Isaiah. <unclear>1</unclear>QIs<hi rend="superscript">b</hi> (E. L. Sukenik, <hi rend="italic">'Oṣar ha-Megillot ha-Genuzot</hi>, Jerusalem, 1954) frequently shows no division corresponding to a BHK "closed" section (Is. xliii. 11, 45:9, 46:8), whereas 1QIs<hi rend="superscript">a</hi> (see note 1, p. 215) normally</note></p>
+      <pb n="218"/>
+<head>THE HEBREW ACCENT SYSTEM</head>
+<p>
+    (iv) <emph>Other divisions.</emph> The poem in Deuteronomy xxxii was written in one hemistich per line. If a hemistich had to be continued on a second line, the following one was separated from it by a space sufficient for two letters, as at Deuteronomy xxxii. 20, 26.<hi rend="sup">1</hi> Spaces sufficient for one letter separate verses at Genesis xxxviii. 11 ; Deuteronomy xxviii. 32 ; xxix. 28 ; xxxi. 3 (?), and xxxiii. 27. There is no obvious reason for these. A dot (but no space) occurs similarly at Deuteronomy xxix. 20 (Heb. 19). Otherwise (over twenty cases) no division is marked between verses.
+</p>
+<p>
+    The careful marking of these divisions where they are traditional in the Hebrew text, and in a way which corresponds fairly closely to the later rules for such marking<hi rend="sup">2</hi> show that pap. F. inv. 266 was treated as was the Hebrew Biblical text. This fact, added to the persuasive arguments of the editor,<hi rend="sup">3</hi> makes it, to my mind, certain that this text was intended for liturgical use in the Synagogue. Mishna Megilla i. 8 approves the use of Greek for Biblical texts in a context which, from the comparison with <emph>tefillin</emph> and <emph>mezuzot</emph>, clearly indicates that full liturgical usage is under consideration, not just the use of a translation read after the Hebrew text.<hi rend="sup">4</hi> In pap. F. inv. 266 we have a text prepared for this purpose. Barthélemy’s manuscript of the twelve prophets was also prepared for this purpose, not only with paragraph divisions, but also with divisions between verses, and, over some marks all the BHK divisions, and also additional ones (Is. xliv. 23, xlix. 4, 5). Occasionally the two agree against BHK. Both mark a division at Is. xxxix. 3 where BHK has none, and neither does at Is. li. 3 where BHK marks a “ closed ” section.
+</p>
+<note n="1">
+    <emph>Paragraphoi</emph> are not used with these divisions. As noted above, this poem was written in separate hemistichs at Qumran. Later practice was to write the Hebrew text with two hemistichs per line, separated by a space.
+</note>
+<note n="2">
+    See <emph>Masseket Soferim</emph> i. 10 (<emph>The Minor Tractates of the Talmud</emph> (Soncino Press, London 1965), i. 216). The system of identation referred to there is used in 1QIs<hi rend="sup">b</hi>, and rather rarely in 1QIs<hi rend="sup">a</hi>.
+</note>
+<note n="3">
+    Op. cit., in the introduction p. 35. ff.
+</note>
+<note n="4">
+    It is also impossible, in my opinion, that R. Simeon b. Gamaliel’s ruling that Greek is the only foreign language which can be used refers to translations for use as “ targums ”, although this is the way in which the Palestinian Talmud seems to take it. The Babylonian Talmud, however, supports my view (<emph>megilla</emph> 48a). The Mishnaic ruling was contradicted in <emph>Masseket Soferim</emph> i. 6, probably long after the practise had lapsed.
+</note>
+      <pb n="219"/>
+<head>THE JOHN RYLANDS LIBRARY</head>
+<p>of the text, within verses, as an additional aid to the reader. Rylands Greek Papyrus 458 is clearly a more carefully prepared example, in which even smaller phrases are separated by spaces, to ensure the correct reading of the text.<note n="1">There is no evidence for or against the existence of paragraph divisions in this text.</note></p>
+<p>In the manuscript of the twelve prophets, the divisions within the verses could well have been made on the basis of the Greek text. In the case of Rylands Greek Pap. 458, however, Roberts specifically notes that "the inter-spacing does not seem to follow the sense of the passage".<note n="2">Op. cit. p. 25.</note> The reason for this is that the spacing in the Greek text corresponds to the Hebrew disjunctive accents (see table below). The correspondence is far too close to be rejected as coincidence. The only cases where a space in the fragment occurs where the Hebrew has no disjunctive accent are in Deuteronomy xxv. 2, where the Greek contains a phrase not represented in the Hebrew, and xxv. 3. The latter, and the five cases in which no space occurs where the Hebrew has a disjunctive accent, can readily be recognized as the variants to be expected in texts a thousand years apart.<note n="3">Several of these differences may also be connected with variant wording. Similar variants are to be found in Hebrew texts with "Palestinian" pointing (and no doubt elsewhere). E.g. the Exodus fragment published by Kahle in <title>Masoreten des Westens</title>, ii (Stuttgart, 1930), 88 f. The relocation of <foreign>tifḥa</foreign> is quite common (e.g. xxviii. 30, cf. the variants in line 6 and 8 of the Greek fragments). <foreign>Tebir</foreign> is replaced by a conjunctive in xxix. 21 (second half, cf. line 18) and so is <foreign>zaqef</foreign> in xxix. 32 (first half, cf. line 32).</note> It is impossible to escape the conclusion that what was being represented here was the traditional phrase division of the Hebrew text. This was, of course, based on Hebrew syntax and not on Greek, and consequently occasionally ran counter to the word division normal for Greek.<note n="4">The ekphonetic accents (probably well established in the seventh century, possibly earlier) used in Greek Biblical texts show a system of division of the texts (presumably ultimately based on spoken Greek) which is quite different from that of the Hebrew Biblical accents. This appears quite clearly from the article of G. Engberg, "Greek Ekphonetic Neumes and Masoretic Accents" in <title>Studies in Eastern Chant</title> (ed. M. Velimirović, London, 1966), i. 37 ff., especially pp. 40, 41, even though a certain amount of correspondence is also found.</note></p>
+<p>We can, of course, only speculate on the form which the traditional reading of the Hebrew text took at this period.</p>
+      <pb n="220"/>
+<head>THE HEBREW ACCENT SYSTEM</head>
+
+<p rend="center">
+    <label>TABLE I.</label> <title>The Spaces in John Rylands Greek Papyrus 458 and the corresponding accents in the Hebrew Bible.</title>
+</p>
+
+<p>The numbering of the fragments, and of the lines, of the Greek text are those of Robert’s edition. The spaces in this text (one or two of which were overlooked by Roberts) are given according to a photograph kindly supplied to me by the Librarian of the Rylands Library. The length of the spaces in millimeters (measured on the photograph) is given for purposes of comparison.</p>
+
+<table>
+    <row>
+        <cell>Frag. (a)</cell>
+        <cell>Space (in mm.)</cell>
+        <cell>Deut.</cell>
+    </row>
+    <row>
+        <cell>2 στα]χυς</cell>
+        <cell>1.7</cell>
+        <cell>בְּיָדֶ֧ךָ xxiii. 26</cell>
+    </row>
+    <row>
+        <cell>4 επελθης</cell>
+        <cell>2.0</cell>
+        <cell>תָּבֹ֤א xxiii. 25</cell>
+    </row>
+    <row>
+        <cell>5 πλησιον σου</cell>
+        <cell>2.5</cell>
+        <cell>רֵעֶ֑ךָ</cell>
+    </row>
+    <row>
+        <cell>6 ψυ]χη σου</cell>
+        <cell>none</cell>
+        <cell>כְּנַפְשֶׁךָ</cell>
+    </row>
+    <row>
+        <cell>8 γυναι]κα</cell>
+        <cell>none</cell>
+        <cell>אִשָּׁ֖ה xxiv. 1</cell>
+    </row>
+    <row>
+        <cell>14 αυτου.</cell>
+        <cell>4.0</cell>
+        <cell>מִבֵּיתוֹ</cell>
+    </row>
+    <row>
+        <cell>15 ετε]ρωι</cell>
+        <cell>4.0</cell>
+        <cell>אַחֵֽר xxiv. 2</cell>
+    </row>
+    <row>
+        <cell>Frag. (b)</cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>17 δι]καιον</cell>
+        <cell>2.5</cell>
+        <cell>הַצַּדִּ֖יק xxv. 1</cell>
+    </row>
+    <row>
+        <cell>18 εσται</cell>
+        <cell>none</cell>
+        <cell>וְהָיָ֥ה xxv. 2</cell>
+    </row>
+    <row>
+        <cell>19 ασεβη]ς</cell>
+        <cell>2.5</cell>
+        <cell>הָרָשָׁ֑ע</cell>
+    </row>
+    <row>
+        <cell>19 και καθιει αυτον</cell>
+        <cell>2.2</cell>
+        <cell>וְהִפִּיל֥וֹ {הַשֹּׁפֵט}</cell>
+    </row>
+    <row>
+        <cell>20 εν[αντιον αυτ]ου</cell>
+        <cell>4.0</cell>
+        <cell>{וְהִכָּהוּ} לְפָנָיו</cell>
+    </row>
+    <row>
+        <cell>21 και μαστιγωσιν[. . . αυ]των</cell>
+        <cell>4.2</cell>
+        <cell>[. . . .]</cell>
+    </row>
+    <row>
+        <cell>22 αριθμω]ι</cell>
+        <cell>2.5</cell>
+        <cell>בְּמִסְפָּ֖ר</cell>
+    </row>
+    <row>
+        <cell>23 αυτο]ν</cell>
+        <cell>3.3(?)</cell>
+        <cell>יַכֶּ֥נּוּ xxv. 3</cell>
+    </row>
+    <row>
+        <cell>24 προσθω]σιν</cell>
+        <cell>2.7</cell>
+        <cell>יֹסִ֤יף</cell>
+    </row>
+    <row>
+        <cell>Frag. (c)</cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>26 σου]</cell>
+        <cell>3.5(?)</cell>
+        <cell>בִּשְׁעָרֶֽיךָ xxvi. 12</cell>
+    </row>
+    <row>
+        <cell>Frag. (d)</cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>27 αυτο[υ]</cell>
+        <cell>5.0(?)</cell>
+        <cell>בְּקֹלֽוֹ xxvi. 17</cell>
+    </row>
+    <row>
+        <cell>28 σημερ]ον</cell>
+        <cell>1.5</cell>
+        <cell>הַיּוֹם xxvi. 18</cell>
+    </row>
+    <row>
+        <cell>29 κ]αθαπερ</cell>
+        <cell>2.3</cell>
+        <cell>כַּאֲשֶׁ֖ר</cell>
+    </row>
+    <row>
+        <cell>30 αυτου</cell>
+        <cell>4.0</cell>
+        <cell>מִצְוֺתָֽיו</cell>
+    </row>
+    <row>
+        <cell>31 υπεραν]ω</cell>
+        <cell>none</cell>
+        <cell>עֶלְי֗וֹן xxvi. 19</cell>
+    </row>
+    <row>
+        <cell>32 εποιησε]ν σε</cell>
+        <cell>none</cell>
+        <cell>עָשָׂ֖ה</cell>
+    </row>
+    <row>
+        <cell>32 ονομαστον</cell>
+        <cell>3.5</cell>
+        <cell>וּלְתִהִלָּ֖ה</cell>
+    </row>
+    <row>
+        <cell>Frag. (e)</cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>35 θυγατε]ρες</cell>
+        <cell>2.2</cell>
+        <cell>וּבְנֹתֶֽיךָ xxviii. 32</cell>
+    </row>
+    <row>
+        <cell>37 αυτα</cell>
+        <cell>2.1</cell>
+        <cell>אֲלֵיהֶם {כָּל־הַיּוֹם}</cell>
+    </row>
+    <row>
+        <cell>39 πονους σο]υ</cell>
+        <cell>2.0</cell>
+        <cell>יְגִיעֶ֕ךָ xxviii. 33</cell>
+    </row>
+</table>
+      <pb/>
+      <pb/>
+<head>SOME PUBLICATIONS</head>
+<p><hi rend="bold">THE MANSON MEMORIAL LECTURES.</hi> This Lectureship in New Testament studies was founded in the University of Manchester in 1960 in memory of Professor <hi rend="small-caps">T. W. Manson</hi>, D.Litt., D.D., F.B.A., who was Rylands Professor of Biblical Criticism and Exegesis in the University from 1936 until his death in 1958. The lecture is delivered annually in the University each November by a scholar outstanding in this field and printed in the <title>Bulletin</title> the following March, after which it is published as a separate off-print. Each off-print has a uniform binding.</p>
+<list rend="numbered">
+    <item>1.—“ The Christian’s Freedom of Speech in the New Testament ”. By W. C. Van Unnik, D.Theol., Professor of New Testament and Early Christian Literature in the University of Utrecht. 1962. 8vo, pp. 23. Price 5s. net. (25p).</item>
+    <item>2.—“ The Son of Man Problem in Recent Research and Debate ”. By Matthew Black, D.D., D.Litt., F.B.A., Principal of St. Mary’s College and Professor of Divinity and Biblical Criticism in the University of St. Andrews. 1963. 8vo, pp. 14. Price 4s. net. (20p). (Out of print.)</item>
+    <item>3.—“ Christianity at Corinth ”. By C. K. Barrett, M.A., D.D., F.B.A., Professor of Divinity in the University of Durham. 1964. 8vo, pp. 29. Price 5s. net. (25p).</item>
+    <item>4.—“ The Problem of the Pastoral Epistles: A Reappraisal ”. By C. F. D. Moule, M.A., D.D., Lady Margaret Professor of Divinity in the University of Cambridge. 1965. 8vo, pp. 23. Price 5s. net. (25p).</item>
+    <item>5.—“ St. Paul and Philo of Alexandria ”. By Henry Chadwick, D.D., F.B.A., Regius Professor of Divinity in the University of Oxford. 1966. 8vo, pp. 22. Price 5s. net. (25p).</item>
+    <item>6.—“ The Words of Jesus According to St. John ”. By A. J. B. Higgins, M.A., Ph.D., D.D., Reader in New Testament Language and Literature at the University of Leeds. 1967. 8vo, pp. 24. Price 6s. net. (30p).</item>
+    <item>7.—“ Jesus as ‘ Theos ’ in the New Testament ”. By G. H. Boobyer, B.D., D.Theol., Visiting Professor of Theology in the University College of Rhodesia. 1968. 8vo, pp. 15. Price 4s. 6d. net. (23p).</item>
+    <item>8.—“ The Experience of God in Qumran and in Paul ”. By A. R. C. Leaney, D.D., Reader in Theology in the University of Nottingham. 1969. 8vo, pp. 22. Price 6s. net. (30p).</item>
+    <item>9.—“ The Apostolic Decree and its setting in the Ancient Church ”. By Marcel Simon, Professor of the History of Religion in the University of Strasbourg. 1970. 8vo, pp. 24. Price 7s. 6d. net. (38p).</item>
+</list>
+<p>The annual subscription for the <title>Bulletin</title> is £3, excluding postage. Unless payment is made by cheque drawn on an English bank an additional 25p should be included for collection charges. Orders should be placed with The Librarian, The John Rylands Library, Deansgate, Manchester, M3 3EH.</p>
+      <pb/>
+<head rend="center">SOME PUBLICATIONS</head>
+
+<p rend="center">
+    <hi rend="bold">CATALOGUE OF THE ARABIC MANUSCRIPTS IN THE JOHN RYLANDS LIBRARY.</hi> By <persName>A. MINGANA, D.D.</persName> 1934. 4to, pp. xiii, 612. Cloth. 7 guineas net. (£7·35).
+</p>
+
+<p>
+    *<hi rend="subscript">*</hi>* The bulk of the collection, which numbers 830 volumes, was acquired from the Earl of Crawford in 1901 and includes all the MSS. purchased for the Bibliotheca Lindesiana from the Bland and Hamilton Collections in 1866 and 1868 as well as MSS. from the Library of Caussin de Perceval and the Castel-Branco selection of Silvestre de Sacy's collection.
+</p>
+
+<p>
+    “In the realm of artistic productions”, states <persName>Dr. Mingana</persName>, “it contains some of the best examples in existence”, among them 3 MSS. written throughout in letters of gold and others executed in gold and coloured designs of outstanding workmanship. In date the collection covers roughly one thousand years and its subject range is wide. Theology, jurisprudence, history, geography and travel, science, philosophy, poetry and philology are all represented and several unique and rare texts occur. There are 46 MSS. of the Ḳur’ān, including one of the oldest vellum texts in existence, and a unique translation into Old Turki in 14 volumes.
+</p>
+
+<p rend="center">
+    <hi rend="bold">CATALOGUE OF THE SAMARITAN MANUSCRIPTS IN THE JOHN RYLANDS LIBRARY.</hi> By <persName>EDWARD ROBERTSON, D.Litt., D.D.</persName>, Emeritus Professor of Semitic Languages and Literatures in the University of Manchester and Director of the John Rylands Library.
+</p>
+
+<p>
+    <hi rend="bold">Vol. 1: Nos. 1-27.</hi> 1938. 4to, pp. xxxviii, 207, with 5 plates of facsimiles. Cloth. 4 guineas net. (£4·20).
+</p>
+
+<p>
+    *<hi rend="subscript">*</hi>* Although the MSS. described number only 27, several are of considerable importance. They include what is apparently the earliest dated manuscript (A.D. 1211) of the whole Samaritan Pentateuch to be found outside Nablus, 6 other Pentateuchs in whole or in part (two bilingual), 3 noteworthy theological codices and interesting liturgical and astronomical MSS. The whole came to the Library in 1901 from the Crawford Collection.
+</p>
+
+<p>
+    <hi rend="bold">Vol. 2: Nos. 28-373.</hi> 1962. 4to, pp. xxii, 158, with 12 plates of facsimiles. Cloth. 10 guineas net. (£10·50).
+</p>
+
+<p>
+    *<hi rend="subscript">*</hi>* All save the last six are from the collection of Samaritan MSS. formed by the well-known Semitic scholar <persName>Dr. Moses Gaster</persName> and acquired by the Library from his family in 1954. They include MSS. of the Pentateuch (among them bilingual and trilingual texts), commentaries and treatises, and liturgical, historical, chronological and astronomical codices. Among miscellaneous items of interest are detailed census lists of the Samaritans and lists of manuscripts in their possession, which are printed in full in this volume.
+</p>
+      <pb/>
+<p rendition="black-page">
+   <!-- The image is a solid black page or a protective endpaper/divider without visible text. -->
+</p>
+    </body>
+  </text>
+</TEI>

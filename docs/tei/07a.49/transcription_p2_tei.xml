@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Conjunctive Dagesh - a Preliminary Study</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Scholars Press</publisher>
+      <date when="1990">1990</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Conjunctive Dagesh - a Preliminary Study</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Masoretic Studies</title>
+          <imprint>
+            <publisher>Scholars Press</publisher>
+            <date>1990</date>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="page" from="95" to="101">95-101</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb n="85"/>
+
+<head type="main">DEḤIQ: EXCEPTIONS TO<lb/> THE STANDARD PATTERN</head>
+
+<docAuthor>E. J. Revell<lb/> University of Toronto</docAuthor>
+
+<p>
+    <list>
+        <item n="1.">
+            <hi rend="bold">1.</hi> <hi rend="italic">Deḥiq</hi> typically occurs in the first letter of a word of which the first full vowel is stressed, and which follows a word ending in unstressed <hi rend="italic">segol</hi> or <hi rend="italic">qameṣ</hi>, where the two are joined by <hi rend="italic">maqqef</hi> or by a conjunctive accent. It does not occur where the letter in question is <hi rend="italic">waw</hi>, <hi rend="italic">'alef</hi>, <hi rend="italic">he</hi>, <hi rend="italic">ḥet</hi>, or <hi rend="italic">'ayin</hi>, (but it does occur in <hi rend="italic">resh</hi>). Where the unstressed vowel at the end of the preceding word is followed by <hi rend="italic">'alef</hi>, <hi rend="italic">deḥiq</hi> either does not occur, or is extremely rare, in biblical Hebrew.<note n="1">1. <hi rend="italic">Deḥiq</hi> does occur in the Aleppo Codex (A) after <hi rend="italic">segol</hi> followed by <hi rend="italic">'alef</hi> in Prov 23:31. It does not occur here in the Leningrad Codex (L), but does occur after <hi rend="italic">qameṣ</hi> followed by <hi rend="italic">'alef</hi> in the Aramaic parts of the Bible. See #3.4.</note> Consequently, a pair of words joined by <hi rend="italic">maqqef</hi> or a conjunctive accent is called a "standard pair" for the occurrence of <hi rend="italic">deḥiq</hi> where the first word ends in unstressed <hi rend="italic">qameṣ</hi> or <hi rend="italic">segol</hi> which is not followed by <hi rend="italic">'alef</hi>, and the second begins with a letter other than <hi rend="italic">waw</hi>, <hi rend="italic">'alef</hi>, <hi rend="italic">he</hi>, <hi rend="italic">ḥet</hi> or <hi rend="italic">'ayin</hi>, and is stressed on its first full vowel. For purposes of this study, where the first word of a pair has the postpositive conjunctive accent <hi rend="italic">telisha qeṭanna</hi> (so that its stress position is uncertain), the pair is considered standard where stress on that word would typically be
+        </item>
+    </list>
+</p>
+
+<fw type="pageNum">85</fw>
+      <pb n="86"/>
+<head>E. J. Revell</head>
+<p>penultimate, not otherwise. In Exodus 20:3, 4, and the parallels in Deut 5:7, 8, two words which form a standard pair are joined by <hi rend="italic">maqqef</hi> in one scheme of accentuation (the “upper”), but in the other (the “lower”) they are joined by a conjunctive accent which marks stress on the first word as final. These pairs also are not considered as “standard” here.<hi rend="superscript">2</hi></p>
+<p>2. As was shown in the paper I read at the last meeting of this society,<hi rend="superscript">3</hi> the standard pattern of the occurrence of <hi rend="italic">deḥiq</hi> can be described very simply.<hi rend="superscript">4</hi></p>
+<p>2.1 GROUP 1. <hi rend="italic">Deḥiq</hi> occurs where the first word in a standard pair ends in unstressed <hi rend="italic">segol</hi>, as <foreign xml:lang="heb">עֶ֫זֶר־כְּנֶגְדּֽוֹ</foreign> (Gen 2:18). The first word of the pair is usually an imperfect verb form from a root III<hi rend="italic">h</hi>, as in the example. In a few cases it is a participle or other noun from such a root, or a pronoun (<foreign xml:lang="heb">אֵ֫לֶּה</foreign>, <foreign xml:lang="heb">זֶ֫ה</foreign>). There are 17 exceptions in 277 cases (6%).</p>
+<p>2.2 GROUP 2. <hi rend="italic">Deḥiq</hi> occurs where the first word in a standard pair ends in unstressed <hi rend="italic">qameṣ</hi> and (i) never had final stress, as <foreign xml:lang="heb">עָשִׂ֫יתָ זֹּאת</foreign> (Gen 3:14), or (ii) has its typical final stress nullified by <hi rend="italic">maqqef</hi> or <hi rend="italic">nesiga</hi>, but has typical final stress in MT only due to a shift which occurred relatively recently in the history of the language, as <foreign xml:lang="heb">אָ֫לָה־לִּי</foreign> (Jer 5:5), and 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive (on which see #8.1). The first word is usually a verb form: 2m.s or 3f.s perfect, modal with affixed <hi rend="italic">qameṣ he</hi> (1st person imperfect, or m.s imperative, including <foreign xml:lang="heb">הָ֫בָה</foreign>) or f.pl imperfect. It may also be a noun form with affixed <hi rend="italic">qameṣ he</hi> “directional,” or with the ending <hi rend="italic">-’ātāh</hi> (GK #90.g), a verb, noun, or preposition with a pronominal suffix, or a pronoun or other particle (<foreign xml:lang="heb">חָלִ֫ילָה</foreign>, <foreign xml:lang="heb">לָ֫מָּה</foreign>, <foreign xml:lang="heb">מְאוּמָה</foreign>, <foreign xml:lang="heb">הֵ֫מָּה</foreign>). In group 2 overall, there are 41 exceptions in 548 cases (7%). Of these exceptions, 17 occur in group 2.ii, where they form 9% of the total.</p>
+<p>2.3 GROUP 3. <hi rend="italic">Deḥiq</hi> does not occur where the first word ends in <hi rend="italic">qameṣ</hi> which is unstressed through <hi rend="italic">maqqef</hi> or <hi rend="italic">nesiga</hi>, but (apart from such special features of the reading tradition) has always been typically stressed in recent history of the language, as <foreign xml:lang="heb">תֹּרָה לָּךְ</foreign> (Gen 4:6). The first word is most commonly a 3m.s perfect verb form from a root III<hi rend="italic">h</hi>, as in the example. It may also be a noun with the typical feminine ending <hi rend="italic">qameṣ he</hi> (including the unusual forms <foreign xml:lang="heb">אֹ֫בְיָה</foreign> Ps 120:5, <foreign xml:lang="heb">לְהַנְזָקָה</foreign> Dan 2:46). In Dan 2:29 it is the interrogative <foreign xml:lang="heb">מָה</foreign>; in Amos 1:11 it is <foreign xml:lang="heb">שָׁמְרָה</foreign>, the last syllable of which represents the 3f.s pronoun. There is one exception in 189 cases (1%).</p>
+<note>
+    <p>2. As is customary, both sets of accents are shown on the words in L (as in BHS). Conjunctive <hi rend="italic">dagesh</hi> does not occur in the second word of these pairs, as is consistent with the lower accentuation.</p>
+    <p>3. <hi rend="italic">Masoretic Studies 6</hi>; 95–101.</p>
+    <p>4. The following description is based on L. The numbers refer to a list of standard pairs which was created from computer search of the FCAT text (for the use of which I am most grateful), and from a computer-generated list created independently by Richard L. Goerwitz III of Chicago (to whom I offer thanks for his very kind help), and from a manual search (by which a few cases of unusual format or accentuation were added). The list should, then, be nearly, if not quite complete.</p>
+</note>
+<pb n="87"/>
+<head><hi rend="italic">Deḥiq</hi>: Exceptions to Standard Pattern</head>
+<p>Regular Exceptions</p>
+<p>3. When <hi rend="italic">deḥiq</hi> is described in this way, it becomes clear that its use is much more regular than is generally supposed. Moreover, the description above gives gross figures for exceptions. In some cases, exceptions to the rule given include most, or all, members of a group which is defined by phonological or morphological features, and so can be considered as regular features of the overall pattern.</p>
+<p>3.1 <hi rend="italic">Deḥiq</hi> does not occur in the second word of a standard pair where this is a noun (stressed on its first syllable) with a prefixed preposition (<foreign xml:lang="heb">-לְ</foreign> or <foreign xml:lang="heb">-בְּ</foreign>). It is noteworthy that all thirteen pairs showing this exception occur in group 2. In group 1, <hi rend="italic">deḥiq</hi> does occur in initial prepositional <hi rend="italic">lamed</hi> even where followed by a noun in <foreign xml:lang="heb">יִהְיֶה־לְעָם</foreign> (Gen 48:19). It is noteworthy that in standard pairs of which the first letter of the second word is followed by <hi rend="italic">shewa</hi>, but does not represent a preposition, the word is a noun with initial <hi rend="italic">mem</hi> or <hi rend="italic">shin</hi>.</p>
+      <pb n="88"/>
+<list>
+    <item>88</item>
+    <item>E. J. Revell</item>
+</list>
+
+<p>3.2 <hi rend="italic">Dehiq</hi> does not occur in L in eight of nine cases in which the second word of a standard pair has <hi rend="italic">dagesh</hi> in its second letter (שָׁמָּה, מָּה). In L, <hi rend="italic">dagesh</hi> following מָה is omitted from <hi rend="italic">mem</hi> and <hi rend="italic">shin</hi> and some other letters under the same conditions, as pointed out by Dotan.<note n="5">See A. Dotan, "Deviation in Gemination in the Tiberian Vocalization," in <hi rend="italic">Estudios Masoreticos (Textos y Estudios</hi> vol. 33, ed. E. Fernández-Tejero, Madrid, 1983, p. 67). <hi rend="italic">Dehiq</hi> occurs in such words in A, and in the Cairo Codex (C).</note></p>
+
+<p>3.3 <hi rend="italic">Dehiq</hi> does not occur where the first word of a standard pair is a feminine plural imperfect or imperative form in which the stressed penultimate vowel is <hi rend="italic">segol</hi>, (except where the following <hi rend="italic">nun</hi> has <hi rend="italic">dagesh</hi> as in Mic. 7:10 (תִּרְאֶינָה בָּהּ).</p>
+
+<p>3.4 In the Aramaic sections of L, <hi rend="italic">dehiq</hi> occurs where the first word of a standard pair ends in unstressed <hi rend="italic">qames</hi> followed by <hi rend="italic">'alef</hi> where this word is a first person plural perfect verb (as אֲמַרְנָא לָהֶם Ezra 5:4, 9, also 5:10). It does not where the first word in the pair is the negative particle לָא (Dan 3:12, 27, 6:14, 25), or a noun in the determined state (as וְעִבָידְתָּא דָה Ezra 5:8, also Dan 4:9, 18, 7:8) with the exception of דִּלָא מָטָא (Dan 4:25).</p>
+
+<head>Irregular Exceptions</head>
+
+<p>4. If these "regular exceptions" are treated as features of standard usage, the largest group of cases in which <hi rend="italic">dehiq</hi> is expected but does not appear belong to division (ii) of group 2: pairs in which the first word is a verb form (or, in two cases, Gen 24:42, Ps 109:27, a noun with a 2m.s pronominal suffix) which shows final stress in MT (in its typical medial form) as the result of a shift from penultimate stress which occurred relatively recently. It is not surprising to find that, in a phenomenon which is conditioned by stress position, exceptions occur where this has recently changed.</p>
+
+<p>4.1 In group 2.ii, <hi rend="italic">dehiq</hi> almost always occurs where the second word of the pair has the form CV or CVC. This occurs</p>
+
+<pb n="89"/>
+<list>
+    <item><hi rend="italic">Dehiq: Exceptions to Standard Pattern</hi></item>
+    <item>89</item>
+</list>
+
+<p>with a noun in 17 cases, a preposition with a pronominal suffix in 92 cases, an adverb in 4 cases, and with the particle נא in 34 cases. Three exceptions occur.</p>
+
+<p>4.1.1 Where the second word of the pair is a preposition with a pronominal suffix in Exod 21:4 נָתַן־לוֹ - the same pair shows <hi rend="italic">dehiq</hi> in Gen 21:3 and elsewhere; Jer 20:10 וְנָוּכְלָה לוֹ - there is no exact parallel to this, but a similar pair occurs in Ps 83:13 נִירְשָׁה לָּנוּ (also 1 Kgs 17:17, Jer 5:5); Job 5:23 הָשְׁלְמָה־לָּךְ. The closest parallel structure in L is שָׂחֲקָה־לָּהּ (Ps 122:3). These cases appear to be anomalies. British Library MS Or. 4445 (B) agrees with L in Exod 21:4, as do A and C in Jer 20:10. However A shows <hi rend="italic">dagesh</hi> in the case in Job 5:23, so its absence in L may be due to error.</p>
+
+<p>4.1.2 <hi rend="italic">Dehiq</hi> does not occur where the second word is the noun רָע in אֹהֵב־רָע Prov 21:10 (also Prov 20:22). There are no cases in this group in which <hi rend="italic">dehiq</hi> occurs in <hi rend="italic">resh</hi>, so possibly its absence in these cases is conditioned by the phonological characteristics of this consonant.</p>
+
+<p>4.2 Where the first word is a verb, and the second is a preposition with a suffix composing a word of form CVCV, <hi rend="italic">dehiq</hi> occurs in all nine cases, as in נִירְשָׁה־לָּנוּ (Ps 83:13). Where the second word is a noun of form CVCV or CVCVC, <hi rend="italic">dehiq</hi> occurs in only five of nine cases.</p>
+
+<p>4.2.1 <hi rend="italic">Dehiq</hi> occurs where the noun is the object of the preceding verb, which is preceded by its subject or a modifier. The clause is marked with <hi rend="italic">revia’ mugrash</hi> and <hi rend="italic">silluq</hi>, and forms the second and final half of a verse of poetry, as Job 5:16 וְעֹלָתָה קָפְצָה פִּיהָ (also Ps 26:10, 107:42, Prov 31:16), or is marked with <hi rend="italic">deḥi</hi> and <hi rend="italic">atnaḥ</hi> following <hi rend="italic">‘ole we-yored</hi>, and forms the first division of the second part of the verse (Prov 30:16). <hi rend="italic">Dehiq</hi> also occurs in נַעֲמָדָה יָּחַד (which forms a clause ending the first half of Isa 50:8), the only case with a verb of this form.</p>
+
+<p>4.2.2 <hi rend="italic">Dehiq</hi> does not occur in subject - verb - object structures which begin the verse in Ps 84:4, Job 24:15 (the latter is not a complete clause). It does not occur in accentual units of the type described in #4.2.1 where the first word of the pair is preceded by another verb (not by a subject or modifier) in Prov 30:20 אָכְלָה וּמָחֲתָה פִּיהָ, nor in the similar structure which</p>
+      <pb n="90"/>
+<head>E. J. Revell</head>
+<p>begins Isa 56:12, nor in <foreign xml:lang="heb">אֶמְלְלָה־גָּפֶן</foreign> (Isa 24:7), the second of two two-word clauses of structure verb - subject. That is, the situations in which <hi rend="italic">deḥiq</hi> does occur differ from those in which it does not occur. The specific differences could produce prosodic features which could condition its use.</p>
+<p>4.3 <hi rend="italic">Deḥiq</hi> also does not occur in group 2.ii where the second word has <hi rend="italic">shewa</hi> under its first letter; the word is a preposition with a pronominal suffix in <foreign xml:lang="heb">אֶחָי־לָךְ</foreign> (1 Kgs 21:2, 6), a noun in <foreign xml:lang="heb">תְּנָה־בְנִי</foreign> (Prov 23:26). There are no cases of this sort in which <hi rend="italic">deḥiq</hi> does occur.</p>
+<p>4.4 It seems clear, then, that, in group 2.ii, the occurrence of <hi rend="italic">deḥiq</hi> is conditioned by the form of the second word, and by its relationship to the first. It appears that the occurrence of <hi rend="italic">deḥiq</hi> is inhibited where the second word is “long” in that the stressed vowel is followed by another vowel (#4.2), or preceded by a consonant with <hi rend="italic">shewa</hi> (#4.3). It also seems probable that it is inhibited where the initial consonant of the second word is <hi rend="italic">resh</hi>. On the question of relationship, the fact that a word of form CVCV always shows <hi rend="italic">deḥiq</hi> where it is a preposition with a pronominal suffix, but not always where it is a noun, suggests that syntactic/semantic relationship of the sort which affects the occurrence of <hi rend="italic">nesiga</hi> was significant here also. It is assumed (as with <hi rend="italic">nesiga</hi>) that it was prosodic patterns reflecting these relationships which actually conditioned the use of <hi rend="italic">deḥiq</hi>.<note n="6">This suggests, then, that the occurrence of <hi rend="italic">deḥiq</hi> is determined by a combination of phonotactic and prosodic features, as has been shown to be the case for other types of sound variation.<note n="7">The</note></p>
+<note n="6">6. See E. J. Revell, <hi rend="italic">Nesiga in Tiberian Hebrew</hi> (<hi rend="italic">Textos y Estudios</hi> vol. 39), Madrid 1987, #2.53. The fact that the accentuation does not indicate the conditions under which <hi rend="italic">deḥiq</hi> (or <hi rend="italic">nesiga</hi>) must occur, but only those under which it may occur, shows that the accentuation does not exactly represent the prosodic features which conditioned these phenomena, as argued in #1.15 there.</note>
+<note n="7">7. Specifically <hi rend="italic">nesiga</hi>, and the stressing of perfect verb forms with <hi rend="italic">waw</hi> consecutive, and of verb forms with vocalic affix from hollow or geminate roots. See the remarks in my article “Stress</note>
+<pb n="91"/>
+<head><hi rend="italic">Deḥiq</hi>: Exceptions to Standard Pattern</head>
+<p>effect of any particular feature, such as the prosodic pattern reflecting the relationship between the two words, or the presence of <hi rend="italic">resh</hi> or a consonant with <hi rend="italic">shewa</hi> at the beginning of the second, is dependent on the other features with which it is combined. No feature conditions such variation independently, as is already indicated, for <hi rend="italic">deḥiq</hi>, by the fact that the standard pair is characterized by a combination of features, not by one alone.</p>
+<p>5. The remaining cases in which <hi rend="italic">deḥiq</hi> fails to occur where expected in a standard pair can be treated together. Most occur in category 1.</p>
+<p>5.1 <hi rend="italic">Deḥiq</hi> fails to occur in <foreign xml:lang="heb">יְהֹוָה־קֹדֶשׁ</foreign> (Lev 27:33), but does occur here in B, as it does in L in the same pair in Lev 27:9, 10, 32, (and in 17 other cases in a pair composed of a verb followed by a segolate noun). It fails to occur in <foreign xml:lang="heb">חָמְדָה־לָּנוּ</foreign> (1 Kgs 20:25), but occurs in <foreign xml:lang="heb">לָּךְ</foreign> in 14 other cases. <hi rend="italic">Deḥiq</hi> also fails to occur in <foreign xml:lang="heb">תוֹעֵבָה־הִיא</foreign> (Jer 22:22). <hi rend="italic">Deḥiq</hi> does occur in fourteen other cases in nouns of form CVC, including nouns with initial <hi rend="italic">resh</hi> in Prov 11:21, Job 39:9. There are no other examples in which the vowel is followed by <hi rend="italic">pataḥ</hi> furtive, but it seems probable that both this and the other cases treated in this paragraph are isolated anomalies.</p>
+<p>5.2 Where the first word of a standard pair is the pronoun <foreign xml:lang="heb">אֵלֶּה</foreign>, <hi rend="italic">deḥiq</hi> occurs in five cases in which the second word of the pair is a preposition with a pronominal suffix, as <foreign xml:lang="heb">מִי־אֵלֶּה לָּךְ</foreign> (Gen 33:5, and similar structures 2 Sam 16:2, Ezek 24:19, 37:18), and <foreign xml:lang="heb">אֲשֶׁר־אֵלֶּה לּוֹ</foreign> (Gen 38:25). <hi rend="italic">Deḥiq</hi> does not occur in the pair <foreign xml:lang="heb">וְאֵלֶּה שְׁמוֹת</foreign> (Gen 46:8, Exod 6:16. B agrees with L). There is no other example of a standard pair in which (as here) the second word is a construct noun. The first word in such cases (i.e. a word preceding a construct noun) typically has a disjunctive accent (as in the other cases of <foreign xml:lang="heb">ואלה שמות</foreign> showing that the second word of the pair is more closely related to</p>
+<note>Position in Hebrew Verb Forms with Vocalic Affix” JSS 32 (1987), 263 (#21).</note>
+      <pb n="92"/>
+<head>92 E. J. Revell</head>
+<p>what follows than to what precedes (i.e. the first word). Presumably this relatively weak relationship of the two words in the pair וְאֵלֶּה שְׁמוֹת prevented the development of <hi rend="italic">dehiq</hi>, despite the fact that the words were joined by a conjunctive accent, as also occurs with <hi rend="italic">nesiga</hi>. The other two cases in which <hi rend="italic">dehiq</hi> fails to occur in a standard pair of which the first word is אֵלֶּה, אֵלֶּה פֹה are אֲנַחְנוּ אֵלֶּה (Deut 5:3), and שַׁחֲרִי־אֵלֶּה רָעַ (Isa 47:9). In both cases, the two words forming the pair belong to different constituents of the clause. It seems possible that here, too, the prosodic features reflecting the syntactic/semantic relationship of the words forming the pair inhibited the development of <hi rend="italic">dehiq</hi>. Again parallels can be found in the occurrence of <hi rend="italic">nesiga</hi>.<note n="8">8. For the failure of <hi rend="italic">nesiga</hi> to occur in a word followed by a construct phrase, see Revell <hi rend="italic">Nesiga</hi> #2.3. For its typical failure to occur where the two words in the pair have no direct grammatical relationship, see #7.7 there.</note></p>
+<p>5.3 There is no close parallel to בָּרְרָה עֵדְוֹתֶיךָ שִׁעְשָׁעוּ (Ps 119:14). There are cases in this group (2.i) in which <hi rend="italic">dehiq</hi> is shown in a pair of which the first word ends a phrase (as Deut 23:6, 2 Sam 9:10, Ps 61:5), and in pairs in which the first word modifies a following verb (as Ezek 40:4, 44:5), but no other example shows both features. It seems possible that the prosodic features reflecting this pair of relationships also inhibited the development of <hi rend="italic">dehiq</hi>.</p>
+<p>5.4 <hi rend="italic">Dehiq</hi> fails to occur in L in Gen 23:9, יִתֶּן־לִי - dagesh occurs in closely similar pairs in 1 Sam 18:21, 21:10. <hi rend="italic">Dehiq</hi> also fails to occur in וּבְאָזְנֶיךָ שָׁמָע (Ezek 3:10), where it occurs in A and C, as in all three MSS in the same pair in Ezek 40:4, 44:5. Consequently this case appears to be due to error in L. That in Gen 23:9 may also be due to error, but B is not available for comparison.</p>
+<p>5.5 The exceptions to the standard pattern of the occurrence of <hi rend="italic">dehiq</hi> treated in this section, then, include a</p>
+
+<pb n="93"/>
+<head>Dehiq: Exceptions to Standard Pattern 93</head>
+<p>number of isolated anomalies which may arise from error.<note n="9">9. It seems safe to assume that such anomalies in L are errors where one of the other MSS closely associated with ben Asher (A, B, or C) shows the expected pattern. However, these MSS support L in some anomalies (as in Exod 21:4, Jer 20:10, see #4.1.1) and each shows anomalies of its own (as the use of <hi rend="italic">dehiq</hi> after <hi rend="italic">alef</hi> in A in Prov 23:31, and its absence in B in Lev 15:26), so it cannot be certain that any anomaly is foreign to the tradition. Other MSS in the fairly wide range of codices and Genizah fragments which I have now checked all show some variation from L which cannot be supported from A, B, or C, so it cannot be certain that any of these represents the true tradition, even where it shows the expected pattern where L does not.</note> They also include a number of cases which suggest quite strongly that its occurrence was conditioned by the prosodic features representing the syntactic/semantic relationships of the words in question.</p>
+<list>
+<item>6. <hi rend="italic">Dehiq</hi> occurs in two cases in the second word of a standard pair where it is contrary to the standard pattern.
+<list>
+<item>6.1 The use of <hi rend="italic">dehiq</hi> in יַרְדָּה מַּיִם (Lam 1:16) contrasts with its absence in לְמַטָּה לּוֹ (Isa 40:10), קָצְרָה כֹּחַ (Isa 59:19). Features of Tiberian pointing strongly suggest that a participle was treated as a perfect verb (with consequent minor adjustment of stress position and vowel pattern) if both its morphological features and its syntactic/semantic context would allow this.<note n="10">10. See E. J. Revell "'Obed (Deut 26:5) and the Function of the Participle in MT." <hi rend="italic">Sefarad</hi> 48 (1988), 197–205.</note> The participle in Lam 1:16 could have been treated in this way (it is followed by perfect verbs) while those in Isa 40:10, and Isa 59:19, which stand in a present/future context, were not. The failure to use <hi rend="italic">dehiq</hi> in these two cases is expected after nouns (group 3).<note n="11">11. The treatment of other forms which could be classed either as verbs or as nouns is consistent with this. יֹלְדָה (1 Kgs 17:17, Ezek 14:22) and וְחַיָּה (2 Kgs 25:30 = Jer 52:34) are followed by <hi rend="italic">dehiq</hi>, reflecting the fact that they were understood as perfect verb forms. The time value of יֹלְדָה in Ezek 14:22 may seem questionable, but it</note> It must be admitted, however,</item>
+</list>
+</item>
+</list>
+      <pb n="94"/>
+<p>
+  that it is not clear that יָרְדָה in Lam 1:16 was regarded as a perfect verb,<note n="12">It is represented by an aorist in the Greek translation, but by a participle in Jerome’s and the Targum (ולתין).</note> and that the discussion in #4.2 leaves it uncertain as to whether <gloss>dehiq</gloss> should be expected even if it were so regarded. The explanation offered here is, then, questionable, but the only alternative is to regard the form as anomalous.
+</p>
+<p>
+  <hi rend="bold">6.2</hi> In וְעָנְתָה שָּׁמָּה (Hos 2:17), the use of <gloss>dehiq</gloss> is atypical of L (see #3.2) although not of A and C. This may simply represent error or inconsistency in the <gloss>naqdan</gloss> of L.
+</p>
+<head>Other Situations</head>
+<p>
+  7. <gloss>Dagesh</gloss> occurs in a number of cases where the second word of a pair <hi rend="italic">which</hi> is otherwise standard is not stressed on its first full vowel. The following groupings suggest that this phenomenon also is phonologically conditioned.
+</p>
+<p>
+  <hi rend="bold">7.1</hi> <gloss>Dagesh</gloss> occurs in word-initial <hi rend="italic">lamed</hi> in the neighborhood of <hi rend="italic">lamed</hi> or <hi rend="italic">resh</hi>.
+</p>
+<list>
+  <item>Jos 8:2 <foreign xml:lang="heb">עָשִׂיתָ לִּירִיחוֹ</foreign></item>
+  <item>2 Sam 15:2,4 <foreign xml:lang="heb">אֲשֶׁר־יִהְיֶה־לּוֹ־רִיב</foreign></item>
+  <item>Ps 31:20 <foreign xml:lang="heb">אֲשֶׁר־צָפַנְתָּ לִּירֵאֶיךָ</foreign></item>
+  <item>Ps 60:6 <foreign xml:lang="heb">נָתַתָּה לִּירֵאֶיךָ</foreign></item>
+  <item>Job 39:16 <foreign xml:lang="heb">בָּנֶיהָ לְלֹא־לָהּ</foreign></item>
+  <item>Ps 19:3 <foreign xml:lang="heb">וְלַיְלָה לְּלַיְלָה</foreign></item>
+</list>
+<note>was translated as past in the Targum, the Greek, and Jerome. The context in which the other three forms occur is clearly past. In Dan 10:17, נֶעְצְרָה occurs in a present/future context. (Note the preceding מעתה לא יעמוד. The form is translated as past in the Greek, but as present by Jerome, and with an imperfect form in Saadya’s Arabic). <gloss>Dehiq</gloss> is not used in this case in Daniel, reflecting the fact that it was treated as a noun – i.e. as a participle with present/future value where used predicatively.</note>
+
+<pb n="95"/>
+<head type="running">Dehiq: Exceptions to Standard Pattern</head>
+<p>
+  Ps 19:3 should also probably be included here, since, although the words form a standard pair in category 2.2.1, the use of <gloss>dehiq</gloss> is anomalous according to #3.1. <gloss>Dagesh</gloss> also occurs in this environment after stressed <hi rend="italic">segol</hi> in Hab 2:6 הַמַּרְבֶּה לֹּא־לוֹ, and in לֹּא where followed by לוֹ elsewhere (Gen 38:9, Hab 1:6, Prov 26:17). It also seems possible that the use of <gloss>dagesh</gloss> in וַיֹּאמְרוּ לֹּא (Gen 19:2, 1 Sam 8:19) is a related phenomenon,<note n="13">The use of <gloss>dagesh</gloss> here might be merely diacritical, distinguishing לא from לו. However, ויאמרו לו regularly shows <gloss>nesiga</gloss>, and so is distinguished from ויאמרו לא even without the <gloss>dagesh</gloss>. It is interesting to note that in Jud 18:19, Est 6:13, where the accent on the verb is the typically postpositive <gloss>telisha qetanna</gloss>, L repeats it on the stressed syllable to mark the retraction of the stress. (The statement of S. Baer in “De primarum vocabulorum literarum dagessatione” [<hi rend="italic">Liber Proverbiorum</hi> edd. S. Baer and F. Delitzsch, Lipsiae 1880, vii–xv], #7, p. xiv, that in these two cases [out of all the cases of ויאמרו לו] the <hi rend="italic">lamed</hi> has <gloss>dagesh</gloss>, probably does not reflect a genuine tradition. I have found no sources which show <gloss>dagesh</gloss> in Jud 18:19. That a few do in Est 6:13 – including the Venice ed. of 1624–5 – may well be due to confusion. Baer’s statement [#8 there, p. xv] that there is <gloss>dagesh</gloss> in the <hi rend="italic">lamed</hi> of לא in לו לא in Deut 32:5 probably arises from similar confusion. There is no <gloss>dagesh</gloss> in L, as is to be expected if this <gloss>dagesh</gloss> represents a conditioned phonological variation related to <gloss>dehiq</gloss>, as לו here has a disjunctive accent).</note> possibly also that in מֹשֶׁה לֵּאמֹר (Exod 6:10 etc.).
+</p>
+<p>
+  <hi rend="bold">7.2</hi> <gloss>Dagesh</gloss> occurs in word-initial <hi rend="italic">mem</hi>
+</p>
+<list>
+  <item>Lev 19:14,32 <foreign xml:lang="heb">וְיָרֵאתָ מֵּאֱלֹהֶיךָ</foreign></item>
+  <item>Ps 30:4 <foreign xml:lang="heb">הֶעֱלִיתָ מִן־שְׁאוֹל</foreign></item>
+  <item>1 Chron 4:10 <foreign xml:lang="heb">וְעָשִׂיתָ מֵּרָעָה</foreign></item>
+  <item>1 Chron 22:1 <foreign xml:lang="heb">וְזֶה־מִּזְבֵּחַ</foreign></item>
+</list>
+<p>
+  <gloss>Dagesh</gloss> also occurs after וְזֶה־ in וְזֶה־פִּרְיָהּ (Num 13:27) as it does wherever the following word is stressed on its first syllable. Elsewhere, the first letter of the following word does
+</p>
+      <pb n="96"/>
+<p>not show <hi rend="italic">dagesh</hi>. The word is <foreign xml:lang="heb">יִהְיֶה</foreign> in Num 18:9, 34:6, 9, Jos 15:4, and a perfect <hi rend="italic">qal</hi> form, also beginning with <hi rend="italic">yod</hi>, in Ps 56:10, 104:26. Cf. the fact that <hi rend="italic">dagesh</hi> fails to occur in <hi rend="italic">yod</hi> following <foreign xml:lang="heb">מַה</foreign> (but consistently only where the <hi rend="italic">yod</hi> is followed by <hi rend="italic">shewa</hi>). Dagesh does not occur after <foreign xml:lang="heb">פֶּה</foreign> in the closest parallels (<foreign xml:lang="heb">פֶּה־לָהֶם</foreign> Ps 115:5, 135:16), but since the situation differs from that described in #7.1, it is not clear that it should be expected here.</p>
+
+<list>
+    <item>7.3 <hi rend="italic">Dagesh occurs in word-initial nun</hi>
+        <list>
+            <item>1 Sam 1:13 <foreign xml:lang="heb">שְׂפָתֶיהָ נָּעוֹת</foreign></item>
+            <item>Song 1:4 <foreign xml:lang="heb">אַחֲרֶיךָ נָּרוּצָה</foreign></item>
+            <item>Lam 1:4 <foreign xml:lang="heb">בְּתוּלֹתֶיהָ נּוּגוֹת</foreign></item>
+        </list>
+    </item>
+</list>
+
+<p><foreign xml:lang="heb">נָא</foreign> as second word in a standard pair regularly shows <hi rend="italic">dehiq</hi>. It also shows <hi rend="italic">dagesh</hi> after stressed <hi rend="italic">qameṣ</hi> or <hi rend="italic">segol</hi> (i) where <foreign xml:lang="heb">נָא</foreign> is not stressed, after <foreign xml:lang="heb">אָנּוּפָה</foreign> (Jud 6:39) and <foreign xml:lang="heb">הִנֵּה</foreign> (Gen 19:2),<note n="14"/> and (ii) where <foreign xml:lang="heb">נָא</foreign> is stressed, after <foreign xml:lang="heb">אֲמָלְטָה</foreign> (Gen 19:20), <foreign xml:lang="heb">הוֹשִׁיעָה</foreign> and <foreign xml:lang="heb">הַצְלִיחָה</foreign> (Ps 118:25). It appears that there are no parallels to situation (i) in which the <hi rend="italic">nun</hi> is <hi rend="italic">rafe</hi>, that is, <hi rend="italic">dagesh</hi> always occurs in unstressed <foreign xml:lang="heb">נָא</foreign>. There are parallels to situation (ii) in which <hi rend="italic">dagesh</hi> is not marked in stressed <foreign xml:lang="heb">נָא</foreign>, as after <foreign xml:lang="heb">אֶעֶבְרָה</foreign> (2 Sam 17:1), <foreign xml:lang="heb">שִׁלְחָה</foreign> (2 Kgs 4:22). Of the cases where <hi rend="italic">dagesh</hi> is shown, that in Gen 19:20 is the only case in which <hi rend="italic">nesiga</hi> does not occur in a verb followed by <foreign xml:lang="heb">נָא</foreign> where the two form a typical pair for that phenomenon, and final stress is anomalous in the two cases in Ps 118:25.<note n="15"/> Consequently it seems very likely that, in these three cases, <hi rend="italic">dehiq</hi> arose in a form of tradition in which the common patterns of <hi rend="italic">nesiga</hi> and word stress were followed.</p>
+
+<note n="14"><foreign xml:lang="heb">נָא</foreign> following <foreign xml:lang="heb">הִנֵּה</foreign> is elsewhere stressed. The two are usually joined by <hi rend="italic">maqqef</hi>, and <foreign xml:lang="heb">הִנֵּה</foreign> has <hi rend="italic">ṣere</hi>, as it does in Jud 19:9, where both words have conjunctive accents.</note>
+<note n="15">For notes on these cases in relation to <hi rend="italic">nesiga</hi>, see Revell, <hi rend="italic">Nesiga</hi>, #1.14, #2.12 (v).</note>
+
+<pb n="97"/>
+<head>Dehiq: Exceptions to Standard Pattern</head>
+
+<list>
+    <item>7.4 <hi rend="italic">Dagesh occurs in word-initial qof</hi>
+        <list>
+            <item>Exod 25:29 <foreign xml:lang="heb">וְעָשִׂיתָ קְּעָרֹתָיו</foreign></item>
+            <item>Deut 32:6 <foreign xml:lang="heb">אָבִיךָ קָּנֶךָ</foreign></item>
+        </list>
+    </item>
+    <item>7.5 <hi rend="italic">Dagesh occurs in a word-initial sibilant</hi>
+        <list>
+            <item>Exod 27:3 <foreign xml:lang="heb">וְעָשִׂיתָ סִּירֹתָיו</foreign></item>
+            <item>Ps 54:8 <foreign xml:lang="heb">אָוֹדֶנּוּ שֶּׁמְךָ</foreign></item>
+        </list>
+    </item>
+    <item>7.6 <hi rend="italic">Dagesh occurs in a word-initial begad-kefat letter</hi><note n="16"/>
+        <list>
+            <item>Exod 15:11 <foreign xml:lang="heb">מִֽי־כָמֹכָה בָּאֵלִם</foreign></item>
+            <item>Num 13:27 (see 7.2) <foreign xml:lang="heb">וְזָבַת־דְּבָשׁ הִיא</foreign></item>
+            <item>Deut 32:15 <foreign xml:lang="heb">עָשִׂיתָ כָּשִׂיתָ</foreign></item>
+            <item>Jos 8:28 <foreign xml:lang="heb">וַיְשִׂימֶהָ תֵל־עוֹלָם</foreign></item>
+            <item>Ps 77:16 <foreign xml:lang="heb">גָּאַלְתָּ בִּזְרוֹעַ</foreign></item>
+            <item>Job 5:27 <foreign xml:lang="heb">חֲקַרְנוּהָ כֶּן־הִיא</foreign></item>
+            <item>Dan 5:11 <foreign xml:lang="heb">וְחָכְמָה כְּחָכְמַת אֱלָהִין</foreign></item>
+        </list>
+    </item>
+</list>
+
+<p>8. Dagesh may, then, occur in almost any letter under conditions related to those typical for <hi rend="italic">dehiq</hi>, but occurs most commonly in <hi rend="italic">lamed</hi>, <hi rend="italic">mem</hi>, and <hi rend="italic">nun</hi>. As is well known, these</p>
+
+<note n="16">Some cases which could h&aelig;ve been included here were omitted because they also belong to the category <foreign xml:lang="heb">שתי אותיות רצופות</foreign>, which is, like <foreign xml:lang="heb">אתי מרחיק</foreign> and <foreign xml:lang="heb">דחיק</foreign> one of the <foreign xml:lang="heb">מבטלים</foreign> phenomena which block the conditions which induce the fricative (<hi rend="italic">rafe</hi>) realization of the <foreign xml:lang="heb">בג"ד כפ"ת</foreign>. Examples are <foreign xml:lang="heb">וְתִדְבַּקְנָה בְּפִיכֶם</foreign> (Jer 44:25, cf. Ezra 8:17), <foreign xml:lang="heb">אֱמוּנָתְךָ בְּפִי</foreign> (Ps 89:2). Descriptions of the conditioning of this phenomenon vary. For an early example see Ilan Eldar, <foreign xml:lang="heb">חוק אוריה וביהכפ"ת</foreign> <hi rend="italic">Hebrew Union College Annual</hi> 55 (1984), p. <foreign xml:lang="heb">יב</foreign>. Since the use of the <hi rend="italic">dagesh</hi> here is not conditioned by the form of the preceding word, there is no reason to connect it with <hi rend="italic">dehiq</hi>.</note>
+      <pb n="98"/>
+<head>E. J. Revell</head>
+<p>letters show other unusual uses of <hi rend="italic">dagesh</hi> in some non-standard forms of pointing. As remarked in #7.1 and note 16, some other cases of "<hi rend="italic">deḥiq</hi>-related" <hi rend="italic">dagesh</hi> seem equally to be related to uses of <hi rend="italic">dagesh</hi> which bear no obvious relation to <hi rend="italic">deḥiq</hi>. This suggests that what is here called <hi rend="italic">deḥiq</hi> is merely the most common case of phenomenon which occurred in a considerably wider context. A great deal of work is needed before this wider context can be fully understood. More work is needed even to establish whether the use of <hi rend="italic">dagesh</hi> in the cases listed in ##7.1-3 is conditioned in some way, or is merely sporadic.<note n="17" place="bottom">The <hi rend="italic">ga‘ya</hi> which (in Baer's opinion, <hi rend="italic">op. cit.,</hi> #6.d) governs the use of <hi rend="italic">deḥiq</hi> in such cases is not always admissible in the examples, and is not always marked in L where it could be.</note> There is, however, no doubt about the regularity of the standard form of <hi rend="italic">deḥiq</hi>. The cases which are certainly anomalies (the seven pairs designated as anomalous in ##5.1, 4, 6.1, 2) form less than 1% of the total. Whether these arose in the process of transmission, or represent a feature of the tradition which is not understood, they form a proportion far too small to affect the conclusion that the standard form of <hi rend="italic">deḥiq</hi> arises from automatic phonological conditioning.</p>
+<p>9. The necessity of mentioning shifts in stress position in the definition of group 2.ii of the standard pattern shows that <hi rend="italic">deḥiq</hi> has implications for the history of the language. These cannot be explored in full, but their importance can be illustrated by one point. <hi rend="italic">Deḥiq</hi> occurs consistently after 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive where these have <hi rend="italic">maqqef</hi>, or a conjunctive accent with penultimate stress, just as it does after the same forms with no prefixed conjunction. That is, in the matter of <hi rend="italic">deḥiq</hi>, <hi rend="italic">waw</hi> consecutive perfect forms act as members of group 2.ii. In the other forms in this sub-group, the penultimate syllable, which was open with a short vowel, was stressed until a period relatively recent in the history of the Tiberian tradition, as is well known. The fact that 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive act in the same way seems to me</p>
+<pb n="99"/>
+<head><hi rend="italic">Deḥiq</hi>: Exceptions to Standard Pattern</head>
+<p>to confirm the conclusion that the shift of stress to the final vowel from the long (closed) penultimate syllable of such forms is a late development in biblical Hebrew, occurring after the shift of stress to a final vowel from a short penultimate syllable.<note n="18" place="bottom">See <hi rend="italic">JAOS</hi> 104 (1984), 440 (#9). Note also that the variation in stress position in these forms appears to be conditioned in the same way as is <hi rend="italic">nesiqa</hi> and other late variation in stress position. See n. 7 above. In <hi rend="italic">Matres Lectionis in Early Hebrew Epigraphs (American Schools of Oriental Research Monographs 2,</hi> Cambridge, Mass., 1980, 31-2) Ziony Zevit suggests that orthographic features of the pre-exilic inscriptions reflect the final stressing of 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive in those times. His argument is reasonable, but the evidence can be explained in other ways (see, e.g., for two of the forms cited, F. M. Cross and D. N. Freedman, <hi rend="italic">Early Hebrew Orthography [American Oriental Series 36]</hi> New Haven 1952, p. 53, #54.</note></p>
+    </body>
+  </text>
+</TEI>

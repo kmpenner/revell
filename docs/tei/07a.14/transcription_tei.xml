@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Aristotle and the Accents</title>
+      <author>
+        <persName>
+          <forename>E.</forename>
+          <forename>J.</forename>
+          <surname>Revell</surname>
+        </persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Oxford University Press</publisher>
+      <date when="1974">1974</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Aristotle and the Accents</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Journal of Semitic Studies</title>
+          <imprint>
+            <date when="1974">1974</date>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="page" from="19" to="35">19-35</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded from the file 07a.14_Aristotle_and_the_Accents.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<fw type="header" place="top-right">Bib <choice><orig>⑭</orig><reg>14</reg></choice></fw>
+<head rend="center">JOURNAL OF SEMITIC STUDIES</head>
+<milestone unit="rule" rend="double"/>
+<p rend="center">
+    <hi rend="italic">Extract from</hi><lb/>
+    JOURNAL OF SEMITIC STUDIES<lb/>
+    Vol. 19, No. 1, Spring 1974
+</p>
+      <pb/>
+<div type="page">
+  <p>The image provided is entirely black, containing no legible text or identifiable structural elements. Therefore, a transcription into TEI P5 XML is not possible based on the visual content of this specific file.</p>
+</div>
+      <pb/>
+<p></p>
+      <pb n="19"/>
+<head>ARISTOTLE AND THE ACCENTS<lb/>
+THE CATEGORIES OF SPEECH IN JEWISH<lb/>
+AND OTHER AUTHORS</head>
+<p>By E. J. REVELL</p>
+<p>One of the minor oddities of early Hebrew grammatical writing is the list, given by several grammarians, of the “categories of speech”, to which sentences are assigned on the basis of content. This “oddity” lies in the fact that the list of categories was obviously considered important, but once it is cited no further reference to it is made. Investigation of the source of this list, and its significance to the authors who used it, shows that it represents an influential theory, which was held all over the Near East, but which was only distantly related to the various phenomena with which it was connected.</p>
+<head>I. THE CATEGORIES OF SPEECH AND ARISTOTLE</head>
+<p>Among the Hebrew grammarians, the fullest statement about these categories appears in the <title>Sefer ha-Rikma</title> (<title>Kitāb al-Lumaʿ</title>) of Jonah ibn Janāḥ (<hi rend="italic">c.</hi> 1000). He states that:</p>
+<p>There are two types of sentence, statement and other. This “other” type has six subdivisions: question, vocative, wish, request, command, prohibition... Some grammarians have added other categories to these, and so increased the categories of speech to ten, but those additional categories are already included in the six given here, for which reason we have not mentioned them. Other students of language list fewer divisions than these six, but the most reasonable analysis is that given here.<note n="1">M. Willenski, <title>The Sefer ha-Rikmah of R. Jonah ibn Janāḥ</title> (Jerusalem, 1964), I, 35. The names of the categories are deliberately standardized in this paper in order to emphasize the relationship between the various lists. The names used differ somewhat among the lists, but few, if any, such differences are likely to be significant. Saadya uses different names for two of the five categories common to his two lists.</note></p>
+<p>In fact, no Jewish writers who explicitly list more than six divisions of non-narrative speech are known. The most prominent writer to list fewer is Saadya Gaon (died 942), who gives,</p>
+<footer>19<space extent="28" unit="chars"/>2-2</footer>
+      <pb n="20"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>in the introduction to his <gloss>Egron</gloss>, <quote>“Vocative, question, statement, command, request.”</quote><note n="1">N. Allony, <title>Ha-’Egron . . . by Rav Sĕʽadya Ga’on</title> (Jerusalem, 1969), p. 154, ll. 59 f.</note> In the introduction to his commentary on the book of Psalms, however, he gives <quote>“command and prohibition”</quote> for category four, and <quote>“request and wish”</quote> for category five, thus producing a list equivalent to, although arranged differently from, that of Ibn Janāḥ.<note n="2">See <title>ibid.</title> p. 76.</note></p>
+<p>According to Allony, Saadya took the idea of the categories of speech from the book <title>Qawāʽid al-Shiʽr</title> (The Categories of Poetry) by the Arab grammarian Aḥmad b. Yaḥyā Thaʽlab (died 904).<note n="3"><title>Ibid.</title> pp. 85–6. For Thaʽlab’s work see R. ‘Abd-al-Tawwāb, <title>Qawāʽid al-Shiʽr by Abu-al-’Abbās Aḥmad ibn Yaḥyā Thaʽlab</title> (Cairo, 1966). The passages quoted are on pp. 35 and 37.</note> This author begins his book: <quote>“The categories of poetry are four: command, prohibition, statement, and question.”</quote> He then gives examples of each category from the poets. After this he continues: <quote>“Then these roots branched out into praise, derision, dirge, apology, love poem, comparison, and narrative.”</quote> After giving examples of each of these, he continues with further categories.</p>
+<p>Thaʽlab’s source for his four basic categories was very possibly the Arabic translation of Aristotle’s <title>Poetics</title>.<note n="4">S. M. Ayyār, <title>Kitāb Arisṭūṭālīs fi-al-Shiʽr</title> (Cairo, 1967), p. 109 (= xix. 4 of the Greek text). These categories could go back to other Greek writings. Diogenes Laertius reports that Alkidamas used a four-category division: <gloss>phasis</gloss>, <gloss>apophasis</gloss>, <gloss>erōtēsis</gloss>, <gloss>prosagoreusis</gloss> (affirmation, negation, question, vocative). See A. Gudeman, <title>Aristoteles “Peri Poiētikēs”</title> (Berlin, 1934), pp. 333 f. (I am most grateful to my colleague Professor D. P. de Montmollin for this reference.) These four categories could possibly have been interpreted as “command, prohibition, question and statement”. In view of the apparently firm Syrian tradition of the categories, however, such a source seems unlikely.</p>
+<p>The categories given there are: command, prayer, statement, threat, question, answer. Thaʽlab, who was, after all, concerned with poetry (<gloss>shiʽr</gloss>), not speech (<gloss>qawla</gloss>) as was Aristotle, seems to have rejected prayer, threat and answer as unnecessary to him. His division of the category <quote>“command”</quote> into <quote>“command and prohibition”</quote> was possibly based on the formal grammatical difference in Arabic. If this does represent his thought pattern, his categories are in the same order as Aristotle’s. The seven categories into which the basic four are said to have branched out are mostly well-known categories of Arabic poetry, and the remaining categories</p>
+      <pb n="21"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>
+    deal with figures of speech, rhyme and verse structure.<note n="1">On the significance of these categories see W. Heinrichs, <title>Arabische Dichtung und griechische Poetik</title> (Beirut, 1969), pp. 26 ff.</note> Thaʿlab has left the realm of Aristotelian theory for more direct contact with the realities of Arabic literature.
+</p>
+<p>
+    The four basic categories listed by Thaʿlab correspond only to three of the categories in Saadya’s list of five. Moreover, the order in which the categories are listed by Saadya differs from that of Thaʿlab. If, then, Thaʿlab was Saadya’s source for the list, he made considerable changes and additions when adapting it to his needs.
+</p>
+<p>
+    It could, in fact, equally well be suggested that Saadya derived his list of categories from the Arabic translation of Aristotle. Four of his five categories might have been derived from this source, as his “request” (<emph>šafʿ</emph>) might possibly be equivalent to Aristotle’s “Prayer” (<emph>ṣalāh</emph>, Greek εὐχή); again, however, the order in which the categories are listed in the two sources is quite different, and only one name (<emph>amr</emph> “command”) is the same in both lists. Again we must agree, then, that if the Arabic translation of Aristotle’s <title>Poetics</title> was the source of Saadya’s list, he either did not use it directly or else made considerable changes in it.
+</p>
+<p>
+    It seems unlikely, in fact, that Saadya did take his list of categories from either of the Arabic sources suggested, since a much closer parallel can be found in Syriac writings. The Syriac scholar Probus, who lived around 500, says in his commentary on Aristotle’s περὶ ἑρμηνείας, “The object of Aristotle in this book is to teach us about speech, but not about all speech, for there are five categories of speech: question, vocative, request, command, and statement.”<note n="2">See G. E. Hoffmann, <title>De hermeneuticis apud Syros Aristoteleis</title> (Lipsiae, 1869), p. 66.</note> He gives here the same five categories that Saadya lists, and gives them in the same order (save that “statement” is placed last instead of first) as the corresponding categories in the list of Ibn Janāḥ. It seems clear, then, that these Jewish authors are more closely related to this Syriac source than to either of the two Arabic ones described.
+</p>
+<p>
+    According to Greek tradition, the analysis of speech into categories of this sort was first made by Protagoras.<note n="3">See A. Gudeman, <title>op. cit.</title> pp. 333 f.</note> By the time of Aristotle, such analysis was an accepted feature of the theory of rhetoric. The idea was developed in different ways by different
+</p>
+<note n="1">On the significance of these categories see W. Heinrichs, <title>Arabische Dichtung und griechische Poetik</title> (Beirut, 1969), pp. 26 ff.</note>
+<note n="2">See G. E. Hoffmann, <title>De hermeneuticis apud Syros Aristoteleis</title> (Lipsiae, 1869), p. 66.</note>
+<note n="3">See A. Gudeman, <title>op. cit.</title> pp. 333 f.</note>
+      <pb n="22"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>schools, and consequently the number of categories, and the categories themselves, varied from school to school.<note n="1">See <hi rend="italic">ibid.</hi> and C. Prantl, <hi rend="italic">Geschichte der Logik im Abendlande</hi>, I. Band (Leipzig, 1927), pp. 440 f. for the Stoics, and p. 550 for the peripatetics.</note> Probus, in the passage quoted, gives the viewpoint of the later peripatetics. It is noteworthy that he does not attribute his list to Aristotle, but uses it to interpret Aristotle, exactly as did Greek writers of the peripatetic school.<note n="2">Cf. with the passage from Probus quoted above the anonymous comment quoted by Prantl (<hi rend="italic">op. cit.</hi> p. 550 n. 54): <quote>“He (Aristotle) has the object of teaching about the statement alone. We say ‘alone’ because speech has five divisions: wish, vocative, command, question, and statement.”</quote></note> Later, less knowledgeable scholars – perhaps from an uncritical reading of Probus’ work – attributed these views of the peripatetics to Aristotle himself (see below). Thus the idea of the categories of speech, and in particular the five categories distinguished by the peripatetics, came to be associated with Aristotle, and endowed with his immense prestige. It is undoubtedly for this reason that the categories came to be so important for Saadya and other Jewish writers.</p>
+
+<head>II. THE CATEGORIES OF SPEECH AND THE ACCENTS</head>
+
+<p>As stated above, it seems to have been the Syrians who connected the five categories of speech with Aristotle. This connection seems to have been accompanied by the view that the categories referred to the “tones of voice”; the phonological phenomena which mark a spoken sentence as a statement, question, etc., comparable to the pitch contours of English speech.<note n="3">I. Bywater, <hi rend="italic">Aristotle on the Art of Poetry</hi> (Oxford, 1909), p. 258, states that this was their meaning for Aristotle, but this seems to me doubtful. In any case the peripatetics, and also Probus, regarded them as categories of meaning, as is shown by their listing of quotations, with no mention of the sounds of speech, as examples of the different categories. (Prantl, <hi rend="italic">op. cit.</hi> p. 550 n. 53; Hoffmann, <hi rend="italic">op. cit.</hi> p. 66.) Further, for Probus, the distinction between “command” and “request” is that the former is spoken to an inferior, the latter to a superior, an idea also expressed by a Greek commentator. (See Hoffmann, <hi rend="italic">op. cit.</hi> p. 66 and p. 116 n. 14.)</note> As a result, the categories came to be identified with the Syrian accents. These are of two types: those which indicate the relation of words and phrases (mostly by indicating the pauses between them), and those which indicate the meaning of the unit marked as expressing question, astonishment, etc. The term “sense accent” will be used here as a convenient designation for this latter group, and the term “pausal accent” for the former.</p>
+      <pb n="23"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>It seems obvious that these sense accents must have been derived from whatever features of pitch, stress, emphasis, etc., were normally used in spoken Syriac to indicate question, astonishment, etc. They were indicated in the written text by accent signs. These were intended to enable a reader to give meaning to his reading by using these tones of voice (or perhaps musical conventions derived from them) in the appropriate places, which would not otherwise always have been clearly recognizable.<note n="1">The pausal accents, designating the various types of pause characteristically separating major or minor units of narrative or descriptive speech, would have been equally firmly connected, in origin, with the features of spoken Syriac. For a general description see J. B. Segal, <title>The Diacritical Point and the Accents in Syriac</title> (London, 1953), pp. 59 ff.</note> These sense accent signs, then, by indicating the appropriate tone of voice, also indicated that the unit which they marked belonged to a particular meaning category. Hence the identification of the Aristotelian categories of speech with the tones of voice, and with the accent signs which indicated them.</p>
+
+<p>The identification of the five categories with Aristotle and with the accents is made in an anonymous treatise written, probably, in the seventh century. This states that <quote>“Aristotle, in his wisdom, named five signs of discourse: question, vocative, request, command, statement . . . Other grammarians, however . . . have handed down ten points.”</quote><note n="2">Note that the list given is the same as that of Probus. The Syriac text is given in G. Phillips, <title>A Letter by Mar Jacob . . . on Syriac Orthography</title> (London, 1869), p. 68; cf. Segal, <title>op. cit.</title> p. 120. That <foreign xml:lang="syr-Latn">pāsōqā</foreign> indicates the category “statement” is quite clear from the passage quoted by Segal (<title>ibid.</title> p. 133, see also Phillips, <title>op. cit.</title> p. 84), where the accent <foreign xml:lang="syr-Latn">pāsōqā</foreign> is described with the words used by the philosophers to describe “statement”.</note> The five categories of Aristotle are clearly taken as representing the same thing as the ten points, namely the Syriac accents. The names given to the five categories are in fact also used as accent names in the treatise.<note n="3">The inclusion of <foreign xml:lang="syr-Latn">pāsōqā</foreign> rests on an emendation which is obviously required. See Segal, <title>op. cit.</title> p. 121 n. 3.</note></p>
+
+<p>The use of all the names of the categories of speech as accent names seems, however, to be an innovation. In an earlier list naming accents said to have been invented by Joseph Huzaya, only three of these names are used.<note n="4">Segal, <title>op. cit.</title> p. 66.</note> This list gives nine accent names, but <foreign xml:lang="syr-Latn">pāsōqā</foreign> is not among them, although it was certainly in use at the time. It is quite likely, then, that this “list of Joseph Huzaya”, plus <foreign xml:lang="syr-Latn">pāsōqā</foreign>, represents the “ten points” said in the</p>
+      <pb n="24"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>anonymous treatise to have been handed down by the <quote>other grammarians</quote>.<note n="1">Ibid. p. 67.</note> It must be noted, however, that the list of Joseph Huzaya not only omits two sense accents corresponding to two of the Aristotelian categories (vocative and request), but also includes one (astonishment) which does not appear among the Aristotelian categories.<note n="2">This could possibly have come from other Greek sources. The Stoics included a similar category, <foreign xml:lang="grc">thaumastikos</foreign>, among the dozen they distinguished (Prantl, <title>op. cit.</title> p. 442). But it seems more likely that it was native to Syria.</note> Despite the fact, then, that some Syrian scholars did ascribe the origin of the accents to Aristotle, it is quite clear that the earliest development of the Syrian accents did not originate from the Aristotelian categories of speech. We have to assume that at some point — presumably between the stages represented by the Joseph Huzaya list and that of the anonymous author — it came to be accepted that the Aristotelian categories and the Syriac accents referred to the same phenomena. From this point on, the Aristotelian categories seem to have played a considerable part in the development of the accent system — or, more correctly, of the theoretical view of it taken by the scholars.</p>
+
+<p>This becomes clear from a consideration of the increase in the number of accent signs in use and in the names applied to them. In the list of accents ascribed to Joseph Huzaya, which appears to represent the earliest stage of the system recorded in a theoretical work, seven signs and nine names are used (or, if <foreign xml:lang="syr">pāšōqā</foreign> is included, eight signs and ten names). Two signs each have two names, of which one, or both, designate a sense accent. A prepositive superscript dot marks both <foreign xml:lang="syr">meša’lānā</foreign> (question) and <foreign xml:lang="syr">pāqōdā</foreign> (command), while a prepositive subscript dot marks both <foreign xml:lang="syr">metdammrānā</foreign> (astonishment) and <foreign xml:lang="syr">menaḥḥtā</foreign> (lowering).</p>
+
+<p>In the (West Syrian form of the) list of <quote>early accents</quote> given by Segal<note n="3"><title>Op. cit.</title> pp. 64-5.</note> ten signs and thirteen names are used. Two new signs, with new names, have been introduced for two new pausal accents. The third new name designates a sense accent marked by one of the older signs. At this stage, then, three signs each have two names, and in each case at least one member of the pair designates a sense accent. Four sense accents are used altogether, and, with the exception of <foreign xml:lang="syr">meša’lānā</foreign> and <foreign xml:lang="syr">pāqōdā</foreign> (question and command) which are marked by the same sign, they are differentiated by their signs.</p>
+      <pb n="25"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>By the period of Thomas the Deacon, twenty-four names are used for twelve signs.<note n="1">Segal, <hi rend="italic">op. cit.</hi> pp. 120 ff.</note> The two new signs are composed from signs already in use, and mark pausal accents. Of the eleven new names used, four can be classified as sense accents, and all of these are marked by the prepositive superscript dot which already marked two of the original sense accents, <hi rend="italic">meša”lānā</hi> and <hi rend="italic">pāqōdā</hi> (question and command). The new names are <hi rend="italic">qārōyā</hi> (vocative), <hi rend="italic">mepīsānā</hi> (request), <hi rend="italic">mehawwyānā</hi> (demonstrative) and <hi rend="italic">meqallsānā</hi> (praise).<note n="2">This latter accent had, at this period, an alternative name, <hi rend="italic">yāheb ṭūbā</hi>, which was soon distinguished as a separate accent (Segal, <hi rend="italic">op. cit.</hi> pp. 125 f.). Another new accent, <hi rend="italic">mebaṭṭlānā</hi> (annulling), had an alternative name which could be taken as meaning “warning”, but despite this it does not seem to have been used as a sense accent (<hi rend="italic">ibid.</hi> p. 130). Its sign is the same as that for the sense accent <hi rend="italic">metdammrānā</hi>.</note> The first two of these, of course, are the two Aristotelian categories named by Probus which had not before been used as accent names. Four of the categories, then, question, command, vocative, and request, are now all marked by the same sign. The fifth category, statement (<hi rend="italic">pāsōqā</hi>), is marked by a different sign, the <hi rend="italic">pāsōqā</hi> sign (see p. 23, n. 2). With this new development, then, we not only have all five Aristotelian categories represented in the accent system, but the division between “statement” and “other” categories (which was also a cardinal point in peripatetic theory, and which, unlike the categories themselves, does appear to originate with Aristotle)<note n="3">Aristotle distinguishes “statement” from “other” categories in <hi rend="italic">Peri Hermeneias</hi> 4, on the grounds that only a statement can be true or false. This idea was maintained by the peripatetics (Prantl, <hi rend="italic">op. cit.</hi> p. 550 n. 53) and the Syrians, e.g. Probus (Hoffmann, <hi rend="italic">op. cit.</hi> p. 66).</note> is represented as well.</p>
+
+<p>It is impossible to believe that this situation resulted naturally from the manner of reading. The inclusion of <hi rend="italic">mepīsānā</hi> (request), when <hi rend="italic">meṣallyānā</hi>, with identical significance but marked by a different sign, was already in use, shows this.<note n="4">The name <hi rend="italic">meṣallyānā</hi> was used for the category “request” in a tradition first known from Sergius of Ras ‘Ain (early sixth century, see Hoffmann, <hi rend="italic">op. cit.</hi> p. 115 n. 13). Despite later attempts to formulate a distinction between the accent named <hi rend="italic">meṣallyānā</hi> and that named <hi rend="italic">mepīsānā</hi>, the two words clearly had the same basic meaning.</note> The great scholar Jacob of Edessa, living when the West Syrian culture was at its zenith, confused the two accents.<note n="5">Segal, <hi rend="italic">op. cit.</hi> p. 125. Note that the second example given here for <hi rend="italic">mepīsānā</hi> is virtually identical to that given on p. 133 for <hi rend="italic">meṣallyānā</hi>.</note> Later we find an entirely</p>
+      <pb n="26"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>artificial criterion introduced to distinguish the two: if God was addressed, the accent was called <hi rend="italic">meṣallyānā</hi>; if a created being, <hi rend="italic">mepīṣānā</hi>.<note n="1">Hoffmann, <hi rend="italic">op. cit.</hi> p. 116 n. 13.</note> Clearly practice did not require <hi rend="italic">mepīṣānā</hi>. Its introduction can only be due to theory; the theory that the accent system should depict the five Aristotelian categories as currently understood. It is, after all, quite clear that the West Syrians could, and did, invent new signs for phenomena that they wished to represent clearly. The plethora of names used for the prepositive superscript dot represents scholarly theorizing on the passages in which the (presumably uniform) phonic phenomena represented by this sign were used in the reading tradition, and the sign was used to mark them in the text. Clearly one item basic to this scholarly analysis was the theory of the five Aristotelian categories of speech.</p>
+
+<p>A similar development can be observed in the Samaritan accent system. This system, as described by Ibn Martha, contains four pausal accents and six sense accents.<note n="2">Ibn Martha possibly lived <hi rend="italic">c.</hi> 1000. See Z. ben Ḥayyim, <hi rend="italic">The Literary and Oral Tradition of Hebrew and Aramaic Amongst the Samaritans</hi>, I (Jerusalem, 1957), introduction, p. 50. His treatise is published there by Ben Ḥayyim (vol. II), pp. 341 ff., cf. pp. 363 ff. Cf. also R. Macuch, <hi rend="italic">Grammatik des samaritanischen Hebräisch</hi> (Berlin, 1969), pp. 76 ff.</note> The sense accents are: <hi rend="italic">šiyyala</hi> (question), <hi rend="italic">ze‘iqa</hi> (vocative), <hi rend="italic">atma‘u</hi> (astonishment), <hi rend="italic">ba‘u</hi> (wish), <hi rend="italic">za‘if</hi> (rebuke), and <hi rend="italic">turu</hi> (command). Ibn Martha gives several biblical quotations as examples of the use of each of these accents. In the biblical MSS collated by von Gall, however, a very different use of the accents appears.<note n="3">See A. F. von Gall, <hi rend="italic">Der hebräische Pentateuch der Samaritaner</hi> (Berlin, 1966).</note> In only one case (<hi rend="italic">šiyyala</hi>) is a sense accent required by Ibn Martha used in all the passages which he gives as examples, and then only in one of the twenty-four MSS in which accents are used in these passages. This sign is, in fact, used in only 48 per cent of the cases in which the MSS show an accent in the passages used as examples. <hi rend="italic">Ze‘iqa</hi> just tops this with (almost) 50 per cent, and the only other sense accent to approach this proportion is <hi rend="italic">za‘if</hi> with 42 per cent. At the other end of the scale, <hi rend="italic">turu</hi> occurs in only one of the seventy possible cases (although in the passages in which other sense accents are required by Ibn Martha, the <hi rend="italic">turu</hi> sign is used in ten cases). In the remaining sixty-nine cases, pausal accents are used. The signs for <hi rend="italic">atma‘u</hi> and <hi rend="italic">ba‘u</hi> occur slightly more frequently where required by Ibn Martha, but signs for other sense accents</p>
+      <pb n="27"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<table rows="8" cols="7">
+    <row role="label">
+        <cell rows="2" role="label">Sign used in MSS</cell>
+        <cell cols="6" role="label">Sign required by Ibn Martha</cell>
+    </row>
+    <row role="label">
+        <cell><hi rend="italic">šiyyala</hi></cell>
+        <cell><hi rend="italic">atma‘u</hi></cell>
+        <cell><hi rend="italic">ba‘u</hi></cell>
+        <cell><hi rend="italic">ze‘iqa</hi></cell>
+        <cell><hi rend="italic">turu</hi></cell>
+        <cell><hi rend="italic">za‘if</hi></cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">šiyyala</hi></cell>
+        <cell>42</cell>
+        <cell>18</cell>
+        <cell>21</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>9</cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">atma‘u</hi></cell>
+        <cell>7</cell>
+        <cell>11</cell>
+        <cell>3</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">ba‘u</hi></cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>13</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">ze‘iqa</hi></cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>57</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">turu</hi></cell>
+        <cell>3</cell>
+        <cell>1</cell>
+        <cell>5</cell>
+        <cell>1</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell role="label"><hi rend="italic">za‘if</hi></cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>21</cell>
+    </row>
+    <row>
+        <cell role="label">pausal accent</cell>
+        <cell>36</cell>
+        <cell>50</cell>
+        <cell>34</cell>
+        <cell>56</cell>
+        <cell>69</cell>
+        <cell>19</cell>
+    </row>
+</table>
+
+<p>are used more frequently still in these passages. The situation is clearly shown in the above table.</p>
+
+<p>The signs for <hi rend="italic">ze‘iqa</hi> and <hi rend="italic">za‘if</hi> are used only where required by Ibn Martha, but there is considerable freedom in the use of the other signs. The <hi rend="italic">šiyyala</hi> sign is, however, the sign most commonly used not only where <hi rend="italic">šiyyala</hi> is required, but also for <hi rend="italic">atma‘u</hi> and <hi rend="italic">ba‘u</hi>. This suggests strongly that the <hi rend="italic">šiyyala</hi> sign originally covered all three functions. It is, in fact, easy to find MSS which support this suggestion, in that, if any sense accent sign is used where Ibn Martha requires <hi rend="italic">atma‘u</hi> or <hi rend="italic">ba‘u</hi>, it is the <hi rend="italic">šiyyala</hi> sign, whereas the signs for the other two accents are not used at all, or occur only as isolated examples where another sign is expected. Von Gall’s MSS 𝕰 (1220), Q and N (1360), and P and H (1434), are all examples of this type. Similarly, no MS of those collated by von Gall uses the <hi rend="italic">turu</hi> sign in the way prescribed by Ibn Martha, and only four MSS use the sign at all.<note n="1">These are MS 𝕰 (1220), A and B (fourteenth century) and C (fifteenth century).</note> The function of this accent was clearly not established in the scribal tradition.</p>
+
+<p>It seems reasonable to suggest, then, that in common Samaritan practice only three sense accents were used:<note n="2">It is assumed that the system of three sense accents represents an earlier stage than that of the six (cf. the Syrian development) but in fact, in the MSS collated by von Gall, the two traditions appear simultaneously – in so far as the system of six, of which there is no example corresponding to Ibn Martha's requirements, can be said to appear. No doubt the actual signs were a relatively late introduction. Cf. Macuch, <hi rend="italic">op. cit.</hi> p. 59.</note> <hi rend="italic">šiyyala</hi>, <hi rend="italic">ze‘iqa</hi> and <hi rend="italic">za‘if</hi>. Scholarly analysis separated the functions of <hi rend="italic">šiyyala</hi> into three divisions, retaining this name for one, and calling the others <hi rend="italic">atma‘u</hi> and <hi rend="italic">ba‘u</hi>. In contrast to Syrian practice, distinct signs corresponding to these names were developed from the <hi rend="italic">šiyyala</hi> sign (and hence the similarity of these three signs</p>
+
+<p rend="center">27</p>
+      <pb/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>noted by Ben Ḥayyim).<note n="1">Op. cit. p. 340 n. 3.</note> The use of these new signs, however, never became firmly established in scribal practice. It appears probable that, in the same way, the sign for <hi rend="italic">turu</hi> was developed from that for <hi rend="italic">za‘if</hi>, but the use of this new sign never became established at all. Indeed the testimony of the MSS is that the passages given by Ibn Martha as examples of <hi rend="italic">turu</hi> do not require any sense accent.</p>
+<p>This common system, using three sense accents, would have had seven accents in all. It seems probable that we have definite evidence of the widespread use of this system in the statement of Ibrahim al-‘Ayya (eighteenth century), when claiming support for the tradition that the ten-accent system reaches back to Moses, that these accents <quote>“are, among us, ten . . . just as they are seven among others”</quote>. The idea that a system of accents different from that which Ibrahim describes was in common use would explain the somewhat polemical tone of the passage, and the idea given above would explain the number seven, which is otherwise difficult to account for.<note n="2">See Ben Ḥayyim, <hi rend="italic">op. cit.</hi> pp. 383 f. I do not find the suggestion (<hi rend="italic">ibid.</hi> p. 384 n. 2) that the <quote>“others”</quote> who use seven accents were the Muslims – or the suggestion on p. 350 n. 2 that the ten-accent tradition was connected with the Qur’anic division <hi rend="italic">‘ashr</hi> – at all convincing. The addition to the text of Ibn Darṯa’s treatise (<hi rend="italic">ibid.</hi> p. 350 n. 2) contains the same emphasis on <quote>“those who follow the correct reading tradition, according to the ten accents”</quote> who <quote>“know this”</quote>. The knowledge referred to is of features of a Samaritan reading tradition. The opposing group, who do not follow the ten-accent tradition, must also be Samaritans, for who else would have reason for, or interest in, such knowledge?</p></note>
+<p>The best answer to the question of why the Samaritans should seek to extend the number of accents beyond those recognized in common practice would seem to be that they were influenced by a theory which they felt their accent system should illustrate: the theory of the five Aristotelian categories. The seven-accent system already covered the categories <quote>“statement”</quote> (covered by the pausal accents, or perhaps specifically by <hi rend="italic">afsaq</hi>, equivalent to Syrian <hi rend="italic">pāsōqā</hi>), <quote>“question”</quote> (<hi rend="italic">šiyyala</hi>), and <quote>“vocative”</quote> (<hi rend="italic">ze‘iqa</hi>). The three new accents added covered the remaining two categories: <quote>“request”</quote> (<hi rend="italic">ba‘u</hi>) and <quote>“command”</quote> (<hi rend="italic">turu</hi>), and also a further category, <quote>“astonishment”</quote> (<hi rend="italic">atma‘u</hi>). Syria, of course, was the source of the connection of the categories with the sense accents, and this addition strongly suggests that Syria was the source of the theory which influenced the Samaritans, since <hi rend="italic">metdammrānā</hi></p>
+<p rend="text-align: center">28</p>
+      <pb n="29"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>(astonishment) was one of the earliest sense accents used there. The Samaritans, then, received the Aristotelian theory in a form influenced by the Syriac accent system, but it seems clear that the basic theory was indeed that of the five categories. It would otherwise be difficult to explain why just those accents – particu-larly the almost unused <hi rend="italic">turu</hi> – were taken over from the Syrian system.<note n="1">It is perhaps also significant that in Ibn Martha's listing of the sense accents, the four which correspond to the Aristotelian categories occur in the same order as in Probus' list: question, vocative, (astonishment), request, (rebuke), command.</note></p>
+
+<p>It is possible to trace an even earlier stage in the development of the Samaritan accent system. Many MSS make only scanty use of the sense accents, or none at all. Among the MSS collated by von Gall, those with accentuation of this sort are generally late. Early examples can, however, be found: e.g. the <hi rend="italic">Sefer Abisha'</hi> and the Gaster scroll, neither of which marks sense accents.<note n="2">Both are probably to be dated to the eleventh century. See F. Pérez Castro, <hi rend="italic">Séfer Abiša'</hi> (Madrid, 1959), pp. xxxv f. The accentuation of the <hi rend="italic">Sefer Abisha'</hi> is described there. That of the Gaster scroll is given by von Gall (MS Γ) and described by M. Gaster in <hi rend="italic">Proceedings of the Society of Biblical Archaeology</hi> xxii (1900), 253.</note> It is probably correct to assume, then, that in the earliest stage of the tradition no sense accents at all were marked. According to Segal, this was also the case in Syriac, where the first sense accent to be used was <hi rend="italic">meša''lānā</hi> (question).<note n="3">Op. cit. p. 65.</note> It seems likely that the corre-sponding accent, <hi rend="italic">šiyyala</hi>, was the first sense accent to be used in the Samaritan tradition, as this is the most commonly used sense accent, and evidently had, originally, a very wide application.</p>
+
+<p>The Jewish accentuation used for the Mishna and other rabbinic texts shows a parallel to these early stages suggested for the Syrian and Samaritan systems. This accentuation is of a type similar to the Syrian and Samaritan, but in most MSS only pausal accents are used. In one group of MSS, however, one sense accent occurs. This usually marks a question, and so corre-sponds to the Samaritan <hi rend="italic">šiyyala</hi> and the Syrian <hi rend="italic">meša''lānā</hi>. It may, however, mark other sentences requiring particular emphasis, and so would correspond to the wider use of the Samaritan <hi rend="italic">šiyyala</hi>, in which it also covered the function of <hi rend="italic">atma'u</hi> (astonish-ment).<note n="4">This accentuation is described, and examples given, in my article "The Hebrew Accents and the Greek Ekphonetic Neumes" to appear in <hi rend="italic">Studies in Eastern Chant</hi>, iv.</note> There even appears to be preserved, in Jewish gram-matrical writings, a stage of theory corresponding to this scribal</p>
+      <pb n="30"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>practice. In an early list of grammatical terms published by N. Allony, sentences appear to be categorized as <quote>“statement”</quote> and <quote>“other”</quote>.<note place="foot" n="1">N. Allony, <quote>“A Qaraite list of Grammatical Terms from the Eighth Century”</quote> in <title>Sefer ha-Zikkaron le-Korngreen</title> (Tel Aviv, 1964), p. 355, para. 2.</note> The word used for the <quote>“other”</quote> group, <foreign xml:lang="heb">tmwh</foreign>, refers to questions, but also has wider connotations of astonishment and the like.</p>
+
+<p>It seems likely, then, that the Syrian, Samaritan and Jewish non-biblical accent systems, which are similar in structure, underwent a similar early development. Further development in the Syrian and Samaritan systems was influenced by the theory of the five Aristotelian categories of speech, which the Syrians had identified with the <quote>“tones of voice”</quote> represented by the accents. The Jewish non-biblical accentuation, however (at least as far as the MSS show us) was not affected by this theory.</p>
+
+<p>The system of accents used in the Jewish Bible had a structure quite different from those discussed above, being only loosely based on the syntax of the text.<note place="foot" n="2">This system is described in the article cited in n. 4, p. 29. Varying syntactic units marked off by verse divisions can be seen, e.g., in Gen. xxxiv. 8 and Exod. vi. 10.</note> There is no place for sense accents in this system, so it is unlikely that the theory of the Aristotelian categories of speech could have had any effect on its development, and certainly there is no evidence that it did. The theory did, however, influence descriptions of this system. Juda ha-Levi (d. 1141), in <title>Kitāb al-Kuzari</title>, II, 72, in a passage intended to show the superiority of biblical compositions to Arabic metrical poetry, mentions the use of tones of voice and gestures to express <quote>“astonishment, question, statement, desire, fear or submission”</quote>. Further on, <quote>“anger, pleasure, humility and haughtiness”</quote> are mentioned as also indicated by gestures. The author goes on to state that in Hebrew the accents take the place of these tones of voice and gestures by denoting <quote>“pause and continuation, separating question from answer, beginning from continuation of speech, haste from hesitation and command from request”</quote>. This passage definitely reflects the Aristotelian categories, although in a form which seems closer to the writings of Aristotle himself than to the five categories of the peripatetics. Nevertheless, if <quote>“astonishment”</quote> is taken as the equivalent of <quote>“vocative”</quote>, the first three categories named, plus the last two, make up the five categories listed by the peripatetics. Moreover the use of this category <quote>“astonishment”</quote>, and the connection of</p>
+      <pb n="31"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<p>the categories with the tones of voice, suggests that the origin of this passage, although perhaps rather distant, was, in fact, the theory of the Aristotelian categories as applied to the Syrian (or Samaritan) accent system.</p>
+
+<p>The grammarian Shelomo ibn Parḥon included a similar passage in the grammatical part of his <title>Maḥberet he-ʿAruk</title> (1160).<note n="1">Ed. S. G. Stern (Jerusalem, 1970), p. 5.</note> After arguing that Arabic metres are not suited to the Hebrew language he continues “We have phenomena in our language from which the reader can understand astonishment, rebuke, plea, confusion, question, or any other (such category).” He then gives a biblical quotation as an example of each category, and continues “From the accentuation of these (passages) you can understand (as well) as if the Prophet were before you, speaking to you face to face.”</p>
+
+<p>This list is even farther from the five categories of the peripatetics than was that of Juda ha-Levi, but there is little doubt that they – via Juda ha-Levi himself – are its ultimate source. The claim that the biblical accents fulfil the same function as the tones of voice is put more emphatically than by Juda ha-Levi, who only implies it.<note n="2">The literal meaning of Juda ha-Levi's statement could possibly be substantiated.</note> This is of considerable interest. The biblical accents, as is well known, do not fulfil this function.<note n="3">This is easily seen from the example for “confusion” where attention is specifically called to the accent <emph>shalshelet</emph>. This accent is rare, and consequently special significance was attributed to it in several sources, but they do not agree on the significance. (See W. Wickes, <title>A Treatise on the Accentuation of the . . . Prose Books of the Old Testament</title> (Oxford, 1887), p. 85.) It is interesting to note, however, that one of the meanings noted by Wickes (note 4 there) “repeated action”, is ascribed to the word cited by Ibn Parḥon (<emph>wayyitmahmah</emph>, Gen. xix. 16) in the Midrash <title>Bereshit Rabba</title> (although, probably on the basis of the verb form, the accent is not mentioned), and that the other, “presence of an angel”, would also fit.</note> The claim is made, no doubt, to show that the accents have a practical value, and are therefore superior to the Arabic metres, which do not. It is, of course, possible that the idea that the accents had this function could have come independently to Juda ha-Levi. It seems much more likely, however, that, as suggested above, it came to him along with the list of categories from some Syrian or Samaritan source, although it may not have come directly. This remote echo is an eloquent testimony to the strength of the tradition of the five Aristotelian categories.</p>
+
+<p style="text-align: center;">31</p>
+      <pb n="32"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+
+<head>III. THE CATEGORIES OF SPEECH AND THE GRAMMARIANS</head>
+
+<p>The passages quoted from Juda ha-Levi and Shelomo ibn Parḥon are all the more remarkable in that they seem to be the only two grammarians who connected the Aristotelian categories with the tones of voice. Even John bar Zuʿbi, who seems to have been the only Syrian grammarian to refer to them, took them as referring to the meaning of sentences, not to their sound.<note n="1">See A. Merx, <title>Historia artis grammaticae apud Syros</title> (Leipzig, 1889), p. 163. The five categories of the peripatetics are listed without change, in contrast to the Jewish authors.</note> Aristotle himself states that these categories, which he appears to understand as classes of meaning, are the concern of rhetoric or poetry, and it was in this latter province that they were used by Thaʿlab. Saadya also speaks of them as a feature of poetry. He is possibly in this respect dependent on Thaʿlab (as suggested by Allony), although his list of five categories must be derived from some Syriac (or possibly Greek) philosophical writing. In any case he is clearly not influenced by the identification of the five categories with the tones of voice. In fact, it seems quite likely that, in the expanded list given in his introduction to the Book of Psalms, the division of “command” into “command and prohibition”, and of “request” into “wish and request”, was based on a tendency to align the Aristotelian categories with formally distinct categories of Hebrew grammar.<note n="2">The former division was possibly derived from Thaʿlab.</note></p>
+
+<p>The next author to mention the categories is Dunash ben Labraṭ, who lists the same five categories as Saadya (from whom he may have taken them), but in a different order: “statement, question, address, command, request”. He lists them merely as something that a competent grammarian should know about. There is no indication in the context of the significance which they had for him.<note n="3">See Z. Filipowsky, <title>Sefer Teshuvot Dunash ben Labraṭ</title> (London, 1855), p. 5, col. 2.</note></p>
+
+<p>The list of Ibn Janāḥ (quoted above) gives the same seven categories as the expanded list of Saayda. He may have derived the categories from Saadya, but they are listed in the same order as is used by Dunash ben Labraṭ. This order is, with the exception of the fact that “statement” is put first, the same order as is used in the list of Probus. This suggests that Dunash and Ibn Janāḥ knew the tradition in the Syrian form as well as in that given by</p>
+
+<fw type="page">32</fw>
+      <pb n="33"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>Saadya. <note n="1">This is also suggested by the fact that Ibn Janāḥ explains <quote>“request”</quote> as <quote>“to someone greater than you”</quote>. See n. 3, p. 22 above.</note> It is no doubt this form of the tradition to which Ibn
+Janāḥ refers when he speaks of those who <quote>“list fewer divisions
+than six”</quote> of <quote>“non-statement”</quote> categories. The mention of grammarians
+who <quote>“have added other categories”</quote> to the six he lists
+could possibly refer to the Stoic writers, but more likely refers to
+other Jewish or Arabic writers of his own day. Whichever is the
+case, it is clear from Ibn Janāḥ’s lengthy discussion of the topic
+that the division of language into the Aristotelian categories was
+a widely accepted and highly valued technique in his day, and
+that it was still a living topic in that (unlike the situation in Syria)
+the number of categories recognized was not fixed.</p>
+<p>Ibn Janāḥ gives an extensive list of examples of each of the
+<quote>“non-statement”</quote> categories. It appears from this that the categories
+are at least loosely identified with formally distinct grammatical
+categories, as Ibn Janāḥ is careful to point out that
+examples of <quote>“vocative”</quote> occur without the definite article (in its
+<quote>“vocative”</quote> use) which occurs in the first three examples which
+he gives. Similarly <quote>“request”</quote> is defined as <quote>“to someone greater
+than you”</quote>, for the verb in the example is imperative, the form
+characteristic of <quote>“command”</quote>. It is clear, then, that although the
+distinction of the categories is ultimately based on the meaning
+derived from the context, the categories themselves are definitely
+felt to have a grammatical significance.</p>
+<p>Ibn Janāḥ’s division of the categories into <quote>“statement”</quote> and
+<quote>“other”</quote> is an innovation as far as Jewish writers are concerned.
+There is no indication that he felt this to have a grammatical
+basis. As was noted, this division derives from Aristotle, and
+remained of interest to later writers.<note n="2">See n. 3, p. 25 above.</note> The same division appears
+to be made, possibly independently, in an early tradition of
+biblical Hebrew grammar. <note n="3">See above, p. 30.</note> It is possible, then, that Ibn Janāḥ
+could have derived this idea from an ancient Jewish tradition. It
+is far more likely, however, in my opinion, that it was contained
+in a philosophical tradition of Syrian origin which formed one of
+the sources of his list of categories.</p>
+<p>The same division is made in the <hi rendition="italic">Maḥberet ha-Tājān</hi>, a grammatical
+treatise popular in Yemen from the thirteenth century or
+earlier.<note n="4">Published by Dérenbourg as <quote>“Manuel du lecteur”</quote> in <hi rendition="italic">Journal Asiatique</hi> <num value="16">xvi</num> (1870). See pp. 322-3 there.</note> This treatise is here, as in some other places, clearly</p>
+<note place="bottom">
+<list>
+<item>3 33 <hi rendition="smallcaps">ss 19 i</hi></item>
+</list>
+</note>
+      <pb n="34"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>dependent on Ibn Janāḥ. At this point, however, it attempts to improve on its source by stating that the category “statement” occurs only in the past. Clearly, then, the Aristotelian categories were considered as connected with the grammatical categories of Hebrew, and this statement is a further clarification of this connection. “Statement” is represented by narrative in past time, while the non-statement categories are (mostly) characterized by the use of “future” or imperative verb forms.</p>
+<p>The two other Jewish grammarians who mention the categories, Juda ha-Levi and Shelomo ibn Parḥon, have already been discussed. They clearly received the tradition from other sources than those used by Ibn Janāḥ and the <hi rend="italic">Maḥberet ha-Tijān</hi>. In the case of Shelomo ibn Parḥon, the contrast is striking, for elsewhere the grammatical section of his work (which was written in Hebrew) follows the Arabic writing of Ibn Janāḥ so closely that it was taken by some as a translation.<ref target="#n1">¹</ref> This makes the fact that he rejected the grammar-oriented view of the categories presented by Ibn Janāḥ, for the connection with the tones of voice adopted by Juda ha-Levi, all the more significant.</p>
+
+<head>IV. CONCLUSION</head>
+<p>It appears, then, that the theory of the categories of speech had a rather complicated history, of which a large part is, no doubt, hidden from us. It entered Syrian philosophical writing as a natural development of Greek ideas. From there it came to be connected with the accent system, and so played a part in the development of both the Syriac and the Samaritan accentuation. It seems likely, also, that this form of the tradition reached, and influenced, Juda ha-Levi. The purely philosophical tradition continued, however, to be maintained in Syria, and was, presumably, the source from which John bar Zu‘bi drew his description of the categories. This Syrian tradition, or an Arabic translation of it, appears to have been Saadya’s source for his list of the categories and, along with the writings of Saadya, also that of Ibn Janāḥ. The Arabic translation of Aristotle’s <hi rend="italic">Poetics</hi>, which had been made from a Syrian translation, does not appear to have influenced these scholars, although it may have served as Tha‘lab’s source.</p>
+<p>The Jewish grammarians seem to have mentioned the theory</p>
+<note xml:id="n1">¹ See H. Hirschfeldt, <hi rend="italic">A Literary History of Hebrew Grammarians and Lexicographers</hi> (London, 1926), p. 77.</note>
+<fw type="footer">34</fw>
+      <pb n="35"/>
+<head>ARISTOTLE AND THE ACCENTS</head>
+<p>largely because it was part of the accepted theorizing about
+language, and was supported by the tremendous prestige of
+Aristotle’s name; a comparable phenomenon to the use made of
+chapter twenty of the <title>Poetics</title> by Arabic and Hebrew grammarians.
+The Jewish grammarians did make an attempt to connect the
+categories of speech with the grammatical categories of Hebrew,
+but the list was, in fact, of little practical value to their grammars.
+Possibly for this reason, or possibly because the theory of the
+Aristotelian categories of speech was not current outside the
+Arab world, later grammars written in Europe did not include it.
+In the Yemen, however, it continued to survive into modern
+times, in successive recopyings of the <title>Maḥberet ha-Tījān</title>.</p>
+<fw type="footer">3-2</fw>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>A Note on Papyrus 967</title>
+      <author>
+        <forename>E.</forename>
+        <forename>J.</forename>
+        <surname>Revell</surname>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Unspecified</publisher>
+      <date when="1976">1976</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">A Note on Papyrus 967</title>
+          <author>
+            <forename>E.</forename>
+            <forename>J.</forename>
+            <surname>Revell</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Studia Papyrologica</title>
+          <imprint>
+            <biblScope unit="volume">15</biblScope>
+            <date when="1976">1976</date>
+            <biblScope unit="page" from="131" to="136">131-136</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded based on the file 07a.16_A_Note_on_Papyrus_967.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="center">E. J. REVELL</p>
+<p rendition="right">Bib ⑯</p>
+<head rendition="center" type="main">A NOTE ON PAPYRUS 967</head>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<p rendition="center">
+    <hi rend="small-caps">STVDIA</hi><lb/>
+    <hi rend="small-caps">PAPYROLOGICA</hi>
+</p>
+<lb/>
+<p rendition="indent">
+    Tomo XV <space quantity="10" unit="characters"/> Julio-Diciembre 1976 <space quantity="10" unit="characters"/> Fasc. 2.º
+</p>
+      <pb/>
+<p>
+  <figure>
+    <figDesc>An almost entirely black image with very faint, barely discernible light patterns or noise, possibly suggesting a dark room or a very underexposed photograph of foliage.</figDesc>
+  </figure>
+</p>
+      <pb/>
+      <pb/>
+<head>A Note on Papyrus 967</head>
+
+<p>The scribe who wrote papyrus 967, the Chester Beatty - Scheide Ezekiel papyrus, divided the text into paragraphs. If a paragraph finished within a line, he left a space about the width of an average letter before beginning the next. The first letter of the next line was drawn out a little into the margin, and usually written somewhat larger than average. If a paragraph finished at the end of a line, this emphasis of the first letter of the next line — which will be called for convenience a “capital” — was sufficient to mark the paragraph division. These facts were duly noted by Kenyon, and described in greater detail by Johnson, in the first two publications of portions of this MS,<note n="1">See F. G. Kenyon, <title>The Chester Beatty Biblical Papyri</title>, fasc. VII (London, 1937) p. viii-ix, and A. C. Johnson <hi rend="italic">et al.</hi> <title>The John H. Scheide Biblical Papyri: Ezekiel</title> (Princeton, 1938) p. 15. Johnson’s statement that a space is left only at Ez. 37:1 is true only if the punctuation was inserted by the scribe as he was writing the text, which is unlikely (see below).</note> but neither showed any curiosity as to the scribe’s motivation for the division. Galiano, who published a third portion, evidently believes that they originated with the scribe himself.<note n="2">See M. Fernández-Galiano, <title>Studia Papyrologica</title> 10 (1971) p. 18.</note> Jahn, who published a fourth portion, ignores them.<note n="3">See L. G. Jahn, <title>Der griechische Text des Buches Ezekiel</title> (= <title>Papyrologische Texte und Abhandlungen</title> 15) Bonn, 1972.</note> The general lack of curiosity about such features of</p>
+      <pb n="132"/>
+<head>132 E. J. REVELL</head>
+<p>Biblical Texts is unfortunate, for they can be informative. Those of Pap. 967 are, in fact, particularly interesting.</p>
+<p>The paragraphing of 967 is clearly related to the <hi rend="italic">petuḥot</hi> and <hi rend="italic">setumot</hi>, the <quote>open</quote> and <quote>closed</quote> divisions of the Hebrew Bible (MT).<note n="4">The representative of MT used here is the third edition of the Kittel-Kahle Biblia Hebraica (Stuttgart, 1937). There is some variation among Hebrew MSS as to which type of division is used in a given situation, or even, in some cases, as to whether a division is marked at all.</note> A paragraph is marked in the Greek text in 22 out of 30 cases where the Hebrew text has <hi rend="italic">petuḥa</hi> (73%) and in 27 of 64 cases where it has <hi rend="italic">setuma</hi> (42%).<note n="5">These figures are derived from the photographs published by Kenyon and Johnson (see note 1) and the description published by Galiano (see note 2). The intrusion of the <quote>capital</quote> into the margin is very slight, and escaped the notice of Kenyon at Ez. 17:9. One is led to wonder whether the same may not have happened to Galiano, since the phenomenon was not important to him, and his description shows a considerably lower ratio of agreement with MT than is found in the surrounding text (published by Johnson).</note> This tendency to more frequent omission of divisions corresponding to <hi rend="italic">setumot</hi> can be remarked in other texts.<note n="6">Cf. M. Gaster’s remark on this phenomenon in <hi rend="italic">Proceedings of the Society of Biblical Archaeology</hi> 22 (1900) p. 250-251.</note> Three further divisions in the Greek text correspond to a Hebrew division, but cannot be tabulated in this way,<note n="7">These occur at 38:1, 37:1 and 40:1. The problem in tabulation is due to the placing of chapter 38, (which is preceded by a <hi rend="italic">setuma</hi>) after 36:23 (where the division does not even correspond to the end of the Hebrew verse) and chapter 37 (which is preceded and followed by <hi rend="italic">setumot</hi>) between 39 and 40 (which, in the Hebrew text, are separated by a <hi rend="italic">petuḥa</hi>).</note> so that a total of 52 paragraphs are marked where MT has <hi rend="italic">petuḥa</hi> or <hi rend="italic">setuma</hi>. A capital is marked in the margin in six other cases, but one of these, (in Ez. 23:14 in the first line of a column), is unique in that it occurs within a clause. It cannot, then, mark a paragraph division, and almost certainly results from scribal error. Consequently it can be argued that only 10% of the paragraphs marked by the text</p>
+      <pb n="133"/>
+<head>A NOTE ON PAPYRUS 967 <num>133</num></head>
+
+<p>hand of 967 are outside the MT tradition. The paragraphing
+of Pap. 967 is perhaps not so close to MT that it must be
+said to represent the same tradition, but it is close enough
+that it can be said that the two systems must have a common
+origin.</p>
+
+<p>Punctuation was added to the text of Pap. 967 in the form
+of single dots, which separate small units (normally clauses),
+and in the form of a sign composed of two strokes or dots
+which marks larger units. According to Johnson, this two
+stroke sign <quote>was evidently inserted by the original scribe</quote>,
+although Kenyon disagrees.<note n="8">See Johnson (<hi rend="italic">op. cit.</hi> note 1) p. 15. Kenyon (<hi rend="italic">op. cit.</hi> note 1)
+p. ix. Presumably the only indication of the originality of such punc-
+tuation is the colour of the ink, which cannot in any case prove the
+point. Galiano expresses his uncertainty on p. 21 (<hi rend="italic">op. cit.</hi> note 2).</note> Even if Johnson is right, how-
+ever, it seems highly unlikely that the sign was inserted while
+the scribe was actually writing the text. It is a quite un-
+necessary addition to the <quote>capital and space</quote> method by which
+the text hand marked paragraphs, as described above, and is,
+in fact, not used in one case where a paragraph was marked
+in this way. Furthermore this two-stroke sign was used in a
+number of places where the text hand had not marked a pa-
+ragraph, and where, consequently, no adequate space had been
+left in which to place it. This paragraph marking by the
+punctuating hand must, then, be seen as a supplement to, or
+correction of, the paragraphing of the text hand.</p>
+
+<p>The punctuating hand marked this two-stroke sign in 24
+of 31 cases where MT has <hi rend="italic">petuḥa</hi> (77%) and in 38 of 62 cases
+where MT has <hi rend="italic">setuma</hi> (61%). Wherever the text hand marked
+a paragraph corresponding to a <hi rend="italic">petuḥa</hi> or <hi rend="italic">setuma</hi>, the punctuat-
+ing hand also marked a paragraph, save in one case of each,
+where the text is broken and the evidence lost. In addition,
+the two stroke sign was used in three new cases corresponding</p>
+      <pb n="134"/>
+<head>E. J. REVELL</head>
+
+<p>to <hi rend="italic">petuḥa</hi>, and in <hi rend="italic">twelve</hi> corresponding to <hi rend="italic">setuma</hi>.<note n="9">This number includes cases at Ez. 12:17 and 17:11 where lacunae prevent our knowing whether a paragraph was marked by the text hand.</note> The sign is also used where the text hand marked a paragraph before chapters 37, 38 and 40, so that 64 paragraphs are marked in accordance with MT. The sign is not used at 14:19, where the text hand marked a paragraph but MT has none, but otherwise, where the evidence remains, the sign was used wherever a paragraph had been marked by the text hand.<note n="10">A lacuna prevents our knowing whether the sign was used in Ez. 23:14 where the text hand appears to have marked a paragraph in error.</note> The sign is also used in a maximum of 20 other cases where the text hand did not mark a paragraph, or 24% of all the cases in which it is used.</p>
+
+<p>Some of these 20 cases seem very doubtful. For instance the photograph scarcely seems to justify the two-dot sign marked in Johnson’s transcription in Ez. 20:4, where it occurs within a clause. It seems clear, however, that the paragraphing by the punctuating hand is farther from the MT tradition than that of the text hand, and the exact details are unimportant. What is significant about this paragraphing by the punctuating hand is that it proves definitely that paragraph divisions were important to those who used this text. The paragraphing by the text hand could result simply from dutiful copying of an ancient but obsolete tradition. The paragraphing added to the text by the punctuating hand, however, can only represent current usage.</p>
+
+<p>The general view appears to regard the paragraphing of Septuagint texts as the work of the individual scribe, unfettered by any tradition. This may be the case in some MSS, but is very unlikely here. The paragraphing by the text hand is clearly related to the tradition found in MT. This paragraph-</p>
+
+<note n="9">⁹ This number includes cases at Ez. 12:17 and 17:11 where lacunae prevent our knowing whether a paragraph was marked by the text hand.</note>
+<note n="10">¹⁰ A lacuna prevents our knowing whether the sign was used in Ez. 23:14 where the text hand appears to have marked a paragraph in error.</note>
+      <pb n="135"/>
+
+<head>A NOTE ON PAPYRUS 967</head>
+
+<p>ing is not ignored by the punctuating hand, but added to, and about half the new additions also agree with the paragraphing of MT. The punctuating hand appears, then, to be presenting a variant form of the same tradition of paragraphing as was followed by the text hand. This tradition, then, which derived from the same source as that of MT, was still important to some groups using the Septuagint in the third Century.</p>
+
+<p>This conclusion seems the more significant when contrasted with the usage of other texts. Some, like Pap. 911, mark no paragraphs. In others, like cod. 927, the “paragraphing” seems to be simply ornamentation. In the fragment of Aquila published by Burkitt, where one might expect to find the MT tradition used, a quite different system appears which agrees with the paragraphing of codex A.<note n="11">See F. C. Burkitt, <title>Fragments of the Book of Kings according to the Translation of Aquila</title> (Cambridge, 1897). This text shows paragraph divisions in III R 21 (I Kgs 20) before verses 8, 12, 14, 15 and 17, and within verse 9. A marks the same divisions, save that one is marked within verse 14 instead of before verse 15. In IV R 23 (II Kgs 23) both texts mark a division before verse 27, and probably before verse 25. The scribe of A seems to have lost the tradition of paragraphing in verses 1-24 of this chapter, however, for in this long passage he marks one only at v. 16, leaving units of (for A) most unusual length. The Aquila text, where visible, marks the divisions with characteristic frequency.</note> The paragraphing in a fragment of an Old Latin text published by Vaccari shows a similar system of paragraphing to that of A.<note n="12">See A. Vaccari in <title>Papiri Greci e Latini</title> vol. 12, fasc. 2, ed. V. Bartoletti (<title>Pubblicazioni della Società Italiana per la ricerca dei papiri greci e latini in Egitto</title>; Firenze, 1951) No. 1272 (also <title>Biblica</title> 22 [1941] p. 1-11). Six paragraphs are marked in Ex. 8 and 9. A marks all these and two more.</note> Since this system is used in three texts of such diverse origin, it is justifiable to speak of it as a second tradition, different from that of MT, which was also of importance to some who used the Septuagint. The diversity of the texts shows, of course, that this particular tradition of paragraphing was independent of the textual tradition</p>
+      <pb n="136"/>
+<div type="page_content">
+    <head>
+        <num>136</num>
+        <persName>E. J. REVELL</persName>
+    </head>
+    <p>
+        with which it was used. The MT tradition was used in Fouad
+        pap. 266, a Jewish text,<note n="13">See my description in <title>Bulletin of the John Rylands Library</title> 54 (1971-2) p. 216-217.</note> and a tradition related to that of MT
+        is used in pap. 967, which shows a form of the Septuagint text
+        brought, to some extent, into conformity with the standardized
+        Hebrew text.<note n="14">See J. Ziegler in <title>ZAW</title> 61 (1945-8) p. 94 # 3 (cf. p. 84 ff.).</note> It would seem, then, that the use of paragraph-
+        ing related to that of MT does have some connection, if not
+        with the textual tradition in which it is used, then at least with
+        the outlook of those who used the text. It is to be hoped that
+        related traditions of paragraphing can be recognized elsewhere
+        so that this conclusion, which, being based only on two texts,
+        is no more than tentative, can be confirmed or rejected.
+    </p>
+    <ab rend="text-align:right">
+        E. J. Revell
+    </ab>
+    <p>
+        Department of Near Eastern Studies<lb/>
+        University of Toronto
+    </p>
+</div>
+      <pb/>
+    </body>
+  </text>
+</TEI>

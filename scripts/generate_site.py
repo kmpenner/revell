@@ -136,6 +136,24 @@ article h1 {
     margin-bottom: 0.2rem;
 }
 
+.tei-link {
+    color: var(--accent-color);
+    font-weight: bold;
+    margin-right: 0.5rem;
+    border: 1px solid #d1e2ff;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: #f1f8ff;
+    font-size: 0.8rem;
+    display: inline-block;
+    transition: all 0.2s;
+}
+.tei-link:hover {
+    background: var(--accent-color);
+    color: #fff;
+    text-decoration: none;
+}
+
 .content {
     font-size: 1.1rem;
     text-align: justify;
@@ -357,9 +375,26 @@ def main():
                         first_page_url=first_page_url
                     )
 
+        # Copy and link TEI XML source files
+        tei_html = ""
+        src_dir = os.path.dirname(md_path)
+        xml_files = sorted(glob.glob(os.path.join(src_dir, "*.xml")))
+        if xml_files:
+            dest_tei_dir = os.path.join(OUTPUT_DIR, "tei", article_id)
+            ensure_dir(dest_tei_dir)
+            
+            tei_links = []
+            for xml_path in xml_files:
+                xml_name = os.path.basename(xml_path)
+                shutil.copy2(xml_path, os.path.join(dest_tei_dir, xml_name))
+                tei_links.append(f'<a href="../tei/{article_id}/{xml_name}" target="_blank" class="tei-link">📜 {xml_name}</a>')
+                
+            tei_html = '<div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;"><span class="meta" style="margin-right: 0.5rem;">TEI Source:</span>' + ''.join(tei_links) + '</div>'
+
         meta_html = ""
         if article_id: meta_html += f'<p class="meta">ID: {article_id}</p>'
         if date: meta_html += f'<p class="meta">Date: {date}</p>'
+        if tei_html: meta_html += tei_html
 
         article_content = ARTICLE_TEMPLATE.format(
             title=title, meta_html=meta_html, content=content, facsimile_html=facsimile_html

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>The Nature of Resh in Tiberian Hebrew</title>
+      <author>
+        <forename>E.</forename>
+        <forename>J.</forename>
+        <surname>Revell</surname>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Association for Jewish Studies</publisher>
+      <date when="1981">1981</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">The Nature of Resh in Tiberian Hebrew</title>
+          <author>
+            <forename>E.</forename>
+            <forename>J.</forename>
+            <surname>Revell</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Association of Jewish Studies Review</title>
+          <imprint>
+            <biblScope unit="volume">VI</biblScope>
+            <date when="1981">1981</date>
+            <biblScope unit="page" from="125" to="136">125-136</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <notesStmt>
+    <note type="filename">07a.21_The_Nature_of_Resh_in_Tiberian_Hebrew.pdf</note>
+  </notesStmt>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+
+<div type="titlePage">
+  <p rend="align(center)">
+    <hi rend="underline">AN OFFPRINT FROM</hi>
+  </p>
+  
+  <head rend="align(center) size(large)">
+    <hi rend="bold">AJSreview</hi>
+  </head>
+  
+  <p rend="align(center)">
+    VOLUME SIX
+    <lb/>
+    1981
+  </p>
+  
+  <p rend="align(center) valign(bottom)">
+    ASSOCIATION FOR JEWISH STUDIES
+    <lb/>
+    CAMBRIDGE, MASSACHUSETTS
+  </p>
+</div>
+      <pb n="Cover"/>
+<p>
+  <!-- The image provided is almost entirely black and appears to be a scan of a dark book cover or a blank page. No legible text is visible to transcribe. -->
+</p>
+      <pb/>
+      <pb/>
+<head>THE NATURE OF <hi rend="italic">RESH</hi><lb/> IN TIBERIAN HEBREW</head>
+
+<p rendition="right">by</p>
+<p rendition="right">E. J. REVELL</p>
+
+<p>Records of pronunciation from early stages of a language are studied both for their interest for its general historical development and also for the light they may throw on variations in spelling. Such records were, then as now, necessarily couched in rather specialized language, and, being of limited interest, tended to suffer at the hands of copyists. For both reasons they are likely to present problems to the modern scholar. The information on <hi rend="italic">resh</hi> is no exception.</p>
+
+<p>This information presents an added complication, in that it states that two distinct sounds were identified as <hi rend="italic">resh</hi>, i.e., <hi rend="italic">resh</hi> was “realized” in two different ways. The sources fall into two main groups: i) Manuscripts with Babylonian pointing, in which <hi rend="italic">resh</hi> is marked with <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> on the same basis as are the six letters <hi rend="italic">b, g, d, k, p, t.</hi><note n="1">This is more common in the earlier forms of Babylonian pointing than in the later. See Israel Yeivin, <hi rend="italic">Masoret ha-lashon ha-ʿivrit ha-mishtaqqefet ba-niqqud ha-bavli</hi> (Jerusalem, 1973), p. 54.</note> The notice in the <hi rend="italic">Sefer Yeṣirah</hi><note n="2"><hi rend="italic">Sefer Yeṣirah</hi> is quoted from Joseph Qafiḥ, <hi rend="italic">Sefer Yeṣirah . . . ʿim perush ha-gaʾon Rabbenu Saʿadyah . . .</hi> (Jerusalem, 1972).</note> (2:2) which lists <hi rend="italic">resh</hi> as one of the <hi rend="italic">shevaʿ kefulot begad keferet</hi> would seem to belong to this group. The description of the two realizations of <hi rend="italic">resh</hi> in S. Morag’s article on this subject<note n="3">Shelomo Morag, “Shevaʿ kefulot begad keferet” in <hi rend="italic">Sefer Tur Sinai</hi> (= <hi rend="italic">Pirsumei ha-hevrah le-heqer ha-miqra be-Yisraʾel</hi> 8) (Jerusalem, 1960), pp. 207–42. Quoted below as “Morag.”</note> is based mainly on this group of sources. ii) The second group of sources consists of notices, such as that in</p>
+
+<fw type="footer">125</fw>
+      <pb n="126"/>
+<fw type="header">126 <space dim="horizontal" extent="unknown"/> E. J. REVELL</fw>
+
+<p>Saadya’s commentary on <hi rend="italic">Sefer Yeṣirah</hi> (4:3),<hi rend="sup">4</hi> describing the pronunciation of <hi rend="italic">resh</hi> in the Tiberian biblical reading tradition. <hi rend="italic">Resh</hi> is said to be realized in two different ways, referred to as <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> or <hi rend="italic">rakh</hi>, but the determining factor is said to be the neighboring consonants (not, as presumably with group [i], the presence or absence of a preceding vowel). This material has recently been collected by N. Allony.<hi rend="sup">5</hi> His careful study of the origin and development of this tradition still leaves some points obscure: most notably, why the earliest source states that this two-fold realization (i.e., the use of two different sounds corresponding to the letter <hi rend="italic">resh</hi>) is not characteristic of the Tiberian biblical tradition while all later sources state that it is. This paper presents a new attempt to understand the origin and development of the tradition, and the realization(s) of <hi rend="italic">resh</hi> which it reflects.</p>
+
+<p>The earliest description of the two-fold realization of <hi rend="italic">resh</hi> is that attributed by Allony to Eli ben Yehudah ha-Nazir. His description of this phenomenon runs (literally translated):</p>
+
+<quote rend="block">
+    <p>As for <hi rend="italic">resh</hi>, when six consonants are adjacent to it before it, <hi rend="italic">resh</hi> is pronounced;<hi rend="sup">6</hi> and two consonants in front of it, that is after [it], if the consonant or the <hi rend="italic">rā</hi> has <hi rend="italic">sheva</hi>. But if it is pronounced with one of the vowels, <hi rend="italic">resh</hi> does not emerge. The six consonants are <hi rend="italic">d, z, ṭ, s, ṣ, t</hi>, and the two consonants are <hi rend="italic">n, l</hi>.<hi rend="sup">7</hi></p>
+</quote>
+
+<p>The possible interpretations of the first part of this statement are, as it seems to me, either
+<list rend="none">
+    <item>(i) Realization A<hi rend="sup">8</hi> occurs (1) where <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi> precedes <hi rend="italic">resh</hi>, or (2) where</item>
+</list></p>
+
+<note n="4">4. This commentary is quoted from Qafiḥ’s edition (see n. 2) referred to below as “Qafiḥ.” The passage of interest here is on p. 116.</note>
+<note n="5">5. See Nehemiah Allony, “‘Eli ben Yehudah ha-Nazir ve-ḥibburo ‘Yesodot ha-lashon ha-‘ivrit,’” in <hi rend="italic">Leshonenu</hi> 34 (1970): 75–105, 187–209, referred to below as “Allony.”</note>
+<note n="6">6. As Allony points out (p. 105, n. 167), this and its opposite “<hi rend="italic">resh</hi> does not emerge” can hardly mean that in one case a consonant is audible, but in the other it is not. One possible explanation (consistent with the suggestion below that one realization is dental/alveolar, while the other is palatal/uvular), is that since <hi rend="italic">resh</hi> and <hi rend="italic">rā</hi> were synonyms (as they are in this passage), what is meant is that the sound of Arabic <hi rend="italic">rā</hi> (alveolar) is or is not produced. Allony remarks (ibid., n. 164) that there may be a dot in the <hi rend="italic">resh</hi>, characterizing this realization as <hi rend="italic">dagesh</hi> but this would not explain the statement “<hi rend="italic">resh</hi> does not emerge” which describes the other realization.</note>
+<note n="7">7. אעלם יאכ׳י אן אלר״יש אד׳א [ג׳אורה] ו אלחרוף [מן] קבלה קיל ר״יש וחרפין מן בין ידיה [ו]דל״ך [ב]עד אן יכון אלחרוף ;או אל רא בשבא פאן כאן יקאל באחד אלמצוחאת לא יכ׳רג׳ ר״יש ואלאחרו[ף] אלו דז״ט סצ״ת ואל חרפי[ן] נל Allony, p. 104, 11. 51–56.</note>
+<note n="8">8. The pronunciation of <hi rend="italic">resh</hi> when influenced by the eight consonants is designated this way to avoid the confusion of terminology in the sources (on which see below).</note>
+      <pb n="127"/>
+<head>RESH IN TIBERIAN HEBREW <seg rend="right">127</seg></head>
+
+<list>
+    <item><p><hi rend="italic">l</hi> or <hi rend="italic">n</hi> follows <hi rend="italic">resh</hi>, if there is <hi rend="italic">sheva</hi> under <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi> in situation (1), or under <hi rend="italic">resh</hi> in situation (2), or</p></item>
+    <item rend="label=(ii)"><p>Realization A occurs (1) where <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi> precedes <hi rend="italic">resh</hi>, or (2) where <hi rend="italic">l</hi> or <hi rend="italic">n</hi> follows <hi rend="italic">resh</hi>, if there is <hi rend="italic">sheva</hi> under <hi rend="italic">d, z, ṭ, s, ṣ, t, l, n</hi>, or <hi rend="italic">resh</hi>.</p></item>
+</list>
+
+<p>It does not seem reasonable to argue (as does Allony)<note n="9" place="foot">Allony, p. 188.</note> that the words, “If the consonant or <hi rend="italic">resh</hi> has <hi rend="italic">sheva</hi>,” mean that in situation (1) either <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi> or <hi rend="italic">resh</hi> can have <hi rend="italic">sheva</hi>, but that in situation (2) only <hi rend="italic">resh</hi> can have <hi rend="italic">sheva</hi>. The principal objection to Allony’s view is that, if <hi rend="italic">resh</hi> can have <hi rend="italic">sheva</hi> in situation (1), then a vowel can precede it, and this possibility is negated in the following statement: “if it is pronounced with one of the vowels, realization A does not occur.” The subject of <hi rend="italic">yakhruj</hi> here can only be “the consonant or <hi rend="italic">resh</hi>” from the end of the preceding sentence. This final statement also negates possibility (ii) above. Consequently this rule must be understood: “Realization A occurs (1) where <hi rend="italic">resh</hi> is preceded by <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi>, (2) where <hi rend="italic">resh</hi> is followed by <hi rend="italic">l</hi> or <hi rend="italic">n</hi>, so long as the <hi rend="italic">resh</hi> is not separated by a vowel from the preceding consonant in (1), or from the following consonant in (2).” Two later sources support this interpretation (see below).</p>
+
+<p>The description of the two-fold realization of <hi rend="italic">resh</hi> given in Saadya Gaon’s commentary on the <hi rend="italic">Sefer Yeṣirah</hi> has generally been considered the most authoritative, but it also presents some problems. Saadya states that realization A occurs when <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi> precede <hi rend="italic">resh</hi>, and either <hi rend="italic">resh</hi> or the preceding consonant has <hi rend="italic">sheva</hi>. This statement admits the possibility that realization A occurs when a <hi rend="italic">resh</hi> with <hi rend="italic">sheva</hi> is separated from the preceding consonant by a vowel, and the examples include cases like <hi rend="italic">darkemonim</hi> where this does occur. However Saadya also states that realization A does not occur, “if there is between them [i.e., <hi rend="italic">resh</hi> and the preceding consonant] any vowel.”<note n="10" place="foot"> פאן כאן בינהמא נגמה מא. For the text see Allony, p. 189; Qafiḥ, p. 116. The examples of the two consonants separated by a vowel include מעט צרי (Gen. 43:11), which would show that the two consonants must not be separated by any sort of vowel—if the example originated with Saadya, and if he pronounced the <hi rend="italic">ṣade</hi> with <hi rend="italic">ḥaṭef-qameṣ</hi> (as the received pointing). However the use of the term נגמה here might suggest that the basis for Saadya’s work was not identical to that of the (early) Tiberian scholars, who would have used מצותה (cf. Allony, p. 105, n. 166).</note> This contradiction can only be resolved if the latter statement is taken to mean that realization A fails to occur only where both <hi rend="italic">resh</hi> and the preceding consonant are followed by a vowel. If this was the meaning, it certainly could have been more clearly stated.</p>
+
+<p>The actual wording of Saadya’s statement is very close to that of Eli ben</p>
+      <pb n="128"/>
+<p>
+    Yehudah, although the statements are differently arranged.<note n="11"/> It is quite possible that Saadya based his description on that of Eli ben Yehudah, but incorrectly took the ambiguous statement, “If either the consonant <hi rend="italic">[d, z, t, s, ṣ,</hi> or <hi rend="italic">t]</hi> or <hi rend="italic">resh</hi> has <hi rend="italic">sheva,</hi>” as applying in its entirety to situation (1) (<hi rend="italic">resh</hi> preceded by <hi rend="italic">d, z, t, s, ṣ,</hi> or <hi rend="italic">t</hi>) instead of partly to (1) and partly to (2) as suggested above. The suggestion is, then, that the description was rewritten to remove its ambiguity, but the erroneous clarification created a new contradiction which was not noticed.
+</p>
+<p>
+    It may seem unreasonable (despite the fact that error is proverbially characteristic of humans) to suggest that a scholar like Saadya, with a reputation specifically in the area of linguistic study, should make a mistake of this sort. The suggestion that he did so is based on the assumption that he was attempting to present as clearly as possible the available information on a phenomenon with which he was not familiar. The alternative possibility, that he was familiar with the phenomenon and described it badly, seems less likely in view of his reputation.
+</p>
+<p>
+    Saadya’s statement opens:
+</p>
+<quote>
+    <p>
+        The two-fold pronunciation of <hi rend="italic">resh</hi> is found among the Tiberians in the reading of the Bible, and among the Iraqis in their speech, but not in the reading of the Bible. . . . As for the rules<note n="12"/> of the Iraqis on this, I searched for them, but did not find a source which summarized them.<note n="13"/>
+    </p>
+</quote>
+<p>
+    This last can be taken to mean that Saadya enquired among the leading Iraqi students of the biblical language for a description of the two-fold realization of <hi rend="italic">resh,</hi> but did not find an adequate one. Probably they were aware of a statement on this phenomenon, such as that in the <hi rend="italic">Sefer Yeṣirah,</hi> and had some explanation for it, but could offer no clear description of the twofold realization of <hi rend="italic">resh</hi> as a phonological fact, since it was not characteristic of their biblical pronunciation.<note n="14"/> Taken this way, this statement merely
+</p>
+<note n="11">
+    11. The major differences not imposed by different arrangement are merely that Saadya described the two realizations as <foreign xml:lang="heb">כאן אלריש דגש/רפי</foreign> rather than using the obscure <foreign xml:lang="heb">קיל ריש</foreign> and <foreign xml:lang="heb">לא יכירג' ריש</foreign>, and uses <foreign xml:lang="heb">נגמה מא</foreign> for the vowel between the consonants, not <foreign xml:lang="heb">אחד אלמצותאת</foreign>.
+</note>
+<note n="12">
+    12. <hi rend="italic">Rusūm</hi> would most naturally refer to a written formulation. Meanings such as “usage” are possible, but the choice of this root would imply usage based on a written statement.
+</note>
+<note n="13">
+    13. <foreign xml:lang="heb">ואמא תצאעף אלריש פאנה ללטבראנייין פי אלמקרא וללעראקייין פי כלאמהם לא פי אלמקרא . . . פאמא רסום אלעראקייין פי ד'לך פאלתמסנאהא פלם נגד להא אצלא יגמעהא</foreign>; Allony, p. 189; Qafih, p. 79.
+</note>
+<note n="14">
+    14. This must have been the Tiberian tradition as used in Babylonia, see Morag, pp. 233–34.
+</note>
+      <pb n="129"/>
+<head>RESH IN TIBERIAN HEBREW <space quantity="10" unit="char"/> 129</head>
+
+<p>repeats and emphasizes Saadya’s preceding assertion that the two-fold realization of <hi rend="italic">resh</hi> was not found in the biblical tradition of Iraq. The alternative view, that Saadya would make a personal investigation of the everyday speech of the people of Iraq with the intention of using it as the basis for an explanation of a statement, in an important ancient work, about the language of the Bible, seems to be much less likely.<note n="15">15. Saadya viewed the history of Hebrew since Nehemiah’s time as a progressive decline (see N. Allony, <hi rend="italic">Ha’Egron . . . by Rav Sě’adya Ga’on</hi> [Jerusalem, 1969], p. 158, ll. 27–39, and my review in <hi rend="italic">Journal of Semitic Studies</hi> 19 [1974]: 126). Consequently it is likely that if he thought the two-fold realization of <hi rend="italic">resh</hi> to be a feature of the Tiberian biblical tradition, he would consider any evidence from daily speech irrelevant (Allony, however, does restore mention of the daily speech of Tiberias to Saadya’s account on the basis of different assumptions, p. 189). The use of the daily speech of Iraq to restore biblical Hebrew is doubly unlikely, since it would have been Aramaic (see Morag, pp. 220–21). However, a two-fold realization of <hi rend="italic">resh</hi> does not occur in the (Tiberian) biblical tradition of Iraq, so Saadya does, for completeness, mention its occurrence in the daily speech there. If his statement “I searched . . .” is to mean that he studied this feature in Iraqi speech, then “I did not find . . .” must mean that, despite his linguistic expertise, he was unable to describe it, which seems unlikely. If he merely meant that Iraqi usage did not fit the rules of the Tiberian masoretes, as suggested by Allony (p. 188), why did he not simply say it was different?</note></p>
+
+<p>Saadya continues with a statement that the rules of the Tiberians will be presented later.<note n="16">16. ואמא רסום אלטבראניין פאנא נדכרנהא פי תפסיר אלפרק אלד.</note> The fact that he reproduces these rules need not imply that he personally investigated the facts, or even that he was familiar with the two-fold realization of <hi rend="italic">resh</hi> as a living phenomenon. He evidently simply did present (in revised form) the rules formulated by the Tiberian scholars in the statement attributed by Allony to Eli ben Yehudah, or in some similar one.</p>
+
+<p>The suggestion that Saadya was not himself familiar with the double realization of <hi rend="italic">resh</hi> would be incredible if the facts given in Eli ben Yehudah’s description were characteristic of the Tiberian tradition, but this was not the case. Eli ben Yehudah’s statement shows quite clearly that the two-fold realization was not used in the reading of the Bible.<note n="17">17. See the quotation in the next paragraph, and also Allony, p. 104, ll. 47–48: ואנמא רש ריש: פלם יוגד לשי מנה אמארה ולא סימ[ן] אלא להגי אהל אלבלד פי לגתהם וסיאק נטקהם. “As for <hi rend="italic">resh resh</hi> [the double realization is indicated in the same way in <hi rend="italic">Sefer Yeṣirah</hi> 2:2], no sign or rule existed for any facet of it except in the language of the people of the place in their speech and discourse.”</note> Furthermore an early description of Tiberian Hebrew (see below) notes carefully the difference between the two realizations of <hi rend="italic">b, g, d, k, p,</hi> and <hi rend="italic">t,</hi> but does not mention the two-fold realization of <hi rend="italic">resh</hi>. No Tiberian text marks different values for <hi rend="italic">resh</hi>, and the statements we have on the two realizations are not only insig-</p>
+      <pb n="130"/>
+<fw type="header">130 <space quantity="5" unit="char"/> E. J. REVELL</fw>
+<p>nificant in number compared to those on <hi rend="italic">b, g, d, k, p, t</hi>, but are also confused and contradictory, which would scarcely be possible if such two-fold realization really were characteristic of the tradition. On the basis of this evidence, then, we must argue that Saadya could not have been familiar with the two-fold realization of <hi rend="italic">resh</hi> in any form of the Tiberian biblical tradition.</p>
+<p>Saadya himself does state that the double realization of <hi rend="italic">resh</hi> is characteristic of the Tiberian biblical tradition, contradicting the reconstruction given above. However, as already noted, his statement also contradicts the testimony of Eli ben Yehudah. The latter says:</p>
+<quote rend="block">
+    <p>There remains the real <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> according to what the earlier scholars said, I mean [<hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> in] <hi rend="italic">b, g, d, k, p, r, t</hi>, the seven consonants. However, people only pronounce them in the six. And as for <hi rend="italic">resh</hi>—which no one ever pronounces [this way], nor is [a tradition of] it [with <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi>] found with one of the people of this our time or before our time who could make a masoretic rule or a guide for it—a revelation was made to me about it, and God in His goodness showed me the genuine comprehensive meaning of all which has been said about it.<hi rend="superscript">18</hi></p>
+</quote>
+<p>This statement shows clearly that no one known to Eli ben Yehudah either showed a two-fold realization of <hi rend="italic">resh</hi> in his biblical reading, or knew of a masoretic description of such realization. In this context, the statement that he discovered facts corresponding to “all which has been said about it” must mean that Eli ben Yehudah knew a reliable source which stated that the two-fold realization of <hi rend="italic">resh</hi> was once characteristic of the Holy Tongue, but which provided only vague information on the nature of the two realizations. The <hi rend="italic">Sefer Yeṣirah</hi>, a work regarded as both ancient and valuable, provides information of exactly this sort. On the basis of some source such as this, Eli ben Yehudah concluded that the double realization of <hi rend="italic">resh</hi> was a lost feature of the biblical language, searched for traces of it, and believed that he had rediscovered the usage in the speech of Tiberias. Saadya’s statement that a two-fold realization is characteristic of the biblical tradition of Tiberias need mean no more than that he accepted Eli ben Yehudah’s conclusion, and (as he obviously did) shared his belief.<hi rend="superscript">19</hi></p>
+<note n="18">
+    <foreign xml:lang="he">ובקי אלדג ואלרפ אלחקיקי לאלד"י קאלוה אלאולין אע בגד כפרת אלז אחרף ולם יקול אלנא[ס] אלא פי אלז</foreign>
+    <lb/><foreign xml:lang="he">ואמא אלריש אלד"י לם יק[ו]לה אחד בתה ולא יוג'ד לאחד מן אלנאס פי זמאננא הד"א וקבל זמאננא אנה ג'על ל[ה] סימן</foreign>
+    <lb/><foreign xml:lang="he">ולא דליל פ[אנפ]תח לנא פיה ואנאר אללה לנא בלטפה מע צחיח ג'אמע לכל מא קיל עליה</foreign>; Allony, p. 102, ll. 36–42.
+</note>
+<note n="19">19. It is argued at the beginning of Allony's article, that Eli ben Yehudah, who produced</note>
+      <pb n="131"/>
+<head>RESH IN TIBERIAN HEBREW <ref target="#n131">131</ref></head>
+
+<p>If we assume that Eli ben Yehudah’s source was the <title>Sefer Yeṣirah</title>, the history of the passage can be reconstructed as follows.<note n="20">The author of the <title>Sefer Yeṣirah</title>, who was interested in the Hebrew consonants not as language, but as a microcosm symbolizing significant truths, added <foreign xml:lang="he-Latn">resh</foreign> to the <foreign xml:lang="he-Latn">begad kefat</foreign> letters to provide the group of seven which he needed for his argument. A linguistic situation which would justify this grouping is reflected in the Babylonian pointing (see above). No similar phenomenon is known from elsewhere, so it is highly likely that the notice in the <title>Sefer Yeṣirah</title> derives from Babylonia.</note></p>
+
+<p>The increasing prestige of the <title>Sefer Yeṣirah</title> brought this passage to the notice of Western scholars. Since they regarded the work as an important ancient source, they assumed that the two-fold realization of <foreign xml:lang="he-Latn">resh</foreign> which it mentions was a characteristic feature of the Holy Tongue when the passage was composed, but had since been lost. There was naturally some interest in rediscovering it. <foreign xml:lang="he-Latn">Resh</foreign> was realized in two different ways in the speech of the citizens of Tiberias, and Eli ben Yehudah’s description of this was accepted as an accurate reconstruction of the feature ascribed to the earlier biblical pronunciation.</p>
+
+<p>Saadya, in his commentary on the <title>Sefer Yeṣirah</title>, had to explain the inclusion of <foreign xml:lang="he-Latn">resh</foreign> among the “seven double letters.” He did what any scholar would do today. He collected the available information on the subject, and presented it as seemed best to him. Thus he notes that a two-fold realization of <foreign xml:lang="he-Latn">resh</foreign> is characteristic of Iraqi speech. However the passage in the <title>Sefer Yeṣirah</title> refers to the Holy Tongue, and his sole significant source for this was Eli ben Yehudah’s reconstruction. He presented this in a revised form, striving for greater clarity. That he did not notice that his revision introduced a new contradiction is surprising, but the point was not important, so he may not have given it much attention.</p>
+
+<p>Later forms of the notice on the two-fold realization of <foreign xml:lang="he-Latn">resh</foreign> mostly follow Saadya in stating that this phenomenon appears only among the people of Tiberias, understanding Eli ben Yehudah’s designation of the group from which he got his information, <foreign xml:lang="ar-Latn">ahl al-balad</foreign>, as meaning “the</p>
+
+<hr/>
+
+<note place="bottom">the earliest description of the double realization of <foreign xml:lang="he-Latn">resh</foreign>, was Saadya’s teacher. If this were so, it would not be unrealistic to suppose that Saadya obtained from him an oral or written statement of the rules, but not the details on which the statement was based (although it would be surprising, as Allony remarks, that he should give his teacher no credit). In fact, however, Allony’s identification, though possible, is by no means firm.</note>
+<note n="20" place="bottom">If his source was some other work, the details of the reconstruction would differ, but not its main outline.</note>
+      <pb n="132"/>
+<head>E. J. REVELL</head>
+<p>people of the city.”<note n="21">As Allony, p. 104, n. 162.</note> One exception to this is the notice in the Leningrad Manuscript,<note n="22">Dated 1010. A photographic facsimile, with introduction by David Samuel Loewinger, was published by Makor Press (Jerusalem, 1970). The notice appears on p. 313 of vol. 3, and is given in Allony, p. 192.</note> which ascribes the two-fold realization to the <hi rend="italic">benei 'Eres Yisra'el</hi>, understanding <hi rend="italic">ahl al-balad</hi> as “the people of the land.” This notice also differs from that of Saadya in that it states that where <hi rend="italic">resh</hi> is preceded by <hi rend="italic">d, z, ṭ, s, ṣ</hi>, or <hi rend="italic">t</hi>, realization A occurs only if the consonant preceding <hi rend="italic">resh</hi> has <hi rend="italic">sheva</hi>.<note n="23">כאשר יסמך ריש לששה אותות ויהיה תחת האותות הסמוך לו שוא יצא ריש ברפי. The <hi rend="italic">Maḥberet ha-tijān</hi> (see below) gives האות for the erroneous האותות.</note> This difference also can be explained by the suggestion that the account in L was taken directly from that of Eli ben Yehudah, or some similar Tiberian account, and so avoided the error (here charged to Saadya) of stating that realization A can occur in this situation (situation 1) when <hi rend="italic">resh</hi> has <hi rend="italic">sheva</hi> (and the preceding consonant, by implication, a vowel).<note n="24">Allony (p. 192) suggests that the notice in the Leningrad Manuscript was translated from that of Eli ben Yehudah, but that the translator was influenced by Saadya’s description because he mentions both Bible reading and everyday speech. However Saadya’s description as we have it does not mention the everyday speech of the Tiberians, nor does it mention the speech of Tiberian women and children (as does L) even with Allony’s restoration. The notice in the Leningrad Manuscript need be nothing more than an imaginative interpretation of that of Eli ben Yehudah.</note></p>
+<p>These two features, the ascription of the double realization of <hi rend="italic">resh</hi> to the <hi rend="italic">benei 'Eres Yisra'el</hi>, and the absence of the statement on <hi rend="italic">resh</hi> with <hi rend="italic">sheva</hi> in situation (1) also occur in the first part of the notice in the <hi rend="italic">Maḥberet ha-tijān</hi>, a treatise probably compiled in the thirteenth century.<note n="25">See Allony, pp. 203–4. In the edition of this treatise by M. J. Dérenbourg (“Manuel du Lecteur,” <hi rend="italic">Journal Asiatique</hi>, 6ème série, 16 [1870]), the notice appears on p. 446.</note> The description of this phenomenon given there differs from that in the Leningrad Manuscript almost only in avoiding its errors, most significantly at the end of the notice, as follows:<note n="26">The double parentheses enclose material present in the Leningrad Manuscript but not in the <hi rend="italic">Maḥberet</hi>; the boldface type marks material present in the <hi rend="italic">Maḥberet</hi> but not in the Leningrad Manuscript.</note></p>
+<quote>
+    These eight consonants, six before <hi rend="italic">resh</hi> and two after it, <hi rend="bold">((n, l,)) d, z, ṭ, s, ṣ, t,</hi> before it, and <hi rend="bold">l, n, after it</hi>, and only when there is <hi rend="italic">sheva</hi> under the letter next to <hi rend="italic">resh</hi> as we explained, but if it does not have <hi rend="italic">sheva</hi> it [<hi rend="italic">resh</hi>] is pronounced with <hi rend="italic">dagesh</hi>.<note n="27">אלו שמונה אותיות ששה מלפני ריש ושנים מאחוריו ((נל)) זד טס צת מלפניו לן מאחריו ובלבד שיהיה שוא תחת האות הסמוך לריש כמו שביארנו ואם לא יהיה שוא יצא בדגש; Allony, p. 204, ll. 9–12.</note>
+</quote>
+      <pb n="133"/>
+<head>RESH IN TIBERIAN HEBREW <seg rend="right">133</seg></head>
+
+<p>After the word <hi rend="italic">be-dagesh</hi> in the <hi rend="italic">Mahberet</hi>, the statement on <hi rend="italic">resh</hi> with <hi rend="italic">sheva</hi> in situation (1) (derived from Saadya) is added, as is a further rule, not given elsewhere. Both conflict with the initial statement. This shows that the compiler of this notice did not understand the statement, so it is most unlikely that he corrected the first part of it from the notice in the Leningrad Manuscript. Consequently, it is highly probable that, up to the word <hi rend="italic">be-dagesh</hi>, this notice in the <hi rend="italic">Mahberet</hi> is a correct copy of the source miscopied in the Leningrad Manuscript. It is, then, the closest we can get to the first formulation in Hebrew of the rules for the two-fold realization of <hi rend="italic">resh</hi>, and the clearest statement we have of the original form of these rules.</p>
+
+<p>The sources differ significantly in the use of the terms <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> or <hi rend="italic">rakh</hi>, which occur in all notices but that of Eli ben Yehudah. Saadya calls realization A <hi rend="italic">dagesh</hi> and realization B <hi rend="italic">rafe</hi> in his comment on <hi rend="italic">Sefer Yeṣirah</hi> 4:3, but the terms he uses for the two realizations of <hi rend="italic">b, g, d, k, p, r, t</hi>, in his translation of <hi rend="italic">Sefer Yeṣirah</hi> 2:2 are <hi rend="italic">tashdīd</hi> and <hi rend="italic">irkhāʾ</hi>. These are cognate with the terms <hi rend="italic">shadīd</hi> and <hi rend="italic">rikhwah</hi> used by Sibawaih in categorizing the Arabic consonants.<note n="28">The familiar term <hi rend="italic">tashdīd</hi> is the <hi rend="italic">maṣdar</hi> of the transitive stem (II) of ŠDD. The term <hi rend="italic">irkhāʾ</hi>, which I do not know from elsewhere, is presumably parallel: the <hi rend="italic">maṣdar</hi> of the transitive stem (IV) of RKHW.</note> Saadya was undoubtedly familiar with such categorization, so that, if as suggested below, realization A was dental/alveolar, and realization B palatal, he would naturally categorize A as <hi rend="italic">shadīd = dagesh</hi> and B as <hi rend="italic">rikhwa = rafe</hi>.<note n="29">Sibawaih categorizes the dental Arabic <hi rend="italic">rā</hi> as <hi rend="italic">shadīd</hi>, and <hi rend="italic">ghain</hi>, the nearest Arabic sound to a palatal “r,” as <hi rend="italic">rikhwa</hi>. See Khalil I. Semaan, <hi rend="italic">Linguistics in the Middle Ages</hi> (Leiden, 1968), pp. 43–44.</note> All other notices designate realization B as <hi rend="italic">dagesh</hi>. This may simply reflect the fact that, in the few cases where the Tiberian text does mark <hi rend="italic">dagesh</hi> in <hi rend="italic">resh</hi>, that letter is neither preceded by <hi rend="italic">d, z, ṣ, s, ś, </hi> or <hi rend="italic">t</hi>, nor followed by <hi rend="italic">l</hi> or <hi rend="italic">n</hi>. According to the rules, realization B is required in such cases, so realization B would naturally be termed <hi rend="italic">dagesh</hi>.</p>
+
+<p>Whether or not this is the correct reason for the use of these terms, the way they are used emphasizes the individual nature of Saadya’s account, and fits the pattern of development suggested above. Saadya based his account on a statement such as that of Eli ben Yehudah, but he not only removed its ambiguity by inserting the (incorrect) statement that realization A occurs if <hi rend="italic">resh</hi> preceded by <hi rend="italic">d</hi>, etc. has <hi rend="italic">sheva</hi>; he also remedied its lack of detail by including the terms <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> as seemed natural. The notice in the Leningrad Manuscript, and the first part of that in the <hi rend="italic">Mahberet</hi>,</p>
+      <pb n="134"/>
+<fw type="header">134 <hi rend="right">E. J. REVELL</hi></fw>
+
+<p>derive from a Tiberian source which not only inserted the terms <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> on a basis different from Saadya's, but also did not include the erroneous statement on <hi rend="italic">resh</hi> with <hi rend="italic">sheva</hi>. Those who copied these notices were, however, sufficiently influenced by Saadya's account to include examples reflecting that erroneous statement, and the statement itself was appended to the Tiberian source in the <hi rend="italic">Mahberet</hi>. The other notices collected by Allony also reflect this Tiberian source, as is shown by their application of the term <hi rend="italic">dagesh</hi>, but they belong to a different stream, as is shown by the fact that <hi rend="italic">rakh</hi> and not <hi rend="italic">rafe</hi> is opposed to <hi rend="italic">dagesh</hi>, that the two-fold realization is ascribed to Tiberias, not to the <hi rend="italic">benei 'Eres Yisra'el</hi>, and that the erroneous statement on <hi rend="italic">resh</hi> with <hi rend="italic">sheva</hi> is incorporated into the body of the notice. These differences might well reflect a different translation of an Arabic source, and greater dependence on Saadya's account.</p>
+
+<p>It appears, then, that the ascription of a two-fold realization of <hi rend="italic">resh</hi> to the Tiberian biblical tradition arose from mistaken assumptions about an early source. The meager phonological information available not only presents no obstacle to this view, but shows a plausible picture consistent with it. The author of the <hi rend="italic">Sefer Yeṣirah</hi> lists <hi rend="italic">resh</hi> among the “teeth” letters:<note n="30">The clumsy calques used here are preferable to the translation of the names of these “articulation groups” into modern technical terms, since they do not correspond. For Sībawaih, <hi rend="italic">r</hi>, <hi rend="italic">z</hi>, <hi rend="italic">s</hi>, and <hi rend="italic">ṣ</hi>, are alveolar (articulated with the tongue at some point on the gum ridge) but <hi rend="italic">shin</hi> is palatal, and we may note that Saadya found it natural to separate <hi rend="italic">shin</hi> from the other members of this group (Qafih, p. 116). “Dental,” at first glance the obvious translation for “teeth letters” would, in modern terms, fit most comfortably <hi rend="italic">d</hi>, <hi rend="italic">ṭ</hi>, <hi rend="italic">l</hi>, <hi rend="italic">n</hi>, <hi rend="italic">t</hi> the “tongue letters” of the earlier terminology. I have offered a suggestion on the origin of this Hebrew terminology in “The Diacritical Dots and the Development of the Arabic Alphabet,” <hi rend="italic">Journal of Semitic Studies</hi> 20 (1975): 186.</note> <hi rend="italic">z</hi>, <hi rend="italic">s</hi>, <hi rend="italic">ṣ</hi>, <hi rend="italic">r</hi>, <hi rend="italic">sh</hi>. Presumably this view derives from the same source as his inclusion of <hi rend="italic">resh</hi> with the letters <hi rend="italic">b</hi>, <hi rend="italic">g</hi>, <hi rend="italic">d</hi>, <hi rend="italic">k</hi>, <hi rend="italic">p</hi>, <hi rend="italic">t</hi>, and so represents (as far as we can tell) the Babylonian pronunciation. Saadya makes no comment on this classification of <hi rend="italic">resh</hi>, so it must have agreed with his usage, presumably that of Egypt.</p>
+
+<p>In a form of the <hi rend="italic">Hidāyat al-qāri</hi> represented by some Genizah fragments, <hi rend="italic">resh</hi> is included among the “palate” letters: <hi rend="italic">g</hi>, <hi rend="italic">y</hi>, <hi rend="italic">k</hi>, <hi rend="italic">r</hi>, <hi rend="italic">q</hi>. There is no possibility of scribal error, since the statement is made more than once, in more than one fragment, and in a Hebrew translation from a similar or identical text.<note n="31">For the Arabic form of this treatise, see Bodleian MS Heb. e76, fol. 2r (introduction) and Cambridge University Library fragments TS Arabic 31:79, 1r11, and TS NS 301:18a, 1r2 (description of consonants). For the Hebrew form, see Bodleian MS Opp. 625, fol. 241v.</note> The description of the consonants is not a stereotyped list of</p>
+      <pb n="135"/>
+<head>RESH IN TIBERIAN HEBREW <space quantity="10" unit="character"/> 135</head>
+
+<p>the five “articulation groups” but is clearly based on careful observation, as it takes pains to describe the difference between the two realizations of <hi rend="italic">b, g, d, k, p, t</hi>. The passage on the “palate” letters runs</p>
+
+<quote rend="block">
+    <p><hi rend="italic">g, y, k, r, q</hi>, are articulated at the middle of the tongue with the breadth of it, and <hi rend="italic">g, k, rafe</hi>, with the third of the tongue nearest the throat.<note n="32" place="foot">.גירכק מתלהא וסט אללסאן בערצה ומחל גך אלמרפיין תלת אללסאן ממא ילי אלחקלוקם For the other four consonants, the <hi rend="italic">rafe</hi> form is said to be articulated in the same position as the <hi rend="italic">dagesh</hi> form, but to be distinguished by the fact that the articulators only touch lightly: חטבק ,ת ,ד for ילצק ברפק). פ, ב for ברפק).</note></p>
+</quote>
+
+<p>This treatise opens with an introduction arguing that:</p>
+
+<quote rend="block">
+    <p>This reading tradition [i.e., the Tiberian tradition described in the treatise] which is in Eretz Israel is the tradition of Ezra the scribe and his generation, because the people was not separated from the land of Israel from the time of Ezra in the Second Temple until the present, but only from Jerusalem in the time when the Romans ruled the land; and Israel has been teaching this reading tradition to its children, generation after generation, up to the present.<note n="33" place="foot">ולאן הד.. אלקראה אלדי פי ארץ ישראל [הי] קראה עזרא אלכ[אתב] וגילה לאן מא אנקטעת אלאמה מן ארץ ישראל מן זמאן עזרא פי בית שני ואלי אלאן אלא מן ירושלים פקט פי זמאן מלך אדום ולארץ וישראל ועלמו אולאדהם אלי אלאן גיל בעד גיל הדה אלקראה; Bod. Heb. e76, fol. 2r2–12 (and TS Ar 31:79, 1r1–5).</note></p>
+</quote>
+
+<p>This passage clearly shows that the treatise was produced in Eretz Israel. The strong advocacy for the Tiberian reading tradition suggests that it was not yet generally accepted, but required support. Consequently the treatise must be quite early—earlier than the writings of Saadya Gaon according to the argument of Morag.<note n="34" place="foot">Morag, p. 234. Aron Dotan suggests a date “not later than the tenth century” in <hi rend="italic">Encyclopedia Judaica</hi> (Jerusalem, 1971), 16: 1475.</note></p>
+
+<p>In Eretz Israel, then, at the relatively early time when this treatise was composed, <hi rend="italic">resh</hi> was palatal,<note n="35" place="foot">There is reason to believe that this was also true for the Hebrew of Qumran, see Elisha Qimron, <hi rend="italic">A Grammar of the Hebrew Language of the Dead Sea Scrolls</hi> (Jerusalem, 1976), pp. 94–96.</note> and there was no knowledge of two realizations of this letter in the biblical tradition. In Eli ben Yehudah’s day, however, <hi rend="italic">resh</hi> was realized in two different ways in other forms of the language, at least in Tiberias. The phenomenon described by Eli ben Yehudah is quite different from that indicated by the Babylonian pointing, in which <hi rend="italic">resh</hi> is marked with <hi rend="italic">dagesh</hi> or <hi rend="italic">rafe</hi> under the same conditions as are <hi rend="italic">b, g, d, k,</hi></p>
+      <pb n="136"/>
+<fw type="header">136 <space quantity="13" unit="char"/> E. J. REVELL</fw>
+
+<p><hi rend="italic">p, t</hi>. The description of Eli ben Yehudah shows that <hi rend="italic">resh</hi> was affected by neighboring dental or alveolar consonants. Presumably in the neighborhood of these consonants, <hi rend="italic">resh</hi> became dental or alveolar,<note n="36" place="foot">The consonants which affect <hi rend="italic">resh, d, z, ṭ, s, ṣ, t, l,</hi> and <hi rend="italic">n,</hi> appear to be specifically those articulated in alveolar position or further forward in which tongue movement plays a significant part. (<hi rend="italic">Shin</hi> was presumably palatal, see n. 30; the information in <hi rend="italic">Hidāyat al-qāri</hi> on the “teeth” letters <hi rend="italic">z, s, ṣ, š</hi>, is vaguer than for any other group, which suggests that they were grouped on the basis of manner of articulation, rather than position.) The eight consonants affecting <hi rend="italic">resh</hi> have no feature except position of articulation in common, so it is reasonable to suppose that they influenced the characteristic tongue position or movement for <hi rend="italic">resh</hi>, a conclusion supported by the interpretation of early terminology in Allony, pp. 94–95. It is, however, unlikely that the tongue position of one consonant would affect that of another if they were separated by a vowel, as a vowel would require a separate tongue movement.</note> a tendency which would be strengthened by, if it did not originate from, the general spread of Arabic as an everyday language. This “dentalization” of <hi rend="italic">resh</hi> was not characteristic of the Tiberian biblical pronunciation in Eli ben Yehudah’s day. In Saadya’s time, it was not characteristic of the Tiberian tradition of Iraq either, and Saadya’s reference to its use by “the Tiberians” can be explained as referring to the (supposed) usage of the past. That is to say, this feature had not, at that time, penetrated the Tiberian reading tradition. Presumably the tendency to dentalization did eventually result in the use of a dental or alveolar <hi rend="italic">resh</hi> in all Near Eastern forms of Hebrew (as the corresponding Arabic and Syriac consonants). All sources but the <hi rend="italic">Hidāyat al-qāri</hi> list <hi rend="italic">resh</hi> with the “teeth” letters, although the uniformity of the later sources may possibly be due to the prestige of descriptions such as that of the <hi rend="italic">Sefer Yeṣirah</hi>.</p>
+
+<p rend="align(right)">Department of Near Eastern Studies
+<lb/>University of Toronto
+<lb/>Toronto, Canada M5S 1A1</p>
+      <pb/>
+    </body>
+  </text>
+</TEI>

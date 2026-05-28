@@ -122,6 +122,24 @@ article h1 {
     margin-bottom: 0.2rem;
 }
 
+.tei-link {
+    color: var(--accent-color);
+    font-weight: bold;
+    margin-right: 0.5rem;
+    border: 1px solid #d1e2ff;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: #f1f8ff;
+    font-size: 0.8rem;
+    display: inline-block;
+    transition: all 0.2s;
+}
+.tei-link:hover {
+    background: var(--accent-color);
+    color: #fff;
+    text-decoration: none;
+}
+
 .content {
     font-size: 1.1rem;
     text-align: justify;
