@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>First Person Imperfect Forms with Waw Consecutive</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Brill</publisher>
+      <date when="1988">1988</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">First Person Imperfect Forms with Waw Consecutive</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Vetus Testamentum</title>
+          <imprint>
+            <biblScope unit="volume">XXXVIII</biblScope>
+            <date when="1988">1988</date>
+            <biblScope unit="page" from="419" to="426">419-426</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded from digital source: SBH-C368-NT26020615450_ocr.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb n="417"/>
+<p rendition="right">
+    <hi rend="italic">Vetus Testamentum</hi> XXXVIII, 4 (1988)
+</p>
+
+<head>FIRST PERSON IMPERFECT FORMS WITH WAW CONSECUTIVE</head>
+
+<p rendition="center">by</p>
+
+<p rendition="center">E. J. REVELL</p>
+
+<p rendition="center">Toronto</p>
+
+<p>
+    First person imperfect forms with <hi rend="italic">waw</hi> consecutive have recently received some attention in connection with the question of the authorship of the books of Ezra, Nehemiah, and Chronicles.<note n="1">The debate was initiated by S. Japhet in “The supposed common authorship of Chronicles and Ezra-Nehemia investigated anew”, <hi rend="italic">VT</hi> 18 (1968), pp. 330-71. The linguistic components of this and subsequent arguments on the question were evaluated in M. A. Throntveit “Linguistic analysis and the question of authorship in Chronicles, Ezra, and Nehemiah”, <hi rend="italic">VT</hi> 32 (1982), pp. 201-16</note> A few details of these forms were overlooked in that discussion. It seems worth while to present these, in case similar interest in these forms is aroused in some other connection.<note n="2">Any increase in the accuracy of this description of forms over others is due to the use of a list of forms beginning <hi rend="italic">wʾ-</hi> or <hi rend="italic">wāʾ-</hi> provided by “Promotion biblique et informatique” of Maredsous. A few forms were noticed which had not been included, however, so it cannot be asserted that this description is complete</note> Forms with pronominal suffixes, which show no variations that might give clues to date or authorship, are not included in the following description.
+</p>
+
+<p>
+    (1) Where <hi rend="italic">alef</hi> is the final root letter, the same 3 ms. form is regularly used with <hi rend="italic">waw</hi> consecutive as without. This is also true for 1st person forms in 56 cases (including the <hi rend="italic">qere</hi> in Josh. xxiv 8). The four exceptional forms, <hi rend="italic">wʾšlḥh</hi> (Neh. ii 13), <hi rend="italic">wʾqrʾh</hi>, (1 Sam. xxviii 15), and the <hi rend="italic">ketib</hi> forms <hi rend="italic">wʾbʾh</hi> (Josh. xxiv 8), and <hi rend="italic">wʾmṣʾh</hi> (Ezra viii 17), all appear to reflect the use of the affix <hi rend="italic">-h</hi>. This affixed form of the imperfect thus occurs in <hi rend="italic">waw</hi> consecutive forms from roots with final <hi rend="italic">alef</hi> much less frequently than in forms from any other roots except those with final <hi rend="italic">he</hi>. This is to be expected, since this use of the affix is late (see below), and the differences between the two types of final weak root had been lost by the end of the biblical period.<note n="3">The affixed 1st person form is also much less common in forms from roots III<hi rend="italic">y</hi> than from other roots where a modal is expected. The affix occurs in 1 of 6</note>
+</p>
+      <pb n="421"/>
+<head>FIRST PERSON IMPERFECT FORMS WITH WAV CONSECUTIVE 421</head>
+
+<p>the corresponding 1 s. forms in 130 cases. In a further 44 cases, the 1 s. form with <hi rend="italic">waw</hi> consecutive shows the affix <hi rend="italic">-āh</hi>. The correspond-ing 1 pl. form with <hi rend="italic">waw</hi> consecutive is the same as that of the ordinary imperfect in 22 cases. It shows the affix <hi rend="italic">-āh</hi> in a further 4 cases.</p>
+
+<p>The use of the affix <hi rend="italic">-āh</hi> in categories (3) and (4) is common only in later materials. It occurs in 61 % of the possible cases in Daniel, Ezra and Nehemiah (55 of 90 cases), compared to about 4 % in the Pentateuch (4/92), and the Latter Prophets (6/154). Its distribution is, however, remarkably uneven. It occurs in 5/12 cases in Judges, and 5/9 cases in 2 Samuel, but in only 1/45 cases in the rest of the Former Prophets. It occurs in 10 of 11 cases in Ps. iii, vii, lxix, xc, cxix, but in none of the other six cases in Psalms. It occurs in all four cases in the prose of Job (Job i), but in none of the five cases in the poetry. It does not occur in the books of Chronicles.<note n="5" place="foot">So correctly Japhet, p. 338, as before her A. Kropat, <hi rend="italic">Die Syntax des Autors der Chronik verglichen mit der seiner Quellen</hi> (Giessen, 1909), p. 75. In disagreeing with them, R. Polzin in <hi rend="italic">Late Biblical Hebrew</hi> (Missoula, 1976), p. 54, and Throntveit, p. 204, appear slightly to misunderstand their sources. G. Bergsträsser, <hi rend="italic">Hebräische Grammatik</hi> (Leipzig, 1918-1929) II, § 5 e, lists cases where <hi rend="italic">waw</hi> prefixed to a 1st person imperfect form beginning with <hi rend="italic">alef</hi> with <hi rend="italic">hatef patah</hi> is vowelled with <hi rend="italic">patah</hi>, but appears to be “consecutive”. If these are included, the figure for the first group of Psalms is 11/13, for the second, 1/7, and for the poetry of Job, 1/6. (The cases from Judges listed have <hi rend="italic">qames</hi> in the Leningrad Codex.)</note> The distribution is similarly uneven in Nehemiah. The affix <hi rend="italic">-āh</hi> is used in 4 of 9 cases (44%) in i 1-ii 9, and in 25/30 (83%) in v 1-xiii 31, but in none of the 18 cases in ii 10-20 and iv.<note n="6" place="foot">Note, however, that <hi rend="italic">wā’ešr<sup>e</sup>ʿāh</hi> occurs in ii 13; see category (1). There are no cases in Neh. iii. The first affixed form with <hi rend="italic">waw</hi> consecutive after this section occurs in v 7.</note></p>
+
+<p>This use of the affix <hi rend="italic">-āh</hi> on 1st person forms with <hi rend="italic">waw</hi> consecutive is characteristic of a post-exilic form of literary (biblical) Hebrew which became standard at Qumran, and influenced the Samaritan Pentateuch much more strongly than it did that of the MT.<note n="7" place="foot">See E. Qimron, <hi rend="italic">The Hebrew of the Dead Sea Scrolls</hi> (Atlanta, 1986), p. 45, § 310.129.</note> Ben Hayyim has connected this usage with a tendency to use the affixed form without <hi rend="italic">waw</hi> consecutive (the “cohortative”) with time reference other than future.<note n="8" place="foot">Z. Ben Hayyim, <hi rend="italic">The Literary and Oral Tradition of Hebrew and Aramaic amongst the Samaritans V, Grammar of the Pentateuch</hi> (Jerusalem, 1977) § 2.9.10.</note> Of the examples of the usage that he gives, however, only that in Ps. lxvi 6 is atypical for an imperfect form, and in Daniel, Ezra and Nehemiah the use of the affixed</p>
+      <pb n="423"/>
+<head>FIRST PERSON IMPERFECT FORMS WITH WAV CONSECUTIVE 423</head>
+<p>then, that these affixed forms came to be perceived as positional variants of the ordinary imperfect, equivalent to the short forms in 2nd and 3rd person. Consequently the affixed forms were also used with <hi rend="italic">waw</hi> consecutive.<note n="11" place="foot">Throntveit (p. 203), referring to a note by Cross in <hi rend="italic">JBL</hi> 93 (1975), p. 14, n. 58, suggests that some forms discussed by Japhet may be (pseudo-) archaisms or orthographic variations. Neither he nor Cross specifically mentions the affixed forms with <hi rend="italic">waw</hi> consecutive, but it may be worth pointing out that the use of an existing form in a new way is a common feature of natural linguistic development, not an archaism, and that, if the variation were merely orthographic, one would expect a significant proportion of affixed forms to occur within the clause.</note></p>
+<p>The use of affixed 1st person forms with <hi rend="italic">waw</hi> consecutive represents, then, a syntactic or semantic development which was standardized in a post-exilic form of literary Hebrew. It is possible that some parts of the Bible were written in a Hebrew of this sort in which the standardization of this usage was either less complete than at Qumran, or has been obscured by later change. In the book of Nehemiah, however, the use of these forms distinguishes sections different from those of the usual literary division based on content and style. If the latter division is justified, the use of affixed 1st person forms with <hi rend="italic">waw</hi> consecutive shown in the MT must have arisen during the process of transmission. This conclusion must apply to the use of these forms throughout the Bible. They cannot be taken, in any book, as certainly representing the language of the author.</p>
+<p>The long form of the 1st person imperfect from roots III<hi rend="italic">h</hi> is regularly used where a cohortative form is expected. The use of long 1st person forms from these roots with <hi rend="italic">waw</hi> consecutive is more common in later materials, and shows a distribution generally similar to that of affixed 1st person forms from other roots with <hi rend="italic">waw</hi> consecutive. Such long forms are not used with <hi rend="italic">waw</hi> consecutive in any of the five possible cases in Neh. ii 10-20 and iv. They are used in one of two cases in Neh. i 1-ii 9, and in all four cases in the rest of the book. They occur in 1/2 cases in Judges, in all five in 2 Samuel, in 2/3 cases in Ps. lxix (there are no cases in the other Psalms listed above) and in 1/2 cases in the poetry of Job. Consequently the use of the long form of the 1st person imperfect with <hi rend="italic">waw</hi> consecutive in roots III<hi rend="italic">h</hi> can reasonably be regarded as representing the same development as does the use of the affixed form in other roots. The use of long 1st person forms is, however, much more common generally than is that of affixed forms. Long</p>
+      <pb n="425"/>
+<head>FIRST PERSON IMPERFECT FORMS WITH WAV CONSECUTIVE 425</head>
+
+<p>
+    (13), (c) sometimes represented in Ezekiel (3 of 6 cases), Zechariah (1/3), and Chronicles (3/4).
+</p>
+
+<p>
+    It seems clear that the stress patterns of these forms reflect a natural phonological development in which stress position was conditioned by syllable structure. The exception in Neh. iv 3 forms a negligible proportion even of 1st person forms. The vowel patterns suggest a correspondingly regular development. The vowel of a final closed syllable in these forms originally acted as short. In hollow root forms, and in <hi rend="italic">hifʿîl</hi> forms from other roots, the vowel of this syllable changed in quality in all forms but those in which both penultimate and antepenultimate syllable were open (with the few exceptions noted). Where the vowel of this final closed syllable was stressed <hi rend="italic">u</hi> or <hi rend="italic">i</hi>, it was, in later times, often marked with a vowel letter, but there is no way of knowing to what extent the use of these letters in any part of the MT represents that of the work in its original form.
+</p>
+
+<p>
+    The use, in category (3), of long first person singular forms with <hi rend="italic">waw</hi> consecutive is thus due to a phonological development quite distinct from the syntactic/semantic development which led to the use of affixed first person forms, both singular and plural, in categories (1), (3), and (4), and most probably also the use of long first person forms, also both singular and plural, in category (2). Both developments appear to have occurred towards the end of the biblical period, but there is no adequate basis for dating them either absolutely or relative to each other. The lack of relationship between the two developments is made clear (apart from the fact that both occur in category (3)) by the occurrence of two exceptional long 1st person forms with <hi rend="italic">waw</hi> consecutive in Neh. iv 3 and iv 9, in a passage characterized by the failure to use affixed forms. Less striking confirmation is provided by the regular use of vowel letters in the final closed syllable of forms from category (3) in 1 Samuel (x 18, xii 1, xxviii 21) where an affixed form occurs in only one of twelve possible cases (or 4/15 if long III<hi rend="italic">h</hi> forms are included).
+</p>
+
+<p>
+    This survey has, then, the negative merit of stressing the dangers of using 1st person forms with <hi rend="italic">waw</hi> consecutive as criteria of authorship. The use of affixed forms cannot be attributed with any confidence to any biblical author. The use of long 1 s. forms from hollow roots (and others in category (3)) was characteristic of later biblical Hebrew generally. This represents a development separate from that which gave rise to the use of affixed forms, not a different
+</p>
+      <pb n="299"/>
+<fw type="header">WAW CONSECUTIVE PERFECT FORMS 299</fw>
+
+<p>division (#18.5), or before a word stressed on its first syllable (#18.6e). That is, the development of final stress is blocked in all forms at the end of a clause-level unit. Position within such a unit is conducive to the development of final stress, but whether or not this occurs is dependent on the internal structure of the unit, the significant factors being the structure of the verb form, the nature of the following sound, and also the position of the verb relative to the last main stress in a “phrase-level” subdivision of the unit. The distinction made in Blau (1971, #5.4) between a “shift” to final stress shown in forms with a closed penultimate, and a “tendency” to such a shift in other forms, although of course based on accurate observation, is arbitrary, and obscures the larger picture.</p>
+
+<p>27 Stress position in perfect forms with <hi rend="italic">waw</hi> consecutive is, then, conditioned by the intonation patterns characteristic of the speech units into which the text was divided (in one form of the reading tradition) according to the syntactic, (other) semantic, and rhythmic factors described. Whether or not these intonation patterns induce final stress in a verb form at a given position in a unit is determined by the phonological structure of the unit. Because our information comes from a written source which does not represent these intonation patterns (see #12), it is not possible to provide a comprehensive, precise, and objective description of the boundaries of the units, let alone a description of their structure. However, the relation of stress position to the syntactic, semantic, and rhythmic factors is sufficiently clear that there can be no doubt that the variation in stress position in these forms represents one of the many facets of the influence of these intonation patterns on the vowelling and stress position of the words of biblical Hebrew.</p>
+
+<head>BIBLIOGRAPHY</head>
+
+<list>
+    <item>Artom, E. S. 1958. “The Accent of the Consecutive Perfect of Verbs <lb/>
+    tertiae <hi rend="italic">ʾ</hi> and <hi rend="italic">h.</hi>” <hi rend="italic">Leshonenu</hi> 22:205–208.</item>
+    <item>Ben David, Y. 1984. “Pausal Forms in Verses Lacking the <hi rend="italic">ʾEtnaḥtaʾ</hi> in <lb/>
+    the Twenty-One Books.” <hi rend="italic">Textus</hi> 11:51–63.</item>
+    <item>Bergsträsser, G. 1929. <hi rend="italic">Hebräische Grammatik,</hi> II Teil. Leipzig.</item>
+    <item>Blau, J. 1971. “The General Background of the Stress Shift in the Perfect <lb/>
+    with <hi rend="italic">Wāw</hi> Consecutive” (= “Marginalia Semitica 5”). <hi rend="italic">Israel Oriental <lb/>
+    Studies</hi> 1:15–24.</item>
+    <item>Driver, S. R. 1892. <hi rend="italic">A Treatise on the Use of the Tenses in Hebrew³.</hi> <lb/>
+    Edinburgh.</item>
+</list>
+    </body>
+  </text>
+</TEI>

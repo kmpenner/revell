@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Pausal Forms and the Structure of Biblical Poetry</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Brill</publisher>
+      <date when="1981">1981</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <author>E. J. Revell</author>
+          <title level="a">Pausal Forms and the Structure of Biblical Poetry</title>
+        </analytic>
+        <monogr>
+          <title level="j">Vetus Testamentum</title>
+          <imprint>
+            <biblScope unit="volume">XXXI</biblScope>
+            <date when="1981">1981</date>
+            <biblScope unit="page" from="186" to="199">186-199</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <notesStmt>
+    <note>Filename: 07a.20.pdf</note>
+  </notesStmt>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<head rendition="center">HEBREW ANNUAL REVIEW</head>
+<note place="top-right" type="handwritten">Bib 39</note>
+
+<p rendition="center">
+    Volume 9<br/>
+    1985
+</p>
+
+<p rendition="center">
+    Biblical and Other Studies<br/>
+    in memory of<br/>
+    S. D. Goitein
+</p>
+
+<p rendition="center">Edited by: Reuben Ahroni</p>
+
+<p rendition="center">
+    Department of Judaic and Near Eastern<br/>
+    Languages and Literatures<br/>
+    The Ohio State University
+</p>
+      <pb n="277"/>
+
+<head type="main">THE CONDITIONING OF STRESS POSITION IN <hi rend="italic">WAW</hi> CONSECUTIVE PERFECT FORMS IN BIBLICAL HEBREW</head>
+
+<p rend="center">by
+<lb/>E. J. REVELL
+<lb/><hi rend="italic">University of Toronto, Toronto, Ontario, Canada M5S 1A1</hi></p>
+
+<head>INTRODUCTION</head>
+
+<p>1. This paper attempts to add some further details to our understanding of the position of the word stress in <hi rend="italic">waw</hi> consecutive perfect forms in biblical Hebrew, which remains incomplete in several areas.<note n="1">The paper derives from a study of different forms of variation in stress and vowel patterns in MT, which has also produced the papers referred to in notes 3 and 12. The opportunity to carry out this work was provided by a fellowship in the Institute for Advanced Studies of the Hebrew University in Jerusalem, in 1983–4. I am most grateful to the directorate and staff of the Institute both for this opportunity, and for the excellent facilities and assistance provided.</note> Distinctive stress position occurs only in first person singular (1cs) and second person masculine singular (2ms) forms. That it does not occur in first person plural forms is perhaps due to the influence of the penultimate stressing typical of that pronoun elsewhere and/or the fact that stress was less likely to shift to <hi rend="italic">u</hi> than to other vowels in final position.<note n="2">As suggested in Blau (1971, p. 22). An example is the fact that final stress occurs in singular imperative <hi rend="italic">qal</hi> forms from hollow roots, ending with <hi rend="italic">qāmeṣ</hi> or <hi rend="italic">hîreq</hi>, as <hi rend="italic">šûbî</hi> (Ps 116:7) <hi rend="italic">šûbā</hi> (Ps 126:4), but not in mpl forms ending with <hi rend="italic">shureq</hi>.</note> In other perfect forms ending in vowels (3fs, 3pl) stress is final in contextual position, penultimate in pause in most forms, whether used with <hi rend="italic">waw</hi> consecutive or no. Forms from hollow or geminate roots, or the <hi rend="italic">hipʿîl</hi> stem, where this is not so, show a tendency to final stress which is also not connected with the <hi rend="italic">waw</hi> consecutive function.<note n="3">The part played by the <hi rend="italic">waw</hi> consecutive in inducing final stress in perfect forms (as suggested e.g. in Bergsträsser, 1929, #4e, see also #28e) is limited. 21 of 29 3fs and 3mpl <hi rend="italic">qal</hi> perfect forms from hollow roots showing final stress at the beginning of a clause have <hi rend="italic">waw</hi> consecutive (72%), but only 41% of <hi rend="italic">waw</hi> consecutive forms in this position have final stress (21 of 51). (The study on which this statement is based is being prepared for publication.) The question of why stress position in 1cs and 2ms forms shifted only where</note> Consequently the following discussion is restricted to 1cs and 2ms forms.</p>
+
+<fw type="footer" place="bottom" rend="center">277</fw>
+      <pb n="279"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 279</head>
+
+<p>tionable case is <emph>wěhēbētā</emph> (Gen 26:10), but even here the verb can be regarded as referring to the (potential) future relative to <emph>šākab</emph>.<note n="6">6</note> Consequently the common view of the significance of stress position as marking the usage either as “simple” (with the value of <emph>qtl</emph>, penultimate stress), or “consecutive” (with the value of <emph>yqtl</emph> or the imperative, final stress) is maintained here.</p>
+
+<list>
+    <item>4. Forms of the 1cs or 2ms perfect with prefixed <emph>waw</emph> are used with the value of <emph>qtl</emph> (<emph>waw</emph> “simple”) in a rather restricted set of circumstances:</item>
+    <item>4.1 As the second of a pair or longer series of perfect forms acting as a semantic unit, that is, representing different aspects of the same event, not different actions in a sequence of events, as <emph>bānîm giddaltî wērômāmtî</emph> (“Children have I reared and raised”, Isa 1:2).</item>
+    <item>4.2 Where verbs semantically related in the same way occur in a series of short parallel clauses, as <emph>hôbāštî ʿēṣ lāḥ wehiprāḥtî ʿēṣ yābēš</emph> (“I have dried up the fresh tree, and caused the dried tree to sprout”, Ezek 17:24). Such verbs sometimes refer to actions which could be regarded as sequential, but even in cases like <emph>wehikkitîw wehiṣṣaltî mippîw</emph> (“I struck [the predator] and saved [the sheep] from its mouth”, 1 Sam 17:35) the verbs can also be regarded as describing the same event (“by striking... I saved”), rather than as separate acts in sequence (“I struck... then I saved”). Cases where the two clauses form two stichs of a verse of poetry are probably also to be classed here, as <emph>śaq tāpārtî... weʿōlāltî beʿāpār</emph>... (“I sewed on sackcloth, and laid in the dust...”, Job 16:15).<note n="7">7</note></item>
+    <item>4.3 In Qohelet, all 1cs and 2ms perfect forms with prefixed <emph>waw</emph> have the value of <emph>qtl</emph>, and this also appears to be true of <emph>weʾākāltî</emph></item>
+</list>
+
+<note place="foot">
+    future action is presented by <emph>wehēbētî</emph> (Lev 26:41, cf. <emph>ʾēlek</emph>); <emph>wedāraštā</emph> (Deut 17:4, cf. <emph>yimmāśēʾ</emph> 17:2); and <emph>wehēṣartî</emph> (1 Kgs 19:18, cf. <emph>yāmît</emph> 19:17), as translated by the LXX and Jerome. Where Hebrew words are presented merely as morphological illustration, or, as here, to direct the reader's attention to grammatical features on which a translation must be based, a translation seems unnecessary (as the text is readily available). The stress position referred to in this paper is that of the Leningrad Codex. It is indicated here only where it is significant for the argument.
+</note>
+<note place="foot">
+    6. On this see Driver (1892, p. 133). <emph>weʾāmartî</emph> (Job 7:4; Driver, 1892, #138.i.a) is possibly a similar case, but with penultimate stress due to the fact that it introduces speech (see #14.3).
+</note>
+<note place="foot">
+    7. In a number of cases the second verb could refer to past or future, as <emph>dibbartî weʿāśîtî</emph> (Ezek 17:24 etc.). The following cases seem certain. Under #4.1, 1 Sam 12:2, 2 Kgs 19:22, Isa 1:2, 43:12; Ps 28:7, 38:9, 131:2; Cant 2:3, Lam 2:22, Dan 8:27, Ezra 9:6, 2 Chr 7:16. Under #4.2, 1 Sam 17:35, 1 Kgs 3:11, Isa 43:14, Ezek 17:24, Ps 50:21, Dan 10:15, Ezra 9:13, Neh 9:7, 1 Chr 17:10, 2 Chr 7:12, and, in parallel stichs, Prov 9:12, Job 16:15 and (less certainly) Job 7:4. (In Driver, 1892, #104, <emph>weheḥerāštî</emph> in Ps 50:21 is listed as a minor pausal form, but it was probably understood as referring to the past. See the LXX and Jerome.)
+</note>
+      <pb n="281"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>those nouns which appear in different forms called construct and absolute, and those verbs which appear in different forms called contextual and pausal. The features in which such forms differ from each other do not, either in nouns or in verbs, directly reflect original morphological differences. They arise from the effect of intonation patterns reflecting the relationship of the word to its context.</p>
+<p>7. In the case of the construct noun, the syntactic relationship to what followed was reflected by the close joining in speech of the construct noun to the following word, resulting in the differences in the development of originally short vowels (reduction or failure to develop) which distinguishes construct forms from absolute.<note n="11">The use of this <quote>“construct”</quote> or <quote>“close joined”</quote> form is not restricted to a particular syntactic relationship, but may occur before attributive or other modifiers, as <foreign xml:lang="he">mĕqôm</foreign> <quote>“place”</quote> in Gen 39:20, <foreign xml:lang="he">’aḥad</foreign> <quote>“one”</quote> in 1 Sam 9:3, <foreign xml:lang="he">‘ên</foreign> <quote>“eye”</quote> in 1 Sam 11:2.</note> In originally doubly closed monosyllables, the development of short vowels was generally slower than in the originally open final syllables of most nouns, so that, in such monosyllables, the form with more developed vowels is used in a more restricted range of positions than is the typical <quote>“absolute”</quote> noun, and the form with less developed vowels is used much more widely than the typical <quote>“construct”</quote>. Consequently the first form in such pairs as <foreign xml:lang="he">perî</foreign>/<foreign xml:lang="he">pĕrî</foreign> <quote>“fruit”</quote>, <foreign xml:lang="he">‘am</foreign>/<foreign xml:lang="he">‘ām</foreign> <quote>“people”</quote>, and <foreign xml:lang="he">śēkel</foreign>/<foreign xml:lang="he">śékel</foreign><note n="12">“understanding” is not called “construct”. Nevertheless this form (and not the other) is regularly used in “construct” situations, and the reasons for the difference in vowel pattern are exactly the same as in typical construct/absolute forms. Close-joining in speech (reflecting close syntactic/semantic relationship) causes the reduction of vowels, or inhibits their development. (Relative) separation from what follows permits the retention and facilitates the development of such vowels.</note> <quote>“understanding”</quote> is not called <quote>“construct”</quote>. Nevertheless this form (and not the other) is regularly used in <quote>“construct”</quote> situations, and the reasons for the difference in vowel pattern are exactly the same as in typical construct/absolute forms. Close-joining in speech (reflecting close syntactic/semantic relationship) causes the reduction of vowels, or inhibits their development. (Relative) separation from what follows permits the retention and facilitates the development of such vowels.</p>
+<p>8. Differences between contextual and pausal forms originated in the same way (these terms are applied to <foreign xml:lang="he">perî</foreign>/<foreign xml:lang="he">pĕrî</foreign>). The pausal form, used at a significant division in the text, is separated from what follows. Consequently originally short vowels in such forms are retained and develop. In contextual forms such vowels are reduced and/or show less development, because these forms were joined in speech with the following word. Where the pausal form shows penultimate stress, and the contextual form final, the final stress results from the effect of close</p>
+<note n="11">The retention of <foreign xml:lang="he">taw</foreign> in the feminine gender marker, as <foreign xml:lang="he">śĕnat</foreign> <quote>“year (of)”</quote>, results from the same close-joining. The consonant acts as (phrase) medial rather than (word) final.</note>
+<note n="12">On the development of the vowel in this form see my study of <title>“The Vowelling of the ‘i’ type Segolates in Tiberian Hebrew”</title> forthcoming in the <title>Journal of Near Eastern Studies</title>.</note>
+      <pb n="283"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>that the intonation patterns gave rise to a pausal form, just as at the end of a clause not closely related to what follows.</p>
+<p>10. In some cases divisions within clauses appear to have been made on rhythmic grounds. The text was evidently read, as a rule, in rather short units. Pausal forms may occur at the end of such units even where this does not coincide with the end of a clause. The most striking case of this sort is the list, which is divided into units consisting of several short items (as in Lev 14:54–56, Deut 5:14), or of one longer item (as in Lev 5:23, Zech 12:12–14). Each such unit may end in a pausal form, as is the case in the examples noted. Other cases in which conventional linguistic rhythm gave rise to a division marked by a pausal form may be ascribed to the general tendency to divide units such as clauses into (at least) two parts. This tendency is most noticeable in the use of the lesser pausal phenomena described below (#11). In some cases, however, pausal forms occurring at the main division of an accentual unit ending with <hi rend="italic">atnāḥ</hi> or <hi rend="italic">sillûq</hi> reflect this tendency. The verb of a main clause most commonly appears in pausal form for this reason:
+<list>
+<item>(i) where the verb is clause-initial and the clause is very short, as <hi rend="italic">wenisqāpā</hi> (Num 21:20), <hi rend="italic">tidbāqîn</hi> (Ruth 2:8).</item>
+<item>(ii) where the verb is clause-initial and is closely related to what precedes, as in Num 2:34, Hos 9:9 quoted in #9.2.</item>
+<item>(iii) where the verb is preceded by a constituent of the clause, as <hi rend="italic">šāmārû</hi> (Num 9:23), <hi rend="italic">rā’ātā</hi> (Isa 64:3, at the main syntactic division, not the main division marked by the accents).<note n="14" place="bottom">14. The verb of a subordinate clause which ends a constituent of a main clause may appear in pausal form, as may other words in such positions, as <hi rend="italic">‘āśātā</hi> (Esth 2:1), cf. <hi rend="italic">lāk</hi> (1 Kgs 8:50).</note></item>
+</list></p>
+<p>11.1 The influence of semantic relationship on vowel pattern and stress position is reflected in other phenomena besides pausal forms. Conjunctive <hi rend="italic">waw</hi> is typically pointed with <hi rend="italic">qames</hi> before the last of two or more words acting as a semantic unit, where the word is stressed on its first syllable. This reflects the fact that such word groups were characteristically treated as speech units of a lesser sort (“phrases” rather than “clauses”). For this reason the monosyllabic nouns mentioned in #7 appear in “joined” form where they are the first of such a pair, in “separated” form where they are second, as <hi rend="italic">bekî wānehî</hi> (Jer 9:9), <hi rend="italic">‘am wā‘ām</hi> (Esth 1:22), and cf. <hi rend="italic">nēbel wetōp</hi> (1 Sam 10:5, “lute and timbrel”; <hi rend="italic">nēbel</hi> with <hi rend="italic">ṣere</hi> begins a list of four nouns treated as a single phrase) with <hi rend="italic">kinnôr wānēbel</hi> (Isa 5:12, “lyre and lute”; <hi rend="italic">nēbel</hi> with <hi rend="italic">segol</hi> ends the first phrase in a list of five nouns treated as two phrases). This phenomenon is merely a specialized case of a word closely related to what</p>
+      <pb n="285"/>
+<fw type="header">WAW CONSECUTIVE PERFECT FORMS 285</fw>
+<p>13. The units of speech so marked form a hierarchical structure, smaller units combining to form larger ones. Phenomena which mark the ends of smaller units, such as <hi rend="italic">qāmeṣ</hi> on conjunctive <hi rend="italic">waw</hi> or <hi rend="italic">nesîgā</hi>, occur whether these small units stand within larger units or at the end of them, but some phenomena are restricted to the ends of larger units. Thus <hi rend="italic">qāmeṣ</hi> on conjunctive <hi rend="italic">waw</hi> may occur within a clause, with a contextual form, as <hi rend="italic">ʿēṣ wā-ʾeben</hi> ("wood and stone", Deut 29:16), or at clause end, with a pausal form as <hi rend="italic">ʿēṣ wā-ʾāben</hi> (Deut 28:36). Similarly <hi rend="italic">nesîgā</hi> regularly occurs at the end of an introduction to speech, as <hi rend="italic">wayyōmĕrû lô</hi> "they said to him", but the full pausal form <hi rend="italic">yōmērû</hi> does not occur in this position. The level in the hierarchy at which a given phenomenon occurs may be affected by the structure of the word, as already pointed out for nouns originating from doubly closed mono-syllables (#7). Similarly, although the "pausal" form <hi rend="italic">yōmērû</hi> never occurs at the end of an introduction to speech, the pausal form <hi rend="italic">wayyōmár</hi> may occur in this position, due to its different structure. In a few cases the effect of word structure on phonological change has resulted in a three-term system, as in <hi rend="italic">ʾattā</hi> "you" (close-joined position results in final stress, #8), also <hi rend="italic">ʾáttā</hi> ("minor pause"; where not close-joined, stress remains penultimate) and <hi rend="italic">ʾāttā</hi> "standard pause" (maximum separation results in maximum vowel development). So also <hi rend="italic">śékel</hi> (within a phrase, Ps 111:10, minimum vowel development, <hi rend="italic">i</hi> before the syllable was opened, see note 12), <hi rend="italic">śēkel</hi> (at phrase-end 1 Sam 25:3, greater development, <hi rend="italic">a</hi> before the syllable was opened), and <hi rend="italic">śākel</hi> (at clause-end in "standard" pausal position, Job 17:4, maximum vowel development).</p>
+
+<head>STRESS POSITION IN PERFECT FORMS WITH <hi rend="italic">WAW</hi> CONSECUTIVE</head>
+
+<p rend="italic">I. Forms with a Closed Penultimate Syllable</p>
+
+<p>14. Stress position in perfect forms with <hi rend="italic">waw</hi> consecutive is affected by structural factors, such as those just described, in that final stress is proportionately much more common in forms with a closed penultimate syllable. Penultimate stress occurs in such forms only in the following situations:</p>
+
+<note place="bottom">1 Sam 1:11, Ezek 1:12, 21, Cant 1:4, Ruth 1:13). The two clauses are joined by a conjunction only in Judg 1:15, 1 Sam 1:11, Ezek 1:21, and only in 1 Sam 1:11 could they be held to present acts in sequence. Such pausal forms stand before a subordinate clause in Josh 1:17, before an object clause in 1 Kgs 1:17, and within a list in Ezra 1:9 (see #10). This superficial survey seems to me to confirm beyond any doubt (i) the syntactic/semantic conditioning of pausal forms and (ii) that the accentuation reflects a somewhat different analysis of the text.</note>
+      <pb n="287"/>
+<p>WAW CONSECUTIVE PERFECT FORMS <space quantity="5" unit="chars"/> 287</p>
+
+<p>15.2 Where a verb with a conjunctive accent stands before a word stressed on its first syllable in a clause of two words, stress is FINAL
+    <list rend="unnumbered">
+        <item>(a) where the clause is closely related to what follows, in that the two represent sequential actions by the same subject (see #9.1), as <hi rend="italic">wehašaqtā bāh welāqahtā . . .</hi> (Deut 21:11, "You desire her and take her as wife"), also Lev 24:5, Deut 23:14, 1 Kgs 8:46 = 2 Chr 6:36, and also in Deut 7:25 before a subordinate clause introduced by <hi rend="italic">pen</hi>, "lest".</item>
+        <item>(b) where the clause ends at <hi rend="italic">atnāḥ</hi> in <hi rend="italic">weyāšabtā šām</hi> (1 Kgs 2:36, 17:9, "and live there"). The preceding verb is imperative in both cases. The following clause has the same subject in the first case, but not in the second.</item>
+    </list>
+Stress is PENULTIMATE
+    <list rend="unnumbered">
+        <item>(c) where the clause is not closely related to what follows, as <hi rend="italic">wehig-gādtî lāk wayyēlek . . .</hi> (Num 23:3, "I will tell you, So he went . . . ."), and in other clauses where the following clause has a different subject in 1 Sam 19:3, 1 Kgs 22:13 = 2 Chr 18:12, Ezek 28:22, Hag 1:9.</item>
+        <item>(d) where the clause ends at <hi rend="italic">atnāḥ</hi> or <hi rend="italic">sillûq</hi> in <hi rend="italic">weyāšabtā bāh</hi> (Deut 17:14, 26:1). The preceding verb is <hi rend="italic">waw</hi> consecutive perfect in both cases, ultimately dependent on an imperfect verb form. In the first case the clause stands within a series depending on preceding <hi rend="italic">kî</hi>, "when", in the second it stands at the end of such a series. Also in <hi rend="italic">we’ākāltā šām</hi> (Deut 27:7, "and you will eat there"), where the verb also stands within a series of <hi rend="italic">waw</hi> consecutive perfects dependent on an imperfect, but is semantically imperative.</item>
+    </list>
+</p>
+
+<p>15.3 Where the clause is composed of three words forming three constituents,<note n="21">The possible constituents are: nominal (a noun, pronoun, or phrase acting as subject, or as objective or other modifier), prepositional (preposition followed by a nominal or infinitival element), or a particle (adverb). The examples here include no cases of a verb followed by a two-word phrase. Note that the verb stands first in all clauses described in this paper, and that <hi rend="italic">’et</hi> and other monosyllabic prepositions are ignored in the counting of the number of words in the clause.</note> stress is FINAL
+    <list rend="unnumbered">
+        <item>(a) where the third constituent is the object, as <hi rend="italic">wenātattā šāmmā māyim</hi> (Exod 30:18, "and you will put there water") and similarly in Exod 40:7 (at the end of a verse in both cases).</item>
+        <item>(b) where the clause does not include a (nominal) object, as <hi rend="italic">we’āhabtā lô kāmôkā</hi> (Lev 19:34, "you will love him as yourself").</item>
+        <item>(c) where the second constituent is the object, in <hi rend="italic">wešākahtā ‘ōmer baśśāde</hi> (Deut 24:19, "and you forget a sheaf in the field").</item>
+    </list>
+Stress is PENULTIMATE
+</p>
+      <pb n="289"/>
+<fw type="header">WAW CONSECUTIVE PERFECT FORMS 289</fw>
+
+<p>(c) where the object is the third constituent, in Josh 15:16 = Judg 1:12, 2 Sam 9:10, Jer 24:10, Hos 2:17. These cases are discussed in #25.2.</p>
+
+<p>16.1 Where the clause consists of two constituents (two words), stress is FINAL if the clause is closely related to what follows (#15.2a, 6 cases), PENULTIMATE where it is not (#15.2c-d, 9 cases). There are two anomalous cases of final stress (#15.2b). The same factor governs the use, at the end of a clause, of pausal forms (see #9.1), and of <hi rend="italic">nesîgā</hi> (see Revell, 1984, p. 41), although, since <hi rend="italic">nesîgā</hi> marks the end of lower level units (see #13), it is relatively more common in this situation than are pausal forms. The occurrence of final stress in the two anomalous cases may possibly be related to the failure of <hi rend="italic">nesîgā</hi> due to rhythmic factors (Revell, 1984, p. 41) and/or to the cases of anomalous final stress mentioned in n. 32 below.</p>
+
+<p>16.2 Where the clause consists of three or more constituents:
+<list rend="unnumbered">
+    <item>(a) where the second constituent is the object (or the subject) 
+    stress is FINAL only in Deut 24:19 (#15.3c, cf. #18.6b). 
+    stress is PENULTIMATE in sixteen cases (#15.3d, 4c, 5b).</item>
+    <item>(b) where the third constituent is the object 
+    stress is FINAL where the clause is composed of three constituents, and is relatively short, but is not closely related to what follows (9 cases, #15.3a, 4a, if the case in Exod 30:26 is not considered an exception). 
+    stress is PENULTIMATE where the clause is composed of three constituents, and is relatively short, and closely related to what follows, or is relatively long (6 cases, #15.4d, if the case in Ezek 14:13 is not considered an exception) or if the clause is composed of more than three constituents (5 cases, #15.5c).</item>
+    <item>(c) where the clause does not contain an object, 
+    stress is FINAL in five cases (#15.3b, 4b, 5a). 
+    stress is PENULTIMATE in five cases (#15.4e).</item>
+</list></p>
+
+<p>16.3 It is quite clear from this summary that stress position in a <hi rend="italic">waw</hi> consecutive perfect form standing before a word stressed on its first syllable is conditioned by semantic factors. These appear as
+<list rend="unnumbered">
+    <item>(i) The relation of the clause to what follows: Where this relationship was close, no (significant) division would be made between clauses.</item>
+    <item>(ii) The presence and position of the object: this can be interpreted as follows. The verb and its object were normally spoken as a (phrase level) unit. Consequently, where the object is second constituent, it stands at the end of a phrase, so that the intonation patterns prevent the development of final stress in the verb (#16.2a), just as they would cause retraction of stress in situations standard for <hi rend="italic">nesîgā</hi>. Where the object is third and last constituent, and the clause is not closely related to what follows, the verb and its object were again spoken as a unit, including the</item>
+</list></p>
+      <pb n="291"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 291</head>
+
+<p>(a) in a two-word clause, stress is penultimate in <foreign xml:lang="hbo">wahăniḥō̂tî lāk</foreign> (Exod 33:14) where the clause is not closely related to what follows (see #16.1). In a clause of three or more constituents which includes an object,</p>
+
+<p>(b) where the second constituent is the object, stress is FINAL in <foreign xml:lang="hbo">waḥărēmōtā́</foreign> (Num 31:28), PENULTIMATE in <foreign xml:lang="hbo">wehēbē̂tî</foreign> (Lev 26:36), <foreign xml:lang="hbo">wehitwîtā</foreign> (Ezek 9:4), <foreign xml:lang="hbo">wezērîtî</foreign> (Mal 2:3). Forms with a closed penultimate generally show penultimate stress in this situation, see #16.2a. Where final stress is shown, the third constituent is a one-word prepositional element which could have been treated as modifying the one-word object, as “the Lord’s due” (<foreign xml:lang="hbo">mekes laYHWH</foreign> Num 31:28), or a “sheaf not in-gathered” (<foreign xml:lang="hbo">ʿōmer baśśādeh</foreign> Deut 24:19, see #16.2a). Nesîgā and similar phenomena are unlikely to occur before a two-word phrase of this sort (cf. <foreign xml:lang="hbo">wenātat̂tî</foreign> Lev 14:34).</p>
+
+<p>(c) where the third constituent is the object, stress is FINAL in <foreign xml:lang="hbo">ûmillēṭā́</foreign> (Exod 28:17), <foreign xml:lang="hbo">wahăqîmōtî</foreign> (1 Sam 2:35, Ezek 16:60). In Ezek 16:60, the clause is short, and closely related to what follows, so that final stress is expected under #16.2b. In the other two cases the clause is long, but in both, the object, or its first element, ends at the main (accentual) division of an <foreign xml:lang="hbo">atnāḥ</foreign> unit. Possibly, then, a division at this point equivalent to that at the end of a short clause was caused by the rhythmic factor (see #10, and the note on Exod 30:26 in #15.4a).</p>
+
+<p>(d) where the object is the fourth constituent, stress is FINAL in <foreign xml:lang="hbo">wehēbētā́</foreign> (Exod 26:33).</p>
+
+<p>(e) where no object constituent is present, stress is PENULTIMATE in <foreign xml:lang="hbo">ûneqallṓtî</foreign> (2 Sam 6:22—despite the following <foreign xml:lang="hbo">ʿayin</foreign>, see #19) and <foreign xml:lang="hbo">wahăniḥō̂tî</foreign> (1 Chr 22:9).</p>
+
+<p>(f) Stressing in these forms, can, then, be seen as following the same pattern as in the forms with a closed penultimate syllable described in #16.1–2. Presumably, then, stress position here too is conditioned by the factors described in #16.3.</p>
+
+<p>19 In other situations, <foreign>waw</foreign> consecutive perfect forms show final stress where the following word begins with <foreign>alep</foreign>, <foreign>he</foreign>, <foreign>ḥet</foreign>, or <foreign>ʿayin</foreign>,<note n="25">The letter in question is usually <foreign>alep</foreign>, less commonly <foreign>ʿayin</foreign> (as Gen 26:10, Jer 6:17, Ezek 16:37 and elsewhere). Final stress occurs before <foreign>he</foreign> in Ezek 32:5, Amos 8:9, before <foreign>ḥet</foreign> in Ezek 5:13, 6:12, 16:42, 21:8.</note> with the following exceptions:</p>
+
+<p>19.1 Final stress is shown in <foreign>qal</foreign> forms from <foreign>BWʾ</foreign> only before <foreign>alep</foreign>.<note n="26">So in <foreign xml:lang="hbo">ûbātā́</foreign> in Gen 6:18 and six other cases (as is well known), but not in a minor pausal situation in Deut 12:26 (see #18.5), and not before <foreign>ʿayin</foreign> in 1 Sam 10:3. The 1cs form never occurs before a word beginning with a guttural.</note> It seems likely that this is related to the phenomenon mentioned in #17.</p>
+      <pb n="293"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>20.1 In clauses of two words, stress is FINAL
+in (a)<ref target="#n31">³¹</ref> <hi rend="italic">wehêṭibōtî</hi> Ezek 36:11, (c) <hi rend="italic">wehēbētā</hi> Gen 27:10, also <hi rend="italic">wehôṣētā bô</hi> Ezek 12:5.
+20.2 Stress is PENULTIMATE
+in (b) <hi rend="italic">wahaṣĕrōtî</hi> Jer 10:18, Zeph 1:17, (c) <hi rend="italic">wenimṣētî</hi> Jer 29:14.
+20.3 The cases from (a) hollow and (b) geminate roots are of similar structure due to sound change. Where penultimate stress is shown, the word following the verb is stressed on its second or third syllable. The word following <hi rend="italic">wehêṭibōtî</hi> (Ezek 36:11) is stressed on its fifth. Probably the unusual length of this word has allowed the development of final stress, as in a longer two-constituent clause (#21). Among the forms from (c) roots IIIʾ, penultimate stress is shown in Jer 29:14, where the clause is followed by a phrase marking it as quoted speech. In Gen 27:10, the clause is closely related to what follows (its indirect object is subject of the following one-word clause) and this may have led to final stressing (see #16.3.i). In Ezek 12:5, the verb stands in a two-word clause, before a word stressed (with <hi rend="italic">sillûq</hi>) on its first syllable, so penultimate stress is expected (see #18.6a). Anomalous final stress does occur, however, in a number of similar positions.<ref target="#n32">³²</ref>
+21.1 In longer clauses of two constituents, stress is FINAL in forms from geminate roots, or roots IIIʾ (there are no examples from hollow roots) as <hi rend="italic">wehēbētî rāʿê gôyīm</hi> (“I will bring the wicked of the nations”, Ezek 7:24), and other cases in (b) Hos 2:14, (c) Exod 29:9, where the second constituent is the object, and also, with an indirect object, <hi rend="italic">weqin-nētî</hi> (“I will act with zeal for my Holy Name”, Ezek 39:25). In forms from roots III h, stress is final only in <hi rend="italic">wehikkētî</hi> Exod 12:12, where the verb is followed by a long object constituent, the main division of which follows its fourth word.
+21.2 Stress is PENULTIMATE in forms from roots III h in <hi rend="italic">wehilwîtā gôyīm rabbîm</hi> (“You will lend to many nations”, Deut 28:12) and eight other cases in which the second constituent is composed of two or three</p>
+<note xml:id="n31">to the conditioning of stress position. The most recent study (Artom, 1958) involves the accentuation in the attempt to do this, but the rules evolved (p. 208) do not cover even the limited area of forms from roots III <hi rend="italic">h</hi> in two-word clauses. Penultimate <hi rend="italic">ṣere</hi> is stressed with a conjunctive accent in <hi rend="italic">wenilʾētî</hi> (Jer 20:9), <hi rend="italic">wenidkētî</hi> (Ps 38:9), and is not stressed with a disjunctive in <hi rend="italic">wehirbētî</hi> (Lev 26:9).
+31. To assist precise comparisons, the forms listed are categorized as from (a) hollow roots, (b) geminate roots, (c) roots IIIʾ, (d) roots III <hi rend="italic">h</hi>.</note>
+<note xml:id="n32">32. As in the two <hi rend="italic">hipʿîl</hi> forms in Ps 118:25, the equally surprising <hi rend="italic">mizreḥā šāmeš</hi> (Deut 4:41), and <hi rend="italic">yišpūṭū hem</hi> (Exod 18:26). Final stress is not likely to have arisen through error or carelessness in any of these cases, but the conditioning which presumably caused it is not understood.</note>
+      <pb n="295"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>after the verb like that marked by the accents in the similar structure in Job 9:30 (see #18.3).</p>
+<p>23.1 In clauses of more than three constituents, stress is FINAL
+—where the verb is followed by its object as <hi rend="italic">weśakkōtî kappî ʿālékā ʿad ʿobrî</hi> (Exod 33:22); also forms in (a) 1 Chr 22:10; (b) Isa 65:7; (c) Ezek 12:4.
+—where the verb is separated from its object by one word, as <hi rend="italic">wehôṣētā lāhem mayim min hasselaʿ</hi> (Num 20:8); also in (a) Ezek 34:29, Mal 3:10.
+—where no object is present in <hi rend="italic">ûbērētā lekā šām beʾereṣ</hi> ... Josh 17:15.
+</p>
+<p>23.2 Stress is PENULTIMATE
+—where the verb is followed by its object in <hi rend="italic">wahăsîrōtā demê hinnām ʾăšer</hi> ... 1 Kgs 2:31.
+—where the verb is separated from its object by a two-word phrase in (a) Amos 9:9.
+</p>
+<p>23.3 Here again it appears that a verb was usually closely joined to the object if it followed directly or was separated only by one word. In the exception in 1 Kgs 2:31 the verb was probably separated from the object phrase because of its length (five words, compared to one or two in the other cases. The verb has <hi rend="italic">legarmeh</hi>). In the case in Amos 9:9, penultimate stress seems anomalous (see #25.2).<ptr target="#n38"/>
+</p>
+<p>24.1 The cases in which verbs from roots III <hi rend="italic">h</hi> show anomalous stress position are related as follows to the patterns described above. In Lev 24:5, <hi rend="italic">weʾāpîtā</hi> (see #17) stands in a three-constituent clause, followed by its object. Consequently final stress would be expected in a form from stem other than <hi rend="italic">qal</hi> even where the word following the verb did not begin with <hi rend="italic">alep</hi> (#22.1). In <hi rend="italic">wehirbîtā</hi> 1 Chr 4:10 (see #19.2) penultimate stress seems unlikely under #20.3 if the following word did not begin with <hi rend="italic">alep</hi>. The clause is second in a group of four. Possibly the stress pattern reflects the treatment of this clause as closely related to the preceding but not to the following—that is, a form of tradition in which the four clauses were divided two and two, instead of three and one as in the received accentuation. It is possible, then, that these two cases do reflect the same conditioning factors as the majority of these forms.
+</p>
+<p>24.2 In the four cases referred to in #19.3, the penultimate stressing would be anomalous even if the following word did not begin with a guttural. Thus the verb of a three-constituent clause shows final stress where followed by its object in twelve of thirteen cases (#22), but this is
+</p>
+<note xml:id="n38" n="38">The verb may have been joined in a unit with the preceding participle, “I will command to toss . . .” (cf. #18.5).</note>
+      <pb n="297"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 297</head>
+
+<p>Num 20:8, Josh 17:15, Ezek 34:29, Mal 3:10 (#23.1), and even where the second constituent is stressed on its first syllable: Exod 34:2 (#15.5).
+—Where the second constituent is one word (stressed on its first syllable), the third is a two-word phrase, and the fourth two or three words: Exod 26:33, 28:17 (#18.6).</p>
+
+<p>(b) Stress is PENULTIMATE where the second constituent is stressed on its first syllable, and the first three constituents would make an inconvenient unit, so that a pause after the second was desirable for rhythmic reasons.
+—Because the third constituent was long, and the fourth, one word, so that division after the third would lead to rhythmic imbalance: Josh 15:16 = Judg 1:12 (#15.5), 1 Chr 22:9 (#18.6e), and probably Hos 2:17 (#15.5), since the third constituent <hi rend="italic">ʾet kerāmēhā</hi> seems significantly longer, and the fourth, <hi rend="italic">miššām</hi>, significantly shorter, than <hi rend="italic">mayim</hi> and <hi rend="italic">min hasselaʿ</hi>, in Num 20:8, the most similar case with final stress.
+—Because the third constituent begins a series of three parallel phrases forming the object, which is long enough to form an independent speech unit, and the following constituent is also long: Jer 24:10 (#15.5).
+—Because the fourth constituent expands the subject pronoun in the verb, so the situation is effectively that of a short three-constituent clause closely related to what follows: 2 Sam 9:10 (#15.5, cf. #15.4d, unless this is to be regarded as an anomaly).
+Penultimate stress in <hi rend="italic">wahăniʿōtî</hi> Amos 9:9 (#23.2), before a two-word prepositional phrase, seems an exception to these patterns (but see n. 38).</p>
+
+<p>(c) In clauses of three constituents in which the verb is followed by its object, the speech unit was generally restricted to the verb and its object, as elsewhere (#16.3.ii). Consequently the development of final stress is blocked by initial stress on the following word: Deut 16:2 (#15.5), Lev 26:36, Mal 2:3 (#18.6b), exception Num 31:28 (see #18.6b). Elsewhere stress is final (four cases, #23.1) unless the object constituent is exceptionally long, making a pause after the verb desirable on rhythmic grounds: 1 Kgs 2:31 (#23.2).</p>
+
+<p>25.3 The fact that the rhythmic factor appears to condition the stressing of these forms in the same way, whether the penultimate syllable is closed or open, supports the conclusion reached in #18.6, #25.1, that the basic conditioning was the same for all forms. This is the conditioning by the intonation patterns characteristic of the speech units into which the text was divided. The effect of these intonation patterns is, however, modified by the structure of the verb forms, and, in some cases, by other factors.</p>
+
+<p>26.1 The factors conducive to final stressing have less effect where the penultimate syllable is open than where it is closed, and least effect of all</p>
+      <pb n="299"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 299</head>
+<p>division (#18.5), or before a word stressed on its first syllable (#18.6e). That is, the development of final stress is blocked in all forms at the end of a clause-level unit. Position within such a unit is conducive to the development of final stress, but whether or not this occurs is dependent on the internal structure of the unit, the significant factors being the structure of the verb form, the nature of the following sound, and also the position of the verb relative to the last main stress in a “phrase-level” subdivision of the unit. The distinction made in Blau (1971, #5.4) between a “shift” to final stress shown in forms with a closed penultimate, and a “tendency” to such a shift in other forms, although of course based on accurate observation, is arbitrary, and obscures the larger picture.</p>
+<p>27 Stress position in perfect forms with <hi rend="italic">waw</hi> consecutive is, then, conditioned by the intonation patterns characteristic of the speech units into which the text was divided (in one form of the reading tradition) according to the syntactic, (other) semantic, and rhythmic factors described. Whether or not these intonation patterns induce final stress in a verb form at a given position in a unit is determined by the phonological structure of the unit. Because our information comes from a written source which does not represent these intonation patterns (see #12), it is not possible to provide a comprehensive, precise, and objective description of the boundaries of the units, let alone a description of their structure. However, the relation of stress position to the syntactic, semantic, and rhythmic factors is sufficiently clear that there can be no doubt that the variation in stress position in these forms represents one of the many facets of the influence of these intonation patterns on the vowelling and stress position of the words of biblical Hebrew.</p>
+
+<head>BIBLIOGRAPHY</head>
+
+<list>
+<item>Artom, E. S. 1958. “The Accent of the Consecutive Perfect of Verbs tertiae <hi rend="italic">ʾ</hi> and <hi rend="italic">h</hi>.” <hi rend="italic">Leshonenu</hi> 22:205–208.</item>
+<item>Ben David, Y. 1984. “Pausal Forms in Verses Lacking the <hi rend="italic">ʾEtnaḥtaʾ</hi> in the Twenty-One Books.” <hi rend="italic">Textus</hi> 11:51–63.</item>
+<item>Bergsträsser, G. 1929. <hi rend="italic">Hebräische Grammatik</hi>, II Teil. Leipzig.</item>
+<item>Blau, J. 1971. “The General Background of the Stress Shift in the Perfect with <hi rend="italic">Wâw</hi> Consecutive” (=“Marginalia Semitica 5”). <hi rend="italic">Israel Oriental Studies</hi> 1:15–24.</item>
+<item>Driver, S. R. 1892. <hi rend="italic">A Treatise on the Use of the Tenses in Hebrew³</hi>. Edinburgh.</item>
+</list>
+      <pb/>
+<head>HEBREW ANNUAL REVIEW</head>
+<note place="top-right">Bib 39</note>
+
+<p>Volume 9</p>
+
+<p>1985</p>
+
+<p>Biblical and Other Studies
+in memory of
+S. D. Goitein</p>
+
+<p>Edited by: Reuben Ahroni</p>
+
+<p>Department of Judaic and Near Eastern
+Languages and Literatures
+The Ohio State University</p>
+      <pb n="277"/>
+
+<head>THE CONDITIONING OF STRESS POSITION IN WAW CONSECUTIVE PERFECT FORMS IN BIBLICAL HEBREW</head>
+
+<p>by</p>
+
+<p>E. J. REVELL</p>
+
+<p>University of Toronto, Toronto, Ontario, Canada M5S 1A1</p>
+
+<head>INTRODUCTION</head>
+
+<p>1. This paper attempts to add some further details to our understanding of the position of the word stress in waw consecutive perfect forms in biblical Hebrew, which remains incomplete in several areas.<note n="1">The paper derives from a study of different forms of variation in stress and vowel patterns in MT, which has also produced the papers referred to in notes 3 and 12. The opportunity to carry out this work was provided by a fellowship in the Institute for Advanced Studies of the Hebrew University in Jerusalem, in 1983-4. I am most grateful to the directorate and staff of the Institute both for this opportunity, and for the excellent facilities and assistance provided.</note> Distinctive stress position occurs only in first person singular (1cs) and second person masculine singular (2ms) forms. That it does not occur in first person plural forms is perhaps due to the influence of the penultimate stressing typical of that pronoun elsewhere and/or the fact that stress was less likely to shift to u than to other vowels in final position.<note n="2">As suggested in Blau (1971, p. 22). An example is the fact that final stress occurs in singular imperative qal forms from hollow roots, ending with qāmeṣ or hireq, as šûbî (Ps 116:7) šûbā (Ps 126:4), but not in mpl forms ending with shureq.</note> In other perfect forms ending in vowels (3fs, 3pl) stress is final in contextual position, penultimate in pause in most forms, whether used with waw consecutive or no. Forms from hollow or geminate roots, or the hipᶜîl stem, where this is not so, show a tendency to final stress which is also not connected with the waw consecutive function.<note n="3">The part played by the waw consecutive in inducing final stress in perfect forms (as suggested e.g. in Bergsträsser, 1929, #4e, see also #28e) is limited. 21 of 29 3fs and 3mpl qal perfect forms from hollow roots showing final stress at the beginning of a clause have waw consecutive (72%), but only 41% of waw consecutive forms in this position have final stress (21 of 51). (The study on which this statement is based is being prepared for publication.) The question of why stress position in 1cs and 2ms forms shifted only where</note> Consequently the following discussion is restricted to 1cs and 2ms forms.</p>
+
+<p>277</p>
+      <pb n="278"/>
+<head>E. J. REVELL</head>
+<p>
+    2. L. McFall, in his recent innovative study of these forms (1982), also concluded that the stress position of third person plural forms was not dependent on the <hi rend="italic">waw</hi> consecutive, and in fact reached conclusions on the significance of syntax and semantics for the stress position of 1cs and 2ms forms similar to those presented below. However, his views differ from those given here in two important respects. One of these is his reliance on the accent system as a key to syntactic/semantic structure. The view taken here has been given elsewhere: vowel pattern and stress position were (for the most part) fixed in a form of reading tradition somewhat different from that reflected by the received accentuation.<note n="4">The differences between the two are not great, so the accentuation can be accepted as corroborative evidence. It cannot, however, be taken as representing primary fact.</note>
+</p>
+<p>
+    3. McFall’s contention (1982, p. 193) that stress position in 1cs and 2ms perfect forms with <hi rend="italic">prefixed waw</hi> is not determined by “consecutive” or other usage, but by the “narrative” or “direct” speech style of the context is also rejected here. Unfortunately, he does not present his views in detail. However, it would seem necessary either to agree that first and second person verb forms inevitably occur in direct speech situations (in which case it must be demonstrated for each occurrence that penultimate stress is due to syntactic/semantic conditioning, not to the fact that the form has the value of <hi rend="italic">qtl</hi>), or that cases like the speech of David in 1 Sam 17:35 (and the whole of the “Words of Qohelet”) are to be classed as narrative in style because they refer to the past (in which case McFall is merely stating the common conclusion in different terms). The decisive fact is the lack of significant evidence for forms with final stress used with the value of <hi rend="italic">qtl</hi>. The few forms listed by McFall under (3) on p. 194 do not show this. Most of them clearly have the value of <hi rend="italic">yqtl</hi>, representing either durative or repeated action, or future action.<note n="5">The only ques-</note>
+</p>
+<note place="bottom">
+    the function of the form was “consecutive” cannot be advanced here beyond a repetition of the suggestion (Revell, 1984, p. 440, #8) that this provided a desirable marker identifying the semantic categories.
+</note>
+<note place="bottom">
+    4. See Revell (1980, p. 165; 1983, p. 37–39). For McFall’s view, see McFall (1982, p. 201). His contrasting examples on p. 202 provide an illustration of the fact that the accent system as traditionally understood does not provide the information expected from it. In Deut 14:26 <hi rend="italic">šām</hi> “there” concludes a “sense unit” (cf. p. 201) and is marked with <hi rend="italic">revia</hi>. In Exod 40:3 <hi rend="italic">šām</hi> does not conclude a sense unit, but is marked with the superior disjunctive <hi rend="italic">zaqef</hi>. What McFall describes here subjectively, in terms of “the speaker’s interest” can be described objectively in terms of features of clause structure. See #15.4.a, e.
+</note>
+<note place="bottom">
+    5. Thus durative or repeated action in the past is presented by <hi rend="italic">ûbāḥantā</hi> (Jer 12:3, cf. <hi rend="italic">tirʾēnî</hi>); <hi rend="italic">weʾāmartî</hi> (Jer 20:9, cf. <hi rend="italic">ʾādabbēr</hi>); <hi rend="italic">ûbāqaʿtā</hi>, <hi rend="italic">wehaʿāmadtā</hi> (Ezek 29:7, cf. <hi rend="italic">tērôs</hi>, <hi rend="italic">tiššāber</hi>); <hi rend="italic">wehimṭartî</hi> (Amos 4:7, cf. <hi rend="italic">ʾamṭîr</hi>, <hi rend="italic">timmāṭēr</hi>); also <hi rend="italic">wahăqimōtî</hi> (Jer 6:17); while
+</note>
+      <pb n="279"/>
+<p>
+   WAW CONSECUTIVE PERFECT FORMS <space quantity="5" unit="chars"/> 279
+</p>
+<p>
+   tionable case is <hi rend="italic">wehēbētā</hi> (Gen 26:10), but even here the verb can be 
+   regarded as referring to the (potential) future relative to <hi rend="italic">šākab</hi>.<note n="6">Con-</note> 
+   sequently the common view of the significance of stress position as 
+   marking the usage either as “simple” (with the value of <hi rend="italic">qtl</hi>, penultimate 
+   stress), or “consecutive” (with the value of <hi rend="italic">yqtl</hi> or the imperative, final 
+   stress) is maintained here.
+</p>
+<list>
+   <item>4. Forms of the 1cs or 2ms perfect with prefixed <hi rend="italic">waw</hi> are used with 
+   the value of <hi rend="italic">qtl</hi> (<hi rend="italic">waw</hi> “simple”) in a rather restricted set of circumstances:
+      <list>
+         <item>4.1 As the second of a pair or longer series of perfect forms acting 
+         as a semantic unit, that is, representing different aspects of the same 
+         event, not different actions in a sequence of events, as <hi rend="italic">bānîm giddaltî 
+         werômāmtî</hi> (“Children have I reared and raised”, Isa 1:2).</item>
+         <item>4.2 Where verbs semantically related in the same way occur in a series 
+         of short parallel clauses, as <hi rend="italic">hōbāštî ʿēṣ lāḥ wehiprāḥtî ʿēṣ yābēš</hi> (“I have 
+         dried up the fresh tree, and caused the dried tree to sprout”, Ezek 17:24). 
+         Such verbs sometimes refer to actions which could be regarded as sequen-
+         tial, but even in cases like <hi rend="italic">wehikkītîw wehiṣṣaltî mippîw</hi> (“I struck [the 
+         predator] and saved [the sheep] from its mouth”, 1 Sam 17:35) the verbs 
+         can also be regarded as describing the same event (“by striking . . . I 
+         saved”), rather than as separate acts in sequence (“I struck . . . then I 
+         saved”). Cases where the two clauses form two stichs of a verse of poetry 
+         are probably also to be classed here, as <hi rend="italic">śaq tāpārtî . . . weʿōlaltî beʿāpār</hi> 
+         . . . (“I sewed on sackcloth, and laid in the dust . . .”, Job 16:15).<note n="7"/></item>
+         <item>4.3 In Qohelet, all 1cs and 2ms perfect forms with prefixed <hi rend="italic">waw</hi> 
+         have the value of <hi rend="italic">qtl</hi>, and this also appears to be true of <hi rend="italic">weʾākāltî</hi></item>
+      </list>
+   </item>
+</list>
+
+<note place="bottom">
+   future action is presented by <hi rend="italic">wehēbētî</hi> (Lev 26:41, cf. <hi rend="italic">ʾēlēk</hi>); <hi rend="italic">wedāraštā</hi> (Deut 17:4, cf. <hi rend="italic">yim-
+   māṣēʾ</hi> 17:2); and <hi rend="italic">wehišʾartî</hi> (1 Kgs 19:18, cf. <hi rend="italic">yāmît</hi> 19:17), as translated by the LXX and 
+   Jerome. Where Hebrew words are presented merely as morphological illustration, or, as 
+   here, to direct the reader’s attention to grammatical features on which a translation must 
+   be based, a translation seems unnecessary (as the text is readily available). The stress 
+   position referred to in this paper is that of the Leningrad Codex. It is indicated here only 
+   where it is significant for the argument.
+</note>
+<note place="bottom">
+   6. On this see Driver (1892, p. 133). <hi rend="italic">weʾāmārtî</hi> (Job 7:4; Driver, 1892, #138.i.a) is 
+   possibly a similar case, but with penultimate stress due to the fact that it introduces speech 
+   (see #14.3).
+</note>
+<note place="bottom">
+   7. In a number of cases the second verb could refer to past or future, as <hi rend="italic">dibbārtî 
+   weʾāśîtî</hi> (Ezek 17:24 etc.). The following cases seem certain. Under #4.1, 1 Sam 12:2, 2 Kgs 
+   19:22, Isa 1:2, 43:12; Ps 28:7, 38:9, 131:2; Cant 2:3, Lam 2:22, Dan 8:27, Ezra 9:6, 2 Chr 
+   7:16. Under #4.2, 1 Sam 17:35, 1 Kgs 3:11, Isa 43:14, Ezek 17:24, Ps 50:21, Dan 10:15, 
+   Ezra 9:13, Neh 9:7, 1 Chr 17:10, 2 Chr 7:12, and, in parallel stichs, Prov 9:12, Job 16:15, 
+   and (less certainly) Job 7:4. (In Driver, 1892, #104, <hi rend="italic">wehehĕrāštî</hi> in Ps 50:21 is listed as a 
+   minor pausal form, but it was probably understood as referring to the past. See the LXX 
+   and Jerome.)
+</note>
+      <pb n="280"/>
+<fw type="header">280 E. J. REVELL</fw>
+
+<p>(Lev 10:19), <hi rend="italic">wehiggádti</hi> (1 Sam 3:13), <hi rend="italic">wehẹḥĕzáqtî</hi> (1 Sam 17:35), <hi rend="italic">wedib-bártî</hi> (Hos 12:11), <hi rend="italic">wenibbêtî</hi> (Ezek 37:7), <hi rend="italic">wehinnabbêtî</hi> (Ezek 37:10), <hi rend="italic">wehissáltā</hi> (Ps 86:13), <hi rend="italic">wahăkînōtî</hi> (1 Chr 28:2), and <hi rend="italic">weyādáʿtî</hi> (1 Chr 29:17). The usage of Qohelet would seem to reflect a stage of the language in which the <hi rend="italic">waw</hi> consecutive perfect was not in use (as in Mishnaic Hebrew). The other cases could represent intrusions from such a stage into earlier forms of language, although other explanations are possible.<note n="8" place="foot">E.g. the use of <hi rend="italic">waw</hi> simple with the perfect in a past untrue condition (as in Lev 10:19) may have been standard, though rare (cf. Driver, 1892, #155). In fact, however, it is shown in Mayer (1959) and supported by Loretz (1961) that there is no need to regard cases of <hi rend="italic">waw</hi> simple with the perfect in early material as late intrusions.</note> The cases in #4.1, and at least most of those in #4.2, appear to represent a usage standard throughout the biblical period. Where verbs represented the same past event, or past events which were related but not sequential, the second was perfect in form, whether <hi rend="italic">waw</hi> was prefixed or no. The negative assessment of rule (1) in Driver (1892, p. 159) expressed in Heusman (1956, p. 434) does not seem to be justified.</p>
+
+<head>SEMANTIC RELATIONSHIP
+AND PHONOLOGICAL VARIATION</head>
+
+<p>5. In 1cs and 2ms perfect forms with <hi rend="italic">waw</hi> consecutive,<note n="9" place="foot">"Perfect with <hi rend="italic">waw</hi> consecutive" below refers only to 1cs and 2ms forms.</note> stress may be final or penultimate. There is no doubt that McFall is correct in identifying semantic relationship as a major cause of this variation. Conditioning by semantic relationship was not, of course, direct; it was effected, when the text was read, by the intonation patterns (suprasegmental contours) which reflected such relationship. By this means, semantic relationship became a main cause of phonological variation in a wide range of forms in Hebrew. Such relationship can often be described in terms of syntax, but where this is not the case, precise objective description is often not possible.<note n="10" place="foot">The same is true for the accentuation, which may reflect interpretation contrary to what is, or might be, suggested by the surface structure. See Yeivin (1980, #289), especially under Exod 33:19, 34:5; Deut 26:5; Judg 5:18, 6:24; 2 Kgs 19:13; Isa 1:13, 40:3, 56:9; Ezek 44:22.</note> Consequently it is often not possible to provide a precise, objective description of the conditioning of the variations in question. This fact is a necessary background to the consideration of the following introductory description of conditioning by semantic relationship, and of the subsequent description of the effect of such conditioning on perfect forms with <hi rend="italic">waw</hi> consecutive.</p>
+
+<p>6. Familiar examples of variation in vowel pattern and stress position conditioned by the relationship of words to their context are seen in</p>
+      <pb n="281"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 281</head>
+<p>those nouns which appear in different forms called construct and absolute, and those verbs which appear in different forms called contextual and pausal. The features in which such forms differ from each other do not, either in nouns or in verbs, directly reflect original morphological differences. They arise from the effect of intonation patterns reflecting the relationship of the word to its context.</p>
+<p>7. In the case of the construct noun, the syntactic relationship to what followed was reflected by the close joining in speech of the construct noun to the following word, resulting in the differences in the development of originally short vowels (reduction or failure to develop) which distinguishes construct forms from absolute.<note n="11">The retention of <hi rend="italic">taw</hi> in the feminine gender marker, as <hi rend="italic">šenat</hi> "year (of)", results from the same close-joining. The consonant acts as (phrase) medial rather than (word) final.</note> The use of this "construct" or "close joined" form is not restricted to a particular syntactic relationship, but may occur before attributive or other modifiers, as <hi rend="italic">meqôm</hi> "place" in Gen 39:20, <hi rend="italic">'ahad</hi> "one" in 1 Sam 9:3, <hi rend="italic">'ên</hi> "eye" in 1 Sam 11:2. In originally doubly closed monosyllables, the development of short vowels was generally slower than in the originally open final syllables of most nouns, so that, in such monosyllables, the form with more developed vowels is used in a more restricted range of positions than is the typical "absolute" noun, and the form with less developed vowels is used much more widely than the typical "construct". Consequently the first form in such pairs as <hi rend="italic">perî</hi>/<hi rend="italic">pĕrî</hi> "fruit", <hi rend="italic">'am</hi>/<hi rend="italic">'ām</hi> "people", and <hi rend="italic">śēkel</hi>/<hi rend="italic">śêkel</hi><note n="12">On the development of the vowel in this form see my study of "The Vowelling of the 'i' type Segolates in Tiberian Hebrew" forthcoming in the <hi rend="italic">Journal of Near Eastern Studies</hi>.</note> "understanding" is not called "construct". Nevertheless this form (and not the other) is regularly used in "construct" situations, and the reasons for the difference in vowel pattern are exactly the same as in typical construct/absolute forms. Close-joining in speech (reflecting close syntactic/semantic relationship) causes the reduction of vowels, or inhibits their development. (Relative) separation from what follows permits the retention and facilitates the development of such vowels.</p>
+<p>8. Differences between contextual and pausal forms originated in the same way (these terms are applied to <hi rend="italic">perî</hi>/<hi rend="italic">pĕrî</hi>). The pausal form, used at a significant division in the text, is separated from what follows. Consequently originally short vowels in such forms are retained and develop. In contextual forms such vowels are reduced and/or show less development, because these forms were joined in speech with the following word. Where the pausal form shows penultimate stress, and the contextual form final, the final stress results from the effect of close</p>
+      <pb n="282"/>
+<head>282 E. J. REVELL</head>
+<p>relationship to the following word, both in the noun <emph rend="italic">pĕrî</emph> and in many verb forms. Separation from what follows does not affect stress position. As with construct and absolute forms, the use of contextual and pausal forms cannot be rigidly defined in terms of syntax. The usual definition is based on the accent system, which reflects both syntactic and other semantic relationships, and also musical phenomena. This distinguishes “standard” pausal positions (with <emph rend="italic">sillûq</emph>, and <emph rend="italic">atnāḥ</emph>, or, in the Three Books, <emph rend="italic">ʿoleh weyôred</emph>) in which pausal forms are regularly used, and “minor” positions (with other accents) in which the use of these forms is only sporadic.<note n="13">13. An attempt is made to describe the uses of a selected group of cases in terms of the accent system in Ben David (1984). Considerable consistency between the use of pausal forms and accentuation is found, as is to be expected, since both reflect a syntactic/semantic analysis of the same text. For this paper it is significant that the consistency is not demonstrated in the use of pausal forms with particular accents, but in their use within the major (semantic) units ending with <emph rend="italic">atnāḥ</emph> or <emph rend="italic">sillûq</emph>.</note> Evidently, then, a division significant enough to induce a pausal form was regularly made in the form of the reading tradition reflected by the vowelling and stress position of MT where the received accentuation shows standard pausal position, and such a division was quite often (about 20%) made in other positions as well.</p>
+<p>9.1 Pausal forms in “minor” positions usually occur at the ends of clauses, but only of those which are not closely related to what follows. It is not possible to describe such relationship both comprehensively and objectively, but one guide, generally valid, is that a clause will not end in a pausal form if it is one (other than the last) in a series of clauses presenting a sequence of actions by the same subject. This is the case with the first two clauses in Deut 4:19, both of which end in forms marked as contextual. In the speech quoted in Isa 65:13, however, each of the six short clauses has a different subject from the preceding, and each ends in a pausal form (where this distinction can be shown). These clauses are arranged in contrasting pairs. No doubt this semantic relationship also contributed, in this case, to the separation of the clauses which gave rise to the pausal forms. (See also n. 18.)</p>
+<p>9.2 Pausal forms in “minor” position may also occur at significant divisions within clauses, as <emph rend="italic">heʿmîqû šiḥētû kîmê haggibʿā</emph> (Hos 9:9) and <emph rend="italic">kēn-ḥānû lediglêhem wekēn nāsāʿû ʾîš lemišpeḥōtāw . . .</emph> (Num 2:34). Such pausal forms stand at the end of semantic units, as do others. In these cases the two verbs form a semantic unit modified by the words following the second verb, so that the second verb is more closely related to what precedes it than to what follows it. This relationship was reflected, when the text was read, by a division after the second verb, so</p>
+      <pb n="283"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 283</head>
+<p>that the intonation patterns gave rise to a pausal form, just as at the end of a clause not closely related to what follows.</p>
+<p>10. In some cases divisions within clauses appear to have been made on rhythmic grounds. The text was evidently read, as a rule, in rather short units. Pausal forms may occur at the end of such units even where this does not coincide with the end of a clause. The most striking case of this sort is the list, which is divided into units consisting of several short items (as in Lev 14:54–56, Deut 5:14), or of one longer item (as in Lev 5:23, Zech 12:12–14). Each such unit may end in a pausal form, as is the case in the examples noted. Other cases in which conventional linguistic rhythm gave rise to a division marked by a pausal form may be ascribed to the general tendency to divide units such as clauses into (at least) two parts. This tendency is most noticeable in the use of the lesser pausal phenomena described below (#11). In some cases, however, pausal forms occurring at the main division of an accentual unit ending with <hi rend="italic">atnāḥ</hi> or <hi rend="italic">sillūq</hi> reflect this tendency. The verb of a main clause most commonly appears in pausal form for this reason:
+<list>
+<item>(i) where the verb is clause-initial and the clause is very short, as <hi rend="italic">wenišqāpā</hi> (Num 21:20), <hi rend="italic">tidbāqîn</hi> (Ruth 2:8).</item>
+<item>(ii) where the verb is clause-initial and is closely related to what precedes, as in Num 2:34, Hos 9:9 quoted in #9.2.</item>
+<item>(iii) where the verb is preceded by a constitutent of the clause, as <hi rend="italic">šāmārû</hi> (Num 9:23), <hi rend="italic">rāʾātā</hi> (Isa 64:3, at the main syntactic division, not the main division marked by the accents).<note n="14">14. The verb of a subordinate clause which ends a constituent of a main clause may appear in pausal form, as may other words in such positions, as <hi rend="italic">ʿāśātā</hi> (Esth 2:1), cf. <hi rend="italic">lāk</hi> (1 Kgs 8:50).</note></item>
+</list>
+</p>
+<p>11.1 The influence of semantic relationship on vowel pattern and stress position is reflected in other phenomena besides pausal forms. Conjunctive <hi rend="italic">waw</hi> is typically pointed with <hi rend="italic">qames</hi> before the last of two or more words acting as a semantic unit, where the word is stressed on its first syllable. This reflects the fact that such word groups were characteristically treated as speech units of a lesser sort (“phrases” rather than “clauses”). For this reason the monosyllabic nouns mentioned in #7 appear in “joined” form where they are the first of such a pair, in “separated” form where they are second, as <hi rend="italic">bekî wānéhî</hi> (Jer 9:9), <hi rend="italic">ʿam wāʿām</hi> (Esth 1:22), and cf. <hi rend="italic">nēbel wetōp</hi> (1 Sam 10:5, “lute and timbrel”; <hi rend="italic">nēbel</hi> with <hi rend="italic">ṣere</hi> begins a list of four nouns treated as a single phrase) with <hi rend="italic">kinnôr wānēbel</hi> (Isa 5:12, “lyre and lute”; <hi rend="italic">nēbel</hi> with <hi rend="italic">segol</hi> ends the first phrase in a list of five nouns treated as two phrases). This phenomenon is merely a specialized case of a word closely related to what</p>
+      <pb n="284"/>
+<head>E. J. REVELL</head>
+<p>precedes (see #9.2), and, as shown in Hos 9:9 (quoted there), a phrase of this sort may end in a pausal form in a “minor” pausal situation.<note n="15">15. Also <hi rend="italic">mahǎrā welēkā</hi> (1 Sam 23:27), but the use of <hi rend="italic">shewa</hi>, not <hi rend="italic">qāmēṣ</hi> on the conjunction here is an unexplained anomaly.</note></p>
+<p>11.2 Stress may be retracted in a word of particular phonological structure which is closely joined (with a conjunctive accent) to a following word which is stressed on its first syllable.<note n="16">16. This description is based on the study outlined in Revell (1983).</note> Such retraction (<hi rend="italic">nesîgā</hi>, <hi rend="italic">nāsôg āḥôr</hi>) is common only in construct nouns and in verbs (and not, for instance, in participles). This presumably reflects the tendency, noted above, for nouns in construct, and verbs in contextual position, to be closely joined in speech to what follows. <hi rend="italic">Nesîgā</hi> occurs regularly at the ends of clauses, and of introductions to quoted speech. Elsewhere within clauses it occurs much less frequently. Consequently it can be assumed that <hi rend="italic">nesîgā</hi> is induced at syntactic/semantic divisions, and that its occurrence within a clause reflects a “phrase level” division of this sort.<note n="17">17. Rhythmic factors are also involved in the development of <hi rend="italic">nesîgā</hi>; see Revell (1983, p. 41). So also in the only case in which <hi rend="italic">nesîgā</hi> occurs in a word not directly related grammatically to the following, <hi rend="italic">kî ’im yihye lebā‘ēr qāyin</hi> (“Qayin will be for burning”, Num 24:22), where it presumably results from a division of the unit into more or less equal parts (as the accentuation, for reasons of rhythm) rather than into one long and one short part (as the syntax).</note></p>
+<p>12. The phenomena described above, then, reflect the fact that the words they mark stood within, or at the end of, units of speech. They result from the effect, on the vowelling and stressing of those words, of the intonation patterns characteristic of those units. The units are those into which the text was divided when read according to a particular form of the reading tradition. Such divisions reflect the syntactic/semantic structure of the text as understood in that form of the tradition. This division, and the understanding on which it is based, differed somewhat from that reflected by the standard accentuation (see #2).<note n="18">18. Studies like that in Ben David (1984) may show that the differences are, in fact, small. However, in his “control” list of words which could appear in pausal form with <hi rend="italic">segolta</hi> or first <hi rend="italic">zaqef</hi> in verses with <hi rend="italic">atnaḥ</hi> in the first chapter of each of the Twenty-One Books (p. 57-59), of the 95 which occur in contextual form, 61 stand within clauses, the rest at the end of a clause followed by a clause presenting a sequential act by the same subject (12 cases), or a parallel clause with the same subject (8 cases, including Lam 1:12), or a clause otherwise closely related semantically (Exod 1:21, Deut 1:42, Josh 1:8, Judg 1:6, 1 Kgs 1:15, Isa 1:2 (<hi rend="italic">’ereṣ</hi>), 3, 5, 20, Ezek 1:1, 4, Ruth 1:19, 21, Lam 1:16). In many of these cases one of the clauses is subordinate to the other. <hi rend="italic">werômamtî</hi> in Isa 1:2 cannot be considered as a marked contextual form, as the general rule is that <hi rend="italic">qāmēṣ</hi> develops from original short <hi rend="italic">i</hi> in pause in the Twenty-One Books only before <hi rend="italic">‘ayin</hi>. Of the 20 forms which occur in pausal form, eight stand at the end of a clause followed by one with a different subject, nine before one with the same subject (Deut 1:17, Josh 1:5, 9, Judg 1:15, </note></p>
+      <pb n="285"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 285</head>
+
+<p>13. The units of speech so marked form a hierarchical structure, smaller units combining to form larger ones. Phenomena which mark the ends of smaller units, such as <emph>qāmēṣ</emph> on conjunctive <emph>waw</emph> or <emph>nesîgā</emph>, occur whether these small units stand within larger units or at the end of them, but some phenomena are restricted to the ends of larger units. Thus <emph>qāmēṣ</emph> on conjunctive <emph>waw</emph> may occur within a clause, with a contextual form, as <emph>ʿēṣ wāʾeben</emph> ("wood and stone", Deut 29:16), or at clause end, with a pausal form as <emph>ʿēṣ wāʾāben</emph> (Deut 28:36). Similarly <emph>nesîgā</emph> regularly occurs at the end of an introduction to speech, as <emph>wayyṓmerû lô</emph> "they said to him", but the full pausal form <emph>yōmḗrû</emph> does not occur in this position. The level in the hierarchy at which a given phenomenon occurs may be affected by the structure of the word, as already pointed out for nouns originating from doubly closed mono-syllables (#7). Similarly, although the "pausal" form <emph>yōmḗrû</emph> never occurs at the end of an introduction to speech, the pausal form <emph>wayyōmā́r</emph> may occur in this position, due to its different structure. In a few cases the effect of word structure on phonological change has resulted in a three-term system, as in <emph>ʾattā́</emph> "you" (close-joined position results in final stress, #8), also <emph>ʾā́ttā</emph> ("minor pause"; where not close-joined, stress remains penultimate) and <emph>ʾā́tā</emph> "standard pause" (maximum separation results in maximum vowel development). So also <emph>śékel</emph> (within a phrase, Ps 111:10, minimum vowel development, <emph>i</emph> before the syllable was opened, see note 12), <emph>śḗkel</emph> (at phrase-end 1 Sam 25:3, greater development, <emph>a</emph> before the syllable was opened), and <emph>śā́kel</emph> (at clause-end in "standard" pausal position, Job 17:4, maximum vowel development).</p>
+
+<head>STRESS POSITION IN PERFECT FORMS WITH <emph>WAW</emph> CONSECUTIVE</head>
+
+<p><emph>I. Forms with a Closed Penultimate Syllable</emph></p>
+
+<p>14. Stress position in perfect forms with <emph>waw</emph> consecutive is affected by structural factors, such as those just described, in that final stress is proportionately much more common in forms with a closed penultimate syllable. Penultimate stress occurs in such forms only in the following situations:</p>
+
+<note>1 Sam 1:11, Ezek 1:12, 21, Cant 1:4, Ruth 1:13). The two clauses are joined by a conjunction only in Judg 1:15, 1 Sam 1:11, Ezek 1:21, and only in 1 Sam 1:11 could they be held to present acts in sequence. Such pausal forms stand before a subordinate clause in Josh 1:17, before an object clause in 1 Kgs 1:17, and within a list in Ezra 1:9 (see #10). This superficial survey seems to me to confirm beyond any doubt (i) the syntactic/semantic conditioning of pausal forms and (ii) that the accentuation reflects a somewhat different analysis of the text.</note>
+      <pb n="286"/>
+<head>286 E. J. REVELL</head>
+<p>
+  14.1 In standard pausal position, as <hi rend="italic">weśāḇāʿtā</hi> Deut 6:11.
+  <lb/>14.2 At the end of a clause elsewhere, as <hi rend="italic">weʾāḵāltî</hi> Deut 2:28. Also 1 Sam 20:18, 2 Kgs 9:3, Ezek 3:26, and Isa 66:9 before <hi rend="italic">ʾāmar</hi> marking the clause as quoted speech.
+  <lb/>14.3 At the end of an introduction to speech, as <hi rend="italic">weʾāmártî</hi> Deut 32:40, also Prov 30:9, and <hi rend="italic">wenišbāʿtā</hi> Jer 4:2.
+  <lb/>14.4 At the main division of a stich of poetry, as <hi rend="italic">wešiḥāttā</hi> Prov 23:8, also Ps 28:1, 143:7, Prov 30:9, Job 31:29.<ptr target="#n19"/>
+  <lb/>14.5 At the main division of a verse-half in prose, as <hi rend="italic">wenikráttā</hi> Obad 1:10. (Cf. (i) at the end of #10.)
+  <lb/>14.6 Where the verb is second of a pair forming a semantic unit, as <hi rend="italic">ʾāḇô wenilḥāmtî</hi> (“[that I should not] come and fight . . .”, 1 Sam 29:8), also <hi rend="italic">wāmāttā</hi> Ezek 28:8.<ptr target="#n20"/>
+  <lb/>14.7 Where the verb is followed by a word stressed on its first syllable (see #15).
+  <lb/>14.8 These forms exhibit a three-term system of the sort described in #13. Penultimate stress with <hi rend="italic">qāmēṣ</hi> occurs regularly in standard pausal position (#14.1). Penultimate stress with <hi rend="italic">pataḥ</hi> occurs in the other positions listed, but only sporadically. It is assumed (following the description above) that the use of penultimate stress in these other positions reflects the fact that the verb stood at the end of a speech unit; the use of final stress that it stood within one, and so was joined in speech to the following word. The small number of contrasting cases makes it impossible to demonstrate this specifically for situations #14.2–6. However such a demonstration can be attempted for #14.7.
+  <lb/>15.1 The development of final stress in a <hi rend="italic">waw</hi> consecutive perfect form may be blocked where the following word is stressed on its first syllable. As with <hi rend="italic">nesîgā</hi>, a related phenomenon (#11.2), this only occurs where the words are particularly closely joined, and so only where the verb has a conjunctive accent. A form with a disjunctive accent shows final stress where used within a speech unit (as <hi rend="italic">wenātattî</hi> Lev 14:34, 1 Sam 17:46) and penultimate stress at the end of a unit (as <hi rend="italic">weʾāmártî</hi> Deut 32:40; see #14.3).
+</p>
+<note xml:id="n19">19. In Job 31:29, the verb forms a clause. In all these cases the accent is <hi rend="italic">reviaʿ mugrash</hi>. <hi rend="italic">Nesîgā</hi> quite often occurs in the same situation, as in Ps 104:14, 107:33, Prov 8:27, Job 5:10, suggesting that stichs of poetry were typically read with a (minor) internal division (as other units of speech, see #10).</note>
+<note xml:id="n20">20. The <hi rend="italic">qāmēṣ</hi> on the <hi rend="italic">waw</hi> reflects a form of tradition in which the pair of words now divided by <hi rend="italic">atnaḥ</hi> was joined (as in Ps 10:15). Job 42:6 shows a division between a pair of verbs, and modifiers related only to the second of the pair, similar to that reflected by the vowelling in Ezek 28:8.</note>
+      <pb n="287"/>
+<head>WAW CONSECUTIVE PERFECT FORMS <space quantity="5" unit="chars"/> 287</head>
+
+<p>15.2 Where a verb with a conjunctive accent stands before a word stressed on its first syllable in a clause of two words,
+stress is FINAL
+<list rend="unnumbered">
+    <item>(a) where the clause is closely related to what follows, in that the two represent sequential actions by the same subject (see #9.1), as <foreign xml:lang="he">weḥāšaqtā́ bāh welāqaḥtā́</foreign> . . . (Deut 21:11, “You desire her and take her as wife”), also Lev 24:5, Deut 23:14, 1 Kgs 8:46 = 2 Chr 6:36, and also in Deut 7:25 before a subordinate clause introduced by <foreign xml:lang="he">pen</foreign>, “lest”.</item>
+    <item>(b) where the clause ends at <foreign xml:lang="he">atnāḥ</foreign> in <foreign xml:lang="he">weyāšabtā́ šām</foreign> (1 Kgs 2:36, 17:9, “and live there”). The preceding verb is imperative in both cases. The following clause has the same subject in the first case, but not in the second.</item>
+</list>
+Stress is PENULTIMATE
+<list rend="unnumbered">
+    <item>(c) where the clause is not closely related to what follows, as <foreign xml:lang="he">wehig-gádtî lāk wayyēlek</foreign> . . . (Num 23:3, “I will tell you, So he went . . . ”), and in other clauses where the following clause has a different subject in 1 Sam 19:3, 1 Kgs 22:13 = 2 Chr 18:12, Ezek 28:22, Hag 1:9.</item>
+    <item>(d) where the clause ends at <foreign xml:lang="he">atnāḥ</foreign> or <foreign xml:lang="he">sillûq</foreign> in <foreign xml:lang="he">weyāšábtā bāh</foreign> (Deut 17:14, 26:1). The preceding verb is <hi rend="italic">waw</hi> consecutive perfect in both cases, ultimately dependent on an imperfect verb form. In the first case the clause stands within a series depending on preceding <foreign xml:lang="he">kî</foreign>, “when”, in the second it stands at the end of such a series. Also in <foreign xml:lang="he">we’ākáltā šām</foreign> (Deut 27:7, “and you will eat there”), where the verb also stands within a series of <hi rend="italic">waw</hi> consecutive perfects dependent on an imperfect, but is semantically imperative.</item>
+</list></p>
+
+<p>15.3 Where the clause is composed of three words forming three constituents,<note n="21">The possible constituents are: nominal (a noun, pronoun, or phrase acting as subject, or as objective or other modifier), prepositional (preposition followed by a nominal or infinitival element), or a particle (adverb). The examples here include no cases of a verb followed by a two-word phrase. Note that the verb stands first in all clauses described in this paper, and that <foreign xml:lang="he">’et</foreign> and other monosyllabic prepositions are ignored in the counting of the number of words in the clause.</note>
+stress is FINAL
+<list rend="unnumbered">
+    <item>(a) where the third constituent is the object, as <foreign xml:lang="he">wenātattā́ šāmmā māyim</foreign> (Exod 30:18, “and you will put there water”) and similarly in Exod 40:7 (at the end of a verse in both cases).</item>
+    <item>(b) where the clause does not include a (nominal) object, as <foreign xml:lang="he">we’āhabtā́ lô kāmôkā</foreign> (Lev 19:34, “you will love him as yourself”).</item>
+    <item>(c) where the second constituent is the object, in <foreign xml:lang="he">wešākaḥtā́ ‘ōmer baśśādeh</foreign> (Deut 24:19, “and you forget a sheaf in the field”).</item>
+</list>
+Stress is PENULTIMATE</p>
+      <pb n="288"/>
+<head>E. J. REVELL</head>
+<p>(d) where the second constituent is the object, as <gloss>wešilláḥtî déber betôkekem</gloss> (Lev 26:25, “I will send a plague among you”); also Jer 17:27, 21:14, 50:32; Ezek 30:14, 16, 32:8; Amos 1:12, 2:5.</p>
+<p>15.4 In longer clauses of three constituents (of which the second is a single word), stress is FINAL</p>
+<list>
+<item>(a) where the third constituent is the object, and the clause is short (four or five words) and is not closely related to what follows, as <gloss>wenātattâ lî gullōt māyim wayyittēn . . .</gloss> (“Give me sources of water. So he gave her . . . .”, Josh 15:19 = Judg 1:15), also Exod 40:3, 1 Sam 16:3, 2 Sam 15:34, Jer 22:1, and also Exod 30:26, where the first two words, plus the first item in a list forming the object, fit this description (on lists see #10).</item>
+<item>(b) where the clause does not include an object, as <gloss>wenilḥamtá bō ᶜad kallôtām ʾōtām</gloss> (“and you will battle them until you have destroyed them”, 1 Sam 15:18), also Exod 29:5, 43.</item>
+</list>
+<p>Stress is PENULTIMATE</p>
+<list>
+<item>(c) where the second constituent is the object, or the subject, as <gloss>wešilláḥtî ʾēš . . .</gloss> (“I will send fire . . . .”, Amos 1:4), also Ezek 17:22, 22; Amos 1:7, 10, 14.</item>
+<item>(d) where the third constituent is the object, and the clause contains four or five words, but is closely related to what follows, as <gloss>weyāṣáqtā lô ʾarbaᶜ tabbeᶜōt zāhāb wenātattâ . . .</gloss> (“You will cast for it four gold rings and put them . . . .”, Exod 25:12), also Ezek 14:13, despite the <gloss>atnāh</gloss>. Also where the clause is longer than four or five words, as <gloss>weᶜābdátā</gloss> Deut 28:36, 64 (in both cases at the main syntactic division of a <gloss>sillûq</gloss> unit) and <gloss>weʾāmártā</gloss> in Ezek 28:12, 35:3, where the object is quoted speech.</item>
+<item>(e) where the clause does not include an object, in Deut 14:26, Ezek 28:25, 35:11, 39:27. The only consistent difference between these clauses and those in which the verb has final stress, listed in (b) above, is that in these the word following the verb is a closed monosyllable; in those it is not. Also <gloss>weheḥĕzáqtā bô gēr wetôšāb</gloss> (“You will support him [in the same way as] a temporary resident”, Lev 25:35) in which the terminal noun phrase might be considered as an object. (The clause is closely related to what follows, cf. (d) above.)</item>
+</list>
+<p>15.5 In a clause of more than three constituents, stress is FINAL</p>
+<list>
+<item>(a) only in <gloss>weniṣṣabtá lî šām ᶜal rōš hāhār</gloss> (“You will present yourself to me there, on top of the mountain”, Exod 34:2, where the clause does not include an object).</item>
+</list>
+<p>Stress is PENULTIMATE</p>
+<list>
+<item>(b) where the object is the second constituent, as in <gloss>wezābeḥtā péṣaḥ . . .</gloss> (Deut 16:2).</item>
+</list>
+      <pb n="289"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>(c) where the object is the third constituent, in Josh 15:16 = Judg 1:12, 2 Sam 9:10, Jer 24:10, Hos 2:17. These cases are discussed in #25.2.</p>
+<p>16.1 Where the clause consists of two constituents (two words), stress is FINAL if the clause is closely related to what follows (#15.2a, 6 cases), PENULTIMATE where it is not (#15.2c–d, 9 cases). There are two anomalous cases of final stress (#15.2b). The same factor governs the use, at the end of a clause, of pausal forms (see #9.1), and of <hi rend="italic">nesîgā</hi> (see Revell, 1984, p. 41), although, since <hi rend="italic">nesîgā</hi> marks the end of lower level units (see #13), it is relatively more common in this situation than are pausal forms. The occurrence of final stress in the two anomalous cases may possibly be related to the failure of <hi rend="italic">nesîgā</hi> due to rhythmic factors (Revell, 1984, p. 41) and/or to the cases of anomalous final stress mentioned in n. 32 below.</p>
+<p>16.2 Where the clause consists of three or more constituents:</p>
+<list rend="unordered">
+    <item>(a) where the second constituent is the object (or the subject) stress is FINAL only in Deut 24:19 (#15.3c, cf. #18.6b). stress is PENULTIMATE in sixteen cases (#15.3d, 4c, 5b).</item>
+    <item>(b) where the third constituent is the object stress is FINAL where the clause is composed of three constituents, and is relatively short, but is not closely related to what follows (9 cases, #15.3a, 4a, if the case in Exod 30:26 is not considered an exception). stress is PENULTIMATE where the clause is composed of three constituents, and is relatively short, and closely related to what follows, or is relatively long (6 cases, #15.4d, if the case in Ezek 14:13 is not considered an exception) or if the clause is composed of more than three constituents (5 cases, #15.5c).</item>
+    <item>(c) where the clause does not contain an object, stress is FINAL in five cases (#15.3b, 4b, 5a). stress is PENULTIMATE in five cases (#15.4e).</item>
+</list>
+<p>16.3 It is quite clear from this summary that stress position in a <hi rend="italic">waw</hi> consecutive perfect form standing before a word stressed on its first syllable is conditioned by semantic factors. These appear as</p>
+<list rend="unordered">
+    <item>(i) The relation of the clause to what follows: Where this relationship was close, no (significant) division would be made between clauses.</item>
+    <item>(ii) The presence and position of the object: this can be interpreted as follows. The verb and its object were normally spoken as a (phrase level) unit. Consequently, where the object is second constituent, it stands at the end of a phrase, so that the intonation patterns prevent the development of final stress in the verb (#16.2a), just as they would cause retraction of stress in situations standard for <hi rend="italic">nesîgā</hi>. Where the object is third and last constituent, and the clause is not closely related to what follows, the verb and its object were again spoken as a unit, including the</item>
+</list>
+      <pb n="290"/>
+<fw type="header">290 E. J. REVELL</fw>
+<p>intervening word. That is, the whole clause was spoken as a unit, without an internal division sufficient to prevent the development of final stress in the verb (#16.2b). Where the object is third constituent under other circumstances, the tendency was to make a division after the second constituent sufficient to prevent the development of final stress in the verb (#16.2b). Presumably it was not reasonable to treat the verb and its object as a single speech unit. In a long three constituent clause it was too long; so also in a short three constituent clause closely related to what followed, because no (significant) division would be made after the third constituent (see (i) above). In a clause of more than three constituents the object was either treated with what followed in a similar way, or (if long) formed an independent (phrase level) speech unit. Presumably similar semantic relationships reflected in the intonation patterns governed the stressing of the verb in clauses which did not contain an object constituent, but there is no basis for an objective description (#16.2c).</p>
+<head>II. Forms with an Open Penultimate Syllable</head>
+<p>17 Where the penultimate syllable of a perfect form with <hi rend="italic">waw</hi> consecutive is open, stress is always penultimate in forms from the <hi rend="italic">qal</hi> stem of roots III-’ (excluding <hi rend="italic">BW’</hi>) and III <hi rend="italic">h</hi> (See further #19.1). The only exception is <hi rend="italic">we’āpîtā</hi> (Lev 24:5).<note n="22">Also <hi rend="italic">werā’îtā</hi> (Deut 21:11) in the Leningrad Codex, but the failure to repeat the <hi rend="italic">pashṭa</hi> sign was probably due to lack of space.</note></p>
+<p>18 Other forms show penultimate stress in the same “pausal” situations as were listed for forms with closed penultimate syllables in #14. (There is no case parallel to #14.3, where the verb ends an introduction to speech.)</p>
+<list>
+    <item>18.1 In standard pausal position, as <hi rend="italic">wenahbetā</hi> (1 Sam 19:2).</item>
+    <item>18.2 At the end of a clause elsewhere, as <hi rend="italic">wehēbetā</hi> (2 Sam 9:10).</item>
+    <item>18.3 At the main division of a stich of poetry, as <hi rend="italic">wahăzikkôtî</hi> (Job 9:30), also <hi rend="italic">wahăqîṣôtā</hi> (Prov 6:22).<note n="23">Both with <hi rend="italic">reviaʻ mugrash</hi>. In Prov 6:22, the verb forms a clause.</note></item>
+    <item>18.4 At the main division of a verse-half in prose, as <hi rend="italic">wahāṣîqôtî</hi> (Isa 29:2) (cf. (i) at the end of #10).</item>
+    <item>18.5 Second of a pair of verbs forming a semantic unit, as <hi rend="italic">tiśśā’ ûbātā</hi> (Deut 12:26—despite the following <hi rend="italic">’el</hi>, see #19.1) and <hi rend="italic">wešabtā wekissîtā</hi> (Deut 23:14—despite the following <hi rend="italic">’et</hi>, see #19.3).<note n="24">This is against the accentuation, but cf. note 18. In Deut 23:14, the clause is not closely related to what follows. In the similar case in 1 Sam 15:3, it is.</note></item>
+    <item>18.6 Before a word stressed on its first syllable, where the verb has a conjunctive accent (see #15.1).</item>
+</list>
+      <pb n="291"/>
+
+<head type="runningHead">WAW CONSECUTIVE PERFECT FORMS 291</head>
+
+<list>
+    <item>(a) in a two-word clause, stress is penultimate in <foreign xml:lang="he">wahănîḥōtî lāk</foreign> (Exod 33:14) where the clause is not closely related to what follows (see #16.1).</item>
+</list>
+
+<p>In a clause of three or more constituents which includes an object,</p>
+
+<list>
+    <item>(b) where the second constituent is the object, stress is FINAL in <foreign xml:lang="he">wahăremōtá</foreign> (Num 31:28), PENULTIMATE in <foreign xml:lang="he">wehebētî</foreign> (Lev 26:36), <foreign xml:lang="he">wehitwîtā</foreign> (Ezek 9:4), <foreign xml:lang="he">wezērîtî</foreign> (Mal 2:3). Forms with a closed penultimate generally show penultimate stress in this situation, see #16.2a. Where final stress is shown, the third constituent is a one-word prepositional element which could have been treated as modifying the one-word object, as "the Lord's due" (<foreign xml:lang="he">mekes laYHWH</foreign> Num 31:28), or a "sheaf not in-gathered" (<foreign xml:lang="he">ʿōmer baśśāde</foreign> Deut 24:19, see #16.2a). <hi rend="italic">Nesîgā</hi> and similar phenomena are unlikely to occur before a two-word phrase of this sort (cf. <foreign xml:lang="he">wenātattî</foreign> Lev 14:34).</item>
+    <item>(c) where the third constituent is the object, stress is FINAL in <foreign xml:lang="he">ûmillētá</foreign> (Exod 28:17), <foreign xml:lang="he">wahăqîmōtî</foreign> (1 Sam 2:35, Ezek 16:60). In Ezek 16:60, the clause is short, and closely related to what follows, so that final stress is expected under #16.2b. In the other two cases the clause is long, but in both, the object, or its first element, ends at the main (accentual) division of an <hi rend="italic">atnāḥ</hi> unit. Possibly, then, a division at this point equivalent to that at the end of a short clause was caused by the rhythmic factor (see #10, and the note on Exod 30:26 in #15.4a).</item>
+    <item>(d) where the object is the fourth constituent, stress is FINAL in <foreign xml:lang="he">wehebētá</foreign> (Exod 26:33).</item>
+    <item>(e) where no object constituent is present, stress is PENULTIMATE in <foreign xml:lang="he">ūneqallōtî</foreign> (2 Sam 6:22—despite the following <foreign xml:lang="he">ʿayin</foreign>, see #19) and <foreign xml:lang="he">wahănîḥōtî</foreign> (1 Chr 22:9).</item>
+    <item>(f) Stressing in these forms, can, then, be seen as following the same pattern as in the forms with a closed penultimate syllable described in #16.1–2. Presumably, then, stress position here too is conditioned by the factors described in #16.3.</item>
+</list>
+
+<p>19 In other situations, <hi rend="italic">waw</hi> consecutive perfect forms show final stress where the following word begins with <hi rend="italic">alep</hi>, <hi rend="italic">he</hi>, <hi rend="italic">ḥet</hi>, or <hi rend="italic">ʿayin</hi>,<note n="25">The letter in question is usually <hi rend="italic">alep</hi>, less commonly <hi rend="italic">ʿayin</hi> (as Gen 26:10, Jer 6:17, Ezek 16:37 and elsewhere). Final stress occurs before <hi rend="italic">he</hi> in Ezek 32:5, Amos 8:9, before <hi rend="italic">ḥet</hi> in Ezek 5:13, 6:12, 16:42, 21:8.</note> with the following exceptions:
+    <list>
+        <item>19.1 Final stress is shown in <hi rend="italic">qal</hi> forms from <hi rend="italic">BWʾ</hi> only before <hi rend="italic">alep</hi>.<note n="26">So in <foreign xml:lang="he">ūbāʾtā</foreign> in Gen 6:18 and six other cases (as is well known), but not in a minor pausal situation in Deut 12:26 (see #18.5), and not before <hi rend="italic">ʿayin</hi> in 1 Sam 10:3. The 1cs form never occurs before a word beginning with a guttural.</note> It seems likely that this is related to the phenomenon mentioned in #17.</item>
+    </list>
+</p>
+      <pb n="292"/>
+<head>E. J. REVELL</head>
+
+<p>The development of final stress is inhibited in forms which do not have an originally long antepenultimate syllable. The inhibiting factor is nullified in forms from the <hi rend="italic">hipʿîl</hi> of <hi rend="italic">BWʸ</hi>, possibly under the influence of other <hi rend="italic">hipʿîl</hi> forms.<note n="27">27. Blau (1971, p. 18, n. 6) is justifiably wary of this suggestion, but his treatment of all forms in which both penultimate and antepenultimate syllables are open, in a single group is not justified. Forms in which the antepenultimate is open in MT, but was originally long (closed, or with a long vowel) act just as do those forms in which this syllable is closed in MT, showing final stress under particular conditions, as is described here. It is probably correct to assume, as does Gordon (1938, p. 323), that all forms in which the antepenultimate was originally open with a short vowel, originally acted in the same way, but, in MT, forms from the <hi rend="italic">hipʿîl</hi> of <hi rend="italic">BWʸ</hi> act as do forms with an originally long antepenultimate, and only <hi rend="italic">qal</hi> forms act differently. Argument that a feature of one form is due to the influence of related forms (“analogy”) is always unsatisfactory, but it is true that all other <hi rend="italic">hipʿîl</hi> forms either have more syllables than those from <hi rend="italic">BWʸ</hi> (a significant factor, see Blau, 1971, #5.4) or have an originally long antepenultimate—a fact obscured by Blau’s viewpoint.</note> The inhibiting factor may also have been nullified by the following <hi rend="italic">alep</hi> in <hi rend="italic">weʾāpîtā</hi> (Lev 24:5, see #24.1), as it is in the <hi rend="italic">qal</hi> forms from <hi rend="italic">BWʸ</hi>. In any case it is probable that the <hi rend="italic">qal</hi> forms from <hi rend="italic">BWʸ</hi> sometimes show final stress, while other <hi rend="italic">qal</hi> forms from roots III <hi rend="italic">ʾ</hi> and III <hi rend="italic">h</hi> do not, because the forms from <hi rend="italic">BWʸ</hi> are composed only of two syllables, and final stress developed more readily in such short forms than in longer forms.<note n="28">28. E.g. final stress is not uncommon in perfect and imperative forms with vocalic affix from the <hi rend="italic">qal</hi> stem of hollow or geminate roots (see above n. 2, 3), that is in forms of two syllables, but is extremely rare in the longer imperfect forms, and in forms from other stems.</note></p>
+
+<p>19.2 Final stress is shown in forms from stems other than <hi rend="italic">qal</hi> of roots III <hi rend="italic">h</hi> in two-word clauses only before <hi rend="italic">alef</hi>, as <hi rend="italic">wehiprêtî ʾōtô</hi> (Gen 17:20) and seven other cases.<note n="29">29. Exod 40:4, Lev 26:9, 9, 1 Sam 15:3, Ezek 4:6, 36:29, 37:26. Not before <hi rend="italic">ʿayin</hi> in 1 Sam 10:6, Ps 38:9 (although in the latter case penultimate stress could be due to a minor pausal situation (see #18.5).</note> Penultimate stress occurs before <hi rend="italic">alef</hi> only in <hi rend="italic">wehirbîtā ʾet gebûlî</hi> (1 Chr 4:10).</p>
+
+<p>19.3 In longer clauses, forms from stems other than <hi rend="italic">qal</hi> of roots III <hi rend="italic">h</hi> show final stress before a word beginning with a guttural in forty-nine cases. There are four exceptions, described in #26.2.</p>
+
+<p>20 Where a <hi rend="italic">waw</hi> consecutive perfect form occurs in a form or situation other than those described in #17–19, stress position varies according to the length and structure of the clause.<note n="30">30. It has long been noted that, in <hi rend="italic">waw</hi> consecutive perfect forms from roots III <hi rend="italic">ʾ</hi> and III <hi rend="italic">h</hi>, final stress is more usual where the penultimate vowel is <hi rend="italic">sere</hi>, penultimate stress where it is <hi rend="italic">hireq</hi>. E.g. Bergsträsser (1929, #4d). This is presumably not mere coincidence, but the reason for it is uncertain, and it has not proved possible to show that this is a key</note></p>
+      <pb n="293"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 293</head>
+
+<p>20.1 In clauses of two words, stress is FINAL
+in (a)<ref target="#n31">³¹</ref> <hi rend="italic">wehēṭibōtî</hi> Ezek 36:11, (c) <hi rend="italic">wehēbētā</hi> Gen 27:10, also <hi rend="italic">wehôšētā bô</hi>
+Ezek 12:5.
+20.2 Stress is PENULTIMATE
+in (b) <hi rend="italic">wahăṣērōtî</hi> Jer 10:18, Zeph 1:17, (c) <hi rend="italic">wenimṣētî</hi> Jer 29:14.
+20.3 The cases from (a) hollow and (b) geminate roots are of similar
+structure due to sound change. Where penultimate stress is shown, the
+word following the verb is stressed on its second or third syllable. The
+word following <hi rend="italic">wehēṭibōtî</hi> (Ezek 36:11) is stressed on its fifth. Probably
+the unusual length of this word has allowed the development of final
+stress, as in a longer two-constituent clause (#21). Among the forms
+from (c) roots III<hi rend="italic">ʾ</hi>, penultimate stress is shown in Jer 29:14, where the
+clause is followed by a phrase marking it as quoted speech. In Gen
+27:10, the clause is closely related to what follows (its indirect object is
+subject of the following one-word clause) and this may have led to final
+stressing (see #16.3.i). In Ezek 12:5, the verb stands in a two-word
+clause, before a word stressed (with <hi rend="italic">sillûq</hi>) on its first syllable, so penul-
+timate stress is expected (see #18.6a). Anomalous final stress does occur,
+however, in a number of similar positions.<ref target="#n32">³²</ref>
+21.1 In longer clauses of two constituents, stress is FINAL in forms
+from geminate roots, or roots III<hi rend="italic">ʾ</hi> (there are no examples from hollow
+roots) as <hi rend="italic">wehēbētî rāʿê gôyim</hi> (“I will bring the wicked of the nations”,
+Ezek 7:24), and other cases in (b) Hos 2:14, (c) Exod 29:9, where the
+second constituent is the object, and also, with an indirect object, <hi rend="italic">weqin-
+nētî</hi> (“I will act with zeal for my Holy Name”, Ezek 39:25). In forms
+from roots III <hi rend="italic">h</hi>, stress is final only in <hi rend="italic">wehikkêtî</hi> Exod 12:12, where the
+verb is followed by a long object constituent, the main division of which
+follows its fourth word.
+21.2 Stress is PENULTIMATE in forms from roots III <hi rend="italic">h</hi> in <hi rend="italic">wehilwîtā
+gôyim rabbîm</hi> (“You will lend to many nations”, Deut 28:12) and eight
+other cases in which the second constituent is composed of two or three</p>
+
+<note xml:id="n31">to the conditioning of stress position. The most recent study (Artom, 1958) involves the
+accentuation in the attempt to do this, but the rules evolved (p. 208) do not cover even the
+limited area of forms from roots III <hi rend="italic">h</hi> in two-word clauses. Penultimate <hi rend="italic">ṣere</hi> is stressed
+with a conjunctive accent in <hi rend="italic">wenilʾētî</hi> (Jer 20:9), <hi rend="italic">wenidkêtî</hi> (Ps 38:9), and is not stressed
+with a disjunctive in <hi rend="italic">wehirbētî</hi> (Lev 26:9).
+31. To assist precise comparisons, the forms listed are categorized as from (a) hollow
+roots, (b) geminate roots, (c) roots III <hi rend="italic">ʾ</hi>, (d) roots III <hi rend="italic">h</hi>.</note>
+<note xml:id="n32">32. As in the two <hi rend="italic">hipʿil</hi> forms in Ps 118:25, the equally surprising <hi rend="italic">mizreḥā šāmeš</hi> (Deut
+4:41), and <hi rend="italic">yišpūṭû hem</hi> (Exod 18:26). Final stress is not likely to have arisen through error
+or carelessness in any of these cases, but the conditioning which presumably caused it is
+not understood.</note>
+      <pb n="294"/>
+<head>294 E. J. REVELL</head>
+<p>words,<note n="33">Also Gen 24:8, Deut 26:10, 30:17, 1 Sam 15:30, 23:2 (the second of a pair of verbs), 2 Kgs 5:18, Joel 4:21, Ps 19:14 (at the main division of a stich). The longest second constituent is <phrase xml:lang="he-Latn">lipenê YHWH ’ĕlōhēkā</phrase> (Deut 26:10).</note> and also in <phrase xml:lang="he-Latn">wehikkîtî</phrase> (Isa 8:17) where the second constituent is long, but its main division follows its first word.</p>
+<p>21.3 It seems clear that final stress is usual in clauses of this sort except in forms from roots III <hi rend="italic">h</hi>. In other forms, presumably, the clause was spoken as a unit, without a break sufficient to prevent the development of final stress. In forms of roots III <hi rend="italic">h</hi>, the natural division between the constituents did prevent this development except under the most favourable conditions: where the verb was followed by its object, and the next significant division was distant.</p>
+<p>22.1 In clauses of three constituents, stress is FINAL
+<list rend="dash">
+    <item>where the verb is followed by its object, as <phrase xml:lang="he-Latn">wahăśibbôtî pānay mēhem</phrase> Ezek 7:22, and eleven other cases.<note n="34">In (a) Exod 23:25, Ezek 11:19, Joel 4:7, Zech 9:7, 13:7; (b) Ezek 22:15; (d) Jer 31:14, Ezek 39:3, Amos 3:15, Nah 3:5, 5. The clauses are all short (3–5 words). The longest second constituent is <phrase xml:lang="he-Latn">nepeš hakkōhănîm</phrase> (Jer 31:14).</note></item>
+    <item>where the verb is separated from its object by one word, as <phrase xml:lang="he-Latn">wahăqēmōtā lekā ’ăbānîm gedōlôt</phrase> Deut 27:2, and seven other cases.<note n="35">In (a) 2 Sam 9:7, Jer 23:5; (b) Num 17:20, Ezek 20:38; (c) Isa 65:9; (d) Jer 33:6, Ezek 32:7. The third constituent ranges from one word (as in Isa 65:9) to seven (as in Num 17:20).</note></item>
+</list></p>
+<p>22.2 Stress is PENULTIMATE
+<list rend="dash">
+    <item>where the verb is followed by its object in <phrase xml:lang="he-Latn">wahăśibōtî</phrase> Amos 1:8.</item>
+    <item>where the verb is separated from its object by one word in <phrase xml:lang="he-Latn">wehoṣē’tā</phrase> Job 15:13.</item>
+    <item>where the clause does not include an object constituent, as <phrase xml:lang="he-Latn">wehišqîtā beraglekā kegan hayyārāq</phrase> Deut 11:10, also <phrase xml:lang="he-Latn">wahănîḥōtî</phrase> 2 Sam 7:11.</item>
+</list></p>
+<p>22.3 It is clear that the influence of the object is likely to cause the development of final stress in the verb (cf. #16.3). In the exception in Amos 1:8, the clause is third of three<note n="36">The second clause is a “dependent” clause: one in which some constituent(s) of the preceding clause (here the verb) is “understood” or “gapped”.</note> clauses describing attacks on separate Philistine cities followed by a concluding clause giving the results for all three. Where the verb shows final stress in clauses of this sort, the clause is never similarly related to what precedes, so this relationship may have prevented the development of final stress.<note n="37">If so, then the main division must have been between the third and fourth clauses, as in the similar structure in Amos 1:5, not between the second and third, as the <hi rend="italic">atnaḥ</hi> of the accentuation.</note> In the exception in Job 15:13, penultimate stressing may have been caused by a division</p>
+      <pb n="295"/>
+<head>WAW CONSECUTIVE PERFECT FORMS</head>
+<p>after the verb like that marked by the accents in the similar structure in Job 9:30 (see #18.3).</p>
+<p>23.1 In clauses of more than three constituents, stress is FINAL
+—where the verb is followed by its object as <label rendition="italics">weśakkōtî kappî ʿalékā ʿad ʿobrî</label> (Exod 33:22); also forms in (a) 1 Chr 22:10; (b) Isa 65:7; (c) Ezek 12:4.
+—where the verb is separated from its object by one word, as <label rendition="italics">wehôṣētā lāhem mayim min hasselaʿ</label> (Num 20:8); also in (a) Ezek 34:29, Mal 3:10.
+—where no object is present in <label rendition="italics">ûbērētā lekā šām beʾereṣ . . .</label> Josh 17:15.</p>
+<p>23.2 Stress is PENULTIMATE
+—where the verb is followed by its object in <label rendition="italics">wahăśîrōtā demê hinnām ăšer . . .</label> 1 Kgs 2:31.
+—where the verb is separated from its object by a two-word phrase in (a) Amos 9:9.</p>
+<p>23.3 Here again it appears that a verb was usually closely joined to the object if it followed directly or was separated only by one word. In the exception in 1 Kgs 2:31 the verb was probably separated from the object phrase because of its length (five words, compared to one or two in the other cases. The verb has <label rendition="italics">legarmeh</label>). In the case in Amos 9:9, penultimate stress seems anomalous (see #25.2).<note place="foot" n="38">38. The verb may have been joined in a unit with the preceding participle, “I will command to toss . . . .” (cf. #18.5).</note></p>
+<p>24.1 The cases in which verbs from roots III <label rendition="italics">h</label> show anomalous stress position are related as follows to the patterns described above. In Lev 24:5, <label rendition="italics">weʾāpîtā</label> (see #17) stands in a three-constituent clause, followed by its object. Consequently final stress would be expected in a form from stem other than <label rendition="italics">qal</label> even where the word following the verb did not begin with <label rendition="italics">alep</label> (#22.1). In <label rendition="italics">wehirbîtā</label> 1 Chr 4:10 (see #19.2) penultimate stress seems unlikely under #20.3 if the following word did not begin with <label rendition="italics">alep</label>. The clause is second in a group of four. Possibly the stress pattern reflects the treatment of this clause as closely related to the preceding but not to the following—that is, a form of tradition in which the four clauses were divided two and two, instead of three and one as in the received accentuation. It is possible, then, that these two cases do reflect the same conditioning factors as the majority of these forms.</p>
+<p>24.2 In the four cases referred to in #19.3, the penultimate stressing would be anomalous even if the following word did not begin with a guttural. Thus the verb of a three-constituent clause shows final stress where followed by its object in twelve of thirteen cases (#22), but this is</p>
+      <pb n="296"/>
+<head>E. J. REVELL</head>
+<p>not true of <gloss>wehaʿālîtā</gloss> in Judg 6:26, Jer 38:10. The same is true of a longer clause in four of five cases (#23, see also #25.3), but not in <gloss>weṣiwwîtî</gloss> (Lev 25:21).<note place="foot" n="39">Some unimportant sources show final stress on the verb here. See Ginsburg (1926, <hi rend="italic">ad loc</hi>).</note> The verb of a longer clause shows final stress where separated from its object by one word in all three cases (#23.1, see also #25.2), but not in <gloss>wehaʿālîtā</gloss> in Deut 27:6. As with the cases of <hi rend="italic">waw</hi> “simple” with the perfect listed in #4.3, there is no doubt a good reason for the stressing of these four forms, but it is not possible to relate it to the relatively regular patterns shown by the other forms. Consequently they are not considered as providing evidence on the conditioning of stress position.</p>
+<p>25 It appears from this survey that the feature which has the greatest influence on the development of final stress in <hi rend="italic">waw</hi> consecutive perfect forms generally, is the position of the verb form relative to the end of the speech unit, be that the end of the clause, of a division within the clause, or the end of a unit composed of two short clauses.</p>
+<p>25.1 The basic framework for these divisions is syntactic; the arrangement of the text in words, phrases, and clauses. Semantic factors determine whether the relation of one of these to the following is so close that its syntactic boundary fails to create a significant division. If this is the case, the boundary of the unit will not be marked by any phenomenon characteristic of the end of a speech unit. This effect of semantic relationship is strikingly seen in the fact that, under certain semantic conditions, a <hi rend="italic">waw</hi> consecutive perfect form will show final stress before a word stressed on its first syllable, whether the penultimate syllable of the verb is closed or open (see #18.6e, cf. also the failure of unit-end markers at clause-ends noted in #9.1, #16.3.i, #20.3, and, for <hi rend="italic">nesîgā</hi>; Revell, 1983, p. 41).</p>
+<p>25.2 The conventional rhythm of speech tends, no doubt in part for physiological reasons, to produce speech units more or less equal in length. This rhythmic factor clearly has an effect on the formation of speech units in some cases, as in the treatment of lists, described in #10, where the items are grouped arbitrarily to produce units of similar length. This same factor appears to govern the division of longer clauses.</p>
+<list>
+<item>(a) In clauses of more than three constituents, where the verb is not followed by its object, stress is FINAL where the natural semantic division of the clause follows the third constituent, and the unit made up of the first three constituents is not inconveniently long. Thus—where the second and third constituents are each composed of only one word:</item>
+</list>
+      <pb n="297"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 297</head>
+<p>Num 20:8, Josh 17:15, Ezek 34:29, Mal 3:10 (#23.1), and even where the second constituent is stressed on its first syllable: Exod 34:2 (#15.5).</p>
+<list>
+    <item>— Where the second constituent is one word (stressed on its first syllable), the third is a two-word phrase, and the fourth two or three words: Exod 26:33, 28:17 (#18.6).</item>
+</list>
+<p>(b) Stress is PENULTIMATE where the second constituent is stressed on its first syllable, and the first three constituents would make an inconvenient unit, so that a pause after the second was desirable for rhythmic reasons.</p>
+<list>
+    <item>— Because the third constituent was long, and the fourth, one word, so that division after the third would lead to rhythmic imbalance: Josh 15:16 = Judg 1:12 (#15.5), 1 Chr 22:9 (#18.6e), and probably Hos 2:17 (#15.5), since the third constituent <mentioned>ʾet kerāmĕhā</mentioned> seems significantly longer, and the fourth, <mentioned>miššām</mentioned>, significantly shorter, than <mentioned>mayim</mentioned> and <mentioned>min hasselaʿ</mentioned>, in Num 20:8, the most similar case with final stress.</item>
+    <item>— Because the third constituent begins a series of three parallel phrases forming the object, which is long enough to form an independent speech unit, and the following constituent is also long: Jer 24:10 (#15.5).</item>
+    <item>— Because the fourth constituent expands the subject pronoun in the verb, so the situation is effectively that of a short three-constituent clause closely related to what follows: 2 Sam 9:10 (#15.5, cf. #15.4d, unless this is to be regarded as an anomaly).</item>
+</list>
+<p>Penultimate stress in <mentioned>wahăniʿōtî</mentioned> Amos 9:9 (#23.2), before a two-word prepositional phrase, seems an exception to these patterns (but see n. 38).</p>
+<p>(c) In clauses of three constituents in which the verb is followed by its object, the speech unit was generally restricted to the verb and its object, as elsewhere (#16.3.ii). Consequently the development of final stress is blocked by initial stress on the following word: Deut 16:2 (#15.5), Lev 26:36, Mal 2:3 (#18.6b), exception Num 31:28 (see #18.6b). Elsewhere stress is final (four cases, #23.1) unless the object constituent is exceptionally long, making a pause after the verb desirable on rhythmic grounds: 1 Kgs 2:31 (#23.2).</p>
+<p>25.3 The fact that the rhythmic factor appears to condition the stressing of these forms in the same way, whether the penultimate syllable is closed or open, supports the conclusion reached in #18.6, #25.1, that the basic conditioning was the same for all forms. This is the conditioning by the intonation patterns characteristic of the speech units into which the text was divided. The effect of these intonation patterns is, however, modified by the structure of the verb forms, and, in some cases, by other factors.</p>
+<p>26.1 The factors conducive to final stressing have less effect where the penultimate syllable is open than where it is closed, and least effect of all</p>
+      <pb n="298"/>
+<head>E. J. REVELL</head>
+<p>on forms from roots III <hi rend="italic">h</hi>. Final stress did not develop in these latter forms in two-constituent clauses unless the second constituent (or the first division of it) was more than three words in length, except under the most favourable conditions (where the following word began with <hi rend="italic">alep</hi> #19.2, #21). In forms from other roots final stress develops (where the following word does not begin with a guttural) if the last main stress in the unit is more than three syllables from the verb (#20.3, #21). In clauses of three constituents, the divisions between the constituents were not of sufficient significance to bring this length factor into play except where both second and third were prepositional (#22.2). Presumably in this case a significant division was made after the second constituent, which is not long enough either in Deut 11:10 (verb from root III <hi rend="italic">h</hi>, second constituent four syllables) or 2 Sam 7:11 (verb from hollow root, second constituent two syllables) to allow the development of final stress in the verb. In the four-constituent clause in Josh 17:15 where no object is present, the main division presumably followed the third constituent (as in the accentuation) providing a unit after the verb long enough for the development of final stress, as in a three-constituent clause (see #25.2). The different structures of verb forms, then, form a hierarchy according to the extent to which they inhibit the development of final stress. In all forms, stress is penultimate if the verb is followed by a significant division (#14.1–6, 18.1–5). Elsewhere, the development of final stress is blocked in forms with a closed penultimate only where the following word is stressed on its first syllable and is followed by a significant division (#15). In forms with an open penultimate, final stress is not developed unless the next division is more distant, as described above. Whether or not a given division is “significant” enough to block the development of final stress in any particular case is determined by the syntactic, semantic and rhythmic factors as described in #25.</p>
+<p>26.2 The factor conducive to the development of final stress—position within a “clause-level” speech unit—is the same for all forms. The effect of this factor is inhibited by “phrase-level” subdivisions of this unit in the way described. Such subdivisions have no effect on forms with a closed penultimate syllable, except where the verb is followed by a word stressed on its first syllable. Where the penultimate syllable is open, the effect of the subdivisions is greatest on forms of three syllables or less which do not have an originally long antepenultimate (see #19.1). The effect of the subdivisions is nullified in a few of these forms, and in most others, where the following word begins with a guttural (#19). It is, however, important to note that a following guttural has no effect in a position in which the development of final stress would be blocked in a form with a closed penultimate syllable, whether this be a “clause-level”</p>
+      <pb n="299"/>
+<head>WAW CONSECUTIVE PERFECT FORMS 299</head>
+<p>division (#18.5), or before a word stressed on its first syllable (#18.6e). That is, the development of final stress is blocked in all forms at the end of a clause-level unit. Position within such a unit is conducive to the development of final stress, but whether or not this occurs is dependent on the internal structure of the unit, the significant factors being the structure of the verb form, the nature of the following sound, and also the position of the verb relative to the last main stress in a “phrase-level” subdivision of the unit. The distinction made in Blau (1971, #5.4) between a “shift” to final stress shown in forms with a closed penultimate, and a “tendency” to such a shift in other forms, although of course based on accurate observation, is arbitrary, and obscures the larger picture.</p>
+<p>27 Stress position in perfect forms with <hi rend="italic">waw</hi> consecutive is, then, conditioned by the intonation patterns characteristic of the speech units into which the text was divided (in one form of the reading tradition) according to the syntactic, (other) semantic, and rhythmic factors described. Whether or not these intonation patterns induce final stress in a verb form at a given position in a unit is determined by the phonological structure of the unit. Because our information comes from a written source which does not represent these intonation patterns (see #12), it is not possible to provide a comprehensive, precise, and objective description of the boundaries of the units, let alone a description of their structure. However, the relation of stress position to the syntactic, semantic, and rhythmic factors is sufficiently clear that there can be no doubt that the variation in stress position in these forms represents one of the many facets of the influence of these intonation patterns on the vowelling and stress position of the words of biblical Hebrew.</p>
+<head>BIBLIOGRAPHY</head>
+<list>
+<item>Artom, E. S. 1958. “The Accent of the Consecutive Perfect of Verbs tertiae ʾ and <hi rend="italic">h.</hi>” <hi rend="italic">Leshonenu</hi> 22:205–208.</item>
+<item>Ben David, Y. 1984. “Pausal Forms in Verses Lacking the ʾ<hi rend="italic">Etnaḥta</hi>ʾ in the Twenty-One Books.” <hi rend="italic">Textus</hi> 11:51–63.</item>
+<item>Bergsträsser, G. 1929. <hi rend="italic">Hebräische Grammatik</hi>, II Teil. Leipzig.</item>
+<item>Blau, J. 1971. “The General Background of the Stress Shift in the Perfect with <hi rend="italic">Wāw</hi> Consecutive” (= “Marginalia Semitica 5”). <hi rend="italic">Israel Oriental Studies</hi> 1:15–24.</item>
+<item>Driver, S. R. 1892. <hi rend="italic">A Treatise on the Use of the Tenses in Hebrew</hi>³. Edinburgh.</item>
+</list>
+      <pb n="300"/>
+<list>
+    <item>Ginsburg, C. D. 1926. <title level="m">The Old Testament . . . with the Various Readings from MSS.</title> London.</item>
+    <item>Gordon, C. H. 1938. “The Accentual Shift in the Perfect with <title level="a">Waw</title> Consecutive.” <title level="j">Journal of Biblical Literature</title> 57:319–325.</item>
+    <item>Huesman, J. 1956. “The Infinitive Absolute and the <title level="a">Waw</title> + Perfect Problem.” <title level="j">Biblica</title> 37:410–434.</item>
+    <item>Loretz, O. 1961. “The <title level="a">Perfectum Copulativum</title> in 2 Sam 7, 9–11.” <title level="j">Catholic Biblical Quarterly</title> 23:294–296.</item>
+    <item>Mayer, R. 1959. “Auffallender Erzählungsstil in einem angeblichen Auszug aus der ‘Chronik der Könige von Juda’.” <title level="m">Festschrift Friedrich Baumgärtel</title>, ed. J. Herrmann (Erlanger Forschungen, Reihe A, Bd 10) Erlangen, p. 114–123.</item>
+    <item>McFall, L. 1982. “The Tone Shift in 1st and 2nd Persons Masc. Sing. <title level="a">wqtl</title>-forms” and “The Determining Influence of the Syntactical Context on the Position of the Verbal Tone” = Appendix 2, pp. 189–210 in L. McFall, <title level="m">The Enigma of the Hebrew Verbal System</title>. Sheffield.</item>
+    <item>Revell, E. J. 1980. “Pausal Forms in Biblical Hebrew: their Function, Origin, and Significance.” <title level="j">Journal of Semitic Studies</title> 25:165–179.</item>
+    <item>———. 1981. “Syntactic/Semantic Structure and the Reflexes of Original Short <title level="a">a</title> in Tiberian Pointing.” <title level="j">Hebrew Annual Review</title> 5:75–100.</item>
+    <item>———. 1983. “<title level="a">Nesiga</title> and the History of the Masorah.” <title level="j">Estudios Masoréticos</title> pp. 37–48 (=<title level="m">Textos y Estudios</title> 33). Madrid.</item>
+    <item>———. 1984. “Stress and the <title level="a">Waw</title> ‘Consecutive’ in Biblical Hebrew.” <title level="j">Journal of the American Oriental Society</title> 104:437–444.</item>
+    <item>Yeivin, I. 1980. <title level="m">Introduction to the Tiberian Masorah</title>. Missoula.</item>
+</list>
+      <pb/>
+<p>
+  <gap reason="illegible" unit="page" extent="1"/>
+</p>
+      <pb/>
+<fw type="header" place="top-right">Bib 43</fw>
+<docTitle>
+    <titlePart type="main">SEMITIC STUDIES</titlePart>
+    <titlePart type="sub">In honor of<lb/>
+    WOLF LESLAU<lb/>
+    On the occasion of his eighty-fifth birthday<lb/>
+    November 14th, 1991</titlePart>
+    <titlePart type="volume">Volume II</titlePart>
+</docTitle>
+<byline>Edited by<lb/>
+<persName>Alan S. Kaye</persName></byline>
+<p rend="italic">(Offprint)</p>
+<docDate>1991</docDate>
+<docImprint>OTTO HARRASSOWITZ · WIESBADEN</docImprint>
+      <pb n="VOLUME I"/>
+<head>VOLUME I</head>
+<list>
+<item>Language Index . . . . . . . . . . . . . . . . . . . . . . . . . XIV</item>
+<item>Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . XVII</item>
+<item>The Making of a Semitist by Alan S. Kaye . . . . . . . . . . . . XXI</item>
+<item>Annotated Bibliography by Monica S. Devens . . . . . . . . . . XXXV</item>
+<item>Abbreviations of the Periodicals . . . . . . . . . . . . . . . . . LXVII</item>
+</list>
+
+<list>
+<item><hi rend="small-caps">Abraham Demoz</hi>, <title level="a">Lexical Innovation in Contemporary Ethiopic</title> . . . . . 1</item>
+<item><hi rend="small-caps">Abu-Haidar</hi>, F., <title level="a">Language and Sex: the Case of Expatriate Iraqis</title> . . . . . 28</item>
+<item><hi rend="small-caps">Admassu</hi>, see Yonas Admassu</item>
+<item><hi rend="small-caps">Agius</hi>, Dionisius A., <title level="a">Precedence of VOS over VSO in Modern Standard Arabic</title> 39</item>
+<item><hi rend="small-caps">Aklilu</hi>, see Amsalu Aklilu</item>
+<item><hi rend="small-caps">Ambros</hi>, Arne A., <title level="a">A Computer-assisted Statistical Survey of Ethiopic
+Verb Patterns Based on Wolf Leslau's Concise Dictionary of Geʿez</title> . . . . 56</item>
+<item><hi rend="small-caps">Amsalu Aklilu</hi>, <title level="a">The Influence of Arabic on Wollo Amharic</title> . . . . . . 72</item>
+<item><hi rend="small-caps">Arbeitman</hi>, Yoël L., <title level="a">Ugaritic Pronominals in the Light of Morphophonemic
+Economy</title> . . . . . . . . . . . . . . . . . . . . . . . . . . 82</item>
+<item><hi rend="small-caps">Avanzini</hi>, Alessandra, <title level="a">Linguistic Data and Historical Reconstruction:
+Between Semitic and Epigraphic South Arabian</title> . . . . . . . . . . 107</item>
+<item><hi rend="small-caps">Bar-Adon</hi>, Aaron, <title level="a">Reviving a Language: Different Roles for Men, Women,
+and Children?</title> . . . . . . . . . . . . . . . . . . . . . . . 119</item>
+<item><hi rend="small-caps">Bar-Asher</hi>, Moshe, <title level="a">Hebrew Elements in North African Judeo-Arabic:
+Alternations in Meaning and Form</title> . . . . . . . . . . . . . . . 128</item>
+<item><hi rend="small-caps">Barr</hi>, James, <title level="a">Is Hebrew <hi rend="italic">qen</hi> "nest" a Metaphor?</title> . . . . . . . . . . 150</item>
+<item><hi rend="small-caps">Blau</hi>, Joshua, <title level="a">On Some Misspelt, Misunderstood and Wrongly Transmitted
+Vocables in Medieval Judeo-Arabic</title> . . . . . . . . . . . . . . . 162</item>
+<item><hi rend="small-caps">Bloch</hi>, Ariel A., <title level="a">Questioning God's Omnipotence in the Bible: A Linguistic
+Case Study</title> . . . . . . . . . . . . . . . . . . . . . . . . 174</item>
+<item><hi rend="small-caps">Bolozky</hi>, Shmuel, <title level="a">Casual and Formal Vowel Deletion in Modern Hebrew</title> . 189</item>
+<item><hi rend="small-caps">Carter</hi>, M. G., <title level="a">Ibn Jinnī's Axiom "The Adventitious Determines the Rule"</title> 199</item>
+<item><hi rend="small-caps">Caubet</hi>, Dominique, <title level="a">The Active Participle as a Means to Renew the
+Aspectual System: A Comparative Study in Several Dialects of Arabic</title> . . . 209</item>
+<item><hi rend="small-caps">Cohen</hi>, David, <title level="a">Berbère et couchitique. Notes comparatives sur des noms de
+parties du corps</title> . . . . . . . . . . . . . . . . . . . . . . . 225</item>
+<item><hi rend="small-caps">Comrie</hi>, Bernard, <title level="a">Toward a History of Arabic Maltese</title> . . . . . . . . 234</item>
+<item><hi rend="small-caps">Corré</hi>, Alan D., <title level="a">Hebrew—Some Modest Proposals</title> . . . . . . . . . 245</item>
+<item><hi rend="small-caps">Correll</hi>, Christoph, <title level="a">Gedanken zur nichtpossessiven Determination mit Hilfe
+von Possessivsuffixen im Altäthiopischen und Amharischen</title> . . . . . . . 252</item>
+<item><hi rend="small-caps">Corriente</hi>, F., <title level="a">The Undeciphered Andalusī Arabic Words from P. de Alcalá
+in Dozy's Supplément aux dictionnaires arabes</title> . . . . . . . . . . 267</item>
+<item><hi rend="small-caps">Daniels</hi>, Peter T., <title level="a">Ha, La, Ḥa or Hôi, Lawe, Ḥaut ? The Ethiopic
+Letter Names</title> . . . . . . . . . . . . . . . . . . . . . . . 275</item>
+<item><hi rend="small-caps">Demoz</hi>, see Abraham Demoz</item>
+<item><hi rend="small-caps">Devens</hi>, Monica S., <title level="a">On the Laryngeal Rules in Geʿez</title> . . . . . . . . 289</item>
+<item><hi rend="small-caps">Diakonoff</hi>, I. M., <title level="a">On Plene-spelling in Akkadian</title> . . . . . . . . . . 295</item>
+<item><hi rend="small-caps">Diem</hi>, Werner, <title level="a">Vom Altarabischen zum Neuarabischen. Ein neuer Ansatz</title> . 297</item>
+<item><hi rend="small-caps">Dietrich</hi>, M., and O. Loretz, <title level="a">Ugaritisch <hi rend="italic">ʿašr</hi>, <hi rend="italic">āširūma</hi> und äthiopisch
+<hi rend="italic">ʿaššara</hi></title> . . . . . . . . . . . . . . . . . . . . . . . . . . 309</item>
+<item><hi rend="small-caps">Dolgopolsky</hi>, A., <title level="a">Two problems of Semitic. I. Mimation and Nunation. II.
+Akkadian Reflexes of *<hi rend="italic">ṣ</hi> and *<hi rend="italic">ḥ</hi></title> . . . . . . . . . . . . . . . . . 328</item>
+<item><hi rend="small-caps">Dombrowski</hi>, F. A., and B. W. W. Dombrowski, <title level="a">Numerals and Numeral
+Systems in the Hamito-Semitic and Other Language Groups</title> . . . . . . 340</item>
+<item><hi rend="small-caps">Drewes</hi>, A. J., <title level="a">Some Features of Epigraphical Ethiopic</title> . . . . . . . 382</item>
+<item><hi rend="small-caps">Edzard</hi>, Dietz Otto, <title level="a">Gilgameš XI 65-69</title> . . . . . . . . . . . . 392</item>
+<item><hi rend="small-caps">Edzard</hi>, Lutz, <title level="a">Semitic Phonology and Preference Laws for Syllable
+Structure</title> . . . . . . . . . . . . . . . . . . . . . . . . . 397</item>
+</list>
+      <pb/>
+<head>TABLE OF CONTENTS</head>
+
+<list>
+    <item><hi rend="smallcaps">Faber</hi>, Alice, <title level="a">The Diachronic Relationship between Negative and Interrogative Markers in Semitic</title> <ref target="#p411">411</ref></item>
+    <item><hi rend="smallcaps">Fischer</hi>, Wolfdietrich, <title level="a">What is Middle Arabic?</title> <ref target="#p430">430</ref></item>
+    <item><hi rend="smallcaps">Fishman</hi>, Joshua A., <title level="a">The Hebraist Response to the Tshernovits Conference</title> <ref target="#p437">437</ref></item>
+    <item><hi rend="smallcaps">Frajzyngier</hi>, Zygmunt with Tamar Katriel, <title level="a">Functions of Propositional Relators</title> <ref target="#p449">449</ref></item>
+    <item><hi rend="smallcaps">Fronzaroli</hi>, Pelio, <title level="a">Niveaux de langue dans les graphies Eblaïtes</title> <ref target="#p462">462</ref></item>
+    <item><hi rend="smallcaps">Fusella</hi>, Luigi, <title level="a">Consuetudini di vita in Etiopia alla fine del 19<hi rend="superscript">e</hi> secolo secondo un manoscritto amarico inedito</title> <ref target="#p477">477</ref></item>
+    <item><hi rend="smallcaps">Garad</hi>, Abdurahman and Ewald Wagner, <title level="a">Harari-Verse und Sprüche</title> <ref target="#p491">491</ref></item>
+    <item><hi rend="smallcaps">Garbini</hi>, Giovanni, <title level="a">On the Origin of the Hebrew-Philistine Word <hi rend="italic">séren</hi></title> <ref target="#p516">516</ref></item>
+    <item><hi rend="smallcaps">Getatchew Haile</hi>, <title level="a"><hi rend="bold">Qəne</hi> Poems in Older Amharic</title> <ref target="#p521">521</ref></item>
+    <item><hi rend="smallcaps">Goldenberg</hi>, Gideon, <title level="a">“Oneself”, “One’s Own” and “One Another” in Amharic</title> <ref target="#p531">531</ref></item>
+    <item><hi rend="smallcaps">Gordon</hi>, Cyrus H., <title level="a">Eblaite</title> <ref target="#p550">550</ref></item>
+    <item><hi rend="smallcaps">Goshen-Gottstein</hi>, Moshe, <title level="a">The Present State of Comparative Semitic Linguistics</title> <ref target="#p558">558</ref></item>
+    <item><hi rend="smallcaps">Gragg</hi>, Gene, <title level="a">“Also in Cushitic”: How to Account for the Complexity of Geʿez-Cushitic Lexical Interactions?</title> <ref target="#p570">570</ref></item>
+    <item><hi rend="smallcaps">Greenberg</hi>, Joseph H., <title level="a">The Semitic “Intensive” as Verbal Plurality. A Study of Grammaticalization</title> <ref target="#p577">577</ref></item>
+    <item><hi rend="smallcaps">Greenfield</hi>, Jonas C., <title level="a">The Verb for Washing in Aramaic</title> <ref target="#p588">588</ref></item>
+    <item><hi rend="smallcaps">Haile</hi>, see <hi rend="smallcaps">Getatchew Haile</hi></item>
+    <item><hi rend="smallcaps">Hary</hi>, Benjamin, <title level="a">On the Use of <hi rend="italic">ʾilā</hi> and <hi rend="italic">li</hi> in Judeo-Arabic Texts</title> <ref target="#p595">595</ref></item>
+    <item><hi rend="smallcaps">Hayes</hi>, John, <title level="a">The Lexical Relationship between Epigraphic South Arabic and Ugaritic</title> <ref target="#p609">609</ref></item>
+    <item><hi rend="smallcaps">Heath</hi>, Jeffrey, <title level="a">Moroccan Arabic Plurals and Gemination: Some Data to Sleep On</title> <ref target="#p627">627</ref></item>
+    <item><hi rend="smallcaps">Hodge</hi>, Carleton T., <title level="a">Miktam</title> <ref target="#p634">634</ref></item>
+    <item><hi rend="smallcaps">Hoftijzer</hi>, J., <title level="a">A Preliminary Remark on the Study of the Verbal System in Classical Hebrew</title> <ref target="#p645">645</ref></item>
+    <item><hi rend="smallcaps">Holes</hi>, Clive, <title level="a">Kashkasha and the Fronting and Affrication of the Velar Stops Revisited: A Contribution to the Historical Phonology of the Peninsular Arabic Dialects</title> <ref target="#p652">652</ref></item>
+    <item><hi rend="smallcaps">Hudson</hi>, Grover, <title level="a">A- and B-type Verbs in Ethiopian and Proto-Semitic</title> <ref target="#p679">679</ref></item>
+    <item><hi rend="smallcaps">Huehnergard</hi>, John, <title level="a">Further South Semitic Cognates to the Akkadian Lexicon</title> <ref target="#p690">690</ref></item>
+    <item><hi rend="smallcaps">Ingham</hi>, B., <title level="a">Sentence Structure in Khūzistānī Arabic</title> <ref target="#p714">714</ref></item>
+    <item><hi rend="smallcaps">Israel</hi>, Felice, <title level="a">Some Conservative Features of Phoenician in the Light of Geographical Linguistics</title> <ref target="#p729">729</ref></item>
+    <item><hi rend="smallcaps">Izre’el</hi>, Shlomo, <title level="a">Reflections on the Amarna Recension of Adapa</title> <ref target="#p746">746</ref></item>
+    <item><hi rend="smallcaps">Jastrow</hi>, Otto, <title level="a">Unheimliche Begebnisse in Səndōr</title> <ref target="#p773">773</ref></item>
+    <item><hi rend="smallcaps">Kaddari</hi>, M. Z., <title level="a">An Overlooked Source of Modern Hebrew</title> <ref target="#p785">785</ref></item>
+    <item><hi rend="smallcaps">Kane</hi>, Thomas L., <title level="a">Some Observations on Amharic Idioms</title> <ref target="#p794">794</ref></item>
+    <item><hi rend="smallcaps">Kapeliuk</hi>, Olga, <title level="a">Definiteness and Indefiniteness in Amharic</title> <ref target="#p809">809</ref></item>
+    <item><hi rend="smallcaps">Katriel</hi>, see <hi rend="smallcaps">Frajzyngier</hi></item>
+    <item><hi rend="smallcaps">Kaufman</hi>, Stephen A., <title level="a">Geʿez Etymologies: Some Modest Proposals</title> <ref target="#p821">821</ref></item>
+    <item><hi rend="smallcaps">Kaye</hi>, Alan S., <title level="a">Etymology, Etymological Method, Phonological Evolution, and Comparative Semitics: Geʿez (Classical Ethiopic) <hi rend="bold">ṣəgr</hi> and Colloquial Syro-Palestinian Arabic <hi rend="bold">ṣətr</hi> ‘foot’ One Last Time</title> <ref target="#p826">826</ref></item>
+    <item><hi rend="smallcaps">Khan</hi>, Geoffrey, <title level="a">The Syllabic Nature of Tiberian Hebrew Vocalization</title> <ref target="#p850">850</ref></item>
+    <item><hi rend="smallcaps">Knudsen</hi>, Ebbe E., <title level="a">Amorite Grammar: A Comparative Statement</title> <ref target="#p866">866</ref></item>
+    <item><hi rend="smallcaps">Krotkoff</hi>, Georg, <title level="a">Remarks on the Iraqi Arabic Lexicon: Problems and Characteristics</title> <ref target="#p886">886</ref></item>
+</list>
+      <pb/>
+<head>TABLE OF CONTENTS</head>
+<head>VOLUME II</head>
+
+<list>
+    <item><ref>LENTIN, Jérôme, <title level="a">A propos de la valeur “intensive” de la IIème forme verbale en arabe Syrien: Modalité et expressivité. Vers un renouvellement du système verbal?</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">891</num></item>
+    <item><ref>LEVIN, Aryeh, <title level="a">What is Meant by Al-mafʿūl al-Muṭlaq?</title> . . . . . . . . . . . . . . .</ref> <num type="page">917</num></item>
+    <item><ref>LIPIŃSKI, E., <title level="a">Monosyllabic Nominal and Verbal Roots in Semitic Languages</title></ref> <num type="page">927</num></item>
+    <item><ref>LONNET, Antoine, see Simeone-Senelle</ref></item>
+    <item><ref>LOPRIENO, Antonio, <title level="a">Observations on the Traditional Pronunciation of Hebrew among Italian Jews</title> . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">931</num></item>
+    <item><ref>LORETZ, O., see Dietrich</ref></item>
+    <item><ref>LOWENSTAMM, Jean, <title level="a">Vocalic Length and Centralization in Two Branches of Semitic (Ethiopic and Arabic)</title> . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">949</num></item>
+    <item><ref>MACUCH, Rudolf, <title level="a">Pseudo-Ethiopisms in Samaritan Hebrew and Aramaic</title> . .</ref> <num type="page">966</num></item>
+    <item><ref>MALBRAN-LABAT, J., <title level="a">Le “passif” en akkadien</title> . . . . . . . . . . . . . . . .</ref> <num type="page">977</num></item>
+    <item><ref>MALKIEL, Yakov, <title level="a">Dubious, Pseudo-, Hybrid, and Mock-Orientalisms in Romance</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">991</num></item>
+    <item><ref>MALONE, Joseph L., <title level="a">‘Transjacence’ and ‘Interfacing’ in Chaha Songs and Proverbs</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1005</num></item>
+    <item><ref>MARRASSINI, Paolo, <title level="a">Some Observations on South Semitic</title> . . . . . . . . . .</ref> <num type="page">1016</num></item>
+    <item><ref>MASSON, Michel, <title level="a">Quelques parallélismes sémantiques en relation avec la notion “couler”</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1024</num></item>
+    <item><ref>MELTZER, Edmund S., <title level="a">DR, K3, GR: The Intertwining of Some Roots in Egyptian and Semitic</title> . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1042</num></item>
+    <item><ref>MELTZER, Tova, <title level="a">The Deictic Nature of alāku in Akkadian</title> . . . . . . . . . .</ref> <num type="page">1046</num></item>
+    <item><ref>MILLER, Catherine, <title level="a">De la cuisine familiale au commerce des spiritueux. Remarques sur un parler de femme à Juba</title> . . . . . . . . . . . . . . . .</ref> <num type="page">1059</num></item>
+    <item><ref>MORAG, S., <title level="a">Graded Isoglosses in East Aramaic</title> . . . . . . . . . . . . . . .</ref> <num type="page">1085</num></item>
+    <item><ref>MÜLLER, Hans-Peter, <title level="a">Zur Theorie der historisch vergleichenden Grammatik dargestellt am sprachgeschichtlichen Kontext des Althebräischen</title> . . . . . . .</ref> <num type="page">1100</num></item>
+    <item><ref>MURTONEN, A., <title level="a">On Proto-Semitic Reconstructions</title> . . . . . . . . . . . . .</ref> <num type="page">1119</num></item>
+    <item><ref>NEWMAN, Paul, <title level="a">Historical Decay and Growth in the Hausa Lexicon</title> . . . . .</ref> <num type="page">1131</num></item>
+    <item><ref>O’CONNOR, M., <title level="a">Cardinal-Direction Terms in Biblical Hebrew</title> . . . . . . . .</ref> <num type="page">1140</num></item>
+    <item><ref>ORNAN, Uzzi, <title level="a">Theoretical Gemination in Israeli Hebrew</title> . . . . . . . . . .</ref> <num type="page">1158</num></item>
+    <item><ref>OWENS, Jonathan, <title level="a">Local and Universal Sources of a Creole Verbal Construction</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1169</num></item>
+    <item><ref>PARDEE, D., <title level="a">The Structure of RS 1.002</title> . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1181</num></item>
+    <item><ref>PENNACCHIETTI, Fabrizio A., <title level="a">Gli allomorfi della flessione preteritale del dialetto neoaramaico orientale di Hertevin (Turchia) in prospettiva storica</title></ref> <num type="page">1197</num></item>
+    <item><ref>PIAMENTA, Moshe, <title level="a">Hypothetical Sentences in Jerusalem Arabic</title> . . . . . . .</ref> <num type="page">1203</num></item>
+    <item><ref>PODOLSKY, Baruch, <title level="a">The Schwa Vowel in Amharic</title> . . . . . . . . . . . . .</ref> <num type="page">1220</num></item>
+    <item><ref>POLÁČEK, Zdeněk, <title level="a">Several Notes on Text Connectors in Amharic</title> . . . . . .</ref> <num type="page">1226</num></item>
+    <item><ref>PRUNET, Jean-François, <title level="a">A Note on Dialectal Variation in Ennemor</title> . . . . . .</ref> <num type="page">1233</num></item>
+    <item><ref>PUHVEL, Jaan, <title level="a">Names and Numbers of the Pleiad</title> . . . . . . . . . . . . .</ref> <num type="page">1243</num></item>
+    <item><ref>RAZ, Shlomo, <title level="a">Semitic South Ethiopic: The Definite Future Revisited</title> . . . .</ref> <num type="page">1248</num></item>
+    <item><ref>RENDSBURG, Gary A., <title level="a">Parallel Developments in Mishnaic Hebrew, Colloquial Arabic, and Other Varieties of Spoken Semitic</title> . . . . . . . . .</ref> <num type="page">1265</num></item>
+    <item><ref>REVELL, E. J., <title level="a">Conditional Sentences in Biblical Hebrew Prose</title> . . . . . . .</ref> <num type="page">1278</num></item>
+    <item><ref>RICCI, Lanfranco, <title level="a">Iscrizioni paleoetiopiche</title> . . . . . . . . . . . . . . . .</ref> <num type="page">1291</num></item>
+    <item><ref>RICHTER, Renate, <title level="a">Functional Verbs and Functional Verb Constructions in Amharic</title> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</ref> <num type="page">1312</num></item>
+    <item><ref>RODGERS, Jonathan, <title level="a">The Subgrouping of the South Semitic Languages</title></ref> <num type="page">1323</num></item>
+    <item><ref>ROSÉN, Haiim B., <title level="a">Some Thoughts on the System of Designation of the Cardinal Points in Ancient Semitic Languages</title> . . . . . . . . . . . . . .</ref> <num type="page">1337</num></item>
+    <item><ref>ROSENHOUSE, Judith, <title level="a">Two Unstable Phonemes in Israeli Hebrew and Colloquial Arabic: ʾAleph and ʿAyin</title> . . . . . . . . . . . . . . . . . .</ref> <num type="page">1345</num></item>
+</list>
+      <pb/>
+<head>TABLE OF CONTENTS</head>
+<list>
+    <item>RUNDGREN, Frithiof, <title level="a">On the Form of the Texteme in Tigriña</title> . . . . . 1363</item>
+    <item>RYCKMANS, Jacques, <title level="a">Une plaquette de cuivre avec dédicace sabéenne à la “Mères des déesses”</title> . . . . . . . . . . . . . . . . . 1370</item>
+    <item>SABAR, Yona, <title level="a">The Hebrew Bible Vocabulary as Reflected through Traditional Oral Neo-Aramaic Translations</title> . . . . . . . . . . 1385</item>
+    <item>SCHRAMM, Gene M., <title level="a">Semitic Morpheme Structure Typology</title> . . . . . 1402</item>
+    <item>SCHWARZWALD, Ora (Rodrigue), <title level="a">Lexical Weight in Hebrew Inflectional Feminine Formation</title> . . . . . . . . . . . . . . . . . . 1409</item>
+    <item>SEGERT, Stanislav, <title level="a">Use of Comparative Semitic Material in Hebrew Lexicography</title> . . . . . . . . . . . . . . . . . . . . 1426</item>
+    <item>SHIVTIEL, Avihai, <title level="a">The Maze of Arabic</title> . . . . . . . . . . . . . 1435</item>
+    <item>SIMEONE-SENELLE, Marie-Claude and Antoine Lonnet, <title level="a">Lexique soqotri: les noms des parties du corps</title> . . . . . . . . . . . . . . . . . 1443</item>
+    <item>SODEN, Von, Wolfram, <title level="a">Deminutiva nach der Form <mentioned>qutail&gt;qutīl</mentioned> und vergleichbare vierkonsonartige Bildungen im Akkadischen</title> . . . . . . 1488</item>
+    <item>SPITALER, Anton, <title level="a">Das Femininum des Zahlwortes für “zwei” im Hebräischen und für “sechs” im Syrischen</title> . . . . . . . . . . . . . . . 1493</item>
+    <item>STEINER, Richard C., <title level="a">Addenda to “The Case for Fricative-Laterals in Proto-Semitic”</title> . . . . . . . . . . . . . . . . . . . . . 1499</item>
+    <item>STROOMER, Harry, <title level="a">A Note on the Arabic Dialect of Antakiya</title> . . . . . 1515</item>
+    <item>SWIGGERS, P., <title level="a">The Bet-Shemesh “Abecedary”</title> . . . . . . . . . 1520</item>
+    <item>TAINE-CHEIKH, Catherine, <title level="a">L’arabe des Bîdân, un dialecte bédouin du Maghreb occidental</title> . . . . . . . . . . . . . . . . . . 1528</item>
+    <item>TITOV, E. G., <title level="a">On the History of the Study of the Semito-Hamitic (Afrasian) Language Family</title> (translated from Russian by Moshe Perlman) . . . . . 1549</item>
+    <item>TROUPEAU, Gérard, <title level="a">Réflexions sur l’origine syriaque de l’écriture arabe</title> 1562</item>
+    <item>TSERETELI, K. G., <title level="a">About the States of Nouns in Aramaic</title> . . . . . . 1571</item>
+    <item>TSUJITA, Kyoji, <title level="a">The Retrospective Pronoun as Direct Object in Relative Sentences in Biblical Hebrew</title> . . . . . . . . . . . . . . . . 1577</item>
+    <item>UHLIG, Siegbert, <title level="a">Textcritical Questions of the Ethiopic New Bible</title> . . . . 1583</item>
+    <item>VANHOVE, Martine, <title level="a">L’expression du parfait en Maltais</title> . . . . . . . 1601</item>
+    <item>VOIGT, Rainer, <title level="a">On Voicing and Devoicing in Ugaritic</title> . . . . . . . 1619</item>
+    <item>VON SODEN, Wolfram, see Soden</item>
+    <item>WAGNER, Ewald, see Garad</item>
+    <item>WOIDICH, Manfred, <title level="a">Short /a/ in Cairo Arabic Morphophononology</title> . . . . 1632</item>
+    <item>YANNAI, Yigal, <title level="a">Spelling Variants in Dictionary Entries and the Case of Hebrew’s Semitic Script</title> . . . . . . . . . . . . . . . . . 1652</item>
+    <item>YONAS ADMASSU, <title level="a">T’obbiya Revisited: Reflections on Afework’s <foreign xml:lang="am">lǝbbwälläd tarik</foreign>.</title> . . . . . . . . . . . . . . . . . . . . . . . 1662</item>
+    <item>ZABORSKI, Andrzej, <title level="a">Biconsonantal Roots and Triconsononantal Root Variation in Semitic: Solutions and Prospects</title> . . . . . . . . . . 1675</item>
+    <item>ZEVIT, Ziony, <title level="a">How Do You Say “Noble” in Phoenician, Biblical Hebrew, and in Ugaritic?</title> . . . . . . . . . . . . . . . . . . . 1704</item>
+    <item>PETZOLT, Helmut, <title level="a">Der Autor und sein Verleger oder von einer Beziehung besonderer Art</title> . . . . . . . . . . . . . . . . . . . . 1716</item>
+</list>
+      <pb/>
+<p>An article that concerns more than one language is cited under each language with which the article deals.</p>
+
+<list>
+    <item>
+        <label>AFROASIATIC:</label> Dombrowski-Dombrowski, Titov. SEE also Cohen
+    </item>
+    <item>
+        <label>HAMITO-SEMITIC:</label> See AFROASIATIC
+    </item>
+    <item>
+        <label>AKKADIAN:</label> Diakonoff, Edzard, D., Izre’el, Malbran-Labat, Meltzer, T., Von Soden. SEE also Dolgopolsky, Huehnergard, Puhvel
+    </item>
+    <item>
+        <label>AMORITE:</label> Knudsen
+    </item>
+    <item>
+        <label>ARABIC:</label> Abu-Haidar, Agius, Carter, Caubet, Comrie, Corriente, Diem, Fischer, Heath, Holes, Ingham, Jastrow, Krotkoff, Lentin, Levin, Miller, Owens, Piamenta, Shivtiel, Stroomer, Taine-Cheikh, Vanhove, Woidich. SEE also Amsalu, Bar-Asher, Kaye, Lowenstamm, Malkiel, Rendsburg, Rosenhouse, Troupeau; and Judeo-Arabic
+    </item>
+    <item>
+        <label>ARAMAIC:</label> Greenfield, Morag, Pennacchietti, Tsereteli. SEE also Bloch, Macuch, Sabar, Spitaler, Troupeau
+    </item>
+    <item>
+        <label>EBLAITE:</label> Fronzaroli, Gordon
+    </item>
+    <item>
+        <label>ETHIOPIC:</label> Abraham Demoz, Ambros, Amsalu Aklilu, Correll, Daniels, Devens, Drewes, Fusella, Garad-Wagner, Getatchew Haile, Goldenberg, Hudson, Kane, Kapeliuk, Kaufman, Malone, Podolsky, Poláček, Prunet, Raz, Ricci, Richter, Rundgren, Uhlig, Yonas Admassu. SEE also Dietrich-Loretz, Gragg, Kaye, Lowenstamm, Macuch
+    </item>
+    <item>
+        <label>HEBREW:</label> Bar-Adon, Barr, Bloch, Bolozky, Corré, Fishman, Frajzyngier-Katriel, Garbini, Hodge, Hoftijzer, Kaddari, Khan, Loprieno, Masson, Müller, O’Connor, Ornan, Revell, Schwarzwald, Yannai. SEE also Bar-Asher, Macuch, Rendsburg, Rosenhouse, Sabar, Segert, Spitaler, Zevit
+    </item>
+    <item>
+        <label>JUDEO-ARABIC:</label> Blau, Bar-Asher, Hary
+    </item>
+    <item>
+        <label>PHOENICIAN:</label> Israel. SEE also Zevit
+    </item>
+    <item>
+        <label>SEMITIC:</label> Dolgopolsky, Edzard, L., Faber, Goshen-Gottstein, Greenberg, Lipiński, Marrassini, Murtonen, Rodgers, Rosén, Schramm, Steiner, Zaborski. SEE also Avanzini, Hudson, Heuhnergard, Kaye, Lowenstamm, Meltzer, E., Rendsburg, Segert
+    </item>
+    <item>
+        <label>SOUTH ARABIAN:</label> Ryckmans, Simeone-Senelle and Lonnet, Swiggers. SEE also Avanzini, Hayes
+    </item>
+    <item>
+        <label>SYRIAC:</label> See ARAMAIC
+    </item>
+    <item>
+        <label>UGARITIC:</label> Arbeitman, Pardee, Voigt. SEE also Dietrich-Loretz, Hayes, Zevit
+    </item>
+    <item>
+        <label>VARIA:</label> BERBER: Cohen; CUSHITIC: Cohen, Gragg, Hodge; EGYPTIAN: Meltzer, E.; HAUSA: Newman; INDO-EUROPEAN: Puhvel
+    </item>
+</list>
+      <pb/>
+<p></p>
+      <pb/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE</head>
+
+<p>E. J. REVELL</p>
+
+<p>University of Toronto</p>
+
+<head>1 Introduction</head>
+
+<p>Biblical Hebrew has been subject to much more intensive study than the Ethiopian languages which Prof. Leslau has done so much to elucidate. However, its largely practical aims (pedagogy, and the justification or improvement of translations) have led to a tendency to stress the similarity in the function of different structures. If Hebrew uses several structures, but modern languages use only one, the Hebrew structures are often seen as synonymous.<note n="1">A corresponding tendency sees polysemy where one Hebrew particle corresponds to several in a modern language.</note> Concentration on Hebrew usage, on the differences in contexts in which different structures occur rather than on their similarities, can often improve our understanding of the semantics of grammatical categorization, and so lead to better translation. This paper attempts this in the field of conditional sentences, where those introduced by <foreign xml:lang="he">אלו</foreign>, <foreign xml:lang="he">לו</foreign>, <foreign xml:lang="he">לולי</foreign> are recognized as a separate group, but those introduced by <foreign xml:lang="he">כי</foreign> and <foreign xml:lang="he">אם</foreign>, and some other structures, have not been differentiated. The study is restricted to prose texts, where the conditions governing the use of these structures are most easily appreciated.</p>
+
+<head>2 <foreign xml:lang="he">כי</foreign></head>
+
+<p><foreign xml:lang="he">כי</foreign> has a wide range of use. The cases treated here are, in the main, those glossed <foreign xml:lang="he">אם</foreign>, <foreign xml:lang="he">כאשר</foreign> (when, if) in Even Shoshan 1982. A few are added from other sources. Those rejected are noted in #2.2. <foreign xml:lang="he">כי</foreign> introduces a clause with a perfect verb in 28 of these cases. In 24 of these, the <foreign xml:lang="he">כי</foreign> clause precedes its main clause. 18 are temporal clauses preceded by <foreign xml:lang="he">ויהי</foreign> or <foreign xml:lang="he">והיה</foreign>. The function of <foreign xml:lang="he">כי</foreign> in the other six is</p>
+      <pb n="1279"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1279</head>
+
+<p>uncertain.<note n="2">In the remaining four cases the <foreign xml:lang="heb">כי</foreign> clause follows its main clause. These clauses could be temporal, but are equally probably causal.</note> <note n="3"><foreign xml:lang="heb">כאשר</foreign> ‘when’ is more commonly used to introduce temporal modification in these situations.</note> <note n="4">In all cases, a clause with a perfect verb introduced by <foreign xml:lang="heb">כי</foreign> represents a known fact.</note></p>
+
+<p>2.1 In the remaining cases in this group, <foreign xml:lang="heb">כי</foreign> is followed by an imperfect verb, or (rarely) a participle. Such clauses typically present an event which is expected to occur, as does English "when". E.g. <foreign xml:lang="heb">כי תבאינה האתות האלה</foreign> ‘When these portents (just described) occur...’ (1 Sam 10:7). Consequently <foreign xml:lang="heb">כי</foreign> regularly introduces references to the attainment of the promised land,<note n="5">the common events of life which are expected to recur, as ‘When your children ask “What is this ritual”, you will say...’ (Exod 12:26, 13:14, Deut 6:20, Jos 4:6, 22:28), and so on.</note></p>
+
+<p>2.2 In this group of clauses, <foreign xml:lang="heb">כי</foreign> is typically followed immediately by the verb. Thus it is not used with negative clauses. It seems justifiable to reject conflicting examples, since all could equally well have other values. Thus in Gen 4:24, Lev 20:9, 21:18, Num 22:29, Deut 32:3, and Jos 8:18, <foreign xml:lang="heb">כי</foreign> is easily understood either as emphatic or as causal. The only negative example I have seen suggested (Brockelmann 1956 # 164.c) is <foreign xml:lang="heb">כי אינך יוצא</foreign> (2 Sam 19:8), where <foreign xml:lang="heb">כי</foreign> is presumably</p>
+
+<note n="2">A <foreign xml:lang="heb">כי</foreign> clause with a perfect verb, followed by its main clause, is introduced by <foreign xml:lang="heb">ויהי</foreign> in Gen 6:1, Jud 1:28, 2 Sam 6:13, etc., by <foreign xml:lang="heb">והיה</foreign> in 1 Sam 1:12, 17:48 (with past reference) and 1 Chron 17:11 (with future reference, the parallel in 2 Sam 7:12 has an imperfect form). In Jos 22:7, Jud 2:18, 1 Sam 2:21, and Ruth 1:12 (<foreign xml:lang="heb">כי אמרתי</foreign> referring to the future), <foreign xml:lang="heb">כי</foreign> may be simply emphatic (Waltke-O’Connor #39.3.4e). On Numbers 5:20, see #6.3.</note>
+
+<note n="3">The <foreign xml:lang="heb">כי</foreign> clause modifies what precedes in Gen 43:18, Jos 17:15, 1 Sam 15:35, 26:15. The validity of ‘temporal’ and ‘causal’ as opposing categories can be questioned (see Aejmelaeus 1968:196). However, temporal/conditional <foreign xml:lang="heb">כי</foreign> may well have been abandoned (see #6.4) because the placing of a <foreign xml:lang="heb">כי</foreign> clause before or after the main clause did not adequately distinguish the temporal function from the causal, so that a new means of distinguishing these categories was needed.</note>
+
+<note n="4">Temporal <foreign xml:lang="heb">כאשר</foreign> typically introduces a clause with a perfect verb. This precedes the verb modified in some 40 cases (usually preceded by <foreign xml:lang="heb">ויהי</foreign>); follows it in some 5 (where causal function is usually as probable as temporal). The verb is imperfect only in Gen 27:40, Exod 17:11, 11 (preceded by <foreign xml:lang="heb">והיה</foreign>), and Gen 40:14, Neh 6:3, following the main clause.</note>
+
+<note n="5">Exod 12:25, Lev 14:34, Num 15:2, etc., including most cases of <foreign xml:lang="heb">כי</foreign> with participle (Num 33:51, 34:2, 35:10, Deut 11:31, 18:9).</note>
+      <pb n="1280"/>
+<head>E.J. REVELL</head>
+<p>
+also emphatic, introducing an oath (Waltke-O’Connor #40.2.2b).<hi rend="superscript">6</hi> In 17 cases, the <lb/>
+<foreign xml:lang="heb">כי</foreign> clause follows its main clause. These could be temporal modifiers, but <lb/>
+explanation is usually equally probable.<hi rend="superscript">7</hi> In most cases (some 210) a <foreign xml:lang="heb">כי</foreign> clause with <lb/>
+an imperfect verb or a participle precedes its main clause. (Where not otherwise <lb/>
+indicated) references to <foreign xml:lang="heb">כי</foreign> below will be to the ‘temporal/conditional’ <foreign xml:lang="heb">כי</foreign> used in <lb/>
+these clauses.
+</p>
+<head>3 <foreign xml:lang="heb">אם</foreign></head>
+<p>
+<foreign xml:lang="heb">אם</foreign> may introduce a verbal clause, with a perfect or an indicative imperfect verb, or <lb/>
+any sort of verbless clause. The clause may or may not be negative. <foreign xml:lang="heb">אם</foreign> indicates, <lb/>
+basically, that what follows is one of two or more possibilities. The closest English <lb/>
+equivalent, "if", shows considerable difference of usage.
+</p>
+<p>
+3.1 <foreign xml:lang="heb">אם</foreign> is frequently used in successive sentences to introduce contrasting <lb/>
+possibilities. These are often mutually exclusive alternatives, as Judg 4:8 <lb/>
+<foreign xml:lang="heb">אם תלכי עמי והלכתי ואם לא תלכי עמי לא אלך</foreign> ‘If you go with me, I will <lb/>
+go. If you don’t go with me, I won’t go.’ Also Exod 1:16, Num 16:29-30, 1 Kgs <lb/>
+20:18, etc. The sentences may be widely separated, as Num 32:20, 23; Deut 28:1, <lb/>
+15; Jos 2:14, 20. The alternative clause may be represented simply by a negative, as <lb/>
+<foreign xml:lang="heb">אם אין</foreign> Judg 9:15, 2 Kgs 2:10; <foreign xml:lang="heb">אם לא</foreign> 1 Sam 6:9. Less commonly, the second clause <lb/>
+does not contrast with the first, but expands or reinforces it, as in 2 Sam 18:3 <lb/>
+<foreign xml:lang="heb">כי אם ננוס לא ישימו אלינו לב ואם ימתו חצינו לא ישימו אלינו לב</foreign> ‘If <lb/>
+we flee they will pay no attention to us, and if half of us die they will pay no <lb/>
+attention to us’. Also Num 32:20, Judg 9:16, etc.
+</p>
+<p>
+3.2 The first alternative may appear as a command or statement (even an infinitive <lb/>
+phrase in Exod 40:36-37) with the second introduced by <foreign xml:lang="heb">אם</foreign>. E.g. Jud  7:9-10
+</p>
+<note place="foot" n="6">
+Clauses presenting circumstances concomitant with those of a <foreign xml:lang="heb">כי</foreign> clause may be negative, as <lb/>
+Deut 21:1, 18. In the participial clauses listed in n.5, the usual subject-predicate order is main- <lb/>
+tained, so that <foreign xml:lang="heb">כי</foreign> is separated from the participle.
+</note>
+<note place="foot" n="7">
+As Gen 38:16 ... <foreign xml:lang="heb">מה תתן ... כי תבוא</foreign> "What will you give... when/because you will <lb/>
+(have) come..." So also Gen 31:49, Deut 6:25, Jos 17:18, etc. Temporal value seems more likely <lb/>
+in Jud  15:3 (with a participle) and 1 Sam 28:22 at least.
+</note>
+      <pb n="1281"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1281</head>
+
+<p>קום רד במחנה <hi rend="italic">...</hi> ואם ירא אתה לרדת ‘Go down to the camp... and if you are afraid to go...’ Also Exod 8:17, Lev 6:21, 1 Kgs 21:2, 6, and, where the clause is represented simply by a negative, Gen 30:1, 1 Sam 2:16.</p>
+
+<p>3.3 In some cases, the fact that an אם clause represents an alternative is implicit in the wording of the clause or of its context. Examples are oath or promise (as in Lev 26:3, Num 21:2, Jud 11:9, 1 Sam 1:11) or a trial situation (as in Num 5:19, 1 Sam 14:39, 20:8). This is also true where the reaction of the individual(s) addressed is in question, as in conventional request forms like ‘If I have found favour in your eyes’ (Gen 30:27 etc.) or in less obvious cases, as <hi rend="italic">...</hi> אם אתה תקח לך קח ‘If you want to take it, do so’ (1 Sam 21:10, also Gen 34:15, 1 Kgs 12:7, etc.).</p>
+
+<p>3.4 In most other cases where a protasis is introduced by אם, it is reasonable to view it as hypothetical, although this may not be the only possibility. Thus אם איש יבוא ושאלך <hi rend="italic">...</hi> (Jud 4:20) could be translated "When someone comes and asks you...", but in fact "If anyone should come..." is preferable, as Sisera must hope that no-one will come. The few exceptions, where אם appears to introduce a known or expected fact, are treated below.</p>
+
+<head>4 כי and אם in Combination</head>
+
+<p>4.1 In the presentation of legal materials, כי and אם are frequently combined in a set pattern. A basic statement of a legal situation (sometimes extensive) is introduced by כי. A judgment applicable to the situation may or may not be included. This is followed by one or more clauses introduced by אם, which introduce additional factors which may or may not accompany the basic situation, or present alternatives to it. These are typically followed by a statement of the judgment applicable.<note n="8">Examples are:</note></p>
+
+<note n="8">This pattern has been noted (van Leeuwen 1973:18-19, Waltke-O’Connor #38.2d), but the extent and consistency of its use is not generally recognized. Van Leeuwen (19, n.1) suggests Gen 24:41 as an example from narrative, but probably <hi rend="italic">...</hi> כי תבוא explains what precedes: ‘Under those circumstances you will be free of my oath, <hi rend="italic">when/because</hi> you will (have) come to my family.’ The following <hi rend="italic">...</hi> ואם לא יתנו ‘If they don’t give you a woman...’ contrasts with the preceding statement of the required circumstances <hi rend="italic">...</hi> ולקחת ‘You will take a</note>
+      <pb n="1282"/>
+<head>E.J. REVELL</head>
+
+<p rendition="indent">
+    כי תקנה עבד עברי שש שנים יעבד ובשבעת יצא לחפשי חנם<lb/>
+    אם בגפו יבא בגפו יצא<lb/>
+    אם בעל אשה הוא ויצאה אשתו עמו
+</p>
+
+<p>
+    ‘When you acquire a Hebrew slave, he will serve for six years. In the seventh he<lb/>
+    will go free without cost.<lb/>
+    <list rendition="simple">
+        <item>If he comes by himself, he will leave by himself.</item>
+        <item>If he has a wife, she will leave with him.’ (Exod 21:2-3)</item>
+    </list>
+</p>
+
+<p rendition="indent">
+    כי יתן איש אל רעהו כסף או כלים לשמר וגנב מבית האיש<lb/>
+    אם ימצא הגנב ישלם שנים<lb/>
+    ... אם לא ימצא הגנב ונקרב בעל הבית אל האלהים
+</p>
+
+<p>
+    ‘When one man gives to his neighbour money or tools for safekeeping, and they<lb/>
+    are stolen from his house;<lb/>
+    <list rendition="simple">
+        <item>If the thief is found, he will restore twofold.</item>
+        <item>If the thief is not found, the owner of the house must approach God (to<lb/>
+        swear)...’ (Exod 22:6-7)</item>
+    </list>
+</p>
+
+<p>
+    4.2 The <hi rendition="hebrew">כי</hi> clause is independent of the preceding context; it contains no anapho-<lb/>
+    ra. That is, the material introduced by <hi rendition="hebrew">כי</hi> is treated as a new topic. The <hi rendition="hebrew">אם</hi> clause<lb/>
+    contains some anaphoric item relating it to the preceding <hi rendition="hebrew">כי</hi> clause.⁹ This is<lb/>
+    usually a pronoun, as ‘he/him’ in Exod 21:2-3. Less commonly it is a noun derived<lb/>
+    from the <hi rendition="hebrew">כי</hi> clause (as ‘thief’ from ‘stolen’ in Exod 22:6-7). The article may be<lb/>
+    used anaphorically, as with <hi rendition="hebrew">הצרעת</hi> ‘the disease’ in the <hi rendition="hebrew">אם</hi> clause in Lev 13:12, refer-<lb/>
+    ring to <hi rendition="hebrew">נגע צרעת</hi> ‘a disease’ (with no article) in the <hi rendition="hebrew">כי</hi> clause in Lev 13:9.<lb/>
+    Occasionally, the anaphoric item is a ‘zero’; an item necessary to complete the<lb/>
+    clause must be supplied from the preceding context (to which the clause is<lb/>
+    consequently bound), as in Lev 27:5 ‘If (<hi rendition="hebrew">אם</hi>) {the person} is aged from five to<lb/>
+    twenty years...’ In the following list of the examples of this pattern, the initial<lb/>
+    reference is to a <hi rendition="hebrew">כי</hi> clause; references in parentheses are to <hi rendition="hebrew">אם</hi> clauses.
+</p>
+
+<note place="bottom">
+    woman from there’(Gen 24:40. Cf. #3.2).
+</note>
+<note place="bottom" n="9">
+    Compare the examples above with Lev 22:11-14, where a number of related topics are<lb/>
+    presented in <hi rendition="hebrew">כי</hi> clauses, as independent.
+</note>
+      <pb n="1283"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1283</head>
+
+<list>
+    <item><label>Exodus</label> 13:11 (13); 21:2 (3, 3, 4, 5); 21:7 (8, 9, 10, 11); 21:18 (19); 21:20 (21); 21:22 (23); 21:26 (27); 21:28 (29, 30, 32); 21:37 (22:1, 2, 2, 3); 22:6 (6, 7); 22:9 (11, 12); 22:13 (14, 14); 22:15 (16).</item>
+    <item><label>Leviticus</label> 1:2 (3, 10, 14, 3:1, 1, 6, 7, 12, cf #5.1); 2:4 (5, 7, 14); 4:2 (3, 13, 27, 32, cf. #5.2); 5:1 (1, 7, 11); 12:2 (5, 8); 13:2 (4, 7); 13:9 (12); 13:18 (21, 22, 23); 13:24 (26, 27, 28);<note n="10" place="foot">The כי clause in this example is introduced by או ‘or’, but כי is used in the typical way (not as in the cases in #6.1, 2).</note> 13:29 (35, 37); 13:40 (41); 13:47 (53, 56, 57); 14:34 (43, 48); 15:19 (23, 24); 15:25 (28); 19:5 (7); 25:26 (28); 25:29 (30); 25:47 (51, 52, 54); 27:2 (4, 5, 6, 7, 8, 9, 10, 11, 13, 27, 27, 31, cf #5.1); 27:14 (15, 16, 17, 18, 19, 20, 20, 22).</item>
+    <item><label>Numbers</label> 5:6 (8), 15:22 (24, 27); 27:8 (9, 10, 11); 30:4 (6, 7, 9, 11, 13, 15, 16); 35:10 (16, 17, 20, 22).</item>
+    <item><label>Deuteronomy</label> 20:10 (11, 12); 21:10 (14); 22:13 (20); 22:23 (25), 24:10 (12); 25:1 (2); 25:5 (7).</item>
+</list>
+
+<p><hi rend="bold">4.3</hi> The use of <foreign xml:lang="heb">כי</foreign> and <foreign xml:lang="heb">אם</foreign> typical in this pattern does not differ from the standard use described in #2 and #3. Since the clause introduced by <foreign xml:lang="heb">כי</foreign> is not hypothetical, but presents an event expected to occur, a statement clause with a participle or with <foreign xml:lang="heb">אשר</foreign> as subject of a verb ('The one who does...') may be used in parallel with a clause introduced by <foreign xml:lang="heb">כי</foreign> ('When a person does ...'). For examples see Exod 21:12-17, also Lev 5:1-4 discussed in #6.1. The <foreign xml:lang="heb">אם</foreign> clauses introduce possible variants on or alternatives to the preceding <foreign xml:lang="heb">כי</foreign> clause, a typical function of <foreign xml:lang="heb">אם</foreign>. <foreign xml:lang="heb">אם</foreign> clauses are used after laws with other forms of introduction, in just the same way as they are after <foreign xml:lang="heb">כי</foreign> clauses. Examples occur in Exodus 22:21 (22, 24, 25);<note n="11" place="foot">The אם clauses in verses 24 and 25 introduce new types of 'underprivileged' to whom consideration must be shown. They are related to the preceding only through the 2m.s pronoun in the verb form, that is, more loosely than usual.</note> Leviticus 7:11 (12, 16, 18); 20:2 (4); Numbers 35:25 (26); Deuteronomy 22:1 (2); 30:16 (17).</p>
+
+<head>5 Minor Irregularities in the Pattern</head>
+
+<p><hi rend="bold">5.1</hi> In Leviticus 1, the pattern dependent on the <foreign xml:lang="heb">כי</foreign> clause in Lev 1:2 is continued in the <foreign xml:lang="heb">אם</foreign> clauses in chapter 3. The material in chapter two disrupts it. In Leviticus 27, the last three <foreign xml:lang="heb">אם</foreign> clauses (Lev 27:27, 27, 31) appear to continue the pattern de-</p>
+      <pb n="1284"/>
+<p>1284 <space extent="30" unit="chars"/> E.J. REVELL</p>
+
+<p>pendent on the <foreign xml:lang="heb">כי</foreign> clause in 27:2. The pattern initiated by the <foreign xml:lang="heb">כי</foreign> clause in 27:14 disrupts it.</p>
+
+<p>5.2 In Leviticus 4, three <foreign xml:lang="heb">אם</foreign> clauses which follow the initial <foreign xml:lang="heb">כי</foreign> clause (and further restrict it, as in Exod 22:6-7, see #4.1) do not contain anaphora, since each introduces a new class of sinner. (There is a similar example in Num 15:27.) In Lev 4:22, a clause introducing a further class of sinner ( a ‘leader’) is placed between the second and third <foreign xml:lang="heb">אם</foreign> clause, disrupting the pattern. This clause is introduced by <foreign xml:lang="heb">אשר</foreign>, a common particle not elsewhere equivalent to <foreign xml:lang="heb">אם</foreign> (see #8.2).</p>
+
+<head>6 Exceptional uses of <foreign xml:lang="heb">כי</foreign> and <foreign xml:lang="heb">אם</foreign></head>
+
+<p>6.1 <foreign xml:lang="heb">או כי</foreign> ‘Or when’ is sometimes used to introduce alternative protases with the same apodosis (alternative situations for which the judgment is the same: Exod 21:33, Lev 15:25, and Deut 24:3<hi rend="sup">12</hi>.). An extension of this usage occurs in the beginning of Leviticus 5. Here four different situations are presented with different introductions. <foreign xml:lang="heb">... ונפש כי תחטא</foreign> ‘When a person sins...’ (Lev 5:1), <foreign xml:lang="heb">או נפש ... אשר תגע</foreign> ‘Or a person who touches...’ (5:2), <foreign xml:lang="heb">... או כי יגע</foreign> ‘Or when he touches...’ (5:3), <foreign xml:lang="heb">... או נפש כי תשבע</foreign> ‘Or when a person swears...’ (5:4). These four situations are then summarized in a further <foreign xml:lang="heb">כי</foreign> clause, which introduces the description of the procedure to be followed in all of them: <foreign xml:lang="heb">... יאשם לאחת מאלה והיה כי</foreign> ‘When he is guilty through any of these...’ (Lev 5:5). In Lev 5:23 <foreign xml:lang="heb">... יחטא והיה כי</foreign> ‘When he sins...’ begins a similar sentence summarizing a set of alternatives introduced by <foreign xml:lang="heb">או</foreign> which are placed within the <foreign xml:lang="heb">כי</foreign> clause of 5:21. The atypical lack of nominal subject in these <foreign xml:lang="heb">כי</foreign> clauses in Lev 5:5 and 5:21 reflects their relationship to what precedes.</p>
+
+<note n="12">In Deut 24:3b, <foreign xml:lang="heb">... או כי ימות</foreign> ‘Or if he dies...’ ‘he’ is the second husband, so this clause, although alternative specifically only to <foreign xml:lang="heb">... ושנאה האיש ... וכתב</foreign> ‘The man dislikes her..., and divorces her...’ in 24:3a, assumes the preceding material (24:1-2) which is introduced by <foreign xml:lang="heb">כי</foreign>. <foreign xml:lang="heb">או כי</foreign> ‘Or’ is more commonly used to give alternatives within a protasis: introduced by <foreign xml:lang="heb">כי</foreign> in Num 5:14, 30:3, or by <foreign xml:lang="heb">אם</foreign> in Num 30:11, 35:20, or to give alternatives within an apodosis, as in Lev 25:49, Num 15:6.</note>
+      <pb n="1285"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1285</head>
+<p>6.2 In Lev 13:16, <foreign xml:lang="heb">או כי</foreign> ‘Or when’ introduces an alternative symptom, where <foreign xml:lang="heb">ואם</foreign> ‘and if’ is certainly to be expected. <foreign xml:lang="heb">כי</foreign> (ו) ‘(And) when’ is used in a similar way in Lev 11:37, 38, Num 6:9 and Deut 15:21, as is <foreign xml:lang="heb">והיה כי</foreign> in Deut 15:16.<note n="13">13</note> All these <foreign xml:lang="heb">כי</foreign> clauses include anaphora. In Deut 23:11, 23, 25, 26, where <foreign xml:lang="heb">כי</foreign> (ו) might also be held to introduce an alternative, the only anaphora are pronouns representing the person addressed. Consequently these examples of <foreign xml:lang="heb">כי</foreign> can be taken as introducing new topics.</p>
+<p>6.3 Num 5:20 <foreign xml:lang="heb">... ואת כי שטית ... וכי נטמאת</foreign>, is usually translated as conditional ‘But if you have gone astray... and become unclean...’. <foreign xml:lang="heb">כי</foreign> would then introduce the second of two mutually exclusive alternatives where the first is introduced by <foreign xml:lang="heb">אם</foreign> (Num 5:19), a phenomenon without parallel. The use of <foreign xml:lang="heb">כי</foreign> with a perfect verb is unexpected, and the relation of this verse to its context is not clear. Consequently the function of <foreign xml:lang="heb">כי</foreign> here must be regarded as uncertain.</p>
+<p>6.4 Temporal/conditional <foreign xml:lang="heb">כי</foreign> went out of use over the biblical period. It is not found in Qohelet, Esther, Daniel, Ezra, or Nehemiah, or in Chronicles outside parallels to Samuel-Kings. The occasional use of <foreign xml:lang="heb">אם</foreign> in these books where ‘when’ would be appropriate reflects its progressive disuse, (as Qoh 4:11, 5:7, 2 Chron 6:22, 24, 20:9). This late tendency to use <foreign xml:lang="heb">אם</foreign> instead of <foreign xml:lang="heb">כי</foreign> may account for the use of both (where only one is required) in <foreign xml:lang="heb">... ואם נפש כי</foreign> (Lev 5:17). The clause is without anaphora, so <foreign xml:lang="heb">אם</foreign> is most probably secondary. In <foreign xml:lang="heb">... כי אם צעק יצעק</foreign> (Exod 22:22), <foreign xml:lang="heb">כי אם</foreign> must either give a strong positive emphasis (as Jud 15:7), or result from error. The outcry of the oppressed is certainly expected, so <foreign xml:lang="heb">כי</foreign> alone should be used, as in Exod 22:26 etc.<note n="14">14</note></p>
+<note n="13">13 <foreign xml:lang="heb">אם</foreign> is used in the similar context in Exod 21:5. The <foreign xml:lang="heb">כי</foreign> clause in Deut 15:12 begins this section. That in 15:13 (which includes anaphora) describes an act required by 15:12, so that introductory <foreign xml:lang="heb">אם</foreign> would not be appropriate.</note>
+<note n="14">14 <foreign xml:lang="heb">אם</foreign> replaces biblical <foreign xml:lang="heb">כי</foreign> in some Qumran scrolls: 4Q158:10-12:4 (Exod 21:37. In line 3, <foreign xml:lang="heb">אם</foreign> also replaces the surprising <foreign xml:lang="heb">או</foreign> beginning 21:36) and in the Temple Scroll 53:12, 55:2, 13, 15, 61:7 (Deut 23:23, 13:13, 19, 17:2, 19:16). <foreign xml:lang="heb">וכי אם תדור</foreign> in 53:11 (<foreign xml:lang="heb">כי תדר</foreign> Deut 23:22) is presumably a doublet (as Lev 5:17), possibly also the non-biblical <foreign xml:lang="heb">וכי אם תחזק</foreign> (58:10). Temporal/conditional <foreign xml:lang="heb">כי</foreign> is unchanged in 12 other biblical examples, and is also used in 50:10, 58:3 and 64:6. Beyond 1QS 5:20, 6:4, I have not noticed sure cases in other non-biblical materials. <foreign xml:lang="heb">כי</foreign> is used in the Samaritan Pentateuch as in the Masoretic. In the Mishna, it is virtually restricted to an interrogative function, reflecting a development different from the biblical.</note>
+      <pb n="1286"/>
+<fw type="header">
+    <fw type="pageNum">1286</fw>
+    <fw type="author">E.J. REVELL</fw>
+</fw>
+
+<p>
+    <hi rend="bold">6.5</hi> The use of <foreign xml:lang="heb">כי</foreign> can be justified in the other cases I have noted in which <foreign xml:lang="heb">אם</foreign> might seem more appropriate. Thus the negative tone of Jos 24:19 ‘You are unable to serve the Lord’ justifies the otherwise surprising expectation expressed by <foreign xml:lang="heb">... כי תעזבר</foreign> ‘When you forsake Yahweh...’ in 24:20. In Num 10:29, Moses invites Hobab to accompany Israel. He refuses. The request is renewed. <foreign xml:lang="heb">... כי תלך</foreign> ‘When you come’ (10:32) gives positive support to this second request by presenting Hobab’s agreement as expected. (The text suggests that Hobab did go, but this is not clear.)
+</p>
+
+<head>7 Semantic Overlap of <foreign xml:lang="heb">כי</foreign> and <foreign xml:lang="heb">אם</foreign></head>
+
+<p>
+    <hi rend="bold">7.1</hi> The use of <foreign xml:lang="heb">כי</foreign> in the examples in #6.1-3 could be held to show that <foreign xml:lang="heb">כי</foreign> was synonymous with <foreign xml:lang="heb">אם</foreign>. However, the two particles are typically used distinctly, and could well have different values even where they appear to be used in the same situation. For example, both particles introduce subordinate clauses with a second person imperfect form of <foreign xml:lang="heb">שמע</foreign> before or after the main clause. <foreign xml:lang="heb">אם</foreign> in a preceding clause presents an unpredictable personal reaction (#3.3) "If you do/do not listen to/obey..." (Gen 34:17, and 10 cases concerned with obedience to God). <foreign xml:lang="heb">כי</foreign> in this position presents an expected event "When you hear news..." (Deut 13:13). Following the main clause, the limiting effect of an <foreign xml:lang="heb">אם</foreign> clause is stressed (and, in Deut 15:5, emphasized by <foreign xml:lang="heb">רק</foreign>) "(God will bless you) only if you obey." A <foreign xml:lang="heb">כי</foreign> clause in this position stresses the factual relationship as Deut 28:1-2 "If (<foreign xml:lang="heb">אם</foreign>) you obey... all these blessings will come to you... because (<foreign xml:lang="heb">כי</foreign>) you obey..." (also Deut 13:19, 28:13, 30:10).<ptr target="#n15"/>
+</p>
+
+<p>
+    <hi rend="bold">7.2</hi> It seems evident that one of the factors conditioning the choice of language even in the laws was a concern to avoid monotony (cf. #6.1 on Lev 5:1-4). If so, literary considerations may well have governed the choice of <foreign xml:lang="heb">כי</foreign> or <foreign xml:lang="heb">אם</foreign> where either might be used. Thus <foreign xml:lang="heb">... וכי יטהר</foreign> ‘When he becomes clean...’ is used of the cure of a man who had a discharge, but <foreign xml:lang="heb">... ואם טהרה</foreign> ‘If she has become
+</p>
+
+<note n="15" xml:id="n15">
+    Aejmelaeus (1986:207) notes the common conditional or temporal rendering of <foreign xml:lang="heb">כי</foreign> clauses of this type, but adds that they ‘can usually be understood as causal or object clauses as well’. Van Leeuwen 1973:18, regards the <foreign xml:lang="heb">כי</foreign> clause in Deut 28:13 as equivalent to the <foreign xml:lang="heb">אם</foreign> clause in 28:1. However, this <foreign xml:lang="heb">אם</foreign> clause forms a contrasting pair (#3.1) with that in 28:15, and it is unlikely that the intervening <foreign xml:lang="heb">כי</foreign> clauses (28:2, 9, 13) disrupt this structure.
+</note>
+      <pb n="1287"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1287</head>
+
+<p>clean’ of a woman in the same situation in (Lev 15:13, 28). The use of <foreign xml:lang="heb">אם</foreign> is probably justified by the difference of temporal viewpoint, but it may also be intended to stress the difference between this case, which deals with an abnormal discharge (v. 25), from that of normal menstruation, where <foreign xml:lang="heb">כי</foreign> would be appropriate, as its termination is expected.</p>
+
+<p>7.3 <foreign xml:lang="heb">אם</foreign> is occasionally used of events known to have happened in the past (where <foreign xml:lang="heb">כאשר</foreign> ‘when’ is expected). This may be intended to emphasize the idea of contingency. It would, then, have a meaning such as ‘If it did so happen’ -- that Onan visited his brother’s wife (Gen 38:9), -- that a snake bit (Num 21:9), -- that Israel sowed grain (Judg 6:3). Similarly, where <foreign xml:lang="heb">אם</foreign> introduces events true in the present (or past events relevant to it), it may be used (with various purposes) to suggest doubt of the fact, with a meaning such as ‘If it is really true that’ -- there is no money (Gen 47:16), a tribe is large (Jos 17:15), a runner is alone (2 Sam 18:25). Also Num 22:20, 1 Sam 15:17, 23:23.<note n="16" resp="author">Also 2 Kgs 1:10, 12, unless <foreign xml:lang="heb">אם</foreign> is required by the conditional request form used. <foreign xml:lang="heb">אם</foreign> could be translated ‘since’ in some of these cases, but they do not differ from the others in form, and so presumably not in meaning.</note> <foreign xml:lang="heb">אם</foreign> may similarly be used rhetorically of the certain future. In ‘If (<foreign xml:lang="heb">אם</foreign>) a Jubilee year should come...’ (Num 36:4), the context, a polite complaint against an existing law, justifies the tentative nature of the sentence. In ‘If (<foreign xml:lang="heb">אם</foreign>) the women should come out to dance’ (Jud 21:21), the use of <foreign xml:lang="heb">אם</foreign>, which marks as hypothetical an event essential to the elders’ kidnap plan, suggests that Providence, not the elders, will be responsible if an act which they would normally condemn succeeds.<note n="17" resp="author">In Deut 19:8, the uncertainty of ‘If (<foreign xml:lang="heb">אם</foreign>) God should enlarge your boundaries’ is presumably justified by the limitation given in the following <foreign xml:lang="heb">כי</foreign> clause ‘Because/when you keep all these commandments’. Such obedience is not certain (cf. #7.1).</note></p>
+
+<p>7.4 The semantic domains of <foreign xml:lang="heb">כי</foreign> and <foreign xml:lang="heb">אם</foreign> certainly overlap to the extent that, in some situations, either might be used. However, it is probable that each carried different implications, although no doubt (as with "when" and "if") the difference was not always important.</p>
+      <pb n="1288"/>
+<head>E.J. REVELL</head>
+<head>8 Other Types of Sentence Called ‘Conditional’</head>
+
+<p>
+<hi>8.1 Sentences introduced by <foreign xml:lang="heb">לוּ / אִלּוּ</foreign> and <foreign xml:lang="heb">לוּלֵי</foreign></hi>
+As is well known, these particles show that the relationship suggested by the sentence is not valid; the protasis does not condition the apodosis. <foreign xml:lang="heb">לוּלֵי</foreign> is used to introduce a protasis which is factual; <foreign xml:lang="heb">לוּ</foreign> to introduce one that is not. <foreign xml:lang="heb">אִלּוּ</foreign> (Qoh 6:6, Esth 7:4) replaced <foreign xml:lang="heb">לוּ</foreign> by the end of the biblical period.
+</p>
+
+<p>
+<hi>8.2 <foreign xml:lang="heb">אֲשֶׁר</foreign> as a Conditional Particle</hi>
+In most cases where a conditional value is suggested for <foreign xml:lang="heb">אֲשֶׁר</foreign>, it can equally well be understood in one of its more common values, e.g. as a relative particle in 1 Kgs 8:30 (cf. 8:28, 29). In Deut 11:13, 22, an <foreign xml:lang="heb">אִם</foreign> clause initiates a promise that obedience will be rewarded by the advantages referred to as the ‘blessing’ in 11:27. The first <foreign xml:lang="heb">אֲשֶׁר</foreign> in that verse expresses purpose (Cf. Gen 11:7, Deut 4:10, 6:3); God sets out the blessing ‘So that you will obey’. The <foreign xml:lang="heb">אִם</foreign> clause in 11:28 presents a contrasting alternative (see #3.2). No common use of <foreign xml:lang="heb">אֲשֶׁר</foreign> can be invoked in Lev 4:22, where <foreign xml:lang="heb">אִם</foreign> is expected (see #5.2), or in Num 5:29, Jos 4:21, where <foreign xml:lang="heb">כִּי</foreign> is expected. However, a larger number of examples, or some indication as to why such a rare value of such a common particle should be used in these particular cases, is needed to establish a conditional value for <foreign xml:lang="heb">אֲשֶׁר</foreign> as more than a possibility.
+</p>
+
+<p>
+<hi>8.3 Asyndeton Conditional Sentences</hi>
+Other pairs of clauses may be translated by an English conditional sentence, as
+<foreign xml:lang="heb">וְהִנֵּה נֵלֵךְ וּמַה נָּבִיא לָאִישׁ</foreign> ‘If we go, what will we bring to the man?’ (1 Sam 9:7),
+<foreign xml:lang="heb">... וְצָמִת וְהָלַכְתְּ ... וְשָׁתִית</foreign> ‘If you are thirsty, go... and drink...’ (Ruth 2:9).
+However, such cases can be treated, at least colloquially, in other ways. ‘So we go! What will we take the man?’ ‘You’re going to be thirsty. You can go... and drink...’ Where translation as a conditional is suitable (which is not true for all similar pairs), the protasis represents a known or accepted fact, a ‘given’. Similarly, <foreign xml:lang="heb">זֹאת עֲשׂוּ וִחְיוּ</foreign> (Gen 42:18, with imperative verbs) can be translated ‘If you do this you will live’, but its real meaning is much more positive. In 1 Kgs 21:2 ‘Give me (imperative) your vineyard... and I will give...’ could equally well be translated ‘If you give me... I will give...’, but this is a demand, and quite different from the mere offer of alternative compensation presented in the following <foreign xml:lang="heb">אִם</foreign> clause ‘Or if you like...’ (with adjective or stative verb cf. 21:6). The particles discussed above are
+</p>
+      <pb n="1289"/>
+<head>CONDITIONAL SENTENCES IN BIBLICAL HEBREW PROSE 1289</head>
+<p>used to show that the protasis places a temporal limitation on the apodosis, may or may not condition it, or can not condition it. Where such a particle is not used, the basic relationship of the two clauses (the one contingent on the other), may well justify translation as a conditional sentence. However, if a translation ignores the difference in the surface structures, it loses part of the meaning of the Hebrew.<note n="18"/></p>
+<head>9 Conclusion</head>
+<p>9.1 The types of conditional sentence discussed above can be divided into two categories: those in which the condition presented by the protasis is hypothetical, and those in which it is actual. Each can be further subdivided: under hypothetical, the condition may be invalid (it cannot occur), or it may be potential (its validity is not known). Under actual, the condition may impose a temporal restriction on the apodosis, or it may not impose any restriction at all. This can be illustrated by the following table.</p>
+<table>
+    <row>
+        <cell>Sentence is</cell>
+        <cell>The Condition</cell>
+        <cell>Introductory particle</cell>
+    </row>
+    <row>
+        <cell>Hypothetical</cell>
+        <cell>is invalid</cell>
+        <cell><foreign xml:lang="he">לולי</foreign> clause is factual<lb/>
+              <foreign xml:lang="he">לו</foreign> clause is not factual</cell>
+    </row>
+    <row>
+        <cell>Actual</cell>
+        <cell>is potential<lb/>
+              restricts in time<lb/>
+              does not restrict</cell>
+        <cell><foreign xml:lang="he">אם</foreign><lb/>
+              <foreign xml:lang="he">כי</foreign><lb/>
+              other or none</cell>
+    </row>
+</table>
+<p>9.2 This general pattern is clear in the Pentateuch and Former Prophets. The scanty evidence of later books suggests the disuse of temporal/conditional <foreign xml:lang="he">כי</foreign> (#6.4). A different pattern of relationships would result. Some diversity of usage is represented even in the earlier books. The occasional use of <foreign xml:lang="he">כי</foreign> where <foreign xml:lang="he">אם</foreign> is expected (#6.2), and the fact that <foreign xml:lang="he">אם</foreign> is (comparatively) rare in Deuteronomy, no doubt reflect a localized tendency to use <foreign xml:lang="he">כי</foreign> to introduce statements of law of all</p>
+<note n="18">Thus <foreign xml:lang="he">הנה</foreign>, classed as a conditional particle in some cases by Labuschagne (1973), Richter (1980:192 n. 699) and others, simply presents a statement of fact in such cases, as elsewhere (see Kogut 1986). <foreign xml:lang="he">הן</foreign> is generally equivalent to <foreign xml:lang="he">הנה</foreign> (see Stec 1987). The few cases in which it is parallel to <foreign xml:lang="he">אם</foreign> (as 2 Chron 7:13) probably represent late Aramaic influence. Waltke-O’Connor, #40.2.2d n. 26, are clearly right in rejecting <foreign xml:lang="he">אבי</foreign> in 2 Kgs 5:13 as a conditional particle, as none is needed. This identification is speculative even in Job 34:36.</note>
+      <pb/>
+<p>
+  <figure>
+    <figDesc>An almost entirely black or heavily underexposed image, likely representing a blank page, a protective leaf, or an error in the digitisation process where no legible text is visible.</figDesc>
+  </figure>
+</p>
+      <pb n="1290"/>
+<fw type="header">1290 E.J. REVELL</fw>
+<p>types. However, the boundaries of semantic domains of this type are not fixed; usage is not governed by rigid logic. Even where the convention is stable, a writer may choose an unusual use (as illustrated in #7) to suit a particular purpose.</p>
+
+<div type="references">
+    <head>REFERENCES</head>
+    <list>
+        <item>Aejmelaeus, A. 1986. Function and Interpretation of <foreign xml:lang="heb">כי</foreign> in Biblical Hebrew. <title level="j">Journal of Biblical Literature</title> 105.193-209</item>
+        <item>Brockelmann, C. 1956. <title level="m">Hebräische Syntax</title>. Neukirchen: Neukirchner Verlag</item>
+        <item>Even Shoshan, A. 1982. <title level="m">A New Concordance of the Bible</title>. Jerusalem: Kiryat Sefer</item>
+        <item>Kogut, S. 1986. On the Meaning and Syntactical Status of <foreign xml:lang="heb">הִנֵּה</foreign> in Biblical Hebrew. <title level="m">Scripta Hierosolymitana</title> 31.133-154</item>
+        <item>Labuschagne, C. J. 1973. The Particles <foreign xml:lang="heb">הֵן</foreign> and <foreign xml:lang="heb">הִנֵּה</foreign>. <title level="m">Oudtestamentische Studiën</title> 18.1-14</item>
+        <item>van Leeuwen, C. 1973. Die Partikel <foreign xml:lang="heb">אִם</foreign>. <title level="m">Oudtestamentische Studiën</title> 18.15-48</item>
+        <item>Richter, W. 1980. <title level="m">Grundlagen einer althebräischen Grammatik</title>, vol 3. St. Ottilien: EOS</item>
+        <item>Stec, D. M. 1987. The Use of <hi rend="italic">hēn</hi> in Conditional Sentences. <title level="j">Vetus Testamentum</title> 37.478-86</item>
+        <item>Waltke, B. K. and M. O'Connor. 1990. <title level="m">An Introduction to Biblical Hebrew Syntax</title>. Winona Lake: Eisenbrauns</item>
+    </list>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+
+# System files
+thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Large files / Scans
+*.pdf
+!scripts/*.pdf
+!docs/*.pdf
+
+# Specific exclusions
+funeral_program_ernest_revell.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+
+# Diagnostic and Log files
+*.txt
+*.json
+!metadata/*.json
+!metadata/*.txt
+!task.md
+!walkthrough.md
+!implementation_plan.md
+audit_*.py
+check_*.py
+list_*.py
+extract_*.py
+*_log.txt
+results.txt
+*_results.json
+
+# Temporary Previews
+cv_p*.png
+page_preview_*.txt
+
+# Google Drive link files
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gtable
+*.gform
+*.gmap
+*.gshortcut
+*.glink
+*.gdlink
+
+# Backups and Recovered
+backups/
+misfiled/
+recovered/
+OCR/
+scans/

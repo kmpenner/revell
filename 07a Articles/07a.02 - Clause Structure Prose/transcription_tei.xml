@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Clause Structure in the Prose Documents of Qumran Cave I</title>
+            <author>E. J. Revell</author>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Unknown</publisher>
+            <availability>
+                <p>Internal use only; associated with file 07a.02_Clause_Structure_in_the_Prose_Documents_of_Qumran_Cave_I.pdf</p>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <biblStruct>
+                <analytic>
+                    <author>E. J. Revell</author>
+                    <title level="a">Clause Structure in the Prose Documents of Qumran Cave I</title>
+                </analytic>
+                <monogr>
+                    <title level="j">Revue de Qumran</title>
+                    <imprint>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="page" from="3" to="22">3-22</biblScope>
+                        <date when="1964">1964</date>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb n="1"/>
+
+<head rend="center">
+    CLAU<lb/>
+    IN THE<lb/>
+    OF QU
+</head>
+
+<p>
+    1. — My previous<lb/>
+    presents few or no fac<lb/>
+    novelty lies in the point<lb/>
+    The study of Hebrew c<lb/>
+    ‘clause builders’ permit<lb/>
+    parison of clause struct<lb/>
+    the establishment of the<lb/>
+    than can be done mer<lb/>
+    verbal clauses of one t<lb/>
+    analyzing all the clause<lb/>
+    terms of clause-builders
+</p>
+
+<p>
+    2. — The purpose o<lb/>
+    ture of the clauses in t<lb/>
+    texts of Qumran Cave<lb/>
+    the simplest form of th<lb/>
+    restricted to prose texts<lb/>
+    in these texts, which ar<lb/>
+    of course, included in<lb/>
+    are full of allusions to<lb/>
+    for the purposes of this<lb/>
+    of language used to writ<lb/>
+    and native to it. Such
+</p>
+
+<note place="bottom">
+    (1) This study has rece<lb/>
+    of an earlier draught by M. J<lb/>
+    my thanks to him for his k<lb/>
+    (2) <hi rend="italic">Revue de Qumrân</hi>, n<lb/>
+    forward referred to as "<hi rend="italic">Orde</hi><lb/>
+    (3) The texts used are:<lb/>
+    II, 1; II, 2-4; II, 5-9, and coi<lb/>
+    sections in XII, 7-16; XIX,<lb/>
+    and <hi rend="italic">1 Q 16</hi>; <hi rend="italic">1 Q 17</hi>; <hi rend="italic">1 Q 18</hi>;<lb/>
+    titles to the ‘blessings’); <hi rend="italic">1</hi>
+</note>
+      <pb n="4"/>
+<head>4 E. J. REVELL</head>
+<p>this study, even though they may contain words or phrases found in the Old Testament (4).</p>
+<p>3. — In order to clarify the point of view from which this study is written, a short account of the syntactical structure of the Hebrew language as here envisaged must be given. Most Hebrew grammars are written in terms of two levels of structure, ‘words’, and ‘clauses’. However a much more exact and detailed analysis can be carried out if further levels of structure are isolated for individual investigation. It is well known that words are formed of smaller units, known as morphemes (5). Morphemes are the basic units of syntactic structure. They combine to form the next larger unit, the word. The term ‘word’ is used here with the meaning ‘member of a grammatical word class’ (6). Word classes which can be most easily distinguished are: verb (v), noun (n) (7), pronoun, infinitive (i) (8), article (h), conjunction (c), and preposition (p). The remaining particles are more difficult to classify. The outline of a new scheme, with reasons for rejecting the old, is given below in § 7.</p>
+<p>4. — Words are formed into ‘clause-builders’ (9). These are: V, the verbal element,—N<hi rend="superscript">s</hi>, a nominal element showing concord with the bound pronoun in the verb form (10)—N, any other type of nominal element,—pN, a nominal element preceded by a preposition,—pI, an infinitive and its modifiers preceded by</p>
+<note n="4">(4) Some justification for this viewpoint may be seen in the fact that the explicit quotations are all identical with, or very close to, the consonantal form of the received text of the Old Testament. The allusions, however, often appear to be quotations from the Old Testament which have been changed, in grammar and/or content, to fit the language and ideas of the author of the text. Compare, for example, <hi rend="italic">1 Q S</hi> II, 13 <hi rend="smallcaps">byrk, ytbrk, yhy</hi>, with <hi rend="italic">Deutero-nomy</hi> 29, 18 <hi rend="smallcaps">’lh, whtbrk, yhyh</hi>. In <hi rend="italic">1 Q S</hi> II, 14 the Qumrani ‘allusion’ becomes even farther removed from the Biblical original. Such changes would seem to stamp the Biblical original with the impress of Qumrani grammar, and suggest that the Biblical origin of the allusion is important, from a grammatical point of view, only for comparative study.</note>
+<note n="5">(5) For the morphemes of Hebrew at one (possible) stage in the development of the language, see <hi rend="smallcaps">Harris</hi>, <hi rend="italic">Journal of the American Oriental Society</hi>, vol. 61 (1941), p. 152-164.</note>
+<note n="6">(6) As opposed to its use as a term for the structure represented by a group of letters marked off by spaces—a ‘written word’—which often contains members of several ‘word classes’.</note>
+<note n="7">(7) ‘Adjectives’ and ‘participles’ can be isolated as subclasses of the noun class.</note>
+<note n="8">(8) Probably this class contains only the ‘infinitive construct’, which can be separated from the noun on syntactic grounds. (See <hi rend="italic">"Order"</hi>, § 30).</note>
+<note n="9">(9) For a description, see <hi rend="italic">"Order"</hi>, § 3-20.</note>
+<note n="10">(10) N<hi rend="superscript">s</hi> is, of course, really only a sub-type of N appearing only in verbal clauses.</note>
+      pb n="6"/>
+<list rend="numbered">
+    <item>c) Negatives; particles which stand immediately before the word they modify, and negate it.</item>
+    <item>2. Particles used at the ‘clause-builder’ level of structure.
+    <list rend="simple">
+        <item>Members of the clause-builder class pt (16).</item>
+    </list></item>
+    <item>3. Particles used at the clause level of structure.
+    <list rend="alphabetical">
+        <item>a) Particles which stand before, and modify, verbal clauses. For example <mentioned>’HR</mentioned>, <mentioned>’Z</mentioned>, <mentioned>TRM</mentioned> (17).</item>
+        <item>b) Particles which join two clauses to form a complex clause. For example <mentioned>’M</mentioned>, <mentioned>KY(’)</mentioned>, <mentioned>PN</mentioned>, <mentioned>’ŠR</mentioned> (18).</item>
+    </list></item>
+    <item>4. Particles used at all levels of structure.
+    <list rend="alphabetical">
+        <item>a) Conjunctions; for example <mentioned>’W</mentioned>, <mentioned>W-</mentioned>, and probably <mentioned>KY(’)</mentioned> <mentioned>’M</mentioned> (19).</item>
+        <item>b) ‘Emphatics’; Particles which stand immediately before the structure they modify, and mark it out or emphasize it. For example <mentioned>’K</mentioned>, <mentioned>’P</mentioned>, <mentioned>GM</mentioned>, <mentioned>RQ</mentioned> (20).</item>
+    </list></item>
+</list>
+
+<p>There are no doubt some changes to be made in this scheme of classification, but the main outline should remain valid for Qumrani prose. Many of the particles are used only rarely in the material available, and, since there is not enough evidence to ensure their correct classification, they have not been added to the list unless they are referred to in this article.</p>
+
+<p>8. — Thus, although they are not all used on the word level of structure, all particles find a place in this scheme. They do not, therefore, give any cause to doubt the statement that all members of a lower level are used in the level above. Thus all clause-builders form part of, or act as, clauses. Since clause-builders can—at least in theory—act as clauses, it follows that clauses cannot always be recognized by their structure. In some cases they can only be recognized by their use (21). In fact only the verbal clause is easy to define. The definition of ‘clause’ on which this study must proceed is, then, ‘any structure composed of one or more clause-builders which is used on the same structural level as verbal clauses’. A more negative, but more easily used, guide for difficult cases would point out that, if the scheme of</p>
+
+<note n="16" place="bottom">For a list of these, below, § 11.</note>
+<note n="17" place="bottom"><mentioned>TRM</mentioned> is probably wrongly listed as a clause-builder in ‘Order’, § 19.</note>
+<note n="18" place="bottom">On the particle <mentioned>’ŠR</mentioned>, see note 74.</note>
+<note n="19" place="bottom">Distinguished from members of class 3b (which are traditionally called ‘conjunctions’ also) on the ground of the very great difference in usage between them.</note>
+<note n="20" place="bottom">The ‘emphatics’ are placed here on the evidence of Biblical Hebrew. In Qumrani prose they could be considered to be used only at word level.</note>
+<note n="21" place="bottom">This may seem something of a bar to objective analysis, but the same problem occurs at other levels. Some words can be defined by structure (for example nouns and verbs), some only by use (for example prepositions).</note>
+      <pb n="8"/>
+<head>8 E. J. REVELL</head>
+<p>exception is the wider use of clauses as noun substitutes. The uses found in <hi rend="italic">1 Q S</hi> are given in <title level="a">Order</title>, note 13. To these can be added the possibility that <hi rend="smallcaps">nhlt</hi> (<hi rend="italic">1 Q S IV</hi>, 24) begins a nominal clause which follows a bound (construct) noun form. Clauses following bound nouns also occur in <hi rend="italic">1 Q M I</hi>, 10; XVII, 6. Clauses follow a preposition <hi rend="italic">1 Q M IX</hi>, 2; XVII, 9 and <hi rend="italic">1 Q p Hab X</hi>, 12-13. These positions are normally taken by nouns. The clauses are, therefore, noun substitutes.</p>
+<p>11. — The particles used in the material from <hi rend="italic">1 Q S</hi> studied here are <hi rend="smallcaps">‘wd</hi> and <hi rend="smallcaps">tmy d</hi>, which follow immediately after the verb they modify, and <hi rend="smallcaps">kn</hi> and <hi rend="smallcaps">kkh</hi> which immediately precede it. In the other manuscripts, <hi rend="smallcaps">š m</hi> and <hi rend="smallcaps">’hwr</hi> follow the verb immediately, <hi rend="smallcaps">bkn</hi>, <hi rend="smallcaps">kn</hi>, and <hi rend="smallcaps">mhr</hi> precede it immediately, <hi rend="smallcaps">mš m</hi> and <hi rend="smallcaps">m’z</hi> both precede and follow the verb. For the use of the particles <hi rend="smallcaps">š m</hi> and <hi rend="smallcaps">m’z</hi> in <hi rend="smallcaps">’š r</hi> clauses, see notes 61 and 63.</p>
+<p>12. — The only item which does not occur in <hi rend="italic">1 Q S</hi>, but which appears in the other prose manuscripts, is the ‘infinitive absolute’. Two examples of this occur, in the form <hi rend="smallcaps">hlwk w’wr</hi>, in a clause the structure of which is ]V-pN-inf. abs. structure-pI, in <hi rend="italic">1 Q M I</hi>, 8. With so few examples it is impossible to place the infinitive absolute in the structural scheme (24).</p>
+<p>13. — The use of the clause-builders in the verbal clause in Qumrani prose is as follows (25).</p>
+<list>
+    <item rend="indent">
+        <table rows="4" cols="5">
+            <row>
+                <cell></cell>
+                <cell rend="center"><hi rend="italic">1 Q S</hi></cell>
+                <cell></cell>
+                <cell rend="center">other texts</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell>a) V alone acts as a clause</cell>
+                <cell>9 clauses</cell>
+                <cell></cell>
+                <cell>7 clauses</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell>b) N<hi rend="superscript">s</hi> follows V</cell>
+                <cell>46 —</cell>
+                <cell>(26)</cell>
+                <cell>71 —</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell rend="indent">N<hi rend="superscript">s</hi> precedes V</cell>
+                <cell>27 —</cell>
+                <cell>(27)</cell>
+                <cell>61 —</cell>
+                <cell></cell>
+            </row>
+        </table>
+    </item>
+</list>
+<note n="24">M. l’abbé J. CARMIGNAC has pointed out to me that <hi rend="smallcaps">htl</hi> in <hi rend="italic">1 Q M VIII</hi>, 15; XVI, 6, and XVII, 12 is most probably an ‘infinitive absolute’. In the first case it is preceded by a preposition and followed by a modifying adjective. Since, in Biblical Hebrew, the ‘infinitive absolute’ is not normally found in colligation with members of either word class, <hi rend="smallcaps">htl</hi> is here considered to be a noun substitute (it could even be a noun). In the other two cases <hi rend="smallcaps">htl</hi> forms part of an element modifying the infinitives <hi rend="smallcaps">(wb)’wmd(m)</hi> (XVI, 6) and (probably) <hi rend="smallcaps">(wb)hg v’</hi> (XVII, 11-12), and therefore forms part of a pI element.</note>
+<note n="25">The figures below include all verbal structures except those in <hi rend="smallcaps">’š r</hi> or multipartite clauses. The figures for <hi rend="italic">1 Q S</hi> are given separately, for comparison with <title level="a">Order</title> (which includes the poetical material and the verbal structures in multipartite clauses). Figures for N, pN, and pI in this list show the number of clauses in which one or more exponents of these elements occupy a given position.</note>
+<note n="26">Including the peculiar structure V-N<hi rend="superscript">s</hi>-pN-CN<hi rend="superscript">s</hi> in <hi rend="italic">1 Q S VI</hi>, 22-3.</note>
+<note n="27">Not including the case in which a pN structure acts as N<hi rend="superscript">s</hi> (<hi rend="italic">1 Q S IX</hi>, 1, see <title level="a">Order</title>, § 22). This is listed under pN.</note>
+      <pb n="10"/>
+<p>
+    in <title>1 Q S</title> VII, 1 and <title>1 Q Sa</title> I, 9-11. In both these cases a pI element is followed by a pN element preceded by a conjunction.
+</p>
+<p>
+    16. — A further interesting piece of information derived from the study of clause-builders is their order in relation to the beginning of the clause. The following table lists the initial element in all verbal clauses, and the position of the verbal element in relation to the beginning of the clause.
+</p>
+<table>
+    <row>
+        <cell>first element</cell>
+        <cell><title>1 Q S</title></cell>
+        <cell>other texts</cell>
+    </row>
+    <row>
+        <cell>V</cell>
+        <cell>133 clauses (32)</cell>
+        <cell>137 clauses (33)</cell>
+    </row>
+    <row>
+        <cell>N<hi rend="superscript">s</hi></cell>
+        <cell>27 — Thus:
+            <list>
+                <item>N<hi rend="superscript">s</hi>-V 25</item>
+                <item>N<hi rend="superscript">s</hi>-pN-V 1</item>
+                <item>N<hi rend="superscript">s</hi>-pN-cpN-V 1</item>
+            </list>
+        </cell>
+        <cell>60 — (34) Thus:
+            <list>
+                <item>N<hi rend="superscript">s</hi>-V 56</item>
+                <item>N<hi rend="superscript">s</hi>-N-V 2</item>
+                <item>N<hi rend="superscript">s</hi>-pN-V 1</item>
+                <item>N<hi rend="superscript">s</hi>-pt-V 1</item>
+            </list>
+        </cell>
+    </row>
+    <row>
+        <cell>N</cell>
+        <cell>14 — Thus:
+            <list>
+                <item>N-V 12</item>
+                <item>N-N-V 1</item>
+                <item>N-cN-cN-V 1</item>
+            </list>
+        </cell>
+        <cell>22 — (35) Thus:
+            <list>
+                <item>N-V 21</item>
+                <item>N-pt-V 1</item>
+            </list>
+        </cell>
+    </row>
+    <row>
+        <cell>pN</cell>
+        <cell>41 — Thus:
+            <list>
+                <item>pN-V 40</item>
+                <item>pN-cpt-V 1</item>
+            </list>
+        </cell>
+        <cell>101 — (36) Thus:
+            <list>
+                <item>pN-V 97</item>
+                <item>pN-pN-V 1</item>
+                <item>pN-cpN-V 3</item>
+            </list>
+        </cell>
+    </row>
+    <row>
+        <cell>pI</cell>
+        <cell>12 — Thus:
+            <list>
+                <item>pI-V 11</item>
+                <item>pI-pN-V 1</item>
+            </list>
+        </cell>
+        <cell>19 — (37) Thus:
+            <list>
+                <item>pI-V 17</item>
+                <item>pI-cV 1</item>
+                <item>pI-cN<hi rend="superscript">s</hi>-V 1</item>
+            </list>
+        </cell>
+    </row>
+    <row>
+        <cell>pt</cell>
+        <cell>4 — Thus:
+            <list>
+                <item>pt-V 4</item>
+            </list>
+        </cell>
+        <cell>6 — (38) Thus:
+            <list>
+                <item>pt-V 6</item>
+            </list>
+        </cell>
+    </row>
+</table>
+
+<head>Nominal Clauses</head>
+
+<p>
+    17. — Verbal clauses are by far the most common type in the prose manuscripts of Qumran. Non-verbal clauses are, however,
+</p>
+
+<note n="32">In 6 of these examples the exponent of V follows a lacuna (or some other element, itself broken by a lacuna, which might or might not belong to the preceding clause).</note>
+<note n="33">In 12 of these the V element follows a lacuna.</note>
+<note n="34">In 3 of these the N<hi rend="superscript">s</hi> element follows a lacuna. Note that c indicates a conjunction.</note>
+<note n="35">In 3 of these the N element follows a lacuna.</note>
+<note n="36">In 1 of these the pN element follows a lacuna.</note>
+<note n="37">In 1 of these the pI element follows a lacuna.</note>
+<note n="38">In 1 of these the pt element follows a lacuna.</note>
+      <pb n="12"/>
+<head>E. J. REVELL</head>
+<p>HW’H which forms one part of the clause, is followed by a pN phrase which modifies z‘WM, the word preceding HW’H (45).</p>
+<p>20. — The two parts of clauses of this type are usually called ‘subject’ and ‘predicate’. It is, however, possible to justify the use of these terms in less than 25% of the clauses. The use of such terms to denote grammatical units is only justifiable if it can be shown that the units are distinguished by some grammatical marker. Thus the ‘predicate’ of a verbal clause is distinguished by the fact that it contains the verb. Where no such grammatical marker exists, it is obvious that the grounds on which ‘subject’ is distinguished from ‘predicate’ cannot be grammatical. They cannot, therefore, be treated as grammatical units.</p>
+<p>21. — As type 1 shows, it is not necessary that either part of a two part nominal clause be an exponent of N (46). Consequently, even where one part of the clause does consist of an exponent of N, as in clause types 2-6, it is not necessarily the subject (47). Consequently one must admit that in clause types 1 to 6, the grammatical structure of the clauses provides no means of distinguishing subject and predicate.</p>
+<p>22. — In clause type 7, where both parts of the clause are exponents of N, there are two possible ways in which subject and predicate might be grammatically distinguished. The traditional view of such clauses would suggest that the part of the</p>
+<note xml:id="n45">(45) This is the standard pattern for blessing and curse formulae using the passive participle (BRWK, ’RWR, z‘WM) where the participle has modifiers. The participle, the headword of the first part of the clause, stands first, and is immediately followed by the second part of the clause. The modifiers of the participle follow this 2nd. part. See also <title>1 Q M</title> XIII, 2.4.4.5. This suggests that in <title>1 Q S</title> II, 11 BGLWLY LBW L’BWR should not modify ’RWR, and indeed any translation I have seen which takes the text in this way is unconvincing, even when aided by emendation. The reading proposed by GASTER, ’RWR HB’ BGLWLY LBW L’BWR (see <title>The Scriptures of the Dead Sea Sect</title>, London, 1957, p. 104, note 15) provides a text which is not only intelligible, but also conforms to Qumrani syntactical practices. (For a similar case of the misplacing of a few letters, compare Azitawadd inscription B II, 16-17 with A III, 13-14.)</note>
+<note xml:id="n46">(46) It could be maintained that a pN element is, in these cases a noun substitute (see "<title>Order</title>", note 13). However if this explanation is used here, it can also be applied to transform pN elements in other clauses into possible nominal subjects.</note>
+<note xml:id="n47">(47) An admirable illustration of the same problem in Biblical Hebrew occurs in BROCKELMANN’S <title>Hebräische Syntax</title>, § 27.b, where, in discussing a clause of the type pN-N, he calls the pN element the ‘real, or psychological, subject’, although traditionally he regards the exponent of N as the ‘grammatical subject’. He is, of course, led to this conclusion by the context in which the clause occurs. On the importance of context, see below.</note>
+      <pb n="16"/>
+<head>E. J. REVELL</head>
+
+<p>the other parts of the clause form a purely nominal structure, they are also, in the examples studied, exponents of N (55). Where the other parts of the clause form a verbal structure, the verbal element follows immediately after the first part of the clause in 21 out of 25 cases. In two cases the verbal element is preceded by an exponent of N<hi rend="superscript">s</hi> (<hi rend="italic">1 Q M</hi> VII, 2-3.4-5). In the remaining two cases the verbal element is preceded by an exponent of pN (<hi rend="italic">1 Q M</hi> VII, 11-12, <hi rend="italic">1 Q S</hi> IX, 24). The remaining clause-builders follow the verbal elements in the order usual in verbal clauses. In 11 cases the conjunction w- occurs between the first and second parts of the clause (56).</p>
+
+<p>31. — Clauses of multipartite structure are quite common. The material dealt with in this section is derived from only 32 three and four part clauses. This total does not, however, include verbal clauses containing an exponent of N<hi rend="superscript">s</hi>, nor does it include ’<hi rend="smallcaps">šr</hi> clauses, many of which have tripartite structure.</p>
+
+<head>’<hi rend="smallcaps">šr</hi> <hi rend="italic">Clauses</hi> (57)</head>
+
+<p>32. — Clauses introduced by ’<hi rend="smallcaps">šr</hi> can be divided into two types, according to their structure. In the first type, ’<hi rend="smallcaps">šr</hi> and the words following it form a two part clause (58). Since ’<hi rend="smallcaps">šr</hi> is a pronoun, id est a noun substitute, it can perform, in its clause, any function permissible to a noun. Clauses of this sort do not differ in structure from the two part clauses already described, except for the fact that, whatever its function in the clause, ’<hi rend="smallcaps">šr</hi> is always the first word.</p>
+
+<p>33. — A two part ’<hi rend="smallcaps">šr</hi> clause can be either nominal or verbal. 16 nominal examples occur. 14 of these have the structure</p>
+
+<note place="bottom">
+    <p>(55) But compare the nominal tripartite ’<hi rend="smallcaps">šr</hi> clauses (note 62).</p>
+    <p>(56) Nine of these occur in <hi rend="italic">1 Q S</hi> column VII, where the second part of the clause begins <hi rend="smallcaps">wn’nš</hi>. The tenth one occurs in <hi rend="italic">1 Q S</hi> VI, 11-13, where the second part begins <hi rend="smallcaps">w’md</hi>. The final example occurs in <hi rend="italic">1 Q M</hi> VII, 11-12, where the second part begins <hi rend="smallcaps">w’l hmqds</hi>. As regards the use of the clause-builders of particular interest in these clauses: N<hi rend="superscript">s</hi> and N appear together in only one case (<hi rend="italic">1 Q S</hi> VI, 13-14). Here the exponent of N is a pronoun bound to the verb, and so stands between the exponent of N<hi rend="superscript">s</hi> and the verbal element. There is one case of a pI element following the verb it modifies (<hi rend="italic">1 Q Sa</hi> II, 4-8). The preposition is <hi rend="smallcaps">l-</hi>. No particles occur in these clauses.</p>
+    <p>(57) The ’<hi rend="smallcaps">šr</hi> discussed here is the Hebrew ‘relative’ pronoun. One of its characteristics is that it always stands as the first word in a clause.</p>
+    <p>(58) Verbal clauses containing exponents of N<hi rend="superscript">s</hi> are also included in this group.</p>
+</note>
+      <pb n="18"/>
+<head>E. J. REVELL</head>
+
+<p>by a pronoun, or by the particle šm. Such a pronoun can assume a variety of positions (64). The form of the pronoun is determined by the noun modified by the ’šr clause. These ‘cross-referrent’ words (the pronoun or the particle šm) occur in these clauses only where the ’šr clause does modify a preceding noun (65). Where the ’šr clause does not modify a preceding noun, the function of the pronoun ’šr (which cannot then be ‘relative’), is probably mainly to mark the clause which contains it as a noun substitute (66).</p>
+
+<p>36. — Once all the clause types described above have been isolated, the analyst is left with a relatively small number of structures which, in isolation, would not be recognized as clauses. These can be divided into two groups; ‘bound clauses’, which depend on the preceding context for the clarification of their structure, and one part clauses, which consist of a single ‘clause-builder’ used at clause level.</p>
+
+<head>Bound Clauses</head>
+
+<p>37. — Most bound clauses are incomplete verbal clauses which must be completed from the preceding context. The element required to complete these clauses is always a verb form, and is usually supplied by the preceding clause (67). For example in</p>
+
+<note place="foot">(64) For example: (as Ns, see the example in note 60)
+<list>
+<item>as N; modifying V ’šr hwdy’w ’l ... <title>1 Q p Hab</title> VII, 4</item>
+<item>in pN ’šr t’w bm ... <title>1 Q S</title> V, 11-12</item>
+<item>as part of an exponent of N in a purely nominal structure:
+’šr mwm ‘wlm bbśrw <title>1 Q M</title> VII, 4</item>
+</list>
+’šr is repeated by the particle šm in ’šr sdrw šm... <title>1 Q M</title> XIV, 3.</note>
+
+<note place="foot">(65) There is no pronoun in the ’šr clause in <title>1 Q p Hab</title> XII, 9-10, but the text is not intelligible without one. (Compare the bh in line 8.) In <title>1 Q Sa</title> I, 16-17 the pronoun is presumably lost in the lacuna.</note>
+
+<note place="foot">(66) Clauses can, of course act as noun substitutes without this mark (see above, § 10), but this use is rare. ’šr clauses always act as noun substitutes, most commonly modifying other nouns. They are also found, however, as exponents of Ns in verbal clauses (<title>1 Q p Hab</title> X, 13, subject of ybw’w in line 12, but this is the only example and other explanations are possible); as exponents of N modifying verbs (<title>1 Q S</title> VII, 18); as exponents of N in pN elements (<title>1 Q S</title> VIII, 18); as the second part of two part nominal clauses (pšr hdbr ’šr... <title>1 Q p Hab</title> V, 3 N-N); and as the first part of multipartite clauses (<title>1 Q S</title> VII, 3-4). Except in the case noted, the examples are not isolated instances. An ’šr clause can thus occupy any position possible for an exponent of N.</note>
+
+<note place="foot">(67) There are also examples of bound pI structures of this sort. For example wkwl hwnm k’st sdqw in <title>1 Q S</title> I, 13 is complete only with the addition of ltkn from the preceding infinitival element. In two cases in <title>1 Q S</title> it appears that the clause supplying the verb does not immediately precede the bound clause. These are w’šr ydbr bpyhw dbr nbl šlwšh hwdšym</note>
+      <pb n="20"/>
+<p>
+  20
+  <space dim="horizontal" extent="20em"/>
+  E. J. REVELL
+</p>
+
+<p>
+  40. — a) <hi rend="italic">Nominal elements.</hi>
+  <lb/>
+  <hi rend="smallcaps">wmwbdl</hi> (1 <hi rend="italic">Q S</hi> VII, 5), and its longer counterpart in VII, 3.
+  <lb/>
+  Both of these structures are exponents of N of which the headword is a participle. In traditional language they could be called nominal predicates of which the subject is the subject of the preceding clause, but formally they must be classed as one part clauses (69). The texts studied contain other nominal elements which could be considered as one part clauses. They form titles to various sections of text. Since they are used in this way, and do not occur in the body of the text, the definition of a clause given at the beginning of this study (§ 8) cannot be applied to them. They have not, therefore, been listed as clauses (70).
+</p>
+
+<p>
+  41. — b) <hi rend="italic">Prepositional elements.</hi>
+  <lb/>
+  <hi rend="smallcaps">wlw' lnw, bkwhkh, wb'wz ḥylkh hgdwl</hi> (1 <hi rend="italic">Q M</hi> XI, 5).
+  <lb/>
+  The first of these three structures does not form part of a clause, but is understandable as a clause in the context in which it occurs. The second is in the same position. The third, which follows immediately after the second in the text, is joined to it as a nominal bound clause (see above, § 38). These two structures are, then, parts of a whole, but it seems simplest to treat them as two one part clauses joined by a conjunction.
+</p>
+
+<p>
+  42. — c) <hi rend="italic">Infinitival elements.</hi>
+  <lb/>
+  Exponents of pI which are used to convey a command or duty sometimes act as one part clauses. For example <hi rend="smallcaps">wlhbynm bkwl mšpṭyhmh</hi> (1 <hi rend="italic">Q Sa</hi> I, 5) (71). There are a number of examples of this type of structure in 1 <hi rend="italic">Q S</hi>. Some of these can most easily be taken as forming parts of other clauses (72). This is true of those in 1 <hi rend="italic">Q S</hi> IX, 13-16 (73). In line 16, however, a new series
+</p>
+
+<note n="69">
+  (69) They are similar to the nominal type of bound clause described above in § 38, but differ in that the preceding clause is verbal, not nominal.
+</note>
+<note n="70">
+  (70) These passages are found in <hi rend="italic">1 Q M</hi> III, 13; IV, 9; V, 3; IX, 10 (and possibly the following lines) (<hi rend="italic">1 Q Sb</hi> I, 1-3; III, 22-25. In other cases titles do have definite clausal structure: for example the <hi rend="smallcaps">zh hsrk</hi> type common in <hi rend="italic">1 Q S</hi>. It was mentioned above (note 22) that the names given to the trumpets and banners in <hi rend="italic">1 Q M</hi> could be taken as single nominal elements in many cases. These might also be taken as one part clauses, but since there is no possibility of certainty on this point, they have not been included in this study.
+</note>
+<note n="71">
+  (71) If the editor's restorations are correct, two other examples occur in <hi rend="italic">1 Q Sa wmn</hi> n'[<hi rend="smallcaps">wryw ll</hi>]<hi rend="smallcaps">mdhw</hi>... (I, 6-7) and <hi rend="smallcaps">wl</hi>[<hi rend="smallcaps">qhṭ</hi>] (I, 7).
+</note>
+<note n="72">
+  (72) For example <hi rend="smallcaps">wlw' lswr</hi>... and <hi rend="smallcaps">w'yn ls'wd</hi>... (1 <hi rend="italic">Q S</hi> III, 10-11) begin pI elements which probably form part of the clause beginning <hi rend="smallcaps">wyhkyn p'myw</hi> (III, 9), but they could be taken as forming separate clauses.
+</note>
+<note n="73">
+  (73) They form a list of <hi rend="smallcaps">hwqym</hi> in apposition to '<hi rend="smallcaps">lh</hi> (IX, 12). Compare the list of <hi rend="smallcaps">drkym</hi> in apposition to '<hi rend="smallcaps">lh</hi> in IV, 2, which is composed of exponents of both pI and N.
+</note>
+      <pb n="22"/>
+<head>E. J. REVELL</head>
+<p>ative, there is no need to explain why this theoretical ‘predicate particle’ sometimes displays its supposed verbal characteristics and sometimes does not. 'YN is usually used simply to negate nouns and nominal structures (79). These 'YN + N structures are used as typical nominal structures in verbal clauses (80). Once 'YN is seen to have no verbal qualities, the use of such 'YN + N structures in two-part nominal clauses can also be seen to be typical usage of exponents of N (81). Finally, once the existence of one part clauses has been recognized, the remaining uses of 'YN + N can be seen to form exponents of N acting as one part clauses (82).</p>
+<p>46. — yš is quite rare. Its usage can be seen to differ from that of 'YN in some respects. However its supposed verbal qualities can be explained away as they can for 'YN (83). yš is not, of course, a member of the class ‘negative’, but should probably be classed as an ‘emphatic’ (84).</p>
+<p>47. — As an indication of the extent to which the different types of clause structure are used, a list is given below showing the numbers of each type found in the prose texts of Qumran cave I. ('YN and yš clauses are here listed under the type of nominal clause to which they really belong.)</p>
+<list>
+    <item>Verbal clauses <num value="576">576</num></item>
+    <item>Nominal clauses <num value="200">200</num></item>
+    <item>Multipartite clauses <num value="32">32</num></item>
+    <item>Bound clauses: verbal <num value="9">9</num></item>
+    <item>nominal <num value="9">9</num></item>
+    <item>One part clauses <num value="18">18</num></item>
+    <item>'šR clauses: two part <num value="88">88</num></item>
+    <item>three part <num value="39">39</num></item>
+</list>
+<signed>E. J. REVELL.</signed>
+
+<note n="79">Occasionally also exponents of pI, and pt.</note>
+<note n="80">Usually as N in a pN element. For example, <title>1 Q M</title> XI, 1, also modifying a noun, <title>1 Q M</title> XIV, 5.</note>
+<note n="81">For example WLKWL GBWRYHM 'YN M'MD (<title>1 Q M</title> XIV, 8) is a two part nominal clause of structure pN-N, the N element being M'MD negated by 'YN. So also in W'YN 'WZR LW (<title>1 Q M</title> I, 6), LW does not modify 'WZR, but forms the pN element in an N-pN clause.</note>
+<note n="82">In the prose texts only W'YN šB'H <title>1 Q p Hab</title> III, 12.</note>
+<note n="83">In <title>1 Q S</title> there is an example of a two part nominal clause of structure (yš)pN-N (VI, 13). A similar structure forms parts two and three of a tripartite 'šR clause (VI, 12). If the editor's restoration is correct, <title>1 Q Sa</title> II, 9 contains a clause of structure (yš) N-pN.</note>
+<note n="84">See above, § 7.</note>
+    </body>
+  </text>
+</TEI>

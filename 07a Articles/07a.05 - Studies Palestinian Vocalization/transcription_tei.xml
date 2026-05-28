@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Studies in the Palestinian Vocalization of Hebrew</title>
+            <author>E. J. Revell</author>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>University of Toronto Press</publisher>
+            <pubPlace>Toronto</pubPlace>
+            <date>1970</date>
+        </publicationStmt>
+        <sourceDesc>
+            <biblStruct>
+                <analytic>
+                    <title level="a">Studies in the Palestinian Vocalization of Hebrew</title>
+                    <author>
+                        <persName>
+                            <forename>E.</forename>
+                            <forename>J.</forename>
+                            <surname>Revell</surname>
+                        </persName>
+                    </author>
+                </analytic>
+                <monogr>
+                    <title level="m">Essays on the Ancient Semitic World</title>
+                    <editor>J. W. Wevers</editor>
+                    <editor>D. B. Redford</editor>
+                    <imprint>
+                        <pubPlace>Toronto</pubPlace>
+                        <publisher>University of Toronto Press</publisher>
+                        <date>1970</date>
+                        <biblScope unit="page">59-100</biblScope>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+        <change>
+            <desc>Digital version created from file 07a.05.pdf</desc>
+        </change>
+    </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<head type="main">Studies in the Palestinian Vocalization of Hebrew</head>
+<byline>E. J. REVELL</byline>
+
+<head type="section">I THE VOWELS OF PALESTINIAN HEBREW AND THE HISTORY OF THE LANGUAGE*</head>
+
+<head type="subsection">Introduction</head>
+
+<p>
+    <num value="1">I</num> It is well known that three styles of ‘pointing’ were used to vocalize Hebrew in mediaeval times: the Palestinian, the Babylonian, and the Tiberian. The last named, used in a system which will here be called the ‘ben Asher biblical’<ref target="#n1">¹</ref> (= bA), became the standard method of pointing Hebrew. It uses seven basic vowel signs, and one simple and three composite <foreign xml:lang="he">shewa</foreign> signs. The Babylonian style of pointing (= Bab.) used only six basic vowel signs.<ref target="#n2">²</ref> Not only the number of the signs, but also their use, makes it obvious that this pointing represents a pronunciation quite different from that represented by bA.<ref target="#n3">³</ref> Bab. and bA are, therefore, said to represent different dialects of Hebrew.
+</p>
+
+<note xml:id="n_star" place="bottom">
+    * An earlier draught of this study was read before the Canadian Biblical Society, May 1965.
+</note>
+
+<note xml:id="n1" place="bottom">
+    <num value="1">1</num> Neither of the common terms is satisfactory. ‘Tiberian’ indicates the style of pointing, the form and position of the signs. This style was used in a number of ways, of which bA was one. ‘Masoretic’ indicates only that a text was the subject of masoretic care, and can correctly be applied not only to bA texts, but also to Palestinian, Babylonian, and non-bA Tiberian traditions such as the so-called Ben Naftali.
+</note>
+
+<note xml:id="n2" place="bottom">
+    <num value="2">2</num> Besides the major divisions of ‘simple’ and ‘complex’ pointing different ‘systems’ of using Babylonian points can be isolated (e.g. the ‘Tiberianizing’ ones which create new signs to correspond to bA <foreign xml:lang="he">segol</foreign>, as in mss. 7a, b, c; 36, 38c, 40c, in Kahle, 1913).
+</note>
+
+<note xml:id="n3" place="bottom">
+    <num value="3">3</num> For instance, the ‘Babylonian <foreign xml:lang="he">pataḥ</foreign>’ (<g ref="#char_bab_patah"/>) is usually said to correspond to bA <foreign xml:lang="he">pataḥ</foreign> and <foreign xml:lang="he">segol</foreign>. However, the Babylonian ‘e’ sign (as in <foreign xml:lang="he">’t</foreign>, the ‘sign of the definite
+</note>
+      <pb/>
+<gap reason="illegible" resp="#OCR" extent="page"/>
+      <pb n="52"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>
+    2 The Palestinian pointing system, like bA, uses seven vowel signs: 〈u〉, 〈o〉, 〈a〉, 〈aʹ〉, 〈e〉, 〈eʹ〉, and 〈i〉.<ptr target="#n4"/> Of these, 〈u〉, 〈o〉, and 〈i〉 correspond almost exactly in use to bA <hi rend="italic">shureq/qibbuṣ</hi>,<ptr target="#n5"/> <hi rend="italic">ḥolem</hi>, and <hi rend="italic">ḥireq</hi>. In some mss., 〈a〉, 〈aʹ〉, 〈e〉, and 〈eʹ〉 are used almost exactly as bA uses <hi rend="italic">qameṣ</hi>, <hi rend="italic">pataḥ</hi>, <hi rend="italic">segol</hi>, and <hi rend="italic">ṣere</hi>. Other mss. use all four, or only three of these signs quite differently from the use of the bA signs. Such mss. use the two ‘a’ and the two ‘e’ signs with no very obvious discrimination, so that it appears to most students of these mss. that either ‘a’ sign can represent any ‘a’ vowel and either ‘e’ sign any ‘e’ vowel. In fact, in such mss., pairs of grammatically identical forms can usually be found in one of which 〈a〉, and in the other 〈aʹ〉, is used to represent the same vowel. The same is true for 〈e〉 and 〈eʹ〉. This fact, together with the existence of a further group of mss. which use only one ‘a’ and one ‘e’ sign, has led some scholars to conclude that Pal. represents a dialect which contained only one ‘a’ and one ‘e’ vowel.<ptr target="#n6"/> The use of two ‘a’ and two ‘e’ signs is held to be due to the influence of bA. The opinion most generally accepted seems to be that Pal. developed from the use of one ‘a’ and one ‘e’ sign to the use of two of each, and from ‘non-bA’ to ‘bA type’ use of these signs.<ptr target="#n7"/> Some scholars, however, argue that there is no real difference between the Palestinian dialect and that represented by bA. Those mss. which do not use the signs as does bA are held to be the work of ignorant <hi rend="italic">naqdanim</hi>.<ptr target="#n8"/>
+</p>
+<p>
+    3 This paper is an attempt to interpret the facts which came to light during the study and classification of the known Hebrew texts with Palestinian vocalization. A detailed study of the classification, together with some of the unpublished texts on which it is based, is
+</p>
+<note>
+    object’) and the ‘i’ sign (as in the preposition ’<hi rend="italic">l</hi>) are also used where bA uses <hi rend="italic">segol</hi>. Such usage is normally constant, and is not the result of vowel confusion. The area covered by <hi rend="italic">segol</hi> in bA is, therefore, part of the area of use of three different signs in Bab. So also none of the other five Bab. vowel signs is used in exactly the same way as its ‘corresponding’ bA sign.
+</note>
+<note xml:id="n4">
+    4 The signs are: 〈u〉 <unclear>..</unclear> ( <unclear>_</unclear> ), 〈o〉 <unclear>̇</unclear> , 〈a〉 <unclear>ᐧ</unclear> , 〈aʹ〉 <unclear>_</unclear> , 〈e〉 <unclear>··</unclear> , 〈eʹ〉 <unclear>⠗</unclear> , 〈i〉 <unclear>·</unclear> . The Tiberian names are not used for the obvious reason that such a practice would be confusing and tends to prejudice the evaluation of the signs.
+</note>
+<note xml:id="n5">
+    5 <hi rend="italic">Shureq</hi> and <hi rend="italic">qibbuṣ</hi> are allographs of the Tiberian ‘u’ grapheme (see Schramm, 1964, p. 26). ‘<hi rend="italic">Shureq</hi>’ in this study is normally used to indicate this ‘u’ grapheme. One Palestinian ms. uses no 〈u〉 sign. See note 44.
+</note>
+<note xml:id="n6">
+    6 Most recently, I think, Weinreich, 1964, p. 230.
+</note>
+<note xml:id="n7">
+    7 This view has become standardized to the extent that it is given without supporting argument in Yeivin, 1963, pp. 123, 127.
+</note>
+<note xml:id="n8">
+    8 See ben David, 1958, p. 483, who says of Palestinian Hebrew (top of col. b): “Its pronunciation was like true Tiberian, merely (written) in different signs.” Usage divergent from bA is said to be due to ignorance (p. 484).
+</note>
+      <pb n="53"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 53</head>
+<p>being published elsewhere.<note n="9">Under the title <title>Hebrew Texts with Palestinian Vocalization</title> by the University of Toronto Press. This study, which owes much to Dr. Dietrich (see appendix A), is referred to here as HTPV.</note> The classification is, however, basic to the present study, and so is given in simplified form here. It is based on the use of the ‘a’ and ‘e’ signs in the Palestinian mss. The members of most classes show further common features, only the most obvious of which are given here. Statements on the use of vowel signs in table 1 and in this paper generally are not absolute, but general, i.e. mss classed as using 〈a〉 where bA has <foreign xml:lang="he-Latn">qameṣ</foreign> may also use 〈a′〉, but only in a small percentage of cases. The numbers across the top of table 1 indicate the following:</p>
+<list rend="simple">
+    <item>i Where bA uses <foreign xml:lang="he-Latn">qameṣ ḥatuf</foreign> Pal. uses ...</item>
+    <item>ii ” ” ” <foreign xml:lang="he-Latn">ḥatef qameṣ</foreign> ” ”</item>
+    <item>iii ” ” ” <foreign xml:lang="he-Latn">qameṣ</foreign> ” ”</item>
+    <item>iv ” ” ” <foreign xml:lang="he-Latn">pataḥ</foreign> ” ”</item>
+    <item>v ” ” ” <foreign xml:lang="he-Latn">segol</foreign> ” ”</item>
+    <item>vi ” ” ” <foreign xml:lang="he-Latn">ṣere</foreign> ” ”</item>
+    <item>vii ” ” ” <foreign xml:lang="he-Latn">shewa</foreign><note n="10">Special cases, such as the use of 〈i〉 where bA has <foreign xml:lang="he-Latn">shewa</foreign> before <foreign xml:lang="he-Latn">yod</foreign>, are not included here.</note> ” ”</item>
+    <item>viii Number of biblical texts of this class known.</item>
+    <item>ix Number of non-biblical texts of this class known.</item>
+</list>
+<p>The numbers down the side of the table indicate the classes of Palestinian mss.<note n="11">Examples of mss. of the various classes are : cl. 1, Bod. Heb. e30 f. 48–9+, TS H16:10; cl. 2, Bod. Heb. d44 f. 1–4+, TS H16:7; cl. 3, TS 12:195+, Ant. 959; cl. 4, TS H16:4; cl. 5, TS H16:8; cl. 6, TS H2:30; cl. 7, Bod. Heb. d29 f. 17–20, TS H16:3+; cl. 8, TS NS 249:14+; cl. 9, TS H7:1; cl. 10, TS NS 117:7+; cl. 11, TS H2:29.</note></p>
+
+<table xml:id="table1">
+    <head>TABLE I</head>
+    <row role="label">
+        <cell></cell>
+        <cell>i</cell>
+        <cell>ii</cell>
+        <cell>iii</cell>
+        <cell>iv</cell>
+        <cell>v</cell>
+        <cell>vi</cell>
+        <cell>vii</cell>
+        <cell>viii</cell>
+        <cell>ix</cell>
+    </row>
+    <row>
+        <cell>I</cell>
+        <cell>〈o/a〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a′〉</cell>
+        <cell>〈e〉</cell>
+        <cell>〈e′〉</cell>
+        <cell>〈e〉</cell>
+        <cell>3</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>2</cell>
+        <cell>〈o/a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a′〉</cell>
+        <cell>〈e/e′〉</cell>
+        <cell>〈e/e′〉</cell>
+        <cell>〈a′/e〉</cell>
+        <cell>3</cell>
+        <cell>10</cell>
+    </row>
+    <row>
+        <cell>3</cell>
+        <cell>〈o/a/a′〉</cell>
+        <cell>〈a′〉<note n="12">One example only.</note></cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈e/e′〉</cell>
+        <cell>〈e/e′〉</cell>
+        <cell>〈a′/e/e′〉</cell>
+        <cell>5</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>4</cell>
+        <cell>〈o〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a′〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈e′/a′〉</cell>
+        <cell>–</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>5</cell>
+        <cell>〈o/a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈e′/a′〉</cell>
+        <cell>–</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>6</cell>
+        <cell>〈o〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a〉</cell>
+        <cell>〈a′〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>–</cell>
+        <cell>–</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>7</cell>
+        <cell>〈o/a/a′〉</cell>
+        <cell>–</cell>
+        <cell>〈a/a′〉</cell>
+        <cell>〈a/a′〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈a′/e〉</cell>
+        <cell>4</cell>
+        <cell>12</cell>
+    </row>
+    <row>
+        <cell>8</cell>
+        <cell>〈o〉</cell>
+        <cell>〈a〉</cell>
+        <cell cols="2">〈a〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈a′〉</cell>
+        <cell>–</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell>9</cell>
+        <cell>〈o〉</cell>
+        <cell>〈a〉</cell>
+        <cell cols="2">〈a〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈e〉</cell>
+        <cell>–</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>10</cell>
+        <cell>–</cell>
+        <cell>–</cell>
+        <cell cols="2">〈a〉</cell>
+        <cell cols="2">〈e′〉</cell>
+        <cell>〈e′〉</cell>
+        <cell>–</cell>
+        <cell>3</cell>
+    </row>
+    <row>
+        <cell>11</cell>
+        <cell>〈o〉</cell>
+        <cell>–</cell>
+        <cell cols="2">〈a′〉</cell>
+        <cell cols="2">〈e〉</cell>
+        <cell>〈a′/e〉</cell>
+        <cell>–</cell>
+        <cell>2</cell>
+    </row>
+</table>
+      <pb n="54"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>4 The following points can be established from this table.</p>
+<list rend="numbered">
+    <item>(i) Mss. of class 1, those in which the Palestinian use of signs is most similar to that of bA, form a very small proportion of the total number of known mss. It is therefore unlikely that they represent the standard form of Palestinian pointing, of which all others are the work of an ignorant copyist.<note n="13">There are, in any case, numerous dissimilarities between mss. of class 1 and bA, of which the most important is the absence of a special sign for ‘shewa vowels’ in Pal. texts (see below § 11.15). In my opinion, the use of 〈a〉 where bA has qameṣ ḥaṭuf is the only likely example of ‘Tiberianization’ in these mss. (see (iii) below and HTPV III.I and IV.I).</note></item>
+    <item>(ii) Members of classes 8–11, which use only one ‘a’ sign and one ‘e’ sign, form an almost equally small proportion of the known mss. It is therefore unlikely that the Palestinian dialect in general should be credited with only one ‘a’ and one ‘e’ vowel on the basis of these texts.</item>
+    <item>(iii) Mss. of classes 1, 2, 4, and 6 use 〈a〉 and 〈a'〉 much as bA uses <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi>. Mss. of classes 2, 4, and 6 do not show any other features likely to have derived from bA influence, in fact rather the reverse (see (iv) below). There is, therefore, no reason to suppose that the use of 〈a〉 and 〈a'〉 in this way is not a genuinely native feature of some types of Palestinian Hebrew (compare classes 3, 5, and 7 with 2, 4, and 6). Consequently the history of Palestinian Hebrew cannot have been one of unilinear development from the use of two ‘a’ and ‘e’ signs to the use of four, and from ‘non-bA’ to ‘bA type’ use of these signs.</item>
+    <item>(iv) Apart from mss. of class 1 (in which it is perhaps due to bA influence), the use of 〈a〉 where bA has <hi rend="italic">qameṣ ḥaṭuf</hi> is confined to mss. of classes 5 and 7, in which the use of the ‘a’ signs is quite different from that of bA, and to mss. of class 2, which shows many similarities to them. The use of 〈a'〉 where bA has <hi rend="italic">qameṣ ḥaṭuf</hi> or <hi rend="italic">ḥaṭef qameṣ</hi> is found only in these mss. Texts of classes 4 and 6, in which the ‘a’ signs are otherwise used as are those of bA, use 〈o〉 where bA has <hi rend="italic">qameṣ ḥaṭuf</hi>, and 〈a〉 where bA has <hi rend="italic">ḥaṭef qameṣ</hi>. The use of 〈a〉 where bA has <hi rend="italic">qameṣ ḥaṭuf</hi> is not, therefore, a mark of bA influence, but derives from the Palestinian traditions most different from bA. These four points, then, show that the views cited in paragraph 2 are all unsatisfactory.</item>
+</list>
+<p>5 Scholars appear to be unanimous in their opinion that Pal. represents a stage of the language earlier than that recorded in bA.</p>
+      <pb n="55"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 55</head>
+<p>While various suggestions have been put forward to account for the number and use of the vowel signs, however, there has never been a serious attempt to place the Palestinian forms in the chain of Hebrew morphological development.14 For instance, both Origen’s transliterations and bA clearly distinguish two signs for ‘e’ vowels. The majority of Palestinian mss. do not. Palestinian Hebrew, even in classes 3, 5, and 7, is clearly in the same line of development as are Origen’s transliterations and bA.15 Are we, then, to postulate the complete loss and revival of a distinction between two ‘e’ vowels in the period between the production of Origen’s transliterations and bA? No clear answer has ever been suggested for this and the many similar questions which could be raised. The present paper is an attempt to supply answers by determining the place of Palestinian Hebrew in the history of the language on the basis of its use of vowel signs.</p>
+<p>6 All Palestinian mss. known to me in 1965 have been used as sources for this study. All mss. are quoted by their library number. References to biblical mss. are to biblical chapter and verse. References to non-biblical mss. are to f(olio) (where applicable), r(ecto) or v(erso), and line. The practice of former editors is too diverse to permit their systems of line numbering to be used without confusion. Where line numbering in a published text is not that of the ms., numbers are given in parentheses after the first reference, indicating the <quote>page</quote> and <quote>line</quote> of the published edition. This system is also used for the Leningrad texts of which I have not yet been able to get photographs. The place of publication of all published texts is given in appendix A. This list also includes all texts referred to in this article.16 Because fuller information will be available in a subsequent publication, few examples have been given here. Palestinian Hebrew, where possible, is quoted in graphemic transcription.17 bA Hebrew, quoted for comparison, is also given in the form of</p>
+<note xml:id="n14" place="foot">14 Ben David (1958) does argue at length on the date of Palestinian Hebrew, but makes no attempt to solve the problems his view raises, or even the apparent conflict in his own statements (see paragraph 34).</note>
+<note xml:id="n15" place="foot">15 The many similarities which can be seen between the transliterations of Origen and bA (see Brønno, 1943, p. 462), between the transliterations of Origen and Pal. (see Sperber, 1938, pp. 144f.), and between bA and Pal. (see ben David, 1958, p. 483) show this. Babylonian Hebrew, as pointed out by ben David there, is in a different line of development.</note>
+<note xml:id="n16" place="foot">16 A complete list of the texts used for this study appears in HTPV.</note>
+<note xml:id="n17" place="foot">17 Transcription of consonants is conventional, and that of vowel signs is given in paragraph 2 above. These letters are placed within ‘pointed brackets’ <> to indicate graphemic transcription.</note>
+      <pb n="56"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>transcribed graphemes, but in italics to avoid confusion.<hi rend="superscript">18</hi> Attempted phonetic or phonemic transcription is deliberately avoided for reasons which, in the grammatical study of written texts, should be obvious.<hi rend="superscript">19</hi></p>
+<head>The ‘indiscriminate’ use of ‘a’ and ‘e’ signs in Palestinian texts</head>
+<p>7 When the Palestinian use of vowel signs is compared to that of bA, the most obvious Palestinian characteristic is the apparent confusion in the use of the ‘a’ signs (classes 3, 5, and 7) and the ‘e’ signs (classes 2 and 3). It is usually said that the mss. of these classes use these signs ‘indiscriminately.’ There is, however, reason to believe that 〈a〉 and 〈aʹ〉, and 〈e〉 and 〈eʹ〉, were to some extent distinguished in these mss., although the distinction was different from that made by bA in the use of <hi rend="italic">qames</hi>, <hi rend="italic">patah</hi>, <hi rend="italic">segol</hi>, and <hi rend="italic">sere</hi>. In order to determine the Palestinian use of the four ‘a’ and ‘e’ signs, the texts of these classes were analysed into their component morphs.<hi rend="superscript">20</hi> This was done first in the biblical mss. Each morph containing an ‘a’ or ‘e’ sign was listed. Any morph which occurred frequently, and in which the same ‘a’ or ‘e’ sign was regularly used, was noted, and these morphs only were studied in non-biblical texts. This method was used to reduce the material to manageable proportions. It should, however, be noted that morphs regularly written with a particular ‘a’ or ‘e’ sign in non-biblical texts may be</p>
+<note n="18">The system used is that of Schramm, 1964, no. 2.4 (pp. 7-8) save that stress position is not normally indicated.</note>
+<note n="19">Either type of transcription applied even to such a relatively well-documented form of Hebrew as bA must remain highly questionable, as can be seen from a comparison of the various attempts to reconstruct the bA phoneme system. Even the consonantal system is uncertain. This makes a highly unsatisfactory basis for grammatical study. Graphemes and phonemes can be considered as parallel methods of representing morphemes (see McIntosh, 1956, especially p. 40), and should be so considered in the grammatical study of written texts. The use of the term ‘phoneme’ in the study of such texts is a ludicrous contradiction of its meaning, and (since the value of a scientific term of this sort is that it represents a single category) a dangerous perversion of the idea it stands for. If enough information exists, an attempt can be made to designate the sounds indicated by the graphemes, but this should be done only on the basis of a complete study of the graphemic system.</note>
+<note n="20">This is the only way in the use of the signs by the Palestinians themselves can be checked. The mere existence of pairs of identical forms in which two different signs are used indiscriminately is not a valid indicator. It is true of bA (see Sperber, 1959, pp. 35f. for examples). Nor is a comparison of the Pal. use of signs to that of bA any indication of what is regular in Pal. However if, in Pal., either one of two signs is commonly used to write a particular morph in a particular grammatical context, they may truly be said to be used indiscriminately – and vice versa.</note>
+      <pb n="57"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 57</head>
+<p>infrequent or non-existent in the biblical texts available, and would therefore not be included in this study. The number of morphs noted here is not, therefore, necessarily any indication of the number in which regularity of vowel sign use is found. In order to cut down the amount of material, few unpublished texts were used in the study of the ‘a’ signs, for which there is plenty of information. As many texts as possible were used in the study of the ‘e’ signs. A list of the texts used for this study, and comparative data on their use of the ‘a’ and ‘e’ signs, is given in appendix B.</p>
+<p>8 The most obvious evidence for the existence, within the mss. studied, of a distinction between ⟨a⟩ and ⟨a'⟩ is to be seen in the bound forms of the second person masculine singular pronoun. The ‘pronominal suffix’ (bA -kɔ) is normally (over 90%) written with ⟨a⟩. In biblical texts, only two exceptions occur in 71 examples. Even in these cases the horizontal stroke may represent an accent, not ⟨a'⟩.<note n="21">The exceptions are both in Bod. Heb. d29 f. 17-20, Josh. 17:15, 17. Hand A’s accents were changed by later hands elsewhere: e.g. Josh. 18:20.</note> This morph is rare in non-biblical texts (see paragraph 38), where it is usually written with ⟨a'⟩. The allomorph common in non-biblical texts (bA -ɔk) shows no orthographic regularity.<note n="22">There is, however, considerable regularity in certain contexts; thus, when bound to the ‘inseparable prepositions,’ this morph is usually written with ⟨a⟩.</note> The pronoun in the second person masculine singular perfect verb form (bA -tɔ) shows usage similar to -kɔ. In biblical and rabbinic texts it is usually written with ⟨a⟩.<note n="23">In 34 examples there are four exceptions, all in TS NS 249:3.</note> In liturgical texts, it is often written with ⟨a'⟩, but usage varies according to the ms.<note n="24">Thus in Bod. ms. Heb. d41 f. 15v, 15r 1-15, ⟨a⟩ is used 16 times, ⟨a'⟩ once. In TS H16:8, ⟨a⟩ is used twice, ⟨a'⟩ 18 times.</note> These -kɔ and -tɔ forms, then, do give examples of the distinctive use of the ‘a’ signs in a genuine Palestinian situation, even if only in biblical texts.<note n="25">It might be argued, because of the theories which have been built on these morphs, that -kɔ and -tɔ do not represent the ‘true’ Palestinian dialect. My own opinion on this is given in paragraph 38, but the question is not relevant here. The point which must be made here is that, even if the consonant plus vowel form of these suffixes did derive from outside influence, there is no reason why the vowel should not be represented indiscriminately by ⟨a⟩ or ⟨a'⟩. This is, in fact, the case with the vowel plus consonant form, even where it appears in biblical mss. There is no other sign, in the mss. in which the spelling of -kɔ and -tɔ was studied, of any thoroughgoing attempt to use ⟨a⟩ as bA uses qameṣ.</note></p>
+<p>9 Table II shows further morphs in which a high degree of uniformity in the use of ‘a’ signs obtains, both in biblical and non-biblical texts. The statistics on the pi‘el are given to provide cases of</p>
+      <pb n="58"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>completely indiscriminate use to contrast with the discrimination exercised in the spelling of the other forms given.</p>
+
+<table n="II">
+    <head>TABLE II</head>
+    <row role="label">
+        <cell>Morph</cell>
+        <cell>bA form</cell>
+        <cell>Use of &lt;a&gt;</cell>
+        <cell>Use of &lt;a'&gt;</cell>
+    </row>
+    <row>
+        <cell>3ms. pron. bound to pl. nouns</cell>
+        <cell>-<i>yw</i></cell>
+        <cell>2</cell>
+        <cell>110</cell>
+    </row>
+    <row>
+        <cell>3fs. pron. in perfect verb forms</cell>
+        <cell>-<i>ɔh</i></cell>
+        <cell>50</cell>
+        <cell>8</cell>
+    </row>
+    <row>
+        <cell>1cs. pron. bound to pl. nouns</cell>
+        <cell>-<i>ay/ɔy</i></cell>
+        <cell>8</cell>
+        <cell>52</cell>
+    </row>
+    <row>
+        <cell>Preposition (free form)</cell>
+        <cell><i>ʿal</i></cell>
+        <cell>85</cell>
+        <cell>13</cell>
+    </row>
+    <row>
+        <cell>Perfect <i>qal</i> (first syllable)</cell>
+        <cell><i>qɔ(tal)</i>, etc.</cell>
+        <cell>260</cell>
+        <cell>65</cell>
+    </row>
+    <row>
+        <cell>Imperfect <i>nifʿal</i></cell>
+        <cell><i>yiqqɔtel</i>, etc.</cell>
+        <cell>50</cell>
+        <cell>3</cell>
+    </row>
+    <row>
+        <cell>Infinitive construct <i>piʿel</i></cell>
+        <cell><i>qattel</i></cell>
+        <cell>34</cell>
+        <cell>26</cell>
+    </row>
+    <row>
+        <cell>Imperative <i>piʿel</i></cell>
+        <cell><i>qattel</i>, etc.</cell>
+        <cell>31</cell>
+        <cell>39</cell>
+    </row>
+</table>
+
+<p>10 The most interesting, and probably the most important, evidence for the distinction of &lt;e&gt; and &lt;e'&gt; is found in the ‘segolate’ nouns. The use of vowel signs in such nouns and similar forms can be tabulated as in table III.</p>
+
+<table n="III">
+    <head>TABLE III</head>
+    <row role="label">
+        <cell></cell>
+        <cell cols="2">Biblical</cell>
+        <cell cols="2">Non-biblical</cell>
+    </row>
+    <row role="label">
+        <cell></cell>
+        <cell>&lt;e&gt;</cell>
+        <cell>&lt;e'&gt;</cell>
+        <cell>&lt;e&gt;</cell>
+        <cell>&lt;e'&gt;</cell>
+    </row>
+    <row>
+        <cell><i>In the first syllable</i></cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>bA <i>qetel/qέtel</i></cell>
+        <cell>57</cell>
+        <cell>9</cell>
+        <cell>35</cell>
+        <cell>9</cell>
+    </row>
+    <row>
+        <cell>bA nouns ending <i>-έlet</i></cell>
+        <cell>–</cell>
+        <cell>2</cell>
+        <cell>8</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>bA segolate infinitives</cell>
+        <cell>–</cell>
+        <cell>1</cell>
+        <cell>–</cell>
+        <cell>–</cell>
+    </row>
+    <row>
+        <cell><i>In the second syllable</i></cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+    </row>
+    <row>
+        <cell>bA <i>qótɛl</i></cell>
+        <cell>4</cell>
+        <cell>2</cell>
+        <cell>2</cell>
+        <cell>2</cell>
+    </row>
+    <row>
+        <cell>bA <i>qɔtel</i></cell>
+        <cell>7</cell>
+        <cell>2</cell>
+        <cell>–</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell>bA <i>qétɛl/qέtɛl</i></cell>
+        <cell>5</cell>
+        <cell>17</cell>
+        <cell>18</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>bA nouns ending <i>-ólɛt</i></cell>
+        <cell>–</cell>
+        <cell>–</cell>
+        <cell>–</cell>
+        <cell>3</cell>
+    </row>
+    <row>
+        <cell>bA nouns ending <i>-έlɛt</i></cell>
+        <cell>–</cell>
+        <cell>3</cell>
+        <cell>11</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>bA segolate infinitives</cell>
+        <cell>–</cell>
+        <cell>1</cell>
+        <cell>–</cell>
+        <cell>1</cell>
+    </row>
+</table>
+
+<p>11 Table III shows that, in biblical mss., &lt;e&gt; is normally used in the first syllable of segolate forms. In the second syllable, after ‘e’ vowels, &lt;e'&gt; is normally used. Of the five exceptions, three are from TS 20:53+, a text which shows many differences in pointing from typical Palestinian texts, and the other two are from TS 12:195+.<note n="26">26 See TS 20:53+, Pss. 32:6, 7, 35:19 (the latter instance is only given in the edition of Allony and Díez-Macho, 1958<i>a</i>); TS 12:195+, Pss. 52:10, 72:2.</note> If the first syllable of a segolate form contains an ‘a’ or an ‘o’ sign, &lt;e&gt; is normally used in the second. Of the four exceptions,</p>
+      <pb n="59"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 59</head>
+<p>three are from TS 20:53+.<note n="27">27 See TS 20:53+, Pss. 35:26, 37:25, 29; the fourth case is TS 12:195+, Ps. 74:17.</note> The use of ⟨e⟩ in the second syllable of these forms thus appears to be connected with, and is therefore presumably dependent on, the presence of an ‘a’ or ‘o’ vowel in the preceding syllable. It is most surprising to find that the use of ⟨e′⟩ in the first syllable apparently depends on similar conditions. Of the 12 cases in which ⟨e′⟩ is used in this position, 8 would follow ‘a’ or ‘o’ vowels.<note n="28">28 It should be noted that the use of ⟨e′⟩ in this position has no connection with philological *qitl. The cases are: J.T.S. ms. 594, Eccles. 11:6; TS 20:53+, Pss. 30:5, 32:6, 8, 37:34, 39:7, 40:5; TS 20:59+, Ezek. 1:7, 13, 14:21, 16:6; TS NS 249:8+, Judg. 6:3.</note> The same change of ⟨e⟩ to ⟨e′⟩ can be seen in similar situations in other forms.<note n="29">29 Thus TS 12:195+ uses ⟨e⟩ in bA ’el (Pss. 52:3, 77:10) but ⟨e′⟩ in bA hɔ’el (Ps. 77:15); so also TS 20:59 uses ⟨e⟩ in bA mešiy (Ezek. 16:10) but ⟨e′⟩ in bA wɔmešiy (Ezek. 16:13). See also note 70.</note> If, then, both the use of ⟨e⟩ in the second syllable and of ⟨e′⟩ in the first are due to grammatical (presumably phonological) conditions, these biblical texts show 76 per cent regular spelling in the final syllable,<note n="30">30 I.e. 21 regular uses of ⟨e′⟩, and 11 of ⟨e⟩, from a total of 42 examples.</note> and 96 per cent regularity in the first syllable.<note n="31">31 I.e. 57 regular uses of ⟨e⟩, and 8 of ⟨e′⟩, from a total of 69 examples.</note> The non-biblical texts do not normally use ⟨e′⟩ in the final syllable, nor do they follow the sign changes after ‘a’ or ‘o’ vowels noted in the biblical texts. They use ⟨e⟩ in the first syllable with about 80 per cent regularity.</p>
+<p>12  Table IV shows other morphs showing regularity in their use of ‘e’ signs in both biblical and non-biblical texts. This information could have been augmented if morphs for which fewer than 10 examples were found were listed. The last item is included to con-</p>
+<list>
+<head>TABLE IV</head>
+<item>
+<table rows="8" cols="4">
+<row>
+<cell>Morph</cell>
+<cell>bA form</cell>
+<cell>Use of ⟨e⟩</cell>
+<cell>Use of ⟨e′⟩</cell>
+</row>
+<row>
+<cell>Inseparable prepositions</cell>
+<cell>bǝ-, etc.<note n="32">32 ‘a’ signs are also used in this position, relatively rarely in bliblical mss. but more commonly in non-biblical. It is a peculiarity of many of these mss. that, where ‘e’ vowels are used in positions where bA uses shewa, ⟨e⟩ is more commonly used in the first syllable of a word, but ⟨e′⟩ in medial syllables.</note></cell>
+<cell>51</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Preposition</cell>
+<cell>me-</cell>
+<cell>22</cell>
+<cell>—</cell>
+</row>
+<row>
+<cell>Particle</cell>
+<cell>’eyn</cell>
+<cell>11</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>Imperf. qal of initial weak verbs</cell>
+<cell>yehĕtal, etc.</cell>
+<cell>10</cell>
+<cell>—</cell>
+</row>
+<row>
+<cell>Perf. and partic. nif‘al of initial weak verbs</cell>
+<cell>nehĕtal, etc.</cell>
+<cell>16</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>Participle qal</cell>
+<cell>qotel</cell>
+<cell>17</cell>
+<cell>17</cell>
+</row>
+</table>
+</item>
+</list>
+      <pb n="60"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>trast with more regular morphs, and also with the second vowel of ‘segolate’ forms with ‘o’ vowel. A final indication of distinction of the two signs is that &lt;e&gt; is regularly used where bA has <hi rend="italic">ḥaṭef segol</hi> while the use of &lt;e’&gt; in this position is so rare as to be negligible.</p>
+<p>13 This information clearly shows that there is a partial distinction in use between &lt;a&gt; and &lt;a’&gt;, and between &lt;e&gt; and &lt;e’&gt;, in the texts where these signs are normally said to be used ‘indiscriminately.’ The evidence may not seem very impressive, but it shows usage regular throughout this stratum of Palestinian Hebrew. Smaller groups of mss. would show a higher degree of uniformity. It seems clear that, over the whole group of texts of this type, some morphs were normally (over 80% of the cases) written with a single ‘a’ or ‘e’ sign, while others were written with either of the two ‘a’ signs or the two ‘e’ signs indiscriminately. If &lt;a&gt;, &lt;a’&gt;,&lt;e&gt;, and &lt;e’&gt; are equated to <hi rend="italic">qameṣ, pataḥ, segol,</hi> and <hi rend="italic">ṣere,</hi> it will be seen that the Palestinian spelling of the morphs in which regularity of sign usage is maintained does not always correspond to that of bA. This is, then, a genuinely Palestinian distinction.</p>
+<p>14 The distinction, when it was made, was almost certainly one of vowel quality. It is not likely to have been purely orthographic, as uniformity does not necessarily occur in the same orthographic situation.<note n="33">For instance, the pronominal element in the third person feminine singular verb form is regularly written with &lt;a&gt; (see paragraph 9), but the ending of feminine noun forms, or the emphatic ending of imperfect and imperative verb forms, both of which are also written <hi rend="italic">-āh</hi> in bA, show no regularity of orthography in Pal.</note> It is not likely to have been a distinction of vowel quantity, as any of the four ‘a’ and ‘e’ signs can stand in any type of syllable corresponding to all quantities of bA vowels from <hi rend="italic">shewa</hi> to ‘full vowel’ under main stress.<note n="34">Some scholars will deny that this has any significance for the quantity of Palestinian vowels (cf. Sperber, 1959, p. 77). However, it is ludicrous to maintain that differences in quantity did not exist merely because different signs were not used. Such an argument would make simple and complex Babylonian texts or written and spoken English representative of different dialects. The existence of ‘<hi rend="italic">shewa</hi> vowels’ in Palestinian Hebrew is demonstrated in § 11 of this study.</note> We are, then, left with vowel quality as the most likely basis for distinction. This is, indeed, what the study of the other Hebrew vocalization systems would lead us to expect.<note n="35">The basic intention of both the Tiberian and the Babylonian styles of pointing is to indicate vowel quality. The simple <hi rend="italic">shewa</hi> sign is an exception in both systems. In general, however, indication of quantity (‘composite’ <hi rend="italic">shewa</hi> signs, complex system) is secondary, and is omitted from many mss. in both styles. See the assessment of these styles in Morag, 1962.</note> This suggestion is supported by the fact that, in biblical</p>
+      <pb n="61"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 61</head>
+
+<p>mss. at least, the ‘e’ vowels of ‘segolate’ nouns appear to be influenced by the preceding vowel (see paragraph 10). A change produced by a particular vowel quality is likely to be a change in quality. From the use of the Palestinian signs, we can reasonably suggest that the sounds represented by 〈a〉, 〈a′〉, 〈e〉, and 〈e′〉 were similar to those represented by <hi rend="italic">qameṣ</hi>, <hi rend="italic">pataḥ</hi>, <hi rend="italic">segol</hi>, and <hi rend="italic">ṣere</hi> respectively. Any attempt at further precision would be of little value.</p>
+
+<head rend="italic">The interchange of vowel signs in Palestinian texts</head>
+
+<p>15 In general, it can be said that the Palestinian vowel signs correspond to those of bA as follows: 〈u〉 to <hi rend="italic">shureq</hi>, 〈o〉 to <hi rend="italic">ḥolem</hi>, 〈a〉 to <hi rend="italic">qameṣ</hi>, 〈a′〉 to <hi rend="italic">pataḥ</hi>, 〈e〉 to <hi rend="italic">segol</hi>, 〈e′〉 to <hi rend="italic">ṣere</hi>, 〈i〉 to <hi rend="italic">ḥireq</hi>.<note n="36">36 Pal. has no single sign which corresponds to bA <hi rend="italic">shewa</hi>. For the signs used where bA has <hi rend="italic">shewa</hi> see paragraph 3 above, and § 11 of this article.</note> Apart from the interchanges of ‘a’ signs and of ‘e’ signs just described, however, Palestinian mss. show certain characteristic divergences from this typical use of the signs. These divergences may be held to represent the characteristic differences of Palestinian Hebrew from that of bA. If these divergent uses are listed according to the situations in which they occur, several different ‘patterns of occurrence’ appear. Thus some changes are virtually restricted to closed, unstressed syllables, some to closed, stressed syllables, and so on. Since bA and Pal. represent dialects in the same general stream of development (see note 15) these patterns of change may be expected to indicate the process by which the differences between the two dialects were produced. The various interchanges of vowel signs are considered below according to the ‘patterns of occurrence’ which they show. In order to clarify matters, only the main features of the patterns are considered in the body of this paper. Exact details of the major divergent uses of vowel signs are given in appendix c.</p>
+
+<p>16 <hi rend="italic">Pattern 1</hi> Changes taking place in stressed<note n="37">37 Note that the term ‘stressed’ refers to syllables stressed in bA. It is not suggested that the stress pattern of the Palestinian dialect was necessarily the same.</note> syllables, or in unstressed syllables before a laryngeal or a doubled consonant.</p>
+      <pb n="62"/>
+<head>Essays on the Ancient Semitic World</head>
+
+<table rows="6" cols="5">
+    <row>
+        <cell></cell>
+        <cell role="label" cols="2">STRESSED</cell>
+        <cell role="label" cols="2">UNSTRESSED, BEFORE</cell>
+    </row>
+    <row>
+        <cell></cell>
+        <cell role="label">Closed</cell>
+        <cell role="label">Open</cell>
+        <cell role="label">Laryngeal</cell>
+        <cell role="label">Doubled consonant</cell>
+    </row>
+    <row>
+        <cell>⟨o⟩ = <hi rend="italic">shureq</hi></cell>
+        <cell>xx<hi rend="superscript">38</hi></cell>
+        <cell>xx</cell>
+        <cell>x</cell>
+        <cell>xx</cell>
+    </row>
+    <row>
+        <cell>⟨a⟩ = <hi rend="italic">patah</hi></cell>
+        <cell>xx</cell>
+        <cell>–</cell>
+        <cell>x</cell>
+        <cell>x</cell>
+    </row>
+    <row>
+        <cell>⟨e⟩ = <hi rend="italic">pataḥ</hi></cell>
+        <cell>–</cell>
+        <cell>–</cell>
+        <cell>xx</cell>
+        <cell>–</cell>
+    </row>
+    <row>
+        <cell>⟨e/e'⟩ = <hi rend="italic">ḥireq</hi></cell>
+        <cell>xx</cell>
+        <cell>x</cell>
+        <cell>xx</cell>
+        <cell>xx</cell>
+    </row>
+</table>
+
+<p>(also ⟨e'⟩ = <hi rend="italic">segol</hi>? See paragraph 28)</p>
+
+<p>The changes showing this pattern all represent changes of vowel quality induced by stress position and loss of syllable closure. This is the type of change called ‘stress lengthening’ or ‘compensatory lengthening’ in traditional grammars of bA. The same changes have occurred in other positions in the stage of Hebrew recorded by bA.<note n="39">This statement is based on the assumption that the Pal. vowel signs indicate more or less the same sounds as do the corresponding (see paragraph 15 above) signs in bA. This assumption is fully justified by the fact that the number of cases in which, for example, ⟨u⟩ corresponds to bA <hi rend="italic">shureq</hi> is vastly greater than the number of cases in which it does not. For the ‘a’ and ‘e’ vowels, see paragraph 14.</note> The evidence in Pal., then, would appear to indicate that a vowel change, which has taken place in certain situations in bA and in Pal., is taking place in Pal. under similar conditions in new situations.</p>
+
+<p>17  ⟨o⟩ = <hi rend="italic">shureq</hi>. The change ‘u → o’ in open, stressed syllables is commonly assumed to have taken place in many situations in Hebrew before the stage recorded by bA, e.g. *<hi rend="italic">'uzn</hi> → <hi rend="italic">'ózen</hi>. The same change occurred before certain laryngeals: e.g. <hi rend="italic">yəqutṭal</hi>, but <hi rend="italic">yəborak</hi>. It also occurred in closed, final stressed syllables: e.g. <hi rend="italic">kullow</hi>, but <hi rend="italic">kol</hi>. The last two examples show the change occurring as the result of the loss of original doubling of a consonant. The use of ⟨o⟩ where ⟨u⟩ is expected occurs in Pal. under similar conditions. The occurrences before laryngeals are usually in so-called virtually closed syllables. This shows the obvious continuation of a process *<hi rend="italic">ruhḥaṣti</hi> → bA <hi rend="italic">ruhaṣtə</hi> → Pal. ⟨rohaṣt⟩ identical with the one which produced the ‘o’ vowel in bA <hi rend="italic">pu'al</hi> forms with medial <hi rend="italic">resh</hi> or <hi rend="italic">'alef</hi>.<note n="40">Examples of this change are <foreign xml:lang="heb">המרֹוחק</foreign> H.U.C. ms. 1001, 1121; <foreign xml:lang="heb">וְּזעמוֹ</foreign> Ant. 369, 2r30 (19:16); <foreign xml:lang="heb">לחצת</foreign> TS 20:59, Ezek. 16:4.</note> Cases where this change occurs in Pal. before a consonant which could be doubled in bA suggest that the consonant is not doubled in Pal. It is hardly surprising to find that this loss of ability to double consonants, which is well attested for some con-</p>
+
+<note n="38">⟨o⟩ = <hi rend="italic">shureq</hi> is to be read ‘Pal. has ⟨o⟩ where bA uses <hi rend="italic">shureq</hi>’; ‘xx’ indicates that a change occurs commonly and ‘x,’ fairly commonly.</note>
+      <pb n="63"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 63</head>
+<p>sonants and some positions in bA,<hi rend="superscript">41</hi> should have spread to other positions and other consonants in Pal.<hi rend="superscript">42</hi> It is more surprising to one reared on the traditional terminology to find that so-called pure long vowels in stressed final syllables have changed. The same change of quality has, however, taken place in other positions in bA.<hi rend="superscript">43</hi> It is to be expected that it should spread to new situations.<hi rend="superscript">44</hi></p>
+<p>18 &lt;a&gt; = <hi rend="italic">pataḥ</hi>. The change corresponding to this in bA (<hi rend="italic">pataḥ</hi> → <hi rend="italic">qameṣ</hi>) is so common as to need no description. The Palestinian change occurs in the same situations as does that of ‘u → o,’ with the exception of open final syllables, where <hi rend="italic">pataḥ</hi> does not occur. The change may be ascribed to the same causes which produce the change of <hi rend="italic">pataḥ</hi> to <hi rend="italic">qameṣ</hi> in bA,<hi rend="superscript">45</hi> and (apparently) the change &lt;u&gt; → &lt;o&gt; in Pal.: the effect of stress alone in stressed syllables, and the effect of (secondary) stress combined with loss of closure in ‘unstressed’ syllables.<hi rend="superscript">46</hi> Since the syllables which have changed in bA have also changed in Pal., but many of those which have changed in Pal. have not changed in bA, it is logical to conclude that Pal. represents a stage of the language later than that recorded in bA. The information used here is taken only from mss. of classes 1, 2, 4, and 6, which use their ‘a’ signs almost exactly as bA uses <hi rend="italic">qameṣ</hi></p>
+<note place="bottom" n="41">E.g. laryngeals; <hi rend="italic">waw, yod, lamed, mem, nun, qof</hi>, and others, before <hi rend="italic">shewa</hi>; any consonant in word final position.</note>
+<note place="bottom" n="42">E.g. <foreign xml:lang="he">חַקּוֹ</foreign> TS 20:59+, Ezek. 16:27; <foreign xml:lang="he">בְאַחְרֹובֹות</foreign> J.T.S. ms. 594, Eccles. 12:3; <foreign xml:lang="he">לְעוֹמַת</foreign> Ant. 912, p. 25, l. 9.</note>
+<note place="bottom" n="43">Even under stress, in forms such as <hi rend="italic">tɔšobnɔ</hi> (at least if “ayin <hi rend="italic">waw</hi>” verbs did originally have as ‘root’ a long ‘u’ vowel between two consonants).</note>
+<note place="bottom" n="44">E.g. <foreign xml:lang="he">זְכֹול</foreign> TS NS 281:2 (4 times); <foreign xml:lang="he">חָמֹץ</foreign> Bod. Heb. d63 f. 88b10; <foreign xml:lang="he">תֹּאבֹו</foreign> Ant. 369, 2r22 (19:8); <foreign xml:lang="he">הוֹא</foreign> TS H16:1 r13 (29:8). It is possible that the interchanges of &lt;o&gt; and &lt;u&gt; found in Pal. (see also paragraphs 22, 28) should be considered as symptomatic of a general loss of distinction between ‘o’ and ‘u’ vowels, such as evidently occurred in the Samaritan pronunciation of Hebrew, and perhaps even in the pronunciation recorded in TS 20:53+. However, in view of the fact that the patterns of occurrence shown by these changes are paralleled by those of other changes, I think this unlikely. It seems to me even more unlikely that Murtonen could be right in his view that the use of one sign (&lt;o&gt;) in TS 20:53+ where most mss. use &lt;o&gt; and &lt;u&gt; reflects ‘earlier times’ (Murtonen, 1958, p. 32), since there is no reason to suppose that ‘o’ and ‘u’ vowels were not distinct in Hebrew from its earliest beginnings. If he is referring to graphic rather than phonemic distinction, this is found in Origen’s transliterations, and could surely have been reinvented, if necessary, by any Jewish scholar.</note>
+<note place="bottom" n="45">This need hardly be argued in the case of closed, stressed, final syllables. The fact that bA retains <hi rend="italic">pataḥ</hi> in some of these is always a stumbling-block to historical grammarians.</note>
+<note place="bottom" n="46">Three stress levels can easily be distinguished in bA in open syllables: primary (‘tone’), secondary (conventionally called ‘pretonic’ although it frequently occurs elsewhere, as in <hi rend="italic">qɔtǝlō</hi>), and tertiary (on syllables containing ‘<hi rend="italic">shewa</hi> vowels’).</note>
+      <pb n="64"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>and <hi rend="italic">pataḥ</hi>. It would seem that these mss. record a situation in which the ‘a’ vowel system as recorded in bA is undergoing further change, while those studied in paragraphs 8 and 9 record a situation in which the distinction between two ‘a’ vowels has largely broken down.<note n="47"/></p>
+<p>19 〈e〉 = <hi rend="italic">pataḥ</hi>. The corresponding change in bA (<hi rend="italic">pataḥ</hi> → <hi rend="italic">segol</hi>) would not normally be connected with that of <hi rend="italic">pataḥ</hi> to <hi rend="italic">qameṣ</hi>. Nevertheless, <hi rend="italic">segol</hi> often represents an intermediate stage in that change.<note n="48"/> The use of 〈e〉 in Pal. where bA uses <hi rend="italic">pataḥ</hi> undoubtedly represents a similar change. It occurs almost solely in connection with laryngeals, and far more commonly before a laryngeal than in any other position.<note n="49"/> This change, then, undoubtedly represents, in most cases where it occurs, a change in vowel quality due to a following laryngeal. Ben David’s ascription of examples of this change to a residual general confusion of ‘a’ and ‘e’ vowels, indicating connection with the Babylonian dialect of Hebrew, is to be rejected.<note n="50"/></p>
+
+<note n="47">Examples of this change are: <foreign xml:lang="he">מֶלֶךְ</foreign> TS K26:8, II Kings 8:16; <foreign xml:lang="he">נְתַתִּיךָ</foreign> TS 12:197, Jer. 1:5; <foreign xml:lang="he">רָחַק</foreign> TS H16:4, r18. Besides the positions listed in paragraph 16, this change also occurs in fairly large numbers in unstressed syllables, both open and closed, probably as the result of confusion (cf. paragraphs 27, 28).</note>
+
+<note n="48">Original short ‘a’ appears as <hi rend="italic">segol</hi> under the influence of <hi rend="italic">qameṣ</hi> (<hi rend="italic">’aḥiym</hi> but <hi rend="italic">’ehoyw</hi> ‘<hi rend="italic">ad</hi> but <hi rend="italic">wo‘ed</hi>, the article pointed with <hi rend="italic">segol</hi>, etc.) and in some open, stressed syllables (*<hi rend="italic">malk</hi> → <hi rend="italic">mĕlɛk</hi>). In many similar cases the change to <hi rend="italic">qameṣ</hi> has already been completed (<hi rend="italic">ḥohôr</hi>, but cf. <hi rend="italic">heḥôrîym</hi>). For further examples, see Gesenius-Kautzch, 1910, no. 27<hi rend="italic">q</hi>, <hi rend="italic">r</hi>.</note>
+
+<note n="49">Thus: before a laryngeal, medial, 18 cases, e.g. <foreign xml:lang="he">יְהוֹדָה</foreign> TS 12:195+, Ps. 71:10; <foreign xml:lang="he">וְתַעְדִּי</foreign> TS 20:59+, Ezek. 16:13; <foreign xml:lang="he">בַּעֲלִי</foreign> Bod. Heb. d63 f. 82r28; final, 13 cases, e.g. <foreign xml:lang="he">קָלַע</foreign> Ant. 369, 2r8 (18:11); <foreign xml:lang="he">קָדַח</foreign> Bod. Heb. d55 f. 10r5, <foreign xml:lang="he">מֶלַח</foreign> Bod. Heb. d63 f. 88v15. Elsewhere it is common only in closed, unstressed syllables; 10 of its 13 uses in this position follow laryngeals, and are probably due to their influence, e.g. <foreign xml:lang="he">עֲוֹנוֹת</foreign> Bod. Heb. d55 f. 4r8, etc.; <foreign xml:lang="he">הִדַּרְתָּךָ</foreign> <hi rend="italic">ibid.</hi> 5v10, etc.</note>
+
+<note n="50">See ben David, 1958, p. 490. Various grounds for rejection besides the explanation given above can be supplied. The change is not general, but occurs in specific situations. Furthermore, the sign <foreign xml:lang="he">y</foreign>, used in Bab. in many of the cases in which bA uses <hi rend="italic">segol</hi> (but by no means all; see note 3), represents an ‘a’ vowel, not an ‘e’ vowel. This is shown (i) by the morphs in which this sign is not used where bA has <hi rend="italic">segol</hi>, (ii) by the fact that ‘Tiberianizing’ Bab. mss. make the six basic Bab. signs up to seven by creating a new sign to correspond to <hi rend="italic">segol</hi>, not <hi rend="italic">pataḥ</hi> (Kahle, 1913, mss. 7a, b, c; 36, 38c, 40c), (iii) by the form of the new sign in ms. 7 there; <foreign xml:lang="he">y</foreign> presumably indicates ‘a’ coloured by ‘e.’ Consequently, if Pal. reflected the same pronunciation as is recorded in Bab., we would find an ‘e’ vowel replaced by an ‘a’ vowel, not the other way about. 〈a’〉 = <hi rend="italic">segol</hi> is rare in Pal. (see appendix c). For 〈e〉 and 〈e’〉 = <hi rend="italic">hatef pataḥ</hi>, also included in ben David’s argument, see paragraph 36.</note>
+      <pb n="65"/>
+
+<head>Revell: The Palestinian Vocalization of Hebrew 65</head>
+
+<p>20 <hi rend="italic">⟨e/e'⟩ = ḥireq</hi>. The change corresponding to this in bA (<hi rend="italic">ḥireq → ṣere</hi>) represents another well-known change in vowel quality produced under the same effects of stress and loss of syllable closure as the change <hi rend="italic">pataḥ → qameṣ</hi> (see 18). The Palestinian use of ⟨e⟩ or ⟨e'⟩ where bA has <hi rend="italic">ḥireq</hi> occurs in the same positions as ⟨o⟩ = <hi rend="italic">shureq</hi> and ⟨a⟩ = <hi rend="italic">pataḥ</hi>, and can be interpreted in the same way. A change which has already taken place in some positions in bA is found in Pal. in those positions, and also in positions which are new, but related to those in which the change has already occurred.<note n="51">This shows that a process which was in progress in bA has progressed further in Pal. ⟨e⟩ = <hi rend="italic">ḥireq</hi> is much more common than ⟨e'⟩ = <hi rend="italic">ḥireq</hi>. This is probably due simply to the fact that ⟨e⟩ is used very much more frequently than ⟨e'⟩, even in mss. which use both (see appendix B).</note></p>
+
+<p>21 <hi rend="italic">Pattern 2</hi> Changes taking place in an open, unstressed syllable.</p>
+
+<table>
+    <row>
+        <cell></cell>
+        <cell></cell>
+        <cell cols="2">STRESSED</cell>
+        <cell cols="2">UNSTRESSED</cell>
+    </row>
+    <row>
+        <cell></cell>
+        <cell></cell>
+        <cell>Closed</cell>
+        <cell>Open final</cell>
+        <cell>Open</cell>
+        <cell>Open</cell>
+    </row>
+    <row>
+        <cell>⟨u⟩</cell>
+        <cell>= <hi rend="italic">ḥolem</hi></cell>
+        <cell>x</cell>
+        <cell>x</cell>
+        <cell>—</cell>
+        <cell>xx</cell>
+    </row>
+    <row>
+        <cell>⟨e/e'⟩</cell>
+        <cell>= <hi rend="italic">qameṣ</hi></cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>xx</cell>
+    </row>
+    <row>
+        <cell>⟨a'⟩</cell>
+        <cell>= <hi rend="italic">qameṣ</hi></cell>
+        <cell>(xx)</cell>
+        <cell>(x)</cell>
+        <cell>—</cell>
+        <cell>xx</cell>
+    </row>
+    <row>
+        <cell>⟨i⟩</cell>
+        <cell>= <hi rend="italic">ṣere</hi></cell>
+        <cell>x</cell>
+        <cell>—</cell>
+        <cell>x</cell>
+        <cell>xx</cell>
+    </row>
+    <row>
+        <cell>(⟨e⟩</cell>
+        <cell>= <hi rend="italic">ṣere</hi></cell>
+        <cell>x</cell>
+        <cell>x</cell>
+        <cell>—</cell>
+        <cell>(x))</cell>
+    </row>
+</table>
+
+<p>These changes also represent a change in vowel quality induced by the stress pattern. In this case, however, they are due to the removal or weakening of stress; the type of change is called ‘reduction’ in traditional terminology. This interpretation is unquestionable in the case of ⟨e/e'⟩ = <hi rend="italic">qameṣ</hi>. The other cases are not so clear, and must be interpreted with the help of this one.</p>
+
+<p>22 ⟨u⟩ = <hi rend="italic">ḥolem</hi>. This change takes place most commonly in unstressed, open syllables, where it can be interpreted, by comparison with the change described in 23 below, as a change caused by weakening of syllable stress, the opposite of that described in 17.<note n="52">This is not to be understood mechanically. The situation</note></p>
+
+<note n="51">Examples are: דּוּדִים TS 20:59+, Ezek. 16:8; לְהַשְׁמִיד TS H16:6, 1v16 (2:19); לִוי Bod. Heb. d55 f. 14r14; מִי TS 20:53+, Ps. 39:7; וַיּוֹעֶד TS H16:6, 1v1 (2:4); אִיחֲרוּ TS 13H2:10, 2v2; אִיבְנָה <hi rend="italic">ibid</hi>. 2r15; הָאֶדְרָשׁ TS 20:59+, Ezek. 14:3. On examples of this change occurring in closed, unstressed syllables, see paragraph 27.</note>
+
+<note n="52">E.g. מוֹתֶרֶת TS H16:7, 2r29 (22:18); נַפְשׁוֹתֵינוּ Bod. Heb. d55 f. 10v33; קוֹמְמִיּוּת Bod. Heb. d41 f. 15v5 (43:8).</note>
+      <pb n="66"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>envisaged is that an original ‘u’ sound, under the conditions described in 17, was realized as an ‘o’ sound and written ⟨o⟩. When an ‘o’ vowel which had been produced under these conditions was pronounced under weaker stress, the sound realized was regarded by the Palestinians as closer to ‘u’ than to ‘o,’ and written accordingly.<note n="53">The same change occurs in stressed syllables, where it is no doubt to be ascribed to different causes.<note n="54"/></note></p>
+<p>23 ⟨e/e’⟩ = <hi rend="italic">qameṣ</hi>. This phenomenon occurs in the case of ⟨e⟩ almost only, and in the case of ⟨e’⟩ only, in open, unstressed syllables. The use of ⟨e’⟩ is common only in mss. of classes 4 and 5. In these classes ⟨e’⟩ is used almost solely where bA has <hi rend="italic">shewa</hi>.<note n="55"/> Similarly, in the mss. in which ⟨e⟩ = <hi rend="italic">qameṣ</hi> occurs, ⟨e⟩ is frequently used where bA has <hi rend="italic">shewa</hi>. Consequently it seems certain that, in these cases of ⟨e/e’⟩ = <hi rend="italic">qameṣ</hi>, the vowel represented in bA by <hi rend="italic">qameṣ</hi> has been replaced in the Palestinian dialect by a vowel of <hi rend="italic">shewa</hi> quantity. This is presumably due to some change in the stress pattern which caused a weakening of the stress on the syllables in question. This must be a change which took place after the stage of the language recorded by bA. It cannot be taken as an indication that ‘pretonal lengthening’ had not yet taken place because this had already occurred by the time of Origen’s transcriptions.<note n="56"/> Furthermore, it would be impossible to explain the use of ⟨e’⟩ as the representative of an ‘a’ sound which had not undergone ‘pretonal lengthening.’</p>
+<p>24 ⟨a’⟩ = <hi rend="italic">qameṣ</hi>. The statistics given here are taken only from mss. of classes 1, 2, 4, and 6, which use ⟨a⟩ and ⟨a’⟩ much as bA uses <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi>. The information provided shows 38 examples of this change in open, unstressed syllables. These are to be</p>
+<note n="53">The type of change involved is shown in the vowel represented by ‘e’ in Southern British ‘parliament’ /pȧləmənt/, ‘parliamentary’ /pȧliméntriy/, and ‘parliamentarian’ /pȧləməntériyən/. Cf. also Bauer-Leander, 1922, no. 14q.</note>
+<note n="54">See paragraph 28. It is also possible that a number of cases of ⟨u⟩ = <hi rend="italic">ḥolem</hi> are due simply to the absence of the top dot of the ⟨o⟩ sign, either through scribal carelessness or through deterioration of the ms.</note>
+<note n="55">⟨e’⟩ is used in class 4 = <hi rend="italic">qameṣ</hi>, 4 cases; = <hi rend="italic">segol</hi> or <hi rend="italic">ḥaṭef segol</hi>, 3 cases (in <foreign xml:lang="heb">נַעֲשֶׂה</foreign> TS 13H2:10, 2v23, and two similar forms, all of which could be ‘pausal’); = <hi rend="italic">ḥaṭef pataḥ</hi>, 4 cases; = simple <hi rend="italic">shewa</hi>, 79 cases. In class 5 = <hi rend="italic">qameṣ</hi>, 3 cases; = <hi rend="italic">pataḥ</hi>, 1 case; = <hi rend="italic">segol</hi>, 2 cases; = <hi rend="italic">ḥireq</hi>, 1 case; = <hi rend="italic">ḥaṭef pataḥ</hi>, 14 cases; = <hi rend="italic">ḥaṭef segol</hi>, 1 case; = simple <hi rend="italic">shewa</hi>, 93 cases.</note>
+<note n="56">See Brønno, 1943, p. 156. Examples of the change are: <foreign xml:lang="heb">יבאו</foreign> TS 12:195+, Ps. 69:28; <foreign xml:lang="heb">עשיו</foreign> TS 20:53+, Ps. 39:14; <foreign xml:lang="heb">מישגבו</foreign> Bod. Heb. d55 f. 13v23; <foreign xml:lang="heb">השיבו</foreign> TS 20:59+, Ezek. 14:6; <foreign xml:lang="heb">ימין</foreign> TS H16:4, r10; <foreign xml:lang="heb">מלחמות</foreign> TS 13H2:10, r12.</note>
+      <pb n="67"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 67</head>
+<p>interpreted in the same way as the other changes showing pattern 2.<note n="57" place="foot">Examples are: ותבאו <hi>TS</hi> 12:197, Jer. 2:7; שבעתיים <hi>Bod. Heb. d</hi>55 f. 12v25.</note> The weakening of the stress on the syllables showing this change had not progressed far enough for the Palestinian scholars to note the sound as of <hi>shewa</hi> quantity as in the cases described in 23 above. Change had begun, however, so that the vowel in question was closer to those represented by &lt;a'&gt; than to those represented by &lt;a&gt;, and was written accordingly. Many examples of this change also occur in stressed syllables (see paragraph 28).</p>
+<p>25 &lt;i&gt; = <hi>ṣere</hi>. This change is assumed to represent the same type of vowel change by loss of stress as is described in 23.<note n="58" place="foot">Examples are: מיקים <hi>Bod. Heb. d</hi>63 f. 82r24 (Isa. 44:26), באיבה <hi>Ant.</hi> 222, 1r17.</note> The use of &lt;i&gt; to represent the resulting sound is not to be seen specifically as a return to the original vowel sound, but merely as the closest approximation to a sound of almost <hi>shewa</hi> quantity (cf. 22, 23, and for similar sounds in closed syllables 27). This change also occurs in stressed syllables; see 28.</p>
+<p>26 &lt;e&gt; = <hi>ṣere</hi>. The statistics given in appendix c, and schematized in paragraph 21, are taken from mss. of class 1, the only texts which maintain a consistent distinction in use between &lt;e&gt; and &lt;e'&gt;. The number of examples is, however, too small to provide a trustworthy pattern. If the information of mss. from classes 2 and 3 is included, it is found that the greatest number of examples of this change (111) is found in open, unstressed syllables.<note n="59" place="foot">E.g. שארית <hi>TS NS</hi> 249:3, Ps. 76:11; המירו <hi>TS H</hi>16:10, r26 (15:19).</note> On this basis this change is included as an example of pattern 2. The next largest group of examples (88) occurs in closed, stressed final syllables.<note n="60" place="foot">E.g. תדבר <hi>TS</hi> 20:53+, Ps. 37:30; בוחן <hi>Bod. Heb. d</hi>63 f. 98v17.</note> It is possible that these should be connected with the change described in 29 below, where <hi>ṣere</hi> in closed, stressed final syllables is replaced by an ‘a’ sign. &lt;e&gt; = <hi>ṣere</hi> also occurs in open, stressed syllables, both final (36 times) and medial (38 times). The very large number of examples of this change in all positions is undoubtedly due to the fact that &lt;e'&gt;, the sign expected where bA has <hi>ṣere</hi>, is much less common than &lt;e&gt; in classes 2 and 3 (see appendix B).</p>
+<p>27 <hi>Pattern 3</hi> Changes occurring in closed, unstressed syllables.</p>
+      <pb n="68"/>
+<head>Essays on the Ancient Semitic World</head>
+
+<list>
+    <label/>
+    <item>
+        <list>
+            <item>Medial Final</item>
+            <item>⟨a'⟩ = <gloss>segol</gloss> x x</item>
+            <item>⟨i⟩ = <gloss>segol</gloss> x –</item>
+            <item>⟨a'⟩ = <gloss>ḥireq</gloss> x –</item>
+            <item>⟨e⟩ = <gloss>ḥireq</gloss> xx –</item>
+        </list>
+    </item>
+</list>
+
+<p>This pattern shows nothing more than uncertainty as to the quality of vowels in closed, unstressed syllables. Such uncertainty appears even in bA.<note n="61">For example, the original ‘i’ vowel of <gloss>qotel</gloss> form nouns can be represented by <gloss>patah</gloss>, <gloss>segol</gloss>, or <gloss>ḥireq</gloss> (see Gesenius-Kautzsch, 1910, no. 93qq), and, for <gloss>pataḥ</gloss>, see forms such as <mentioned>’oyaḇtiy</mentioned>, Mica 7:8, 10.</note> It is common in Origen’s transliterations.<note n="62">See the figures for the use of <gloss>alpha</gloss>, <gloss>epsilon</gloss>, and <gloss>iota</gloss> where bA has <gloss>pataḥ</gloss>, <gloss>segol</gloss>, or <gloss>ḥireq</gloss> in a closed, unstressed syllable in Brønno, 1943, and his remarks on pp. 454–5.</note> The confusion exhibited by Pal. in this situation is really remarkably small. The change ⟨i⟩ = <gloss>segol</gloss> occurs in six cases in unstressed syllables before laryngeals, as well as in six simple unstressed syllables. These cases could represent the same sort of confusion. They may, however, represent the culmination of an ‘a → i’ change, since all occur in situations in which such a change has taken place in forms with no laryngeals.<note n="63">Five occur in <gloss>nif‘al</gloss> forms, e.g. <foreign xml:lang="he">נחשק</foreign> Bod. Heb. d41 f. 15v2 (43:3); also <gloss>ibid.</gloss> f. 12r3, 14r31; Ant. 369, p. 16, l. 4; Ant. 912, p. 26, l. 10. The remaining case is (<foreign xml:lang="he">ת)הגה</foreign>) Bod. Heb. e30 f. 48–9+, Isa. 59:3. Such forms occur more commonly in Bab. (see Kahle, 1913, and Porath, 1938). While ben David, 1958 (p. 490), is no doubt right in interpreting such similarities as showing a relationship between the two dialects (i.e., they developed along parallel lines) this fact has no significance for their dates relative to the bA dialect (see paragraph 34). In this particular case, presuming the original vowel of the <gloss>nif‘al</gloss> prefix was ‘a,’ the statement that the bA <gloss>segol</gloss> was ‘later’ than (resulted from development subsequent to) the ‘i’ of Bab. and Pal. would have to assume a rather complex series of changes for the vowel.</note> Of the other changes, ⟨e⟩ = <gloss>ḥireq</gloss> occurring in stressed syllables has already been discussed in paragraph 20. It might be correct to include other changes which occur in closed, unstressed syllables under pattern 3.<note n="64">⟨i⟩ = <gloss>pataḥ</gloss> does also occur (e.g. <foreign xml:lang="he">מלכי</foreign> Bod. Heb. d41 f. 15v22, Bar’s line 29) but has not been listed because it is rare, and the ⟨i⟩ sign can be explained (often with much probability) as a broken ⟨a⟩.</note></p>
+
+<p>28 <emph>Pattern 4</emph> Changes occurring in stressed syllables.</p>
+
+<list>
+    <label/>
+    <item>
+        <list>
+            <item>Closed Open final</item>
+            <item>⟨u⟩ = <gloss>ḥolem</gloss> x x</item>
+            <item>⟨a'⟩ = <gloss>qameṣ</gloss> xx x</item>
+            <item>⟨e'⟩ = <gloss>segol</gloss> x –</item>
+            <item>⟨i⟩ = <gloss>ṣere</gloss> x x</item>
+        </list>
+    </item>
+</list>
+      <pb n="69"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 69</head>
+<p>This pattern probably also indicates confusion. With the exception of <hi rend="italic">e'</hi> = <hi rend="italic">segol</hi>, all these changes are listed under pattern 2 (paragraph 21) as occurring in open, unstressed syllables because of weakening of the syllable stress. The reverse of these changes is listed under pattern 1 (paragraph 16), and interpreted as resulting from the effects of primary stress, or of loss of syllable closure under secondary stress. The changes listed under this pattern are assumed to result from confusion caused by the changes in these other two situations. In most cases, the changes listed here occur much more commonly in open, unstressed syllables. The change ⟨a'⟩ = <hi rend="italic">qameṣ</hi> is evidently a special case. The information given here is taken only from mss. of classes 1, 2, 4, and 6. The frequency of this change in final, stressed syllables is probably due to the influence of the vocalization systems used in classes 3, 5, and 7, where ⟨a⟩ and ⟨a'⟩ are often used interchangeably.<note n="65">The information on ⟨e'⟩ = <hi rend="italic">segol</hi> given above is taken from mss. of class 1 only. If the information from mss. of classes 2 and 3 is included, this change is found to occur frequently in stressed syllables, closed (12 cases), open final (23 cases), and open non-final (27 cases). The change in the latter two situations might represent a stress-induced quality change of the type described under pattern 1 (paragraph 16). Since, however, it does not occur with any frequency in unstressed syllables before laryngeals or doubled consonants, this change, in all its occurrences in stressed syllables, has been set down to the effects of confusion, as the other changes listed under pattern 4. The same change occurs frequently in closed, final, unstressed syllables (see 30 below).</note></p>
+<p>29 <hi rend="italic">Pattern 5</hi> Change taking place in closed, stressed final syllables.</p>
+<list>
+    <item>⟨a'⟩ = <hi rend="italic">ṣere</hi> <space dim="horizontal" extent="10" unit="chars"/> xx</item>
+    <item>⟨a⟩ = <hi rend="italic">ṣere</hi> <space dim="horizontal" extent="10" unit="chars"/> x</item>
+</list>
+<p>This pattern shows a special case involving a single situation, and, without doubt, a single sound change. In bA this change would be represented as <hi rend="italic">ṣere</hi> → <hi rend="italic">pataḥ</hi>. It represents the culmination of a change ‘i → a’. This change had taken place in the stage of Hebrew</p>
+<note n="65">In these mss., there is a definite tendency to use ⟨a'⟩ rather than ⟨a⟩ in closed, stressed final syllables. Cf. the figures for the 3ms. and 1cs. pronominal suffixes given in paragraph 9. ⟨a⟩ is most commonly used in open, unstressed syllables; thus in TS 12:195+196, ⟨a⟩ is used 171 times in unstressed, and only 56 in stressed syllables. The 2ms. pronoun ⟨-ka⟩ makes up 36 of the latter cases. TS 20:53+ is unique in showing the opposite tendency. In TS 20:54, ⟨a⟩ is used 24 times in stressed, and 19 in unstressed syllables, 17 of the latter cases being word final.</note>
+<footer>6</footer>
+      <pb n="70"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>recorded by bA in non-final syllables (Philippi’s law) and in some final syllables.<note n="66">In Pal., the change has taken place in the same situations as in bA, and is spreading rapidly to all final syllables. This can cause surprise only to those who think of the Hebrew recorded in bA as an artificially reconstructed dialect which had been maintained for centuries in a completely foreign environment with no possibility of normal development. Such a view is untenable (see note 88). The completion of the change known as ‘Philippi’s law’ was recent when bA was recorded, since this change is not complete in the language transcribed by Origen.<note n="67">Since change must have been in progress so recently before bA was recorded, it is not surprising that it should continue after that time in new situations similar to those in which it had already occurred. That this change did continue is shown in Pal.<note n="68"/></p>
+<p>30 <hi rend="italic">Pattern 6</hi> Change taking place in closed, unstressed final syllables.</p>
+<p>⟨e′⟩ = <hi rend="italic">segol</hi> xx</p>
+<p>This pattern also shows a special case involving a single situation. The change occurs a total of 53 times in closed, unstressed final syllables, mostly in ‘segolate’ forms as described in paragraphs 10 and 11, but also elsewhere.<note n="69">It is assumed that a change of quality is involved, since the use of ⟨e′⟩ in this position in segolate forms is</p>
+<note n="66">See Bauer-Leander (1922), no. 14z, <hi rend="italic">a′</hi>, to which can be added (against his no. 45f) the <hi rend="italic">pi‘el</hi> forms found in bA. <hi rend="italic">Pi‘al</hi> forms are common in Bab. (as in Pal.), and are undoubtedly there (as in Pal.) symptomatic of the change of ‘i’ to ‘a’ which has taken place in final, stressed syllables in many other forms. E.g. <foreign xml:lang="he">לָבּ</foreign> and similar forms listed by Kahle, 1913, p. 196, and Porath, 1938, p. 97; <hi rend="italic">nif‘al</hi> imperfects, Kahle, 1913, p. 194, and Porath, 1938, pp. 56f.; <hi rend="italic">qal</hi> participle, Kahle, 1913, p. 188, and Porath, 1938, pp. 44f. The Bab. sign used in these situations is <foreign xml:lang="he">ַ</foreign> , which represents an ‘a’ sound (see note 50). The replacement of an original short ‘i’ vowel by an ‘a’ vowel in closed, stressed final syllables undoubtedly shows that the Bab. dialect (as the Pal.) has – in this feature at least – developed further than bA, and is therefore ‘later.’</note>
+<note n="67">See Brønno, 1943, p. 448.</note>
+<note n="68">Examples are: <foreign xml:lang="he">וַיִפֹרַשׁ</foreign> J.T.S. ms. 504 f. 2, Jer. 49:22 (must be a variant, <hi rend="italic">pi‘el</hi> for <hi rend="italic">qal</hi>); <foreign xml:lang="he">חַסַר</foreign> TS 20:53+, Ps. 39:11; <foreign xml:lang="he">בִירַך</foreign> TS H16:10, v6 (16:1); <foreign xml:lang="he">וַיִתחַנַן</foreign> Bod. Heb. d55 f. 14r7. The same change occurs in a non-final syllable in <foreign xml:lang="he">תַחַלוּ</foreign> TS K26:1, Ezra 3:6. With ⟨a⟩, <foreign xml:lang="he">נִיתפַּאֵר</foreign> Bod. Heb. d55 f. 14r2; <foreign xml:lang="he">מִלמַלל</foreign> Ant. 912, p. 27, l. 11; <foreign xml:lang="he">אדַרַשׁ</foreign> TS 20:59+, Ezek. 14:3.</note>
+<note n="69">E.g. <foreign xml:lang="he">באלהֵיהֶם</foreign> TS 12:195+, Ps. 69:26; <foreign xml:lang="he">חֵן</foreign> J.T.S. ms. 594, Eccles. 11:2. Such forms as <foreign xml:lang="he">לֵא</foreign> TS H16:6, 1r2 (1:2), and <foreign xml:lang="he">אֵת</foreign> <hi rend="italic">ibid.</hi> 2v3, 5, 6 (4:6, 8, 9), all of which occur in biblical quotations, should probably also be included here.</note>
+      <pb n="71"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 71</head>
+<p>dependent on the quality of the preceding vowel (see paragraph 11). If this is the case, the instances in which this change takes place in open syllables after ‘a’ or ‘o’ vowels should no doubt be included under this pattern.<note n="70">70 However, it is impossible to say what vowel qualities would be involved in this change.<note n="71">71 There is, moreover, some possibility that a change of quantity was involved.<note n="72">72 Further information is needed before a definite decision can be reached.</p>
+
+<head>The relationship of the Palestinian dialect to that of bA</head>
+<p>31 The interchanges of vowel signs just described constitute one of the three major groups of differences between Pal. and bA. No other interchanges occur in significant numbers. Of those described, those showing patterns 1 and 5 appear definitely to show that changes which were in progress in the stage of the language recorded by bA have progressed further in Pal. Changes showing pattern 2 appear to have started from the situation found in bA. The change in pattern 6 is difficult to evaluate, but cannot, I think, be held to represent a stage of the language prior to that recorded</p>
+
+<note n="70">70 This occurs in both stressed syllables (see paragraph 11) and unstressed syllables (e.g. <foreign xml:lang="heb">וְאֹרַחֲךָ</foreign> TS 20:59, Ezek. 16:9; <foreign xml:lang="heb">וָאֶעְדֵּךְ</foreign> ibid., Ezek. 16:11).</note>
+<note n="71">71 There is some possibility that the sound represented by ‹eʹ› was close to that represented by ‹aʹ›. ‹eʹ› is often used where bA has <hi rend="italic">ḥatef pataḥ</hi>. Compare also such forms as <foreign xml:lang="heb">וְנַעֲשֶׂה</foreign> TS 13H2:10, 2v23 (and 24) with <foreign xml:lang="heb">וְנַעֲצְבּוּ</foreign> Bod. Heb. d55 f. 10v23. However, such usage is common only in mss. in which ‹eʹ› is commonly used where bA has <hi rend="italic">shewa</hi>, and the reasons for considering that the sound represented by ‹e› was close to an ‘a’ sound are equally strong.</note>
+<note n="72">72 Bod. ms. Heb. c20 f. 25–28 (described in Díez-Macho, 1963, as ms. 31) shows a pointing using <hi rend="italic">pataḥ</hi> and <hi rend="italic">ṣere</hi> for all ‘a’ and ‘e’ vowels (i.e. comparable to my classes 9–11). ‘Segolate’ nouns in this ms. usually have <hi rend="italic">shewa</hi> in the final syllable (e.g. <foreign xml:lang="heb">כֶּתֶר</foreign>, <foreign xml:lang="heb">מֶלֶךְ</foreign>, in all over 20 times). The <hi rend="italic">shewa</hi> sign has a much wider use in this ms. than in bA, but probably does represent a ‘<hi rend="italic">shewa</hi> vowel’ (as ‹eʹ› in classes 4 and 5). Contrasting forms are <foreign xml:lang="heb">הָאָרֶץ</foreign> f. 26v9, <foreign xml:lang="heb">וַיָּנַח</foreign> 27v16, <foreign xml:lang="heb">אֶרֶץ</foreign> 28v14. This ms. undoubtedly represents a Palestinian tradition of pronunciation (see paragraph 40). The information it gives may be true of the Palestinian dialect in general. In Origen’s transliterations vowel signs are not usually written in the final syllable of segolate forms (see Brønno, 1943, pp. 125f.). This cannot indicate that no vowel was used there, as a vowel sign is used in this position in the Septuagint transliterations (see Sperber, 1938, pp. 181f., 185 f.), but rather must indicate that the vowel concerned was of <hi rend="italic">shewa</hi> quantity, since ‘<hi rend="italic">shewa</hi> vowels’ are usually not indicated in these transliterations, particularly in positions where there could be no doubt of their occurrence. Consequently there is good reason to suppose that ‹eʹ› often indicated a vowel of light quantity (cf. also the examples in note 71). However, the supposition that this was always so would conflict with (i) the fact of the free interchange of ‹e› and ‹eʹ› in some situations in the same mss. from which the above facts are drawn (see the figures for the <hi rend="italic">qal</hi> participle in paragraph 12), and (ii) the use of ‹e› and ‹eʹ› in mss. of class 1 (see paragraph 3).</note>
+      <pb n="72"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>by bA.<note n="73" place="foot">It cannot be argued that &lt;eʹ&gt; in Pal. &lt;meleʹk&gt; represents a lighter vowel than the <hi rend="italic">segol</hi> in bA <hi rend="italic">mělek</hi>, and therefore an earlier form (as being closer to the presumed original absence of vowel in this position) since bA does not distinguish vowel quantity except in open, unstressed syllables.</note> Patterns 3 and 4, if they result from confusion, cannot be said to give any indication of development in relation to bA. The information given in paragraphs 16–30, then, strongly suggests that the dialect represented by Pal. was not closer than that of bA to their common origin, but that it had developed further, and was, therefore, in this sense, a ‘later’ form of the language.</p>
+<p>32 The other two typical differences of Pal. from bA are the use of &lt;o&gt; where bA has <hi rend="italic">qameṣ ḥatuf</hi>, and the ‘indiscriminate’ use (in some mss.) of the ‘a’ and ‘e’ signs. The former usage again shows that bA preserves an older pronunciation than Pal. According to the commonly held theory, <hi rend="italic">qameṣ ḥatuf</hi> represents an original ‘u’ vowel. This ‘u’ sound is in the process of changing to an ‘o’ vowel in bA. It is still written as <hi rend="italic">u</hi> in some closed, unstressed syllables (<hi rend="italic">hofʿal</hi> of ‘<hi rend="italic">prima nun</hi>’ verbs). In most, however, <hi rend="italic">ŏ</hi> is used (e.g. <hi rend="italic">qŏdšōw</hi>). In open, unstressed syllables <hi rend="italic">ŏ</hi> is usually used (<hi rend="italic">qŏdŏšīym</hi>), but <hi rend="italic">o</hi> may occur (<hi rend="italic">ʾohŏlīym</hi>). In open, stressed syllables <hi rend="italic">o</hi> is used (<hi rend="italic">qōdeš</hi>). In Pal., &lt;o&gt; is found in the great majority of cases in all these situations, showing the change completed. &lt;a&gt; is, however, regularly used where bA has <hi rend="italic">ḥatef qameṣ</hi>, showing that, in the case of vowels of the very smallest quantity, this final change to ‘o’ quality has not taken place.<note n="74" place="foot">On the use of &lt;o&gt; in this position see § 11.14 and note 135. The use of &lt;a&gt; and &lt;aʹ&gt; where bA has <hi rend="italic">qameṣ ḥatuf</hi> and of &lt;aʹ&gt; where bA has <hi rend="italic">ḥatef qameṣ</hi> derives (except probably in class 1) from the influences causing deviation from bA forms (see paragraph 4(iv)).</note> This shows, then, that Pal. represents a later, more developed, stage of the language than does bA.</p>
+<p>33 The same opinion can be derived from the use of the ‘a’ and ‘e’ signs in Pal. As was noted above, two ‘e’ vowels are distinguished by Origen’s transliterations. Two ‘e’ vowels are distinguished in bA. At what period between the two can the situation represented by most Pal. mss., where only one ‘e’ sign is used, or two are only partially distinguished, have occurred? The answer seems inevitably to be that the situation here was not part of the development from the language recorded by Origen to that of bA. The distinction between two ‘e’ signs is partial or non-existent in most Palestinian mss. because the distinction between the sounds they represented, although still clear in the stage of the language recorded by bA, was being, or had been, lost in the stage of the language</p>
+      <pb n="73"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 73</head>
+<p>represented by Pal. A definite trend can be seen in some cases of the use of the ‘e’ vowels. For example in bA there is a definite tendency to spell nouns of original *<hi rend="italic">qitl</hi> formation <hi rend="italic">qétεl</hi>, rather than the more characteristic <hi rend="italic">qétel</hi>. In Pal., these nouns are normally written with &lt;e&gt; in the first syllable, as are the original *<hi rend="italic">qatl</hi> types (see para- graph 10 and note 28). This shows that the process of the assimila- tion of the two types, which has already begun in bA, is completed in Pal., which therefore represents a later form of the language than does bA. The same conclusion can be derived from the use of the ‘a’ vowels, although the information from the Pal. mss. taken as a whole suggests that the loss of distinction between two ‘a’ vowels was more recent, and in most areas not so complete, as was the case with the ‘e’ vowels.</p>
+<p>34 All the information given above, then, in so far as it can be said to give any indication at all, shows that the dialect represented by Pal. had developed further from their common origin than had that of bA, and was therefore a ‘later’ form of the language. Pal. did, of course, retain some forms less developed than those to be found in bA, but such forms are rare and isolated.<note n="75">For instance, <foreign xml:lang="he">לארץ</foreign> (TS H7:7, v17) could be taken this way, but not <foreign xml:lang="he">ולערב</foreign> (TS K26:1, Ezra 3:3, bA <hi rend="italic">wələʿərεb</hi>) and similar forms, which testify to the character- istic Pal. use of contextual forms in ‘pausal’ position. (I have no statistics on this feature of Palestinian Hebrew, but my observations suggest that the (archaic?) ‘pausal’ forms are frequently not used in Pal.)</note> Taken all in all, Pal. represents a later form of Hebrew than does bA. The common view that the dialect of Pal. is earlier than that of bA appears to be based on a series of assumptions originating with Kahle, and not on any argument. The closest approach to a serious attempt to estab- lish the position of the Palestinian dialect in the history of the language is that of ben David (1958). In the first part of his article, ben David expresses a conclusion similar to that given above, but reached on rather different grounds. He states in substance that Pal. indicated the same pronunciation as bA, but used different signs to do so. Mss. which use seven signs according to the bA system are early, while those which show confusion are late.<note n="76">He does not state specifically that they represent a pronunciation later than that of bA, but this is implicit in his argument : Pal. represents substantially the same dialect as bA (p. 483b). Confusion of &lt;a&gt; and &lt;a’&gt; or &lt;e&gt; and &lt;e’&gt; is due to ignorance and is therefore not early (p. 484a; by this argument, it must in fact be later than the ‘original’ stage which is shown in bA and related Pal. texts). The bA distinction of <hi rend="italic">pataḥ</hi> and <hi rend="italic">qameṣ</hi> reflects the pronunciation of the <hi rend="italic">naqdanim</hi>, but ‘only those who used the “non-Masoretic” (i.e. Palestinian) pronunciation confused it (the distinction) and did not know how to use the two signs’ (p. 484b; clearly he is suggesting that the distinction was not present in their pronunciation, which is therefore, by his argument, later than that of bA).</note></p>
+      <pb n="74"/>
+<head>74 <hi rend="italic">Essays on the Ancient Semitic World</hi></head>
+<p>Further on in the same article, however, he states that the dialect represented by Pal. is, in fact, earlier than that of bA (p. 485). He does not make clear why he does this, or how he reconciles this attitude with his first, but presumably the reason is the similarities between Pal. and Bab. noted in his section 12, since in his chronological arrangement (p. 485) he places the dialect of Bab. much earlier than that of bA. This is, of course, a gross oversimplification.<note n="77">It is, moreover, in direct contrast to his earlier conclusion, as the features which he notes as similar to Bab. are most common in the mss. most dissimilar to bA (see HTPV, chapter v). Sperber, 1959, p. 77, also relying on a single criterion, concludes that the dialect represented by Pal. is earlier than that of Bab.</note> As far as our information goes, all three dialects were in use contemporaneously. Bab. does contain some factors which appear to show that the dialect it represents had developed less far from a common original, in some respects, than that of bA. It also contains some phenomena, however, which would appear to indicate the reverse.<note n="78">E.g. the change ‘i → a’ in stressed syllables has progressed much further in Bab. than in bA (see note 66). The common use of the same sign in *qiṭl type as in *qaṭl type ‘segolate’ nouns (see Kahle, 1913, pp. 195f.; Porath, 1938, pp. 100f.) also indicates a development beyond that recorded in bA (see paragraph 33).</note> It is ludicrous to suppose that if different dialects developed from a common original under different influences (as must have been the case with the Babylonian dialect and those of Palestine) one must of necessity be a uniformly earlier stage of the language than the other. Consequently agreements between Bab. and Pal. against bA cannot be held to be ‘early’ elements of the language just because Bab. is involved, but must be judged by some other criterion. It is not easy to judge all ben David’s examples. In some cases he may be right in his claim that they represent features of the languages less developed than the corresponding features in bA. However, this is not the case with the majority, as is argued in the following paragraphs.</p>
+<p>35 The first point raised by ben David concerns the pointing of conjunctive <hi rend="italic">waw</hi>. Where bA points this conjunction as <hi rend="italic">shureq</hi>, Pal. and Bab. usually point it as <hi rend="italic">w</hi> followed by a ‘<hi rend="italic">shewa</hi> vowel.’ The information of Origen’s transliterations does not permit a definite conclusion, but suggests that the bA spelling represents the older form.<note n="79">Origen’s transliterations use a vowel sign after <hi rend="italic">ou</hi> representing conjunctive <hi rend="italic">waw</hi> only in rare cases. However, the cases in which a vowel sign is used in this position are difficult to explain. See Brønno, 1943, pp. 227f.</note> A study of the Palestinian mss. shows that (i) the ‘u’ form is much more common in biblical mss. than in non-biblical; (ii) this form is used in biblical mss. which show no (other) trace of</p>
+      <pb n="75"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 75</head>
+<p>bA influence;<note n="80" place="foot">E.g. TS NS 249:8+ (class 3) and Bod. Heb. d29 f. 17-20 (class 7). These are mss. no. 3 and no. 7 in Dietrich’s list of 21 mss. The highest numbers in this list designate the closest mss. to bA.</note> (iii) in non-biblical mss. the use of this form is confined to mss. of classes 2, 4, and 6, which use the ‘a’ signs, but not the ‘e’ signs, as does bA (there is no information from class 1); (iv) in biblical class 3, and non-biblical class 2, the use of the ‘u’ form is not homogeneous, some mss. using this form, some the <hi rend="italic">w</hi> + ‘<hi rend="italic">shewa</hi> vowel’ form, some both.<note n="81" place="foot">TS 12:195+ (class 3) uses the ‘<hi rend="italic">waw</hi> + <hi rend="italic">shewa</hi> vowel’ spelling. This ms. is no. 16 in Dietrich’s list (see note 87). Of the four biblical mss. in class 7, two use the ‘u’ spelling, two give no pointed examples. Bod. ms. Heb. d55 f. 12v-14v (class 2, non-biblical) does not use the ‘u’ spelling, but it is used in TS H16:6, 7, and Ant. 369, all of the same class. In TS 13H2:11+12 (class 6) both pointings are used.</note> Points (ii) and (iii) indicate that this ‘u’ form in Palestinian Hebrew is not copied from bA, but rather derives from certain strata of the Palestinian system. Points (i) and (iii) indicate that it derives from the more conservative strata in which the dialect has resisted change (see 38 below). Point (iv) shows that the systems of pointing developed in the less conservative strata sometimes did, and sometimes did not, use this form. Presumably, then, they derived this usage from traditions or mss. which, since these less conservative strata (classes 3, 5, 7, and also 2) are manifestly not related to bA or Bab., must have been indigenous in Palestinian circles. Consequently there are very good reasons for supposing that bA’s writing of conjunctive <hi rend="italic">waw</hi> as <hi rend="italic">shureq</hi> represents an earlier stage of the language than the other spelling more common in Pal. and Bab., and the Pal. mss. which use 〈u〉 here are using an archaic form.</p>
+<p>36 The other two major points raised by ben David concern interchanges of vowel signs. He believes the interchange of ‘a’ and ‘e’ signs to show, in Pal., the vestiges of an ‘a’ and ‘e’ vowel system similar to that of Bab. It should be noted at once that even if such confusion does occur in Pal., it does not per se show that the Palestinian dialect was either closer to Babylonian than, or earlier than that of bA. Such confusion exists in bA; e.g. in the imperfect <hi rend="italic">qal</hi> of <hi rend="italic">’sr</hi>, <hi rend="italic">ḥémat</hi>/<hi rend="italic">ḥémet</hi>, etc. (see also paragraph 27). Reasons have already been given for thinking that most cases of such interchange have no connection with the Babylonian dialect (see paragraph 19 and note 50), but ben David includes in his examples some of the occasional Pal. uses of 〈e〉 or 〈e’〉 where bA has <hi rend="italic">ḥatef pataḥ</hi>. I know of 25 cases of the use of 〈e’〉 in this position, all in non-biblical mss. All follow laryngeals (cf. paragraph 19). Eighteen cases occur in mss. of classes 4 and 5 where 〈e’〉 is used virtually only where bA has <hi rend="italic">shewa</hi> (see note</p>
+      <pb n="76"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>55). Five more occur in Bodleian ms. Heb. d55 f. 12v–14v (class 2) in which <gi>e'</gi> is also often used where bA has simple <hi rend="italic">shewa</hi>. These cases presumably indicate nothing more than the use of a ‘simple’ rather than a ‘coloured’ sign for a ‘<hi rend="italic">shewa</hi> vowel.’ The remaining two cases occur in mss. of class 7. In each case <gi>e'</gi> is used only once in the ms. Its use is, therefore, without determinable significance.<note n="82">82 Bod. Heb. d63 f. 87r8 and TS H16:1, v19 (30:11). I presume that both signs are due to secondary hands.</note> <gi>e</gi> is used in 21 cases where bA has <hi rend="italic">hatef patah</hi>, all but two following laryngeals. Eleven occur in biblical mss., all in mss. in which <gi>e</gi> is commonly used where bA has simple <hi rend="italic">shewa</hi>. Presumably these cases also show nothing more than the use of a ‘simple’ instead of a ‘coloured’ <hi rend="italic">shewa</hi> sign.<note n="83">83 This usage is common enough in Tiberian mss. of ‘non-bA’ types (see, e.g., Díez-Macho, 1963a, p. 21). In my opinion, a writing such as י(ר)דפ(ך) (TS NS 249:5, Ezek. 35:6) clinches the matter.</note> If <gi>e</gi> and <gi>e'</gi> in these cases represent ‘<hi rend="italic">shewa</hi> vowels,’ they do not indicate confusion of ‘a’ and ‘e’ sounds, and so no connection with Bab.</p>
+<p>37 The last major point raised by ben David is the replacement of <gi>u</gi> by <gi>o</gi>. This has already been discussed above (paragraph 17). The other categories which he considers to show connection with the Babylonian dialect are only represented by a few forms, and so are of little significance. Some of these may be genuine examples of the retention of old forms in both dialects. Such a situation would not be surprising (see note 75). They may equally well, however, be cases in which both dialects have developed further than bA from their common original, as is the case where Pal. and Bab. use ‘a’ signs where bA has <hi rend="italic">ṣere</hi> in closed, final, stressed syllables (see paragraph 29 and note 66) and other cases discussed above.</p>
+<p>38 The uses of vowel signs in which Pal. differs from bA, then, show that bA represents the ‘older’ form of the language. The Palestinian pointing must reflect a dialect which was more open to foreign influence, and so changed faster, than that of bA. The Palestinian mss. do not give any real indication of the nature of the community for which they were written.<note n="84">84 However, Weinrich's suggestion (1964, pp. 142, 146) that Pal. represents a ‘south Israeli’ dialect, cut off from Tiberias by the Samaritan community, would appear to have a good deal to recommend it.</note> They do, however, give at least one clear indication of the type of influence which caused their peculiarities. The only consistent morphological difference between these mss. and bA is the use of the -VC form of the 2ms. pronominal suffix (bA <hi rend="italic">-āk</hi>) instead of the -CV form characteristic</p>
+      <pb n="77"/>
+<head>Revell: The Palestinian Vocalization of Hebrew</head>
+<p>of bA (-kɔ). The careful study of ben Hayyim has shown that this usage is restricted to the Palestinian non-biblical mss., and is derived from Aramaic.<note n="85">See ben Hayyim, 1954<hi rend="italic">a</hi>, pp. 27–32, 63. As regards the use of the -CV form suffix in non-biblical texts, a longer list could now be given than that on p. 30, since more texts are known. The observation made there that these forms always follow vowels (other than ‘<hi rend="italic">shewa</hi> vowels’) or are direct quotations of biblical forms remains true, although such a quotation can appear within a poem.</note> This shows, then, that the Palestinian dialect was, at some point in its earlier history, heavily influenced by Aramaic. The pronunciation used for the biblical texts, however, did not come under this influence, but preserved the older -CV suffix form as did bA (-kɔ). It has already been shown that Pal. biblical texts differentiated the two ‘a’ and the two ‘e’ signs in more cases, and did so more consistently than did the non-biblical texts.<note n="86">This is true generally. Specific instances are given in paragraphs 8, 10, 11.</note> It is also true that biblical texts contain proportionately fewer uses of other vowel signs divergent from those of bA than do non-biblical texts.<note n="87">E.g. ‹o› = <hi rend="italic">shureq</hi>: biblical texts, 14 examples; non-biblical, 78 examples; ‹a’› = <hi rend="italic">ṣere</hi>: biblical, 4 examples; non-biblical, 27 examples.</note> Biblical texts therefore show, in general, a form of language closer to bA, and therefore (since bA represents the ‘older’ form of the language) more old fashioned, more carefully preserved, than do the non-biblical texts. The corollary of this is, of course, that bA represents a pronunciation even more carefully preserved than do the Palestinian biblical texts.</p>
+
+<head>The Palestinian dialects</head>
+<p>39 The ‘Palestinian biblical’ pronunciation was used only for formal reading of the biblical text, as is shown by the fact that it is not used in the biblical quotations in the liturgical texts. Throughout these texts another form of pronunciation was used. This was not well preserved. It has been influenced by Aramaic, as is shown by its consistent use of the -VC form of the 2ms. pronominal suffix. The same influence, together with that of the various other languages which had been spoken in Palestine, must have caused the loss of vowel distinctions and the change in vowel quality in the various positions noted.<note n="88">I have no doubt that the process of linguistic change normal within a living language was a contributory cause. So much material has now been brought to light that it has become very difficult to show a period when the Hebrew language could have been out of use. Processes of morphological change can be seen between the Hebrew of the Old Testament, Qumran, and the early <hi rend="italic">piyyuṭim</hi>. For instance, the loss of final <hi rend="italic">he</hi> (and presumably its preceding vowel) in ‘<hi rend="italic">lamed-he</hi>’ verbs occurs in <hi rend="italic">waw</hi>-consecutive and jussive forms in biblical Hebrew; in other imperfect forms, apparently at the author's option, in Qumrani Hebrew; and in both perfect</note> The language of the non-biblical texts,</p>
+      <pb n="78"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>then, represents the informal, colloquial pronunciation of Palestine and adjacent areas. This colloquial pronunciation in Liturgy was very persistent, as has been demonstrated by A. Spanier, who showed that the -VC second person suffix form, and other characteristics of the ‘Palestinian’ dialect, were used in the prayer-books of various European communities.<note place="foot" n="89">Spanier, 1929. See now also Bét-Aryé, 1965, pp. 93ff.</note> Similar material is to be found in Yalon’s discussion of the pointing of the Mishna,<note place="foot" n="90">Yalon, 1964.</note> and, indeed, in most other discussions of mediaeval Hebrew pronunciation which I have seen.<note place="foot" n="91">It is rash to generalize on such a complex problem, but it would seem that such gross characteristics as the use of the -VC 2ms. pronoun form, and the confusion of <emph rend="italic">qameṣ</emph> and <emph rend="italic">pataḥ</emph> and of <emph rend="italic">segol</emph> and <emph rend="italic">ṣere</emph>, must derive ultimately from the Palestinian dialect, as the Babylonian divergences from bA were quite different.</note> The fact that such ‘Palestinian’ features occur in a Mishna ms. believed to have been pointed by Maimonides<note place="foot" n="92">Yalon, 1964, pp. 33-4.</note> shows that such pronunciation was not a feature of ignorant and unorthodox communities, but was the normal pronunciation of Hebrew, even among the greatest scholars, and was used in all situations, except for the formal reading of the biblical text.</p>
+<p>40 This colloquial dialect was, then, in use over a wide area, both of space and of time. The number of Palestinian mss. known may be considered disproportionately small. However, the mss. of the so-called ben Naftali type represent the same tradition.<note place="foot" n="93">First suggested, I believe, in Morag, 1959, and most recently elaborated in Díez-Macho, 1963a.</note> Mss. of this group can be found with five, six, or seven vowel signs besides <emph rend="italic">shewa</emph>.<note place="foot" n="94">Examples using only <emph rend="italic">pataḥ</emph> and <emph rend="italic">ṣere</emph> (i.e. with two ‘a’ and ‘e’ vowels) are Bod. Heb. c20 f. 25-28 (see note 72) and TS E1:95 (mishnaic). Biblical examples are rare, but do exist, e.g. TS NS 42:1. With three ‘a’ and ‘e’ vowels: lacking <emph rend="italic">qameṣ</emph>, TS B6:2 (see Díez-Macho, 1963a, pp. 36f.); lacking <emph rend="italic">segol</emph> (virtually), J.T.S. ms. 503 (ENA 2116) f. 15-16 (see <emph rend="italic">ibid.</emph>, ms. 4), and numerous non-biblical texts. Many mss. are also found using four ‘a’ and ‘e’ vowel signs, but confusing <emph rend="italic">qameṣ</emph> and <emph rend="italic">pataḥ</emph> and <emph rend="italic">segol</emph> and <emph rend="italic">ṣere</emph> (see the descriptions in Díez-Macho, 1963a).</note> They thus parallel the various types of Palestinian mss. They contrast with the Palestinian texts in that they use the <emph rend="italic">shewa</emph> sign, but this is to be expected since the invention of this sign made the Tiberian system a much more efficient method of recording the language than was Pal. (see § 11.9, 15). Apart from this, the pointing of the ‘ben Naftali’ texts is, in general, consistent with Palestinian and imperfect forms, again at the author’s option, in the <emph rend="italic">piyyuṭim</emph> (see Zunz, 1920, pp. 381f. for examples). No doubt a detailed study would show similar cases of morphological development. This article claims to show that phonological development also took place. At least in the more conservative texts, the pace of this does not seem too great for ‘natural’ development (i.e. not induced by overwhelming foreign influence).</p>
+      <pb n="79"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 79</head>
+<p>customs.<note n="95">95 See Díez-Macho, 1963<hi rend="italic">a</hi>, pp. 20f.</note> There can, I think, be no doubt that these mss. represent a pronunciation different from that of bA, as do the Pal. texts. Goshen-Gottstein argues that no important difference was involved. His suggestion that the sounds represented by <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi> were allophones of the same phoneme is certainly debatable,<note n="96">96 I presume that this is what is meant by ‘the opposition of the graphemes <hi rend="italic">ṣere</hi> versus <hi rend="italic">segol</hi> cannot be said to be phonemic’ (<hi rend="italic">sic</hi>. Goshen-Gottstein, 1963, p. 98, not 65) but I find the note difficult to understand. For an argument that both signs indicate phonemes, see Morag, 1962, p. 22, note 17.</note> but in any case the point of phonemic status is irrelevant. We have the evidence of Saadya that the two signs represented different sounds,<note n="97">97 See Skoss, 1952, p. 293. Ben Hayyim’s opinion that Saadya is discussing Babylonian pronunciation is based on (and probably referred to) one point only. See ben Hayyim, 1953, p. 90, where it is concluded that, when Saadya mentions a method of deciding whether <hi rend="italic">pataḥ</hi>, <hi rend="italic">segol</hi>, or <hi rend="italic">ṣere</hi> is to be used in a word, he refers to Bab., as ‘only there are <hi rend="italic">pataḥ</hi> and <hi rend="italic">segol</hi> identical.’ He could quite as well have Pal. in mind, as most Pal. mss. use only one ‘e’ sign where bA has <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi>. Presumably the Ga’on is speaking generally of possible confusions, such as those guarded against by the notes on the spelling of forms of <hi rend="italic">’kl</hi>, <hi rend="italic">hlk</hi>, <hi rend="italic">ḥrb</hi>, etc. in <hi rend="italic">Diqduqe haṬe’amim</hi>. In any case the constant mention of <hi rend="italic">pataḥ</hi> and <hi rend="italic">segol</hi> as distinct in Saadya’s work shows that the study in general deals with the pronunciation of bA. This would, of course, include the description of the position of the vowels in the mouth.</note> and the evidence of bA that the two signs were not free variants. The ‘ben Naftali’ texts manifestly use the two signs in a manner different from that of bA, and sometimes use only one sign in place of the two. Consequently ‘ben Naftali’ texts must have been pronounced differently from those of bA. Their common use of Tiberian signs indicates not their common tradition,<note n="98">98 As is suggested by their being contrasted to Pal. in Goshen-Gottstein, 1963, p. 112, no. 40. For the view taken here, see also now Morag, 1965, p. 209.</note> but their common recognition of the efficiency of the Tiberian pointing system. No doubt the difference in pronunciation was not considered important by the populace, so long as it did not coincide with sectarian or other local differences. It is equally certain, however, that no grammarian would consider the difference unimportant.<note n="99">99 I know of no grammarian who supports Goshen-Gottstein’s view, or who fails to list <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi> as representing distinct vowels. The practice of correcting divergent mss. to agree with bA and the trend of ‘ben Naftali’ mss. towards harmonization with bA (Díez-Macho, 1963<hi rend="italic">a</hi>, p. 18) also show that such differences were not ignored. As regards the ‘a’ signs – again if I understand his note 65, p. 98 correctly – Goshen-Gottstein, 1963, foresees the possibility that mss. which did not distinguish two ‘a’ signs may have been written. Admittedly the distinction between the ‘a’ signs (and vowels) was more stable than that between the ‘e’ signs, but mss. which use only one ‘a’ sign certainly exist (see note 101).</note> Comparatively little work has been done on these ‘ben Naftali’ type mss., particularly on the non-biblical ones, so judgment on their position must be provisional. However, it seems at present that they</p>
+      <pb n="80"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>can be taken as mss. representing the Palestinian dialect in Tiberian signs. As such, they show that the Palestinian tradition had a much wider use than would be supposed from the number of mss. with Palestinian pointing.</p>
+
+<head>The development of the Palestinian and ben Asher dialects</head>
+
+<p>41 The following is a tentative outline of the events which produced the situation described above. The earliest evidence of a difference between the colloquial and the formal pronunciations of Hebrew appears in the scrolls of Qumran Cave 1.<note n="100">It is dated here on the basis of the <hi rend="italic">-k</hi> and <hi rend="italic">-kh</hi> forms of the 2ms. pronominal suffix which appear to be free variants at that time. Other evidence could be adduced, but the phonological interpretation of Qumrani orthography is not sufficiently certain to make this of value. It is possibly to be connected with the rise of 'mishnaic Hebrew,' in which case it can perhaps be set earlier (see Segal, 1927, p. 14).</note> These apparently reproduce the colloquial pronunciation, as would be expected from a consideration of the orthography of many mss. The same colloquial pronunciation appears in the classical transliterations.<note n="101">This is also predicated mainly on the basis of the form of the 2ms. pronominal suffix, but other phenomena in Origen probably indicate the same; e.g. his use of <hi rend="italic">omicron</hi> where bA has <hi rend="italic">qames hatuf</hi> (see paragraph 32). That Origen's pronunciation should be 'colloquial' is not surprising. His transliteration was surely intended to make clear the grammatical forms in the text, and so served the same purpose as did the later pointing systems. He would not have been interested in the formal ceremonial pronunciation, or even in showing the pronunciation very exactly, hence he did not represent certain insignificant vowels – e.g. in the second syllable of 'segolate' nouns (see note 72).</note> It is certain, however, that the colloquial and the formal dialects were developing side by side, as Origen's transliterations show some processes to be in progress which are completed in the bA dialect.<note n="102">E.g. 'Philippi's law' (see paragraph 29), the change in colour of the vowel of the first syllable of 'segolate' nouns of original <hi rend="italic">*qatl</hi> form from 'a' to 'e,' etc.</note> However, the biblical or formal pronunciation was the more conservative, although probably not consciously so at first. The difference between biblical and mishnaic Hebrew evidently only became a subject of rabbinic comment at the end of the third century A.D.<note n="103">See Segal, 1927, p. 3.</note> It is unlikely that before this time, or even for some time after, any particular value was attached to an exact formal pronunciation of vowel sounds.<note n="104">Thus in <hi rend="italic">Berakhoth</hi> 2:3, opinion on the necessity of clear pronunciation of consonants is divided. In the talmudic comment on this point, the necessity</note> This would parallel the state of affairs at Qumran in the case of the text. No value appears to have been attached to exactitude of spelling, or even of wording. The tradition which became M.T. was in existence, but, as far as</p>
+      <pb n="81"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 81</head>
+
+<p>we can tell, did not approach exclusiveness in use until much later.<note n="105">of care where confusion of consonants might produce an irreverent meaning is noted. After this the Jerusalem Talmud notes that Jews from certain areas are not allowed to undertake the ceremonial reading of the biblical text because of their incorrect pronunciation of certain consonants. There is no indication of concern for the pronunciation of vowels until the masoretic literature.</note> In the same way, the dialect from which the bA pronunciation sprang was undoubtedly in use at an early date, but it does not seem to have been widely regarded as the best pronunciation for ceremonial reading until after the production of the bA pointing system.</p>
+
+<p>42 At some point between the transliterations of Origen and the first of our Palestinian mss., the distinction between the two ‘a’ vowels and between the two ‘e’ vowels began to disappear in the colloquial dialect. Apparently the distinction between the two ‘e’ vowels was lost first, as it is lacking in more mss.<note n="106">This fact may show a significant connection with the Samaritan pointing system, which uses one ‘e’ and two ‘a’ signs. However, if ben Hayyim, 1954<hi rend="italic">b</hi>, is right in his view of the origin of the second Samaritan ‘a’ vowel, the system can have no direct connection with Pal. (see pp. 523f.).</note> These and other changes which took place in the colloquial dialect did not significantly affect the formal pronunciation which became the bA dialect. By this time the formal dialect was probably being consciously preserved by the group of scholars who used it, so that it did not undergo any of the changes current in colloquial speech. The ‘Palestinian’ scholars did not take equal care with the preservation of their ceremonial pronunciation so that, although it did retain some ancient features, it was not outstandingly conservative compared to the colloquial pronunciation, except in its use of the -CV form of the second person pronominal suffix. The vowel system of their formal pronunciation therefore followed the same line of development as did their colloquial speech, but more slowly.<note n="107">An indication of this slowness, and of the general tendency to conservatism in these texts, is that although many confuse the two ‘a’ signs, no Palestinian biblical text, at least of any extent, uses only one ‘a’ sign, while a number of non-biblical ones do. (See paragraph 3. Dietrich, 1968, in the chart on p. 88*, does list texts as showing only one ‘a’ sign, but the amount of pointed material they contain is too small to permit the assumption that the original text did not use two.)</note> It presumably represents a stage of the language between that of the non-biblical texts and that of bA.<note n="108">For distinction between the pronunciation of biblical and non-biblical texts in other communities, see Morag, 1963, p. 14. The various classes of Pal.</note></p>
+
+<note n="105">I see no reason to assume that Qumran differed much in this respect from the average Jewish community of this time. On this see now Talmon, 1964, especially pp. 97f.</note>
+      <pb n="82"/>
+<head>Essays on the Ancient Semitic World</head>
+
+<p>
+43 We do not know who these ‘Palestinians’ were. As has been shown (paragraph 39) their colloquial pronunciation can be ascribed neither to unorthodox nor to ignorant elements. They even used, in their study of the biblical text, some of the same masoretic material as did the ‘Tiberians.’<note place="foot">109 See, e.g., Weil, 1962, p. 70.</note> Their biblical texts do contain some variants from that of ben Asher, but these are not of great importance.<note place="foot">110 See, e.g., Kahle, 1930, p. 37*, and Dietrich, 1968, pp. 71ff. On those pages Dietrich studies the variants in the texts which he publishes, compares them with the collected variants to the ben Asher text, and concludes that they can be divided into four groups, each of which has a ‘vulgarizing’ tendency (p. 105). This is tantamount to saying of the textual tradition what this article claims for the pronunciation: that the Palestinian was less closely guarded from change than was that of ben Asher.</note> No doubt such texts stem from a group which could be considered lax and unorthodox only by the most conservative.<note place="foot">111 Among other indications it should be noted that much of their liturgical poetry was by well-known <hi rend="italic">payyeṭanim</hi>, and much of it appears in Italian and Ashkenazic prayer-books.</note> They must have produced their pointing system before, or at any rate in ignorance of the perfection of, that of ben Asher.<note place="foot">112 Otherwise they would have used a sign corresponding to bA <hi rend="italic">shewa</hi>, as is done in the Palestinian texts of the ‘ben Naftali’ type. An approach to this is made (possibly under bA influence) in some Pal. texts, but a sign with equivalent function was never developed. See § 11 of this article.</note> To judge from the contents of the Geniza, the acceptance of the bA pointing system, and also the pronunciation which it enshrined, was quick in most areas. It is easy to see why the pointing system was accepted: it was more efficient than Pal. for the recording of the Hebrew pronunciation. As such it was used by the producers of the ‘ben Naftali’ mss. to reproduce the Pal. tradition. The bA pronunciation itself was probably accepted quickly because it was recognizably superior. This superiority no doubt lay partly in the integrity of those who had preserved the pronunciation, and in the obvious validity of their claim to be the bearers of authoritative tradition. In my opinion, however, the superiority lay also in the fact that the bA pronunciation preserved a number of features which were only partially preserved in the Palestinian biblical pronunciation, or perhaps only faintly remembered by its scholars.
+</p>
+
+<p>
+pointing in both biblical and non-biblical texts show various degrees of conservatism. They fall into two main groups, one of which is ‘conservative,’ using the ‘a’ signs much as does bA, while the second group confuses them. Compare the characteristics of classes 4 and 6 with classes 5 and 7 as given in paragraph 3.
+</p>
+      <pb n="83"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 83</head>
+
+<head>II ‘SHEWA VOWELS’ IN PALESTINIAN HEBREW</head>
+
+<p>1. In his <title>Materials for a Non-Masoretic Hebrew Grammar</title>, vol. III (Helsinki, 1964), pp. 13-14, A. Murtonen attacks the view expressed by ben David and other scholars that Palestinian Hebrew used <mentioned>shewa</mentioned> much as did bA. One problem raised is that of terminology. The term ‘<mentioned>shewa</mentioned>’ will be used here to indicate the Tiberian sign only. A second problem, the extent to which it is correct to search for Tiberian categories in other dialects, is surely resolved by the fact that Palestinian mss. do not provide sufficient homogeneous material for a complete linguistic description of the language. Comparison is, therefore, the only possible method of procedure. With these questions settled thus, it is hoped here to establish, at least in a preliminary way, the nature of the vowels used in Palestinian Hebrew where bA uses <mentioned>shewa</mentioned>, and so to settle some of the questions raised by Murtonen’s arguments in the above-mentioned book.</p>
+
+<p>2 Since bA is to be used as a standard of comparison, the first requirement is a statement of the value of bA <mentioned>shewa</mentioned> as understood here. Murtonen appears to understand that when ben David uses <mentioned>shewa</mentioned> as the name of a sound, he means a vowel of a particular quality. Whether or not this is true of ben David, it is surely not true of the early Hebrew grammarians. Their characteristic description of ‘seven vowels and <mentioned>shewa</mentioned>’ clearly attests the unique value of the <mentioned>shewa</mentioned> sign. This is inexplicable if <mentioned>shewa</mentioned> indicates merely a short vowel of a particular quality. The fact is, of course, that, as these same grammarians point out, <mentioned>shewa</mentioned> could indicate a vowel of any quality, depending on its situation.<note n="113">See the examples in 11-13 below. Garbell, 1959, pp. 153-4, argues that <mentioned>shewa</mentioned> is treated differently from the seven ‘full vowels’ because it never represents a vowel phoneme. This is questionable (see, e.g., Morag, 1962, p. 23), but even if it were true this argument would stand, since – as Garbell agrees – vowels were undoubtedly produced where bA writes <mentioned>shewa</mentioned>. The pronunciation of these vowels was clearly a matter of concern to the grammarians and <mentioned>naqdanim</mentioned>, whether they were phonemic or not.</note> The rules for the pronunciation of the vowels indicated by <mentioned>shewa</mentioned> vary somewhat among the grammars. It is one of the merits of the Tiberian system that it cut through the various local differences, and used a single sign to denote any ‘<mentioned>shewa</mentioned> vowel,’ i.e. any vowel sound in an open, unstressed (i.e. tertiary stressed, see note 46) syllable. Rules were easily compiled to indicate the correct quality of ‘<mentioned>shewa</mentioned> vowel’ in</p>
+      <pb n="84"/>
+<head>84 <title>Essays on the Ancient Semitic World</title></head>
+<p>any special situation.<note n="114">For references to the grammarians, see notes 131, 134. The difficulty is to know how the <hi rend="italic">shewa</hi> was pronounced normally, not in the special cases. See Levy, 1936, p. 41.</note> Otherwise the vowel produced was probably a fairly central, neutral one, which the grammarians liken to <hi rend="italic">pataḥ</hi> or <hi rend="italic">segol</hi>. The exact realization no doubt varied from place to place.</p>
+<p>3 In some cases the quality of a ‘<hi rend="italic">shewa</hi> vowel’ could not be determined by context, but it was necessary that a particular quality be used, such as after a laryngeal. Here the quality was indicated by the placing of one of the ‘quality signs’ (a ‘full vowel’ sign) beside the <hi rend="italic">shewa</hi>. Where it indicates a vowel, then, <hi rend="italic">shewa</hi> indicates vowel <hi rend="italic">quantity</hi> and so is distinct from the other Tiberian vowel signs, all of which indicate quality.<note n="115">This point is made, from a different point of view, in Morag, 1962, p. 27.</note> It seems futile to speculate on the reason for the use of the same sign where no vowel was pronounced. I would suggest, however, that one reason was the identical intention of avoiding involvement in local differences. No doubt then, as is the case in modern Hebrew today, some pronounced a ‘<hi rend="italic">shewa</hi> vowel’ where others did not. The same problem is implicit in the term ‘<hi rend="italic">shewa</hi> medium.’ This phenomenon, if it did exist in speech, must have occurred in other positions as well as before the ‘<hi rend="italic">begad kefat</hi>’ consonants, and must, then, have presented a considerable problem to the vocalizer. bA, then, distinguished clearly the seven vowel qualities where this was easily done: in syllables under primary or secondary stress (‘tone’ and ‘pretonic’ syllables). In other positions, a sign neutral as to quality was used, and its interpretation left to rule of thumb and local custom, except in the special case of the ‘composite <hi rend="italic">shewa</hi>.’</p>
+<p>4 The Palestinian system never developed a sign equivalent to bA <hi rend="italic">shewa</hi>. The four ‘a’ and ‘e’ signs are all used where bA uses <hi rend="italic">shewa</hi>, as is ⟨i⟩ less commonly, and ⟨o⟩ and ⟨u⟩ rarely. Some mss. did, however, come very near the bA development. Unfortunately the ms. in which this is most nearly achieved is still unpublished. This is the Cambridge ms. TS NS 249:14+.<note n="116">The mss. referred to in this article are listed, with bibliography, in appendix A.</note> In this ms., ⟨a'⟩ is used 56 times where bA uses <hi rend="italic">shewa</hi>. Elsewhere it corresponds to <hi rend="italic">ḥaṭef pataḥ</hi> 7 times, <hi rend="italic">pataḥ</hi> 14 times. As a rule, and of course much more frequently, ⟨a⟩ is used where bA uses both <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi>, and also five times corresponding to <hi rend="italic">ḥaṭef pataḥ</hi>. It seems obvious that in</p>
+      <pb n="85"/>
+<head type="running-head">Revell: The Palestinian Vocalization of Hebrew 85</head>
+<p>this ms. ⟨aʹ⟩ was used almost solely to indicate ‘shewa vowels.’<note n="117" place="foot">Other signs correspond to bA shewa a total of 10 times in this ms. All but four of these cases represent characteristic Palestinian differences from bA (such as the use of ⟨i⟩ where bA has shewa before yod).</note> It is even possible that some of the other uses of ⟨aʹ⟩ derive from a second hand.<note n="118" place="foot">More than one hand has certainly worked on this ms. (see HTPV 11.8). It is, however, in most cases difficult to distinguish the additions from the original pointing.</note></p>
+<p>5 Similar special use of a vowel sign is found in mss. of classes 4 and 5 (see § 1.3) which use ⟨eʹ⟩ almost solely where bA uses shewa. For example in TS H16:4, ⟨eʹ⟩ is used 14 times where bA would use shewa. In its only other use it corresponds to bA qameṣ (r10), but here also it probably represents a ‘shewa vowel’ (see § 1. 23). ⟨i⟩ is used 4 times where bA would have shewa before yod, a characteristic Palestinian usage. The only other sign corresponding to bA shewa is ⟨aʹ⟩ (twice, v9). This is the most complete case of such specialization that I know of. Many mss. use ⟨eʹ⟩ in this way, but it is never the only, and not always the most common, sign used where bA would use shewa.</p>
+<p>6 These two instances show the beginning, in Palestinian circles, of the specialization of one sign for use where bA uses shewa, and therefore presumably to indicate ‘shewa vowels.’ A different type of specialization is found in Palestinian mss. of class 1, in which the use of vowel signs is most similar to that of bA. Examples are Bod. ms. Heb. e30 f. 48-9+ and TS H16:10. In mss. of this type ⟨e⟩ is regularly used where bA uses segol. It is also used almost exclusively where bA uses shewa, but it is not used elsewhere. Here, then, we have a single sign used in what, in bA, are two different sets of grammatical positions. The other Pal. signs, in mss. of this class, each correspond to a single bA sign. It cannot be doubted that, in these mss. where ⟨e⟩ corresponds to bA shewa, it indicates a ‘shewa vowel.’</p>
+<p>7 A further argument for the existence of ‘shewa vowels’ in Palestinian Hebrew is the fact that some mss. fail almost entirely to represent them.<note n="119" place="foot">See Morag, 1962, p. 34, but he is wrong in referring to either of the mss. published in Kahle, 1927, as a ms. of this type. In TS H16:3 (the ‘24 Priesterordnungen’ ms.), ⟨aʹ⟩ is commonly used where bA would have shewa. The Levias Yannai ms. is of the type described in paragraph 5. In the Hebrew portions of the various fragments which form part of this ms. (see appendix A under H.U.C. ms. 1001) ⟨eʹ⟩ is used 40 times where bA would use shewa. Other signs are used a total of 25 times.</note> An ‘argument from silence’ is not normally im-</p>
+<p>7</p>
+      <pb n="86"/>
+<head>86 <title>Essays on the Ancient Semitic World</title></head>
+<p>pressive, but it is surely not mere coincidence that, for instance, TS H16:6 and Bodleian ms. Heb. d63 f. 98, neither of which is sparing in its use of vowel signs, show respectively six and three signs only, in all of the positions where bA would use <emph rend="italic">shewa</emph>.<note n="120">Vowel signs occur in these mss. where bA has a composite <emph rend="italic">shewa</emph> only five times, all in TS H16:6, all corresponding to <emph rend="italic">ḥatef pataḥ</emph>.</note> Among the unpublished Palestinian mss., there are some which never use a vowel sign where bA would use <emph rend="italic">shewa</emph>.<note n="121">This is typical in class 6. Most mss. of this class are sparsely vocalized. TS H2:30, however, is an example which never uses vowel signs where bA would have <emph rend="italic">shewa</emph>, but which has otherwise fairly heavy vocalization. It uses about as many vowel signs as TS H16:10, which has some 14 signs corresponding to bA <emph rend="italic">shewa</emph>.</note></p>
+<p>8 The instances given show that the Palestinians did have vowels where bA uses <emph rend="italic">shewa</emph>. Paragraphs 4–7 describe four different types of ms. in which the vowels occurring where bA uses <emph rend="italic">shewa</emph> are treated uniformly in four different ways. This use of different signs in different groups of mss. would surely not be possible if the vowels represented were either <emph rend="italic">shewa</emph> quantity vowels of a single quality, or vowels of varying qualities and of ‘full vowel’ quantity. It must therefore be concluded that they were ‘<emph rend="italic">shewa</emph> vowels’ as defined in paragraph 2.</p>
+<p>9 Such uniform treatment is, however, relatively rare. Most mss. use &lt;a’&gt; and &lt;e&gt; or &lt;e’&gt;, apparently indiscriminately, where bA uses <emph rend="italic">shewa</emph>. However, the use of ‘a’ and ‘e’ vowels is exactly what we should expect from the statements of the early grammarians on the pronunciation of <emph rend="italic">shewa</emph>. The very fact of indiscriminate use should show that this was not a case of representing full vowels of recognized quality, but ‘<emph rend="italic">shewa</emph> vowels.’<note n="122">Against this it might be argued that the use of the two ‘a’ and of the two ‘e’ vowels shows little uniformity in many mss. However, this is not so true as is generally maintained (see § 1.8–12). As regards ‘<emph rend="italic">shewa</emph> vowels,’ in TS 13H2:10 the use of the two ‘a’ vowels is almost identical with the use of <emph rend="italic">qameṣ</emph> and <emph rend="italic">pataḥ</emph> in bA. However, where bA uses <emph rend="italic">shewa</emph>, the following occur: &lt;e’&gt; 17 times, &lt;a’&gt; 7 times, &lt;i&gt; 4 times, &lt;a&gt; twice, &lt;e&gt; once. Consequently, it cannot be maintained that there is a connection between the plurality of signs corresponding to bA <emph rend="italic">shewa</emph> and the other common confusion. Moreover, while the interchange of &lt;a&gt; with &lt;a’&gt;, and of &lt;e&gt; with &lt;e’&gt;, is common, that of ‘a’ signs with ‘e’ signs is rare, and takes place in a few specific situations (see § 1.19, 23, 27, 29, 36). The fact that this is not true of the signs corresponding to bA <emph rend="italic">shewa</emph> shows again that a different type of vowel is here indicated. Finally, it is possible that further study will show more order and method in the common Palestinian use of ‘a’ and ‘e’ signs for <emph rend="italic">shewa</emph> vowels than is at present visible.</note> There is, therefore, no reason to doubt that in most cases where bA has vocal <emph rend="italic">shewa</emph>, the Palestinians had the same type of vowel, i.e. a ‘<emph rend="italic">shewa</emph> vowel’ as defined in paragraph 2. However, the Palestinians never achieved the representa-</p>
+      <pb n="87"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 87</head>
+
+<p>tion of such vowels by a sign which was not, in normal use, tied to a specific vowel quality. It was this achievement which made the position of <emph rend="italic">shewa</emph> in the Tiberian and Babylonian systems so very much clearer. When compared to them, the Palestinian transcription of <emph rend="italic">shewa</emph> vowels can only be described as experimental.</p>
+
+<p>10 However, this ‘experimental quality’ should not be taken as an indication that ‘true’ Palestinian Hebrew did not have ‘<emph rend="italic">shewa</emph> vowels,’ and, in mss. in which they are clearly indicated, copied them from the Tiberians. It must be remembered that we are comparing bA, the most polished product of the Tiberian masoretic schools, with a pointing of which there is no recognizable standard form, but 10 or so different systems. It is not to be expected that Palestinian pointing should be as consistent as bA. Furthermore some mss. do reach a remarkable level of consistency and detail in the representation of the quality of ‘<emph rend="italic">shewa</emph> vowels.’ This detail in representation of quality gives such mss. a most peculiar appearance to one habituated to bA. It must be remembered, however, that this is largely due to the fact that bA did not need such detail, having a <emph rend="italic">shewa</emph> sign which did not indicate a particular vowel quality.</p>
+
+<p>11 The best example of such detail in the representation of ‘<emph rend="italic">shewa</emph> vowel’ quality is Bodleian ms. Heb. d55 f. 12v–14v.<note n="123">The second part of Murtonen, 1958, ms. a. Murtonen (p. 29) recognizes some differences between the parts, but does not consider them important. The use of signs for ‘<emph rend="italic">shewa</emph> vowels’ (among other things) is, however, completely different in the two parts, as is shown below. Consequently only folios 12v–14v are considered here. In fols. 4r–12r (and in TS H16:9, which forms part of the same ms.) the signs used where bA uses <emph rend="italic">shewa</emph> are: ‹a'› some 148 times, ‹e'› 73 times, ‹a› 17 times, ‹i› before <emph rend="italic">yod</emph> 6 times, elsewhere (never before a laryngeal or after yod) 4 times, ‹o› once (9r31). These numbers alone are sufficient contrast to the usage described for folios 12v–14v, but apart from that, the earlier folios and TS H16:9 show no trace of the special use of signs for <emph rend="italic">shewa</emph> vowels before laryngeals described below.</note> In this ms., ‹e› is used to indicate most ‘<emph rend="italic">shewa</emph> vowels.’<note n="124">Some 207 times. It is also the most common sign used where bA would have either <emph rend="italic">segol</emph> or <emph rend="italic">ṣere</emph>.</note> Less commonly a special sign <graphic url="special_sign.png"/> is used.<note n="125">Some 42 times. This sign is used only where bA would have <emph rend="italic">shewa</emph>. From Murtonen's description (1958, p. 30) I take it that this sign (his no. 3) is the work of some hand later than the original, which, in the sporadic fashion sometimes found in Palestinian mss., made some additions to, and some changes in (Murtonen's no. 4), the original. Cf. the use of ‹e'› and the combination of ‹e› and ‹e'› in TS 12:197. See also note 131.</note> ‹o› is used in three cases where bA would have <emph rend="italic">shewa</emph> before ’aleph followed by <emph rend="italic">ḥolem</emph>.<note n="126">12vII, 12, 29. In no case is the vowel following the ’aleph marked. The first two instances are quoted by Murtonen (1958, p. 25) as evidence of the quiescence</note> ‹i› is used</p>
+      <pb n="88"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>twice where bA would have <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> followed by <hi rend="italic">ḥireq</hi>,<note n="127"/> and elsewhere only where bA would have <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi> (a typical Palestinian spelling), or after <hi rend="italic">yod</hi> (less typical but still well attested in other mss.). ⟨e'⟩ is used 10 times where bA would have <hi rend="italic">shewa</hi> before <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> followed by <hi rend="italic">ṣere</hi>, and corresponds to <hi rend="italic">shewa</hi> in only six other cases.<note n="128"/> Similar cases can be noted in which ⟨a⟩ and ⟨a'⟩ are used where bA would have <hi rend="italic">shewa</hi> before <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> followed by ‘a’ vowels, but both these signs are also used where bA uses <hi rend="italic">shewa</hi> in other positions.<note n="129"/> The fact that the <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> in most of these cases is pointed with a vowel sign seems to me sufficient guarantee that it is not quiescent in any of these cases.<note n="130"/></p>
+<list>
+<item>12 These cases in which <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> separates the two vowels in</item>
+</list>
+<note place="bottom">
+of <hi rend="italic">’alef</hi>, but in view of the evidence for the use of ⟨e'⟩ and ⟨i⟩ in this position, I do not think his view can be maintained.
+<lb n="127"/> 12v16, 23. In 12v16 the vowel following the <hi rend="italic">’alef</hi> is marked as ⟨i⟩. In 14r2 a ‘<hi rend="italic">shewa</hi> vowel’ in this position is marked by ⟨e⟩, not ⟨i⟩.
+<lb n="128"/> Before <hi rend="italic">’alef</hi>, 12v17, 20, 13r14, 13v15, 14r18, 20, 27. Before <hi rend="italic">he</hi>, 12v8, 13r2, 14r7. In all these cases the <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> is pointed with ⟨e⟩ (the sign most commonly used where bA has <hi rend="italic">ṣere</hi>), except 14r27, where no sign is written, and 14r18 where ⟨a'⟩ is used, in my opinion by error. In 13v24 a ‘<hi rend="italic">shewa</hi> vowel’ in this position is marked by ⟨e⟩, not ⟨e'⟩.
+<lb n="129"/> Where bA would have <hi rend="italic">shewa</hi> before <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> followed by <hi rend="italic">qameṣ</hi>, this ms. has ⟨a⟩ in 13r15, 33 and 13v4 and ⟨a'⟩ in 13v16; the same followed by <hi rend="italic">pataḥ</hi>: ⟨a'⟩ 12v3, 19, 26, 13r3, 10, 13v2, 31, 14r4. In these instances the vowel following the <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> is marked with ⟨a'⟩ 7 times and with ⟨a⟩ 3 times, and is not marked twice. Only in 14v14 is a ‘<hi rend="italic">shewa</hi> vowel’ in this position marked by ⟨e⟩. It is interesting to note that the same phenomenon apparently extends to ‘<hi rend="italic">shewa</hi> vowels’ before <hi rend="italic">ḥet</hi> and <hi rend="italic">‘ayin</hi> followed by ‘a’ vowels. In this case the ‘<hi rend="italic">shewa</hi> vowel’ is always marked ⟨a'⟩. The following bA vowel would be <hi rend="italic">qameṣ</hi> in 12v17, 13v17, 14r14, 20 and <hi rend="italic">pataḥ</hi> in 14r5, 14v4, 6, 10, 10. The vowel following the <hi rend="italic">‘ayin</hi> or <hi rend="italic">ḥet</hi> is marked as ⟨a'⟩ 5 times, ⟨a⟩ 4 times. A ‘<hi rend="italic">shewa</hi> vowel’ in this position is marked by ⟨e⟩ (13r18) and <gap reason="illegible" quantity="1" unit="character"/> (13r15) both before bA <hi rend="italic">‘ayin</hi> followed by <hi rend="italic">qameṣ</hi>. Elsewhere ⟨a⟩ is used 20 times where bA would have <hi rend="italic">shewa</hi>, and ⟨a'⟩ 31 times.
+<lb n="130"/> For examples see notes 127–9. One might object that in 12v17 the infinitive form ⟨š’t⟩ is written with vowel signs over both <hi rend="italic">šin</hi> and <hi rend="italic">’alef</hi>, but also with the ‘Pal. <hi rend="italic">rafe</hi> sign’ ◌֕ over the <hi rend="italic">’alef</hi>. Murtonen (1958, p. 33) states that this sign indicates that the <hi rend="italic">‘alef</hi> is quiescent. The sign may be used to mark a laryngeal as quiescent, as shown, e.g., in Kahle, 1901, p. 307. In no case where it is used in this way does the laryngeal in question carry a vowel sign. The same sign is also used to indicate that a laryngeal, or <hi rend="italic">waw</hi> or <hi rend="italic">yod</hi> had a consonantal value, as in Bod. Heb. d63 f. 98 (Murtonen, 1958. p. 33), and TS 12:195+ (Kahle, 1930, p. 29* – also <hi rend="italic">yod</hi>, Ps. 52:8 – and Dietrich, 1960, p. 71). It should be noted that the marking of ‘<hi rend="italic">shewa</hi> vowels’ in the latter ms. is very similar to that in Bod. Heb. d55 f. 12v–14v (see note 132). There is therefore at least good reason to doubt that the <hi rend="italic">’alef</hi> in question is quiescent. (On Murtonen’s argument from the writing of one vowel sign only by the first hand (cf. 12v4) see note 133.) It seems to me likely that the use of ‘<hi rend="italic">rafe</hi>’ in this position may indicate a different type of pronunciation from the normal (i.e. <hi rend="italic">’alef</hi> may here represent a palatalized stop or ‘offglide’ /y/ rather than quiescence).</note>
+      <pb n="89"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 89</head>
+<p>question can be paralleled by ones in which some other consonant appears in this position, and where &lt;e&gt; or <g ref="#char1">_</g> corresponds to the bA <hi rend="italic">shewa</hi>. We must, then, be dealing with ‘<hi rend="italic">shewa</hi> vowels,’ which, before <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi>, were pronounced with the quality of the vowel following the consonant in question. In this ms. the vocalizer indicated the quality required. This parallels the rule given by the early grammarians, with the exception that they state that <hi rend="italic">shewa</hi> before any laryngeal has the quality of the vowel following the laryngeal, not, for all but ‘a’ vowels, solely before <hi rend="italic">’alef</hi> and <hi rend="italic">he</hi> as in this ms.<note n="131">131 This care in the indication of ‘<hi rend="italic">shewa</hi> vowel’ quality is not, so far as I know, carried so far in any other ms., but there are other examples.<note n="132">132 The fact that <hi rend="italic">’alef</hi> and <hi rend="italic">he</hi> are often shown as separating two vowel sounds, either of the same or of different qualities, and the obvious distinction between these two and the other laryngeals, should make scholars more cautious in assuming the breakdown of the Palestinian laryngeal system.<note n="133">133</note></p>
+
+<note n="131">131 See, e.g., Derenbourg, 1870, p. 369; Qimhi, 1842, p. 138b; Skoss, 1955, p. 31; Nutt, 1870, p. 130; Ginsburg, 1897, p. 988, no. 14 (his edition of a form of <hi rend="italic">Diqduqe haTǝ’amim</hi>; the fuller Baer-Strack edition is not available to me) and the information given by Levy, 1936, pp. 17* and 30. I have noted only one instance of the use of a sign where bA would have <hi rend="italic">shewa</hi> before a laryngeal followed by <hi rend="italic">shureq</hi>. The sign here is <g ref="#char1">_</g> (13v3). This could mean that the rule did not hold in the case of ‘u’ vowels, but this sign shows a number of exceptions to the general usage of the ms. (e.g., it marks a ‘<hi rend="italic">shewa</hi> vowel’ before <hi rend="italic">yod</hi> in 13r19 and 13v22, a position where &lt;i&gt; usually occurs – see preceding paragraph – and &lt;e&gt; never does) and is probably a secondary addition to the original pointing (see note 125). Writings such as <hi rend="italic">&lt;htw’w&gt;</hi> in TS H16:10 v2 (15:23) might indicate that a ‘<hi rend="italic">shewa</hi> vowel’ did take on a ‘u’ colouring in this position. For the probability that the rule applied to ‘<hi rend="italic">shewa</hi> vowels’ before any laryngeal followed by an ‘a’ vowel, see note 129. That it does not apply to ‘<hi rend="italic">shewa</hi> vowels’ before <hi rend="italic">het</hi> or <hi rend="italic">‘ayin</hi> followed by other vowels is shown, e.g. where bA would have following <hi rend="italic">holem</hi>, 13r6, 14r2; <hi rend="italic">ṣere</hi>, 12v24, 26, 29; <hi rend="italic">ḥireq</hi>, 14v18.</note>
+
+<note n="132">132 TS 12:195+ shows almost as complete a system, but with some differences, principally that the rules for this ‘harmonization’ of ‘<hi rend="italic">shewa</hi> vowels’ seem to apply with any laryngeal followed by any vowel. &lt;o&gt; is used before bA <hi rend="italic">’alef</hi> and <hi rend="italic">het</hi> followed by <hi rend="italic">holem</hi>, Pss. 55:12, 69:37; &lt;a&gt; before <hi rend="italic">’alef</hi>, <hi rend="italic">he</hi>, or <hi rend="italic">het</hi> followed by an ‘a’ vowel, Pss. 55:11, 15, 69:28, 77:18, elsewhere only Ps. 70:3; &lt;a’&gt; before bA <hi rend="italic">’alef</hi> or <hi rend="italic">he</hi> followed by <hi rend="italic">pataḥ</hi>, Pss. 52:9, 55:14, and nowhere else. &lt;e’&gt; is not used before a laryngeal. &lt;e&gt; is the sign normally used in this ms. where bA has <hi rend="italic">shewa</hi> (80 cases). &lt;i&gt; is used before bA <hi rend="italic">he</hi> followed by <hi rend="italic">ḥireq</hi>, Pss. 53:2, 71:6, 8, and elsewhere before or after <hi rend="italic">yod</hi> (6 cases). Other mss. show occasional examples, e.g. TS A43:1, Jer. 25:6, 11.</note>
+
+<note n="133">133 Murtonen, 1964, argues (pp. 14-15, amplifying former arguments) that the ‘first hand’ did not pronounce the laryngeals while the second did. He bases this on the fact that the first hand wrote no vowel signs in certain positions. However, in a text in which all vowels are not marked, no significance can be attached to the absence of a vowel sign. Kahle’s argument from the fact that words ending in different laryngeals are used as rhymes (Kahle, 1959, p. 167) is equally weak, as the <hi rend="italic">payyeṭanim</hi> obviously did not mind inexact rhymes as long as the ‘rhyming’ sounds were reasonably close; e.g. Kahle, 1927, Heb. p. 8, poem v, l. 4, &lt;b&gt; ‘rhymes</note>
+      <pb n="90"/>
+<head>Essays on the Ancient Semitic World</head>
+<p n="13">
+    Another example of the evident similarity of the Palestinian pronunciation of ‘<hi rend="italic">shewa</hi> vowels’ to that prescribed for bA in special situations occurs where bA has <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi>. The early grammarians state that, in this position, the ‘<hi rend="italic">shewa</hi> vowel’ has the quality of <hi rend="italic">hireq</hi>.<note n="134">See, e.g., Derenbourg, 1870, p. 370; Qimḥi, 1842, pp. 138b–139a; Skoss, 1955, p. 32; Nutt, 1870, p. 131; Ginsburg, 1897, p. 999, no. 42; Levy, 1936, p. 25* and p. 30.</note> The fact that the Palestinians wrote &lt;i&gt; in this position is one of the best-known characteristics of their system. The probability, if not the fact, that this &lt;i&gt; represents a ‘<hi rend="italic">shewa</hi> vowel’ may be established by comparing the forms in which it occurs<note n="135">The most common occurrences are where one of the prepositions <hi rend="italic">b-</hi>, <hi rend="italic">k-</hi>, or <hi rend="italic">l-</hi>, or the conjunction <hi rend="italic">w-</hi>, precedes a word beginning with <hi rend="italic">yod</hi>.</note> with forms in the same ms. involving consonants other than <hi rend="italic">yod</hi>. The vowel in question will be seen to be written with whatever sign is commonly in that ms. where bA uses <hi rend="italic">shewa</hi>. Some mss., however, do not consistently use &lt;i&gt; where bA would have <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi>.<note n="136">E.g., TS 16:96 and TS 12:195+. In general, mss. which do not use the ‘a’ signs as bA uses <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi> do not use &lt;i&gt; consistently where bA uses <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi>.</note> Some Palestinian mss. also occasionally write &lt;i&gt; where bA would have <hi rend="italic">shewa</hi> after <hi rend="italic">yod</hi>, a pointing which, as far as I know, finds no parallel in the descriptions of the early grammarians.<note n="137">Pal. usage never appears consistent, e.g. Bod. Heb. d55 f. 12v16, 25, 14r14, 14v25, but cf. 12v22, 30, 14r26, 14v12, 29, where &lt;i&gt; is not used. In a ms. as carefully pointed as this one appears to be, it seems reasonable to suppose that this would reflect a real difference in pronunciation. &lt;i&gt; also occasionally appears where in bA the <hi rend="italic">shewa</hi> would be quiescent, e.g. in TS H2:1 r14, after the first <hi rend="italic">nun</hi> in ‘<hi rend="italic">inyəniym</hi>.</note> These with ‘&lt;l&gt;, so &lt;m&gt; with &lt;n&gt; 9.11.11 etc. Examples are not uncommon in Yannai; e.g. Murtonen, 1958, ms. d, 2v22 (cf. p. 28 on ‘<hi rend="italic">ayin</hi>). There is really very little evidence for the loss of laryngeal consonants. The note in <hi rend="italic">Jer. Berakhoth</hi> 2:4 describes only the fact that the original four laryngeal phonemes have been reduced, in some areas, to two (presumably phonemic) sounds; <hi rend="italic">‘ayin/’alef</hi>, pronounced as the author of the note pronounced <hi rend="italic">’alef</hi>, and <hi rend="italic">he/ḥet</hi> pronounced as he pronounced <hi rend="italic">ḥet</hi>. This, as a decree concerning ceremonial reading of the Bible, is certainly the most important of the various statements on pronunciation. The stories in <hi rend="italic">Bab. ‘Erubin</hi> 53b contradict this view, but the confusion of sounds suggested there is so great that I take them as good, but not true, stories. There was a second type of change in the original system which apparently left three ‘phonemes’: <hi rend="italic">‘ayin</hi>, <hi rend="italic">ḥet</hi>, and <hi rend="italic">he/’alef</hi>. This is found in most of the Qumran scrolls, where <hi rend="italic">he</hi> appears to be completely quiescent in a few specific positions (e.g. in the <hi rend="italic">hif‘il</hi> infinitive after <hi rend="italic">lamed</hi>), and elsewhere interchanges a good deal with <hi rend="italic">’alef</hi>. Probably the sounds indicated by <hi rend="italic">he</hi> and <hi rend="italic">’alef</hi> were virtually identical, but there is no reason to suppose that they had no consonantal value in most positions. There is almost no evidence outside 1QIs<hi rend="superscript">a</hi> for the general confusion of the sounds represented by <hi rend="italic">he, ḥet, and ‘ayin</hi>. Presumably the author of the note in <hi rend="italic">Berakot</hi> used this ‘three laryngeal system.’ It also seems to have been used by the author of the ms. discussed here. Evidence of it can be seen in bA, but those who believe that the Masoretes ‘restored’ a lost laryngeal system by the use of <hi rend="italic">ḥatef</hi> vowels have yet to explain contrasts such as the vocalization of the preposition in <hi rend="italic">be’lohiym</hi> and <hi rend="italic">be’ĕmεt</hi>.
+</p>
+      <pb n="91"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 91</head>
+<p>small differences merely serve to underline the general similarity.</p>
+<p>14 It is also possible to demonstrate that Pal. must have used ‘<hi rend="italic">shewa</hi> vowels’ in at least some cases where bA has composite <hi rend="italic">shewa</hi> signs. Pal. normally uses ⟨aʾ⟩ (less commonly ⟨a⟩) where bA has <hi rend="italic">ḥaṭef pataḥ</hi>. In a number of cases, however, ⟨e⟩ or ⟨eʾ⟩ is used in this position. These signs undoubtedly indicate the use of a simple <hi rend="italic">shewa</hi> sound, rather than a specifically coloured one (see § 1.36). It would be possible to use a similar argument where ⟨aʾ⟩ or ⟨eʾ⟩ is used where bA has <hi rend="italic">ḥaṭef segol</hi>. In the overwhelming majority of cases, however, ⟨e⟩ is used in this position. Other signs are so rare that they can probably be taken as representing errors or variant forms. Where bA has <hi rend="italic">ḥaṭef qameṣ</hi> Pal. normally uses ⟨a⟩. This shows that the vowel sound used in these positions differed from that used where bA has <hi rend="italic">qameṣ ḥaṭuf</hi>, where Pal. normally uses ⟨o⟩. The difference was certainly one of quality, but very likely one of quantity as well (see § 1.32). ⟨o⟩ is used in a few cases where bA has <hi rend="italic">ḥaṭef qameṣ</hi>. Its use here probably indicates that the vowel in question was not of <hi rend="italic">shewa</hi> quantity.<note n="138">⟨aʾ⟩ is used where bA has <hi rend="italic">ḥaṭef qameṣ</hi> in mss. which use ⟨a⟩ and ⟨aʾ⟩ indiscriminately in most other situations as well. Its use here is presumably symptomatic of that confusion.</note></p>
+<p>15 The examples given in 4–14 above show that there must have been great similarity between the Palestinian use and pronunciation of ‘<hi rend="italic">shewa</hi> vowels’ and that described by the grammarians for such vowels as indicated by bA. The major difference is the fact that the Palestinian vocalizers, if they wished to indicate such vowels at all, had to indicate the exact quality to be used, whereas such complexity and detail in the indication of ‘<hi rend="italic">shewa</hi> vowels’ was never needed in bA because the <hi rend="italic">shewa</hi> sign was not tied to any vowel quality. It is not to be imagined, however, that it is claimed that the two pointing systems indicated identical pronunciation. In most mss. there are a few exceptions which disrupt the general pattern of the use of signs. Some examples are mentioned in notes 117, 123, 125, 127, 128, 129, 137. Some of these may well be due to differences between Palestinian pronunciation and that of bA.</p>
+<p>16 In addition to such irregularities, there are cases in which the Palestinian pointing commonly uses some unusual sign where bA has <hi rend="italic">shewa</hi>. An example is the fairly common use of ⟨a⟩ where bA</p>
+<note n="138">In <foreign xml:lang="heb">חֳלִי</foreign> TS K26:8, II Kings 8:8, and a few other nouns of the same form. Cf., e.g., bA <hi rend="italic">mešiy</hi>, <hi rend="italic">petiy</hi>, with forms such as <hi rend="italic">kəliy</hi>.</note>
+      <pb n="92"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>has <hi rend="italic">shewa</hi> in third person masculine pural and similar verb forms; particularly, it seems, from passive stems.<note n="139">A few examples are given in Murtonen, 1958, pp. 38, 42, 44. Other examples are also mostly from non-biblical mss., e.g. Ant. 369, 2r9, 22, 29, 29, 30, 30, 30 (18:12, 19:8, 15, 16), but biblical examples do occur: e.g. TS 12:197, Dan. 12:10.</note> Such cases occur over a wide range of mss., and must certainly indicate a difference between Palestinian pronunciation and that of bA, probably a difference dependent on different intonation patterns.</p>
+<p>17 Finally one can raise the question of the Palestinian use of a vowel sign where bA uses a <hi rend="italic">shewa</hi> which is commonly regarded as ‘silent.’ Murtonen is of course correct when he points out that, in a system which does not use a sign to indicate every vowel, there can be no question of the use of any vowel sign to indicate the absence of a vowel.<note n="140">Murtonen, 1958, p. 39. The ‘<hi rend="italic">rafe</hi> sign’ is used to indicate a quiescent consonant (i.e. the absence of a following vowel); see note 130.</note> Consequently there are cases in which the Palestinians pronounced a vowel where bA, to the best of our knowledge, did not. In one case at least, such pronunciation seems to be indicated, though inconsistently, in a number of mss., and so must probably be regarded as characteristic of at least a section of those who used the Palestinian pointing. The case is the <hi rend="italic">shewa</hi> before the <hi rend="italic">taw</hi> of the second person masculine singular pronominal element of the perfect verb form. In a number of cases, in a number of mss., a vowel sign (usually <hi rend="italic">‹a’›</hi>) is written before this <hi rend="italic">taw</hi>. This phenomenon does not appear to occur widely enough to be considered a characteristic of all Palestinian Hebrew, but, whatever the significance of the vowel sign, it would appear to indicate a definite difference from the pronunciation of bA.<note n="141">E.g., Bod. ms. Heb. d55 f. 4r11, 12, 13, 14, 15, 16, etc. It is difficult to evaluate such forms, as the placing of vowel signs is often careless. Contrasting forms appear in the same lines. This, like so many features of Palestinian pointing, also appears in non-bA Tiberian mss. Cf. one noted by Díez-Macho, 1963b, p. 249, Judg. 9:33 (TS NS 281:2). (See p. 241 on the use of <hi rend="italic">pataḥ</hi> where bA uses <hi rend="italic">shewa</hi>, and p. 239 for a different explanation of this form.)</note></p>
+<p>18 Murtonen’s attitude towards the existence of ‘<hi rend="italic">shewa</hi> vowels’ in Palestinian Hebrew as expressed in his <hi rend="italic">Materials for a Non-Masoretic Hebrew Grammar</hi>, vol. I,<note n="142">(1958) in his notes on the vowel signs, pp. 29ff. Especially: “It is naturally possible that they [Palestinian vowel signs] in some places actually represent a sound like Tib. <hi rend="italic">Ḥatef</hi> or <hi rend="italic">Shwa</hi>, but too exact rules in this respect are artificial” (p. 29).</note> and apparently retained in vol. III,<note n="143">1964, pp. 13–14.</note> seems to me to stress much too heavily the possible differences, rather than the probable similarities, between the Palestinian pronunciation and that of ben Asher. He does give a</p>
+      <pb n="93"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 93</head>
+<p>necessary caution against the making of exact rules,<note n="144">See note 142.</note> which must always be borne in mind. There were definitely differences between the Palestinian use of ‘shewa vowels’ and that of bA, but these do not appear to have been numerous.<note n="145">This is shown, among other things, by the fact that, all told, the number of vowel signs used in Palestinian mss. where bA has silent <hi rend="italic">shewa</hi> is extremely small. For instance, I would say that Heb. d55 f. 12v–14v has no more than 10 cases: ⟨aʼ⟩ 12v18, 13r8, 13v9, 14r12, 14v2, 6, 6, 9; ⟨e⟩ 13v2; <graphic url="symbol_horizontal_line.png"/> 13v5. Again possible examples are often difficult to evaluate, as the placing of signs is often careless. The full extent of such differences cannot, of course, be known until a complete morphology of Pal. is drawn up.</note> The information given here would seem to show that the use and – as far as can be determined – the pronunciation of ‘shewa vowels’ in Palestinian Hebrew was much the same as that described by the early grammarians as used in the Hebrew of bA.<note n="146">It could be argued that the testimony of the grammarians is derived from local pronunciation, or from the works of other scholars. Both objections may be valid to some extent, but it should be noted that the authorities quoted in notes 131 and 134 come from different areas, and all give similar, but not identical testimony.</note></p>
+
+<head>APPENDIX A</head>
+<head>MANUSCRIPTS REFERRED TO IN THIS STUDY</head>
+
+<p>This list includes all published Palestinian mss., and also unpublished Palestinian and other mss. mentioned in this study. Where several different fragments belong to the same text, they are listed under the first fragment of that text, or the first fragment to be published. The text as a whole is quoted by that number followed by a plus sign.<note n="147">The text listed as H.U.C. ms. 1001+ is made an exception, because the ‘Levias fragment’ is now lost.</note> All the mss. listed have Palestinian pointing unless otherwise noted.</p>
+<p>A complete listing of unpublished mss., together with a fuller description, appears in HTPV. Of the unpublished texts listed here, those containing poems by Yannai (with the exception of H.U.C. ms. 1001 and TS NS 249:7) have been briefly described in Zulay (1936). Those in the T-S New Series were discovered by Dr. Manfried Dietrich, who has very kindly allowed me to use all the materials he had gathered, for which I am very grateful. This study has benefitted greatly from the many discussions of the Palestinian pointing which I have had with him.</p>
+      <pb n="92"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>has <hi rend="italic">shewa</hi> in third person masculine pural and similar verb forms; particularly, it seems, from passive stems.<note n="139">A few examples are given in Murtonen, 1958, pp. 38, 42, 44. Other examples are also mostly from non-biblical mss., e.g. Ant. 369, 2r9, 22, 29, 29, 30, 30, 30 (18:12, 19:8, 15, 16), but biblical examples do occur: e.g. TS 12:197, Dan. 12:10.</note> Such cases occur over a wide range of mss., and must certainly indicate a difference between Palestinian pronunciation and that of bA, probably a difference dependent on different intonation patterns.</p>
+<p>17 Finally one can raise the question of the Palestinian use of a vowel sign where bA uses a <hi rend="italic">shewa</hi> which is commonly regarded as ‘silent.’ Murtonen is of course correct when he points out that, in a system which does not use a sign to indicate every vowel, there can be no question of the use of any vowel sign to indicate the absence of a vowel.<note n="140">Murtonen, 1958, p. 39. The ‘<hi rend="italic">rafe</hi> sign’ is used to indicate a quiescent consonant (i.e. the absence of a following vowel); see note 130.</note> Consequently there are cases in which the Palestinians pronounced a vowel where bA, to the best of our knowledge, did not. In one case at least, such pronunciation seems to be indicated, though inconsistently, in a number of mss., and so must probably be regarded as characteristic of at least a section of those who used the Palestinian pointing. The case is the <hi rend="italic">shewa</hi> before the <hi rend="italic">taw</hi> of the second person masculine singular pronominal element of the perfect verb form. In a number of cases, in a number of mss., a vowel sign (usually &lt;a'&gt;) is written before this <hi rend="italic">taw</hi>. This phenomenon does not appear to occur widely enough to be considered a characteristic of all Palestinian Hebrew, but, whatever the significance of the vowel sign, it would appear to indicate a definite difference from the pronunciation of bA.<note n="141">E.g., Bod. ms. Heb. d55 f. 4r11, 12, 13, 14, 15, 16, etc. It is difficult to evaluate such forms, as the placing of vowel signs is often careless. Contrasting forms appear in the same lines. This, like so many features of Palestinian pointing, also appears in non-bA Tiberian mss. Cf. one noted by Díez-Macho, 1963b, p. 249, Judg. 9:33 (TS NS 281:2). (See p. 241 on the use of <hi rend="italic">pataḥ</hi> where bA uses <hi rend="italic">shewa</hi>, and p. 239 for a different explanation of this form.)</note></p>
+<p>18 Murtonen’s attitude towards the existence of ‘<hi rend="italic">shewa</hi> vowels’ in Palestinian Hebrew as expressed in his <hi rend="italic">Materials for a Non-Masoretic Hebrew Grammar</hi>, vol. I,<note n="142">(1958) in his notes on the vowel signs, pp. 29ff. Especially: “It is naturally possible that they [Palestinian vowel signs] in some places actually represent a sound like Tib. <hi rend="italic">Ḥaṭef</hi> or <hi rend="italic">Shwa</hi>, but too exact rules in this respect are artificial” (p. 29).</note> and apparently retained in vol. III,<note n="143">1964, pp. 13-14.</note> seems to me to stress much too heavily the possible differences, rather than the probable similarities, between the Palestinian pronunciation and that of ben Asher. He does give a</p>
+      <pb n="93"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 93</head>
+<p>necessary caution against the making of exact rules,<note n="144">See note 142.</note> which must
+always be borne in mind. There were definitely differences between
+the Palestinian use of ‘<emph>shewa</emph> vowels’ and that of bA, but these do
+not appear to have been numerous.<note n="145">This is shown, among other things, by the fact that, all told, the number
+of vowel signs used in Palestinian mss. where bA has silent <emph>shewa</emph> is extremely
+small. For instance, I would say that Heb. d55 f. 12v-14v has no more than 10
+cases: &lt;a'&gt; 12v18, 13r8, 13v9, 14r12, 14v2, 6, 6, 9; &lt;e&gt; 13v2; <graphic url="symbol_shewa"/> 13v5. Again
+possible examples are often difficult to evaluate, as the placing of signs is often
+careless. The full extent of such differences cannot, of course, be known until a
+complete morphology of Pal. is drawn up.</note> The information given here
+would seem to show that the use and – as far as can be determined –
+the pronunciation of ‘<emph>shewa</emph> vowels’ in Palestinian Hebrew was
+much the same as that described by the early grammarians as used
+in the Hebrew of bA.<note n="146">It could be argued that the testimony of the grammarians is derived from
+local pronunciation, or from the works of other scholars. Both objections may be
+valid to some extent, but it should be noted that the authorities quoted in notes 131
+and 134 come from different areas, and all give similar, but not identical testimony.</note></p>
+
+<div type="appendix">
+<head>APPENDIX A</head>
+<head>MANUSCRIPTS REFERRED TO IN THIS STUDY</head>
+
+<p>This list includes all published Palestinian mss., and also unpublished
+Palestinian and other mss. mentioned in this study. Where several different
+fragments belong to the same text, they are listed under the first fragment
+of that text, or the first fragment to be published. The text as a whole is
+quoted by that number followed by a plus sign.<note n="147">The text listed as H.U.C. ms. 1001+ is made an exception, because the
+‘Levias fragment’ is now lost.</note> All the mss. listed have
+Palestinian pointing unless otherwise noted.
+    A complete listing of unpublished mss., together with a fuller descrip-
+tion, appears in HTPV. Of the unpublished texts listed here, those
+containing poems by Yannai (with the exception of H.U.C. ms. 1001 and
+TS NS 249:7) have been briefly described in Zulay (1936). Those in the
+T-S New Series were discovered by Dr. Manfried Dietrich, who has very
+kindly allowed me to use all the materials he had gathered, for which I am
+very grateful. This study has benefitted greatly from the many discussions
+of the Palestinian pointing which I have had with him.</p>
+</div>
+      <pb n="94"/>
+<head>Essays on the Ancient Semitic World</head>
+<p>(i) Mss. in the Taylor-Schechter collection of the University Library, Cambridge</p>
+<list>
+<item>TS 12:195 + 196 + TS NS 249:3 Kahle, 1930, MS L; Dietrich 1960, ms. Cb 8.</item>
+<item>TS 12:196 See TS 12:195.</item>
+<item>TS 12:197 Kahle, 1930, ms. K.</item>
+<item>TS 12:210 See TS NS 249:14.</item>
+<item>TS 16:93 Allony and Díez-Macho, 1959.</item>
+<item>TS 16:96 Kahle, 1930, ms. J.</item>
+<item>TS 20:53 + 54 + 58 + 52 Murtonen, 1958, ms. c (see also <hi rend="italic">ibid.</hi> 1964, pp. 16f.); Allony and Díez-Macho, 1958a, 1958b, 1959. The slight differences in pointing between the fragments are not considered sufficiently important to warrant treating them as separate mss.</item>
+<item>TS 20:59 + TS 2nd 1:125 Kahle, 1930, ms. H; Dietrich, 1960, ms. Cb 5.</item>
+<item>TS A43:1 See Bod. Heb. e30f. 48-9.</item>
+<item>TS B6:2 Díez-Macho, 1963a, pp. 36f. ‘Ben Naftali.’</item>
+<item>TS B17:25 Yeivin, 1963.</item>
+<item>TS D1:12 Weil, 1962.</item>
+<item>TS E1:95 Unpublished Mishna fragment: parts of <hi rend="italic">Nazir</hi> and <hi rend="italic">Soṭa</hi>. Thoroughgoing Tiberian pointing in a style which does not use <hi rend="italic">qameṣ</hi> or <hi rend="italic">segol</hi>, but is sufficiently sophisticated to use composite <hi rend="italic">shewa</hi> signs (<hi rend="italic">pataḥ</hi> r10, 17 etc., <hi rend="italic">ṣere</hi> r23, 23, etc.)</item>
+<item>TS E1:107 Allony, 1963.</item>
+<item>TS H2:1 Unpublished. Poems of Yannai. Thoroughgoing pointing. Recto and verso are vocalized differently.</item>
+<item>TS H2:2 See TS H16:3.</item>
+<item>TS H2:29 Unpublished. Poems by Yehuda Zebida. The vocalization is fairly thouroughgoing. The system (see note 11) is, as far as I know, unique.</item>
+<item>TS H2:30 Unpublished. Passover liturgy. On paper. Palestinian vocalization fairly thoroughgoing, complemented by Tiberian.</item>
+<item>TS H5:25 Edelmann, 1934, ms. D<hi rend="subscript">1</hi>.</item>
+<item>TS H5:222 Unpublished. Liturgy for Day of Atonement. Sparsely pointed.</item>
+<item>TS H6:51 See TS NS 117:7.</item>
+<item>TS H7:1 Unpublished. Qalir. Liturgy for Tabernacles. Sparsely pointed.</item>
+<item>TS H7:7 Unpublished. Poems of Yannai. Vocalization thoroughgoing.</item>
+<item>TS H16:1 + TS NS 249:1 Edelmann, 1934, ms F. The New Series fragment (unpublished) is small and badly preserved, but completes the height of the page.</item>
+<item>TS H16:2 See TS H16:3.</item>
+<item>TS H16:3 + TS H16:2 + Bod. Heb. d63 f. 82-9 + TS H2:2 + TS NS 249:12 Kahle, 1927. The last two fragments named are unpublished.</item>
+<item>TS H16:4 Murtonen, 1958, ms. e.</item>
+<item>TS H16:5 Edelmann, 1934, ms. G.</item>
+<item>TS H16:6 Edelmann, 1934, ms. A.</item>
+</list>
+      <pb n="95"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 95</head>
+
+<list>
+    <item>TS H16:7 Kober, 1929. (See Ant. 369.)</item>
+    <item>TS H16:8 Edelmann, 1934, ms. B.</item>
+    <item>TS H16:9 + Bod. Heb. d55 f. 4r–7v, 9r–12r Edelmann, 1934, ms. C; Murtonen, 1958, ms. a (1st part, see note 123).</item>
+    <item>TS H16:10 Edelmann, 1934, ms. D.</item>
+    <item>TS H16:12 + Bod. Heb. c20 f. 5–6 Parts of both fragments are published in Zulay, 1936, pp. 222–8.</item>
+    <item>TS K25:108 See Bod. Heb. e30 f. 48–9.</item>
+    <item>TS K26:1 Dietrich, 1960, ms. Cb 2.</item>
+    <item>TS K26:8 See Bod. Heb. d44 f. 1–4.</item>
+    <item>TS 13H2:10 Murtonen, 1958, ms. d.</item>
+    <item>TS 13H2:11 + TS 13H2:12 Unpublished. Poems of Yannai. Sparsely pointed.</item>
+    <item>TS 13H2:12 See TS 13H2:11.</item>
+</list>
+
+<p><hi rend="italic">TS 2nd Series</hi><note place="foot" n="148">The numbers in the TS second series under which Dr. Dietrich published these texts are now apparently obsolete, but I have not so far been able to trace the present numbers of these texts.</note></p>
+
+<list>
+    <item>TS 2nd 1:44 Dietrich, 1960, ms. Cb 4.</item>
+    <item>TS 2nd 1:125 See TS 20:59.</item>
+    <item>TS 2nd 1:130 Dietrich, 1960, ms. Cb 6.</item>
+    <item>TS 2nd 2:71 Dietrich, 1960, ms. Cb 7.</item>
+</list>
+
+<p><hi rend="italic">TS New Series</hi></p>
+
+<list>
+    <item>TS NS 42:1 Unpublished. Parts of Job sparsely pointed with Tiberian points in a system similar to that of Bod. Heb. c20 f. 25–8 and TS E1:95. This ms was discovered, and is, I believe, to be published by Professor Díez-Macho, who very kindly drew my attention to it.</item>
+    <item>TS NS 117:7 + TS H6:51 Unpublished. Liturgy for the Day of Atonement. Sparsely pointed.</item>
+    <item>TS NS 119:42 Unpublished. Liturgy for the ninth of Ab. Sparsely pointed.</item>
+    <item>TS NS 249:1 See TS H16:1.</item>
+    <item>TS NS 249:3 See TS 12:195.</item>
+    <item>TS NS 249:5 See Bod. Heb. e30 f. 48–9.</item>
+    <item>TS NS 249:6 Dietrich, 1960, ms. Cb 9.</item>
+    <item>TS NS 249:7 See H.U.C. ms. 1001.</item>
+    <item>TS NS 249:8<note n="149" place="foot">This is the number under which Dr. Dietrich published this text, but it has since been changed, and I have so far not been able to trace the present number.</note> + TS NS 281:2 Dietrich, 1960, ms. Cb 10; Díez-Macho, 1963b.</item>
+    <item>TS NS 249:9 See Bod. Heb. e30 f. 48–9.</item>
+    <item>TS NS 249:12 See TS H16:3.</item>
+    <item>TS NS 249:14 + TS 12:210 Unpublished. Qalir. Passover liturgy. Thoroughgoing pointing in a unique system.</item>
+    <item>TS NS 281:2 See TS NS 249:8.</item>
+</list>
+      <pb n="96"/>
+
+<head>Essays on the Ancient Semitic World</head>
+
+<p>(ii) <hi rend="italic">Mss. from the collection of the Bodleian Library, Oxford</hi></p>
+
+<list>
+<item>Bod. Heb. c20 f. 5–6 See TS H16:12.</item>
+<item>Bod. Heb. c20 f. 25–8 Described by Díez-Macho, 1963<hi rend="italic">a</hi>, as ms. 31 (see note 72). ‘Ben Naftali.’</item>
+<item>Bod. Heb. d29 f. 17–20 Dietrich, 1960, ms. Ob 1.</item>
+<item>Bod. Heb. d37 f. 38–9 See Bod. Heb. d44 f. 1–4.</item>
+<item>Bod. Heb. d41 f. 11–15 The pointing of f. 15v and 15r 1–15 is published in Bar, 1936.</item>
+<item>Bod. Heb. d44 f. 1–4 <formula>+</formula> Bod. Heb. d37 f. 38–9 <formula>+</formula> TS K26:8 Dietrich, 1960, ms. Ob2/Cb3.</item>
+<item>Bod. Heb. d55 f. 4r–7v, 9r–12r See TS H16:9.</item>
+<item>Bod. Heb. d55 f. 12v–14v Murtonen, 1958, ms. a, 2nd part (see note 123).</item>
+<item>Bod. Heb. d63 f. 82–9 See TS H16:3.</item>
+<item>Bod. Heb. d63 f. 98 The verso is published in Murtonen, 1958, as ms. b.</item>
+<item>Bod. Heb. e30 f. 48–9 <formula>+</formula> TS A43:1 <formula>+</formula> TS K25:108 <formula>+</formula> TS NS 249:5 <formula>+</formula> TS NS 249:9 Kahle, 1901, 1930, ms. M; Dietrich, 1960, ms. Cb 1.</item>
+</list>
+
+<p>(iii) <hi rend="italic">Mss. in the collection of the Library of the Jewish Theological Seminary of America, New York</hi></p>
+
+<list>
+<item>J.T.S. ms. 504 f. 2 Díez-Macho, 1954. The pointing of further leaves from the same ms. is described in Yeivin, 1963.</item>
+<item>J.T.S. ms. 594 box B, env. 12 Kahle, 1959, pp. 338–44.</item>
+</list>
+
+<p>(iv) <hi rend="italic">Mss. in the collection of the Hebrew Union College, Cincinnati</hi></p>
+
+<list>
+<item>H.U.C. ‘Levias’ See H.U.C. ms. 1001.</item>
+<item>H.U.C. ms. 1001 <formula>+</formula> H.U.C. ‘Levias’ <formula>+</formula> TS NS 249:7. The first-named fragment is partially published in Sonne, 1944. The pointing given there, which is transcribed into Tiberian signs, is inadequate. I have used for this study a transcription made jointly by Dr. Dietrich and myself from a photograph. The ‘Levias’ fragment is unfortunately now lost. It was published in Levias, 1899, and this edition was copied in Kahle, 1927. The TS New Series fragment is unpublished.</item>
+</list>
+
+<p>(v) <hi rend="italic">Mss. in the Antonin Collection of the Saltykov-Shchedrin State Public Library, Leningrad</hi></p>
+
+<list>
+<item>Ant. 222 Murtonen, 1958, ms. f.</item>
+<item>Ant. 369 Kober, 1929. Published as part of TS H16:7. I have listed them separately here on the ground of slight differences in the use of the ‘e’ signs.</item>
+<item>Ant. 912 Ormann, 1934.</item>
+<item>Ant. 959 Edelmann, 1934, ms. E.</item>
+</list>
+      <pb n="97"/>
+<head>Revell: The Palestinian Vocalization of Hebrew 97</head>
+<head>APPENDIX B</head>
+<head>THE USE OF ‘A’ AND ‘E’ SIGNS IN THE MSS. STUDIED IN § 1.8–12</head>
+<p>These statistics refer only to the use of &lt;a&gt; and &lt;a′&gt; corresponding to bA <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi>, and of &lt;e&gt; and &lt;e′&gt; corresponding to bA <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi>. The ten columns contain information as follows:</p>
+<list rend="numbered">
+    <item n="1">Total uses of &lt;a&gt; and &lt;a′&gt; corresponding to bA <hi rend="italic">qameṣ</hi> and <hi rend="italic">pataḥ</hi>.</item>
+    <item n="2">Percentage of those vowels represented by &lt;a&gt;.</item>
+    <item n="3">Percentage of those uses of &lt;a&gt; corresponding to bA <hi rend="italic">qameṣ</hi>.</item>
+    <item n="4">Percentage of total ‘a’ vowels represented by &lt;a′&gt;.</item>
+    <item n="5">Percentage of those uses of &lt;a′&gt; corresponding to bA <hi rend="italic">qameṣ</hi>.</item>
+    <item n="6">Total uses of &lt;e&gt; and &lt;e′&gt; corresponding to bA <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi>.</item>
+    <item n="7">Percentage of those vowels represented by &lt;e&gt;.</item>
+    <item n="8">Percentage of those uses of &lt;e&gt; corresponding to bA <hi rend="italic">ṣere</hi>.</item>
+    <item n="9">Percentage of total ‘e’ vowels represented by &lt;e′&gt;.</item>
+    <item n="10">Percentage of uses of &lt;e′&gt; corresponding to bA <hi rend="italic">ṣere</hi>.</item>
+</list>
+
+<table>
+    <row>
+        <cell></cell>
+        <cell>I</cell>
+        <cell>2</cell>
+        <cell>3</cell>
+        <cell>4</cell>
+        <cell>5</cell>
+        <cell>6</cell>
+        <cell>7</cell>
+        <cell>8</cell>
+        <cell>9</cell>
+        <cell>IO</cell>
+    </row>
+    <row>
+        <cell>TS 12:195+</cell>
+        <cell>404</cell>
+        <cell>76</cell>
+        <cell>71</cell>
+        <cell>24</cell>
+        <cell>21</cell>
+        <cell>211</cell>
+        <cell>75</cell>
+        <cell>51</cell>
+        <cell>25</cell>
+        <cell>40</cell>
+    </row>
+    <row>
+        <cell>TS 16:93</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>32</cell>
+        <cell>44</cell>
+        <cell>21</cell>
+        <cell>56</cell>
+        <cell>56</cell>
+    </row>
+    <row>
+        <cell>TS 16:96</cell>
+        <cell>263</cell>
+        <cell>86</cell>
+        <cell>61</cell>
+        <cell>14</cell>
+        <cell>34</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS 20:53+</cell>
+        <cell>334</cell>
+        <cell>22</cell>
+        <cell>90</cell>
+        <cell>78</cell>
+        <cell>56</cell>
+        <cell>141</cell>
+        <cell>58</cell>
+        <cell>49</cell>
+        <cell>42</cell>
+        <cell>53</cell>
+    </row>
+    <row>
+        <cell>TS 20:59+</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>102</cell>
+        <cell>30</cell>
+        <cell>42</cell>
+        <cell>70</cell>
+        <cell>75</cell>
+    </row>
+    <row>
+        <cell>TS E1:107</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>20</cell>
+        <cell>80</cell>
+        <cell>50</cell>
+        <cell>20</cell>
+        <cell>25</cell>
+    </row>
+    <row>
+        <cell>TS H5:222</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>19</cell>
+        <cell>53</cell>
+        <cell>20</cell>
+        <cell>47</cell>
+        <cell>78</cell>
+    </row>
+    <row>
+        <cell>TS H16:1+</cell>
+        <cell>194</cell>
+        <cell>54</cell>
+        <cell>81</cell>
+        <cell>46</cell>
+        <cell>42</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS H16:3+<hi rend="superscript">150</hi></cell>
+        <cell>366</cell>
+        <cell>67</cell>
+        <cell>75</cell>
+        <cell>33</cell>
+        <cell>42</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS H16:5</cell>
+        <cell>108</cell>
+        <cell>52</cell>
+        <cell>79</cell>
+        <cell>48</cell>
+        <cell>52</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS H16:6</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>108</cell>
+        <cell>21</cell>
+        <cell>39</cell>
+        <cell>79</cell>
+        <cell>59</cell>
+    </row>
+    <row>
+        <cell>TS H16:7</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>83</cell>
+        <cell>82</cell>
+        <cell>35</cell>
+        <cell>18</cell>
+        <cell>78</cell>
+    </row>
+    <row>
+        <cell>TS H16:8</cell>
+        <cell>340</cell>
+        <cell>61</cell>
+        <cell>65</cell>
+        <cell>39</cell>
+        <cell>44</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS H16:9+<hi rend="superscript">151</hi></cell>
+        <cell>628</cell>
+        <cell>67</cell>
+        <cell>75</cell>
+        <cell>33</cell>
+        <cell>46</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS K26:1</cell>
+        <cell>24</cell>
+        <cell>75</cell>
+        <cell>39</cell>
+        <cell>25</cell>
+        <cell>67</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS 2nd I:130</cell>
+        <cell>6</cell>
+        <cell>33</cell>
+        <cell>50</cell>
+        <cell>67</cell>
+        <cell>100</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>TS NS 119:42</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>11</cell>
+        <cell>82</cell>
+        <cell>67</cell>
+        <cell>18</cell>
+        <cell>50</cell>
+    </row>
+    <row>
+        <cell>TS NS 249:6</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>29</cell>
+        <cell>72</cell>
+        <cell>24</cell>
+        <cell>28</cell>
+        <cell>88</cell>
+    </row>
+    <row>
+        <cell>TS NS 249:8+</cell>
+        <cell>15</cell>
+        <cell>80</cell>
+        <cell>75</cell>
+        <cell>20</cell>
+        <cell>33</cell>
+        <cell>15</cell>
+        <cell>60</cell>
+        <cell>22</cell>
+        <cell>40</cell>
+        <cell>83</cell>
+    </row>
+    <row>
+        <cell>Bod. Heb. d29 f. 17–20</cell>
+        <cell>193</cell>
+        <cell>69</cell>
+        <cell>85</cell>
+        <cell>31</cell>
+        <cell>32</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>Bod. Heb. d41 f. 15<hi rend="superscript">152</hi></cell>
+        <cell>232</cell>
+        <cell>68</cell>
+        <cell>82</cell>
+        <cell>32</cell>
+        <cell>38</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>Bod. Heb. d55 f. 12v–14v<hi rend="superscript">153</hi></cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>133</cell>
+        <cell>95</cell>
+        <cell>40</cell>
+        <cell>5</cell>
+        <cell>100</cell>
+    </row>
+    <row>
+        <cell>Bod. Heb. d63 f. 98</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>55</cell>
+        <cell>65</cell>
+        <cell>36</cell>
+        <cell>35</cell>
+        <cell>89</cell>
+    </row>
+    <row>
+        <cell>J. T. S. ms. 594 box B, env. 12</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>44</cell>
+        <cell>68</cell>
+        <cell>20</cell>
+        <cell>32</cell>
+        <cell>82</cell>
+    </row>
+    <row>
+        <cell>Ant. 222</cell>
+        <cell>50</cell>
+        <cell>40</cell>
+        <cell>85</cell>
+        <cell>60</cell>
+        <cell>27</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>Ant. 369</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>95</cell>
+        <cell>60</cell>
+        <cell>37</cell>
+        <cell>40</cell>
+        <cell>67</cell>
+    </row>
+    <row>
+        <cell>Ant. 912</cell>
+        <cell>621</cell>
+        <cell>52</cell>
+        <cell>73</cell>
+        <cell>48</cell>
+        <cell>37</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+</table>
+
+<note n="150" place="bottom">These figures are from TS H16:3 taken as a sample.</note>
+<note n="151" place="bottom">These figures are from Bod. Heb. d55 f. 4–5 only.</note>
+<note n="152" place="bottom">These figures represent only the part of the text published by Bar (1936).</note>
+<note n="153" place="bottom">These figures are from fols. 12v–13 only.</note>
+      <pb n="98"/>
+<head>Essays on the Ancient Semitic World</head>
+<head>APPENDIX C</head>
+<head>THE OCCURRENCE OF THE COMMON DIVERGENT USES OF SIGNS</head>
+
+<p>The numbers along the top of the table indicate that the syllable in which the usage occurs is:</p>
+
+<list>
+    <item n="1">Stressed, closed, final.</item>
+    <item n="2">Stressed, open, final.</item>
+    <item n="3">Stressed, open, non-final.</item>
+    <item n="4">Unstressed, open.</item>
+    <item n="5">Unstressed, open or closed, vowel preceding a laryngeal.</item>
+    <item n="6">Unstressed, closed, vowel preceding a doubled consonant.</item>
+    <item n="7">Unstressed, closed.</item>
+    <item n="8">Unstressed, closed, final.</item>
+</list>
+
+<table>
+    <row>
+        <cell>Usage</cell>
+        <cell>1</cell>
+        <cell>2</cell>
+        <cell>3</cell>
+        <cell>4</cell>
+        <cell>5</cell>
+        <cell>6</cell>
+        <cell>7</cell>
+        <cell>8</cell>
+    </row>
+    <row>
+        <cell>⟨o⟩ = shureq</cell>
+        <cell>24</cell>
+        <cell>20</cell>
+        <cell>—</cell>
+        <cell>15</cell>
+        <cell>8</cell>
+        <cell>23</cell>
+        <cell>2</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨u⟩ = holem</cell>
+        <cell>14</cell>
+        <cell>17</cell>
+        <cell>1</cell>
+        <cell>25</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨a'⟩ = qameṣ<note n="154"/></cell>
+        <cell>55</cell>
+        <cell>30</cell>
+        <cell>1</cell>
+        <cell>38</cell>
+        <cell>8</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨e/e'⟩ = qameṣ<note n="155"/></cell>
+        <cell>4</cell>
+        <cell>7</cell>
+        <cell>4</cell>
+        <cell>29</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨a⟩ = pataḥ<note n="154"/></cell>
+        <cell>68</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>16</cell>
+        <cell>16</cell>
+        <cell>22</cell>
+        <cell>25</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨e⟩ = pataḥ</cell>
+        <cell>4</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>2</cell>
+        <cell>18</cell>
+        <cell>1</cell>
+        <cell>12</cell>
+        <cell>12</cell>
+    </row>
+    <row>
+        <cell>⟨e'⟩ = segol<note n="156"/></cell>
+        <cell>4</cell>
+        <cell>1</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>2</cell>
+        <cell>1</cell>
+        <cell>1</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell>⟨a'⟩ = segol</cell>
+        <cell>4</cell>
+        <cell>—</cell>
+        <cell>5</cell>
+        <cell>—</cell>
+        <cell>2</cell>
+        <cell>—</cell>
+        <cell>9</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>⟨i⟩ = segol</cell>
+        <cell>—</cell>
+        <cell>1</cell>
+        <cell>2</cell>
+        <cell>—</cell>
+        <cell>6</cell>
+        <cell>2</cell>
+        <cell>6</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell>⟨e⟩ = ṣeгe<note n="156"/></cell>
+        <cell>3</cell>
+        <cell>—</cell>
+        <cell>3</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨a'⟩ = ṣere</cell>
+        <cell>29</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>1</cell>
+    </row>
+    <row>
+        <cell>⟨a⟩ = ṣere</cell>
+        <cell>17</cell>
+        <cell>—</cell>
+        <cell>3</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨i⟩ = ṣere</cell>
+        <cell>8</cell>
+        <cell>5</cell>
+        <cell>1</cell>
+        <cell>15</cell>
+        <cell>3</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨e/e'⟩ = ḥireq<note n="157"/></cell>
+        <cell>17</cell>
+        <cell>10</cell>
+        <cell>2</cell>
+        <cell>14</cell>
+        <cell>27</cell>
+        <cell>25</cell>
+        <cell>25</cell>
+        <cell>—</cell>
+    </row>
+    <row>
+        <cell>⟨a'⟩ = ḥireq</cell>
+        <cell>1</cell>
+        <cell>—</cell>
+        <cell>—</cell>
+        <cell>2</cell>
+        <cell>—</cell>
+        <cell>2</cell>
+        <cell>9</cell>
+        <cell>—</cell>
+    </row>
+</table>
+
+<head>REFERENCES</head>
+
+<p>Allony, N. 1963. “A Fragment of Mishna with Palestinian Pointing,” in <hi rend="italic">Sefer haYobel leRabbi Hanok Yalon</hi>. Jerusalem.</p>
+<p>Allony, N. and Díez-Macho, A. 1958a. “Otros dos manuscritos ‘palestinenses,’ ” <hi rend="italic">Sefarad</hi> 18, pp. 254–71.</p>
+<p>— 1958b. “Dos manuscritos ‘palestinenses’ más de la Geniza del Cairo,” <hi rend="italic">Estudios Biblicos</hi> 17, pp. 83–100.</p>
+<p>— 1959. “A Fragment of Pesikta de Rav Kahana with Palestinian Vocalization,” <hi rend="italic">Leshonenu</hi> 23, pp. 57–71.</p>
+
+<note n="154">This information is taken only from mss. of classes 1, 2, 4, and 6.</note>
+<note n="155">⟨e'⟩ only in unstressed, open syllables, 11 cases.</note>
+<note n="156">This information is taken only from mss. of class 1.</note>
+<note n="157">Because of its peculiar use of ⟨i⟩ and ⟨e'⟩, Bod. Heb. d63 f. 98 was not used here. Also omitted are those special cases where ⟨e⟩ or ⟨e'⟩ is used where bA has <hi rend="italic">ḥireq</hi> in the ‘diphtong’ <hi rend="italic">-ayi-</hi> (TS 20:59, Ezek. 16:11; Bod. Heb. d41 f. 11–15, three times; Bod. Heb. d44 f. 1–4+, <hi rend="italic">passim</hi>).</note>
+      <pb n="99"/>
+<head>Revell: The Palestinian Vocalization of Hebrew</head>
+<list>
+<item>Bar, F. 1936. <hi rend="italic">Liturgische Dichtungen von Jannai und Samuel.</hi> Bonn.</item>
+<item>Bauer-Leander. 1922. <hi rend="italic">Historische Grammatik der hebräischen Sprache des alten Testaments.</hi> Halle.</item>
+<item>Ben David, A. 1958. Review of Murtonen, 1958, in <hi rend="italic">Kirjath Sepher</hi> 33, pp. 482–91.</item>
+<item>Ben Hayyim, Z. 1953. “R. Saadya Ga’on’s theory of Vowels,” <hi rend="italic">Leshonenu</hi> 18, pp. 89–96.</item>
+<item>— 1954<hi rend="italic">a</hi>. <hi rend="italic">Studies in the Traditions of the Hebrew Language.</hi> Madrid.</item>
+<item>— 1954<hi rend="italic">b</hi>. “The Samaritan Vowel System and Its Graphic Representation,” <hi rend="italic">Archiv Orientální</hi> 22, pp. 515–30.</item>
+<item>Bét-Aryé, M. 1965. “The Vocalization of the Worms Maḥzor,” <hi rend="italic">Leshonenu</hi> 29, pp. 27–39, 80-102.</item>
+<item>Brønno, E. 1943. <hi rend="italic">Studien über hebräische Morphologie und Vokalismus</hi> (Abhandlungen für die Kunde des Morgenlandes XXVIII). Leipzig.</item>
+<item>Derenbourg, M. J. 1870. “Manuel du lecteur,” <hi rend="italic">Journal asiatique</hi>, 6<hi rend="superscript">e</hi> série, 16.</item>
+<item>Dietrich, M. 1960. “Neue palästinisch punktierte Bibelfragmente.” Thesis, Tübingen.</item>
+<item>— 1968. <hi rend="italic">Neue palästinisch punktierte Bibelfragmente.</hi> Leiden.</item>
+<item>Díez-Macho, A. 1954. “Tres nuevos MSS ‘palestinenses,’ ” <hi rend="italic">Estudios Biblicos</hi> 13, pp. 247–65.</item>
+<item>— 1963<hi rend="italic">a</hi>. “A New List of So-called ‘Ben-Naftali’ Manuscripts,” in <hi rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver.</hi> Oxford.</item>
+<item>— 1963<hi rend="italic">b</hi>. “Un nuevo ms. ‘palestinense’ del libro de Jueces ...,” <hi rend="italic">Sefarad</hi> 23, pp. 236–51.</item>
+<item>Edelmann, R. 1934. <hi rend="italic">Zur Frühgeschichte des Maḥzor</hi> (Bonner orientalistische Studien, Heft 6). Stuttgart.</item>
+<item>Garbell, I. 1959. “The Phonemic Status of <hi rend="italic">Shewa</hi> etc.,” <hi rend="italic">Leshonenu</hi> 23, pp. 152–5.</item>
+<item>Gesenius-Kautzch. 1910. <hi rend="italic">Gesenius’ Hebrew Grammar</hi>, edited, etc. by E. Kautzch. Second English edition, Oxford.</item>
+<item>Ginsburg, C. D. 1897. <hi rend="italic">Introduction to the Massoretico-Critical Edition of the Hebrew Bible.</hi> London.</item>
+<item>Goshen-Gottstein, M. 1963. “The Rise of the Tiberian Bible Text,” in <hi rend="italic">Biblical and Other Studies</hi>, ed. A. Altmann. Cambridge, Mass.</item>
+<item>Kahle, P. 1901. “Beiträge zur Geschichte der hebräischen Punktation,” <hi rend="italic">ZAW</hi> 21, pp. 273–317.</item>
+<item>— 1913. <hi rend="italic">Masoreten des Ostens.</hi> Leipzig.</item>
+<item>— 1927. <hi rend="italic">Masoreten des Westens I.</hi> Stuttgart.</item>
+<item>— 1930. <hi rend="italic">Masoreten des Westens II.</hi> Stuttgart.</item>
+<item>— 1959. <hi rend="italic">The Cairo Geniza.</hi> Oxford.</item>
+<item>Kober, M. 1929. <hi rend="italic">Zum Machzor Jannai.</hi> Frankfurt a. M.</item>
+<item>Levias, C. 1899. “The Palestinian Vocalization,” <hi rend="italic">AJSL</hi> 15, pp. 157–64.</item>
+<item>Levy, K. 1936. <hi rend="italic">Zur masoretischen Grammatik</hi> (Bonner orientalistische Studien, Heft 15). Stuttgart.</item>
+<item>McIntosh, A. 1956. “The Analysis of Written Middle English,” <hi rend="italic">Transactions of the Philological Society</hi> 1956, pp. 26–55.</item>
+</list>
+      <pb n="100"/>
+<head>Essays on the Ancient Semitic World</head>
+
+<list>
+<item>Morag, S. 1959. “The Vocalization of the Codex Reuchlinianus,” <hi rend="italic">JSS</hi> 4, pp. 216–37.</item>
+<item>— 1962. <hi rend="italic">The Vocalization Systems of Arabic, Hebrew, and Aramaic.</hi> ’s-Gravenhage.</item>
+<item>— 1963. <hi rend="italic">The Hebrew Language Tradition of the Yemenite Jews.</hi> Jerusalem.</item>
+<item>— 1965. “Remarks on the Description of the Vocalization of the Worms Maḥzor,” <hi rend="italic">Leshonenu</hi> 29, pp. 203–9.</item>
+<item>Murtonen, A. 1958. <hi rend="italic">Materials for a Non-Masoretic Hebrew Grammar</hi>, vol. I. Helsinki.</item>
+<item>— 1964. <hi rend="italic">Materials for a Non-Masoretic Hebrew Grammar</hi>, vol. III (Studia Orientalia ed. Soc. Or. Fennica XXIX). Helsinki.</item>
+<item>Nutt, J. W. 1870. <hi rend="italic">Two Treatises on Verbs etc. by R. Jehuda Hayug of Fez</hi> ... London.</item>
+<item>Ormann, G. 1934. <hi rend="italic">Das Sündenbekenntnis des Versöhnungstages.</hi> Frankfurt a. M.</item>
+<item>Porath, E. 1938. <hi rend="italic">Mishnaic Hebrew as Vocalized in the Early Manuscripts of the Babylonian Jews.</hi> Jerusalem.</item>
+<item>Qimḥi, D. 1842. <hi rend="italic">Miklol</hi>, ed. Rittenberg. Lyk.</item>
+<item>Schramm, G. 1964. <hi rend="italic">The Graphemes of Tiberian Hebrew.</hi> Berkeley.</item>
+<item>Segal, M. H. 1927. <hi rend="italic">A Grammar of Mishnaic Hebrew.</hi> Oxford.</item>
+<item>Skoss, S. L. 1952. “A Study of Hebrew Vowels from Saadia Gaʾon’s Grammatical Work ‘Kutub al-Lughah,’” <hi rend="italic">JQR</hi> 42, pp. 283–317.</item>
+<item>— 1955. <hi rend="italic">Saadya Gaʾon.</hi> Philadelphia.</item>
+<item>Sonne, I. 1944. “An Unknown Keroba of Yannai,” <hi rend="italic">HUCA</hi> 18, pp. 199–220.</item>
+<item>Spanier, A. 1929. “Über Reste der palästinische Vokalization in Gebetsbüchern,” <hi rend="italic">Monatsschrift für Geschichte und Wissenschaft Judentums</hi> 73, pp. 472–5.</item>
+<item>Sperber, A. 1938. “Hebrew Based upon Greek and Latin Transliterations,” <hi rend="italic">HUCA</hi> 12–13, pp. 103–274.</item>
+<item>— 1959. <hi rend="italic">A Grammar of Masoretic Hebrew.</hi> Copenhagen.</item>
+<item>Talmon, S. 1964. “Aspects of the Textual Transmission of the Bible in the Light of Qumran Manuscripts,” <hi rend="italic">Textus</hi> IV, pp. 95–132.</item>
+<item>Weil, G. 1962. “Un fragment de <hi rend="italic">Okhlah palestinienne</hi>,” <hi rend="italic">Annual of the Leeds University Oriental Society</hi> III, pp. 68–80.</item>
+<item>Weinreich, M. 1964. “The Origin of the Ashkenazic Pronunciation with Reference to Related Problems of Yiddish and Ashkenazic Hebrew,” <hi rend="italic">Leshonenu</hi> 27–8, pp. 131–47, 230–51, 318–39.</item>
+<item>Yalon, H. 1964. <hi rend="italic">Introduction to the Pointing of the Mishna.</hi> Jerusalem.</item>
+<item>Yeivin, I. 1963. “A Palestinian Fragment of Haftaroth and Other MSS with Mixed Pointing,” <hi rend="italic">Textus</hi> 3, pp. 121–7.</item>
+<item>Zulay, M. 1936. “Studies in Yannai,” <hi rend="italic">Studies of the Research Institute for Hebrew Poetry</hi> II, pp. 213–391.</item>
+<item>Zunz, L. 1920. <hi rend="italic">Die synagogale Poesie des Mittelalters</hi>, 2nd ed. Frankfurt a. M.</item>
+</list>
+      <pb facs="image" />
+<div type="page_content">
+    <p rend="empty_page">
+        <!-- This page appears to be a solid black scan or a blank dividing page with no legible text content. -->
+    </p>
+</div>
+    </body>
+  </text>
+</TEI>

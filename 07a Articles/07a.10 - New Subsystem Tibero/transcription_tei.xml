@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>A New subsystem of Tibero-Palestinian Vocalization</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>World Union of Jewish Studies</publisher>
+      <date when="1973">1973</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">A New subsystem of Tibero-Palestinian Vocalization</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">Proceedings of the 5th World Congress of Jewish Studies</title>
+          <imprint>
+            <date>1973</date>
+            <biblScope unit="volume">iv</biblScope>
+            <biblScope unit="page">91-107</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <projectDesc>
+      <p>Encoded for scholarly use.</p>
+    </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="en">English</language>
+    </langUsage>
+  </profileDesc>
+  <revisionDesc>
+    <change when="2023-10-27">Initial TEI header creation based on citation.</change>
+  </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p>
+    <!-- This page appears to be a blank or flyleaf page with minimal markings. 
+         There is a small handwritten notation or stamp in the top left corner 
+         and incidental foxing/staining at the top. -->
+</p>
+      <pb n="91"/>
+
+<note place="top" type="handwritten">Proceedings of the Vth. World Congress of Jewish Studies (1969) vol. IV. (1973) p. 91-107.</note>
+
+<head>A NEW SUBSYSTEM OF "TIBERO-PALESTINIAN" POINTING</head>
+
+<docAuthor>ELIZABETH J. REVELL</docAuthor>
+
+<docImprint>Toronto</docImprint>
+
+<p>1. The pointing described here is found in eight Biblical and one Massoretic fragement in the Taylor-Schechter Collection in the University Library, Cambridge: TS B6:20, TS Misc. 1:85, TS Misc. 2:25, TS Misc 22:304, TS NS 53:1, TS NS 61:1, TS NS 72:2, TS NS 280:2, TS NS 287:38.<note n="1">I am most grateful to the Library Syndicate of the Cambridge University Library for permission to use these MSS.</note> These fragements are all in poor condition, with the original pointing in most cases badly faded, and sometimes partially obliterated by subsequent retracing or repointing of the text.<note n="2">See the descriptions at the end of this article. The information given here is based on a study of the original MSS. Due to their poor condition, the pointing often does not show up well in photographs.</note> Due to their poor condition, it is difficult to be certain about many individual signs in these fragments. Nevertheless it is clear that they all use the same signs in the same way.<note n="3">In Misc. 1:85 and Misc. 2:25, vocalization appears to be virtually complete. This is probably not true of all texts, but, due to their condition, it is difficult to judge the extent to which pointing is deficient.</note> The signs are Tiberian, although most of the MSS occasionally use the Palestinian "O" sign. <emph rend="italic">Qameṣ</emph>, <emph rend="italic">seghol</emph>, and <emph rend="italic">ḥaṭef shewa</emph> signs are not used. <emph rend="italic">Shureq</emph>, <emph rend="italic">qibbuṣ</emph>, and <emph rend="italic">ḥireq</emph>, are used as they are in Biblia Hebraica ed. 3 (=BH³), while the remaining signs are used somewhat differently. <emph rend="italic">Ḥolem</emph> is used as in BH³, and also where bA has <emph rend="italic">qameṣ ḥaṭuf</emph> in the word <emph rend="italic">kl</emph> ("all").<note n="4">Examples occur in Misc. 1:85 and Misc. 2:25 (Nah. 2:11, 3:12, Hab. 2:5) only.</note> The Palestinian "o" sign (three dots) is occasionally used, apparently as a free variant of <emph rend="italic">ḥolem</emph>, in B6:20, Misc. 1:85, Misc. 2:25, NS 61:1, NS 287:38. <emph rend="italic">Pataḥ</emph> is used where BH³ has either <emph rend="italic">qameṣ</emph> (including <emph rend="italic">qameṣ ḥaṭuf</emph> except in <emph rend="italic">kl</emph>) or <emph rend="italic">pataḥ</emph> (but never as <emph rend="italic">pataḥ</emph> "furtive"). <emph rend="italic">Ṣere</emph> is used where BH³ has either <emph rend="italic">seghol</emph> or <emph rend="italic">Ṣere</emph>. <emph rend="italic">Shewa</emph> is used where BH³ has simple <emph rend="italic">shewa</emph> ("vocal" or "silent") or any composite <emph rend="italic">shewa</emph>. The vowel signs are used in this way with almost complete consistency. The few</p>
+
+<fw type="pagenum">91</fw>
+      <pb n="92"/>
+<head>ELIZABETH REVELL</head>
+
+<p>apparent exceptions can, for the most part, be treated as variants, or ignored as uncertain due to the bad condition of the fragments.<note n="5" place="foot">The text of Misc. 2:25 is printed below as an example of the pointing.</note></p>
+
+<p>2. The use of the diacritical signs, as of the vowel signs, is partly consistent with, and partly different from, the BH³ system. <hi rend="italic">Ṣin</hi> and <hi rend="italic">shin</hi> are marked as in BH³ (but sporadically only) except in B6:20, where the dot marking <hi rend="italic">shin</hi> is placed between the right hand and the middle arm of the letter. <hi rend="italic">Dagesh “forte”</hi> and <hi rend="italic">“lene”</hi> are used as in BH³, but also occur sporadically.<note n="6" place="foot"><hi rend="italic">Rafe</hi> is used on <hi rend="italic">b, q, d, k, p, t,</hi> as in BH³, but sporadically, in all MSS but Misc. 1:85. In addition, in four MSS it is used on <hi rend="italic">l, m,</hi> and <hi rend="italic">n</hi> following a vowel.<note n="7" place="foot">In two of these also, word initial <hi rend="italic">l</hi> is marked with <hi rend="italic">rafe</hi> after word final <hi rend="italic">l.</hi> Word final <hi rend="italic">ḥet</hi> or <hi rend="italic">&lt;ayin</hi> is occasionally marked with <hi rend="italic">shewa.</hi><note n="8" place="foot">A subscript dot is used where BH³ has <hi rend="italic">mappiq</hi> in Misc. 2:25 (Nah. 2:6, Hab. 1:10). A similar dot is used in three MSS to mark consonantal <hi rend="italic">yod</hi> in final or (apparently) even intervocalic position.<note n="9" place="foot">Word final consonantal <hi rend="italic">waw</hi> appears to be marked by a single dot (as in <hi rend="italic">shureq</hi>) in B6:20.</note></note></note></note></p>
+
+<p>3. The forms of the accent signs are given in Table I. As is shown there, all MSS use the same set of disjunctive accent signs (with minor graphic variations).<note n="10" place="foot">Signs for conjunctive accents are used in only two of the MSS. Their use is sporadic, and different conjunctive accents are not distinguished. The accent system depicted appears to be much the same as that of the Palestinian texts — basically the BH³ system in simplified</note></p>
+
+<note n="5" place="bottom">5. A few cases of unexpected uses of vowel signs may be grammatically significant. E.g. <hi rend="italic">pataḥ</hi> twice replaces <hi rend="italic">segol</hi> in the prefix of 1s imperfect verb forms. <hi rend="italic">Ṣere</hi> twice replaces <hi rend="italic">qameṣ</hi> in the first syllable of a “segolate” noun form. Palestinian parallels to both could be adduced. In Misc. 1:85, Misc. 2:25 (Nah. 2:11), and NS 287:38, a <hi rend="italic">shewa</hi> sign is used under quiescent <hi rend="italic">&gt;alef</hi>. Each of these MSS shows one case of quiescent <hi rend="italic">&gt;alef</hi> marked with <hi rend="italic">rafe</hi>, and all show many cases where it is unmarked. In Misc. 2:25, the same <hi rend="italic">&gt;alef</hi> is marked with <hi rend="italic">rafe</hi> and <hi rend="italic">shewa</hi>, and a <hi rend="italic">circellus</hi> suggesting distinct readings. Consequently the use of <hi rend="italic">shewa</hi> might indicate that the <hi rend="italic">&gt;alef</hi> is not quiescent, in which case Palestinian parallels could again be produced.</note>
+<note n="6" place="bottom">6. <hi rend="italic">Dagesh</hi> may occasionally mark <hi rend="italic">yod</hi> (NS 53:1) or <hi rend="italic">&gt;alef</hi> (B6:20, NS 287:38) as consonantal, but this is uncertain.</note>
+<note n="7" place="bottom">7. E.g. Misc. 2:25, Nah. 1:6, 2:4, 11. Also B6:20, NS 53:1, NS 61:1.</note>
+<note n="8" place="bottom">8. In Misc. 1:85 and Misc. 2:25 (Hab. 2:3) where BH³ has <hi rend="italic">pataḥ</hi> “furtive”. Also in B6:20 after <hi rend="italic">pataḥ</hi> (Ex. 17:5, 5).</note>
+<note n="9" place="bottom">9. E.g. Misc. 2:25, Nah. 2:12, 3:1, 9, 14, Hab. 1:12. Also Misc. 1:85, NS 61:1.</note>
+<note n="10" place="bottom">10. In Misc. 22:304, Palestinian sign forms appear to be used for <hi rend="italic">rebia</hi> and <hi rend="italic">tebir</hi> (once) and <hi rend="italic">qeresh</hi> (twice). Since they are so rare, they may not be typical of the system.</note>
+      <pb n="93"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+<p>form.<hi rend="superscript">11</hi> As for the signs themselves, some occur in Palestinian or Tiberian texts, and some are foreign to both: The Tiberian sign forms are used for <hi rend="italic">atnaḥ</hi>, <hi rend="italic">zarqa</hi>, and (in one MS) <hi rend="italic">pazer</hi>. The same forms are used in some Palestinian MSS. <hi rend="italic">Segolta</hi> is marked with the Tiberian <hi rend="italic">atnaḥ</hi> sign, as in some Palestinian and early Tiberian MSS.<hi rend="superscript">12</hi> Simpler variations of the Tiberian forms are used for <hi rend="italic">tebir</hi> (without the dot) and <hi rend="italic">Legarmeh</hi> (without the <hi rend="italic">munah</hi>, the normal form for <hi rend="italic">Legarmeh</hi> in Palestinian texts.<hi rend="superscript">13</hi> The sign for <hi rend="italic">pashṭa</hi> (two dots above the word) is used in all Palestinian MSS, and that for <hi rend="italic">telisha gedola</hi> (a semicircle above the word) is used in some of them. The remaining disjunctive signs are unique in these fragments. The <hi rend="italic">zaqef</hi> sign, a prepositive diagonal stroke, is used for <hi rend="italic">qeresh</hi> in some Palestinian MSS. The <hi rend="italic">rebia</hi> sign, a vertical stroke, is used for <hi rend="italic">zaqef</hi> in some Palestinian MSS, and (as it is often slanted one way or the other) can resemble Tiberian <hi rend="italic">geresh</hi> or <hi rend="italic">azla</hi>. The Tiberian <hi rend="italic">atnaḥ</hi> sign is used for <hi rend="italic">Tifḥa</hi> as well as for <hi rend="italic">atnaḥ</hi>. The same sign is commonly used for both accents in Palestinian MSS, but not in those in which the Tiberian sign form is used. <hi rend="italic">Geresh</hi> is marked with two diagonal strokes — the Tiberian <hi rend="italic">gershayim</hi> sign. The signs for these four accents, then, are not only not found in Palestinian or Tiberian MSS, but are in direct conflict with the usage of one tradition or the other.<hi rend="superscript">14</hi> Conjunctive accents are marked in</p>
+
+<note n="11">11. The only real difference is the failure to distinguish <hi rend="italic">segolta</hi>, <hi rend="italic">zaqef gadol</hi>, <hi rend="italic">yetib</hi>, and <hi rend="italic">gershayim</hi>. <hi rend="italic">Zaqef gadol</hi> is, in fact, distinguished in Misc. 2:25 (Nah. 2:10, Hab. 1:13), but the two dots may be secondary. There are one or two variants from BH<hi rend="superscript">3</hi> accentuation (<hi rend="italic">e.g.</hi> Misc. 2:25, Hab. 1:8, for which reason <hi rend="italic">zaqef gadol</hi> is not marked there).</note>
+<note n="12">12. E.g. the secondary pointing of NS 72:2 (see Appendix), and TS 28:16. In NS 287:38, the <hi rend="italic">zaqef</hi> sign appears to be used, as is possibly the case in some Palestinian MSS. The <hi rend="italic">atnaḥ</hi> sign is also occasionally used in our fragments where BH<hi rend="superscript">3</hi> has <hi rend="italic">silluq</hi> (Misc. 1:85, Neh. 12:33, NS 287:38, r18, >kzybh Josh. 19:29 and possible examples in other fragments). <hi rend="italic">Silluq</hi> is only marked sporadically in Palestinian texts, where the same sign is used as for <hi rend="italic">atnaḥ</hi>, but not where the Tiberian <hi rend="italic">atnaḥ</hi> sign is used.</note>
+<note n="13">13. The full Tiberian form of <hi rend="italic">tebir</hi> is used in NS 287:38, of <hi rend="italic">legarmeh</hi> in Misc. 1:85.</note>
+<note n="14">14. So also the non-BH<hi rend="superscript">3</hi> signs for <hi rend="italic">pazer</hi> (Misc. 1:85, NS 72:2), but these are not consistent, and so not considered here. The sign for <hi rend="italic">qeresh</hi> is somewhat similar to that used in TS B17:25 (YEIVIN, <hi rend="italic">Textus</hi> III, 1963, p. 121–124), but the two strokes are horizontal and prepositive. In the first part of his article “Prosodic accents to Rabbinic Literature” (<hi rend="italic">Leshonenu</hi> 24, 1959–60), YEIVIN lists a number os MSS in which the same sign as is used in our fragments for <hi rend="italic">zaqef</hi> is used to indicate a major stop within a paragraph, and so is comparable to <hi rend="italic">zaqef</hi>. Of these, YEIVIN’s No. 4–No. 9 (p. 59–65), (to which TS Misc. 26:59 can be added) use the same system of vowel points as is found in the MSS described here. They also use the “Palestinian <hi rend="italic">pashṭa</hi>” sign to mark</note>
+      <pb n="94"/>
+<head>ELIZABETH REVELL</head>
+<p>Misc. 1:85 with a postpositive dot (common in Palestinian MSS), and in NS 287:38 with a postpositive <emph rend="italic">munah</emph> sign (used — with different values — in both Palestinian and Tiberian MSS, but the postpositive position is unique here).<note n="15"/></p>
+<list>
+    <item>4. These fragments show a considerable number of variants from the text of BH³, but these do not appear to be significant. The vast majority are variations in vowel letters, vowel patterns, or the use of prepositions, conjunctive <emph rend="italic">waw</emph>, or other minor features. They do not suggest a tradition distinct from that of BH³, but a form of the same tradition carelessly maintained or imperfectly controlled.<note n="16"/> A more significant type of varia-</item>
+</list>
+<p>the pause before the <emph rend="italic">"zaqef"</emph> sign, and a sign like <emph rend="italic">munah</emph>, but also quite similar in shape to the sign used in the MSS described here for <emph rend="italic">atnah</emph> and <emph rend="italic">tifha</emph>, to mark the last pause before the end of a paragraph. There can be no doubt, I think, that these Rabbinic MSS derive from the same "school of pointing" as the Biblical texts described here. They cannot, therefore, throw any light on the origins of the diagonal stroke as a sign for <emph rend="italic">zaqef</emph>. In <hi rend="smallcaps">Yeivin</hi>'s MS No. 2 (TS E1:107 and E2:76, which have Palestinian vowel signs) this <emph rend="italic">"zaqef"</emph> sign is used with the same value as in No. 4-No. 9, but the other accent signs are different. It is noteworthy that the "Palestinian <emph rend="italic">pashta</emph>" sign is not used in these two <emph rend="italic">mishnaic</emph> texts, although it is used in all Palestinian Biblical texts. This emphasizes the fact that the system of accentuation used in these Rabbinic texts is quite different from that of Biblical texts, so it is probably wrong to equate the musical or interpunctional value of signs used in both types of text. <emph rend="italic">Cf.</emph> the use of different words (<emph rend="italic">ne&lt;imah</emph> and <emph rend="italic">zimrah</emph>) to describe the chanting of the two types of text in Megilla 32a. The prepositive diagonal stroke is used in some of the other texts described by <hi rend="smallcaps">Yeivin</hi>, but with a value different from that described above.</p>
+<list>
+    <item>15. TS NS 287:38 frequently uses a <emph rend="italic">maqqef</emph> sign on the same word as the <emph rend="italic">munah</emph> sign, but apparently only when the word is not contextualized in a quotation, so I assume it is not a normal part of the system. This MS also contains a few examples of accentuation from the "Poetical" books, showing the same mixed relations as those discussed above. The sign for <emph rend="italic">sinnor</emph> is Tiberian, that for <emph rend="italic">rebia mugrash</hi> Palestinian. The Tiberian, that for <emph rend="italic">rebia mugrash</emph> Palestinian. The Tiberian <emph rend="italic">tebir</emph> sign is used for <emph rend="italic">dehi</emph> as in the so-called "ben Naftali" texts (see <hi rend="smallcaps">Díez-Macho</hi> in <emph rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver</emph>, Oxford, 1963, p. 23). (Palestinian texts also use their <emph rend="italic">tebir</emph> sign where BH³ has <emph rend="italic">dehi</emph>.) The signs used for <emph rend="italic">rebia</emph>, <emph rend="italic">azla legarmeh</emph>, and <emph rend="italic">mehuppak legarmeh</emph> are, as far as I know, without parallel in those uses.</item>
+    <item>16. This is apparent from the fact that the original variants have often been corrected by the pointing hand. Given the pointing system used, this cannot be "harmonization" with bA against the tradition from which the texts derive. This lack of control shows even in the massoretic list of NS 287:38 v11, where, above the entry listing two occurrences of <emph rend="italic">whqrwb</emph>, is a note, again apparently by the pointing hand, that one is spelled defectively (Est. 1:14). The most interesting of the variants is the writing of "Nebuchadnezzar" as two words in Misc. 22:304 (Ezra 1:7, 2:1), and also "Sheshbazzar" (Ezra 1:8), but this is accented (with the prepositive <emph rend="italic">zaqef</emph> sign on the first <emph rend="italic">shin</emph>) as one word.</item>
+</list>
+      <pb n="95"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+<p>tion, perhaps, is the fact that in all ten cases where BH³ has <hi rend="italic">qere-ketib</hi> readings, these fragments give only the <hi rend="italic">qere</hi>.<note n="17" place="bottom">Even in the massoretic list, where <hi rend="italic">hsdyw</hi> is written for the <hi rend="italic">hsdw</hi> of Lam. 3:32 (NS 287:38, v8). This feature, and others, such as the absence of the massoretic notes (the two notes in Misc. 2:25, unique in these fragments, hardly come into this category) suggests texts prepared for a purpose to which the consonantal form of the text was not important, as with the “study codices” or “listener’s codices” of GOSHEN-GOTTSTEIN (see <hi rend="italic">Textus</hi> II, 1962, p. 38ff). The existence of a massoretic list showing the characteristics of these texts is, therefore, doubly surprising. <hi rend="italic">Qere-ketib</hi> variants are noted in most Palestinian texts, although not always in harmony with BH³.</note></p>
+<list>
+    <item>5. The relationship of this pointing to other systems is thus an interesting question. It seems, at first glance, that the Palestinian tradition is the origin of most of the features of the pointing of these MSS which are divergent from BH³. The extra “o” sign is a typically Palestinian form. The use of an “o” sign where BH³ has <hi rend="italic">qameṣ ḥaṭuf</hi> is common in Palestinian MSS, although the restriction of this usage to <hi rend="italic">kl</hi> has no parallel there. Many Palestinian MSS use only one “a” and one “e” sign, although no Biblical texts of this sort are yet known. In addition, many of the accent signs are forms found in Palestinian texts, while the form of <hi rend="italic">pashṭa</hi> is characteristic of them. It is certain, then, that this pointing system has very strong connections with the Palestinian.</item>
+    <item>6. Having reached this conclusion, we must consider the light thrown by these fragments on the transition from the use of Palestinian pointing to the use of Tiberian, for it is obvious that such a transition did take place. Some scholars appear to envisage a unilinear development from a simpler system (five vowel signs, no conjunctive accents) to a more complex one (seven vowel signs, conjunctive accents), with the birth of the Ben Asher system (seven vowel signs, <hi rend="italic">shewa</hi>, and conjunctives) as the final result of the development. I began by thinking this development unlikely. I now think there is ample proof that the transition could not possibly have occurred in this way.</item>
+    <item>7. If a single process of transition did take place, these fragments, with their mixture of Palestinian and Tiberian characteristics, must represent a stage in it. Yet their five vowel quality signs form a system more remote from BH³ than is found in any Palestinian Biblical MS, while their use of a <hi rend="italic">shewa</hi> sign places them closer to BH³ than any Palestinian text now known. Again the accent signs are clearly based on the Palestinian system, and are equally clearly in the process of change to the Tiberian, which would place them at the end of the Palestinian development if a unilinear process is supposed. The accent system, however, is generally</item>
+</list>
+      <pb n="96"/>
+<head>ELIZABETH REVELL</head>
+<p>less complex than that of the Palestinian tradition, where half the texts use conjunctive signs, and, of those, nearly all mark more than one conjunctive accent.<note n="18">It should also be noted that, as described in note 14, Rabbinic texts pointed as are the Biblical texts discussed here use a single sign to mark the cadence at the end of a Mishna division. The Rabbinic texts with Palestinian pointing (TS E1:107 and E2:76) use a more complex method of marking this cadence, involving a greater number of signs.</note> With both vowel and accent signs, then, we have evidence which would place these texts at both ends of a unilinear development. Consequently a unilinear process of transition cannot be envisaged.</p>
+<p>8. My own view is that both simpler and more complex types of Palestinian pointing were in use at the same time, and that the Tiberian system was also in contemporaneous use for a considerable period. I have urged this view elsewhere.<note n="19">In my <title>Hebrew Texts with Palestinian Vocalization</title> (forthcoming from the University of Toronto Press) chapter V sections 12–16.</note> Here it need only be pointed out that the evidence for the use of the more complex types of Palestinian pointing at a relatively late period is the Tiberian influence visible in them.<note n="20">e.g. the use of Tiberian sign forms for <foreign xml:lang="he">mappiq</foreign> etc., but many of the suggested marks of this influence are questionable.</note> However the contemporary existence of the Tiberian system is a prerequisite of Tiberian influence on other systems. Simpler types of pointing certainly were in use at a late period. One text, TS H2:30, with a six vowel-sign system, is written on paper, and can, therefore, scarcely be dated before 800, and is probably much later. Another, TS H2:29, with a five vowel-sign system, contains a poem ascribed (in the text hand) to Yehuda Zebida, who probably lived in the eleventh century.<note n="21">See H. SCHIRMANN, <title>New Poems from the Geniza</title> (Jerusalem 1966 p. 87f., and cf. S. GOITEIN, <title>JAOS</title> 86 (1966) p. 234.</note> This latter date is also an indication of the length of time over which we have to suppose contemporaneous use of the Tiberian and Palestinian pointing systems.</p>
+<p>9. If the Palestinian and Tiberian pointing systems were used together over a long period, as seems certain from the above evidence, the change from one to the other must have been conscious and deliberate, not the result of a process of historical development in the writing system. The change must have been made at different times by individual scribes in different communities for their own purposes. Indeed it does not seem unlikely that some scribes may have used Tiberian pointing for some</p>
+      <pb n="97"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+<p rendition="indent">purposes and Palestinian for others.<note n="22">As evidently occurred with the Babylonian pointing see M. <hi rendition="smallcaps">Wallenstein</hi>, <hi rendition="italic">BJRL</hi> 40 (1958), p. 557f., and <hi rendition="italic">cf.</hi> (from a later date) the quite common Yemeni practice of using Tiberian pointing for Biblical texts, and Babylonian for Targum or Liturgy in the same MS (as in British Museum MS Or. 2215, 2227, etc.). For the probable reasons for this practice see <hi rendition="smallcaps">Margoliouth</hi>, <hi rendition="italic">PSBA</hi> 15 (1892–3), p. 198 (No. 35).</note> There is, as far as I know, no direct evidence for this suggested multiplicity of changes, but further indirect support is not difficult to find.</p>
+<p>10. A unilinear change-over from Palestinian to Tiberian signs requires that the process start with one sign and finish with another.<note n="23"><hi rendition="smallcaps">Diez-Macho</hi> has suggested that the changeover began with <hi rendition="italic">pataḥ</hi> and ended with <hi rendition="italic">ḥolem</hi>, see <hi rendition="italic">Vetus Testamentum Supplements</hi> IV (1957) p. 31.</note> Besides MSS such as those considered here, however, in which the Palestinian “o” sign is used in an otherwise Tiberian pointing, there are texts in which the “Palestinian <hi rendition="italic">qameṣ</hi>” (—), and the “Palestinian <hi rendition="italic">dagesh</hi>” sign are, respectively, the only foreign elements in a Tiberian system.<note n="24">For the “Palestinian <hi rendition="italic">qameṣ</hi>” see I. <hi rendition="smallcaps">Yeivin</hi>, <hi rendition="italic">Textus III</hi> (1963) p. 127 on the use of this sign in the massora of the Cod. Bab. Petropolitanus. The same feature occurs in a liturgical text, Bod. Heb. f32, f. 21–22 + ENA 2678, f. 19–20. (The latter fragment, in the Library of the Jewish Theological Seminary in New York, was kindly drawn to my attention by Mr. I. <hi rendition="smallcaps">Yeivin</hi>.) The use of the “<hi rendition="italic">dagesh</hi>” sign is much more common, see, <hi rendition="italic">eg.</hi> TS NS 110:33; 110, 115:5, 299:91. As these fragments exemplify, this sign is used with pointing showing either “Palestinian” or “Babylonian” characteristics, as well as with pointing of a bA type. The sign may not, therefore, be Palestinian in origin, but could perhaps derive from the earlier form of the Arabic <hi rendition="italic">tashdīd</hi> sign, a form which continued in use in North Africa. (The more familiar form of <hi rendition="italic">tashdīd</hi> is found in place of <hi rendition="italic">dagesh</hi> in later MSS, <hi rendition="italic">e.g.</hi> in TS 8H22:16, Westminster College Frag. Heb. Cairensia Liturgica I:48).</note> With few exceptions, in such MSS, the Palestinian sign and its Tiberian counterpart are used as free variants, and there is no visible reason for the use of the extraneous sign.<note n="25">A tendency towards specialization is sometimes visible in the use of the Pal. “o” sign, see the remarks of M. <hi rendition="smallcaps">Friedländer</hi> in <hi rendition="italic">PSBA</hi> 18 (1896), p. 89 (on Bod. Heb. f51, f. 1–9), and the fact that in Misc. 2:25 the sign is almost completely confined to defective writings. As in these texts, however, specialization never appears to be complete. In one or two fragments, the Pal. sign appears to be the only mark of <hi rendition="italic">dagesh</hi> e.g. TS 10H9:14) but the Tiberian sign is usually used as well. In two unique fragments a combination of Palestinian and Tiberian signs is used, apparently to avoid placing any signs within the line of text. Thus Bodleian MS Heb. d62 f. 2r (unpublished) uses Palestinian signs for <hi rendition="italic">shureq</hi> and <hi rendition="italic">dagesh</hi> in an otherwise Tiberian system, and in the lower margins of TS NS 249:14 + TS 12:210, (text 9 in my <hi rendition="italic">Hebrew Texts. . .</hi> , see note 19) Tiberian <hi rendition="italic">shureq</hi>, <hi rendition="italic">dagesh</hi>, and also <hi rendition="italic">ḥolem</hi> are so replaced.</note></p>
+<p>11. Again, the Palestinian “o” sign appears in a considerable variety of otherwise Tiberian pointing, ranging from that discussed here to types</p>
+      <pb n="98"/>
+<head>ELIZABETH REVELL</head>
+
+<p>almost identical to that of BH<hi rend="superscript">3</hi>.<note n="26">E.g. Bod. Heb. f51, f. 1-9 (described by <hi rend="smallcaps">Friedländer</hi>, <hi rend="italic">op. cit</hi>., see note 25). TS A10:14 and A12:10 are examples of intermediate types.</note> If these MSS are to be taken as repre-senting one particular stage in the change from Palestinian to Tiberian pointing, we must accept the fact that one or the other of these systems was used in a variety of different ways during this stage. In fact it seems likely that both were so used. I have argued above that a number of Palestinian systems were in use at the same time. The same is demonstrably true for Tiberian pointing in the later middle ages.<note n="27">Besides the ben Asher system, we have a variety of types of pointing in the “ben Naftali” texts listed by <hi rend="smallcaps">Díez-Macho</hi> (<hi rend="italic">op. cit</hi>. see note 15). Late examples of pointing without <hi rend="italic">qames</hi> or <hi rend="italic">segol</hi> are found in TS Misc. 12:7 (a printed text of Rashi pointed by hand), and British Museum Or. MS 5556D, f. 22x–23 (psalms written on the back of a letter in Portuguese).</note> We can scarcely argue that diversity was less common in earlier times! Consequently it seems to me impossible that the Tiberian system of pointing should have grown out of the Palestinian by a single process of change.</p>
+
+<p>12. The MSS discussed here are themselves evidence for the con-temporaneous existence of a number of different pointing systems. Besides the features apparently Palestinian in origin noted above, they contain features which have no parallel in the Palestinian system as at present known, and some which even conflict with it. Some of these features can, of course, be ascribed to the influence of the ben Asher tradition, but by no means all, as a consideration of them shows. No Palestinian text uses a sign equivalent to Tiberian <hi rend="italic">shewa</hi>. Some show tendencies to develop such a sign, but the idea of using a sign which did not also denote a particular vowel quality was never achieved, so that different signs had to be used for “shewa vowels” according to the phonological context.<note n="28">The use, in our fragments, of the simple <hi rend="italic">shewa</hi> sign where bA has <hi rend="italic">ḥaṭef qames</hi>, or <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi>, is particularly surprising in texts so close, in other respects, to the Palestinian fragments.</note> Simple <hi rend="italic">shewa</hi> often replaces <hi rend="italic">ḥaṭefs</hi> in the “ben Naftali” texts 28<hi rend="superscript">a</hi>, but they are rarely consistent in this respect, and frequently use vowel quality signs in this position (recalling Palestinian usage) and thus differ from the marked regularity of these fragments.<note n="29">E.g. <hi rend="smallcaps">Díez-Macho</hi>’s MS 3 and 4 in “A New List of ben Naftali MSS” (<hi rend="italic">op. cit</hi>. see note 15).</note></p>
+
+<p>The marking of shin by a dot within rather than above the letter is found</p>
+
+<note n="28a">By this admittedly unfortunate name I refer to the manuscripts described under the same name by Prof. <hi rend="smallcaps">Díez-Macho</hi>. (See note 15).</note>
+      <pb n="99"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+
+<p>in some “ben Naftali” texts, but is in direct contrast to Palestinian usage, where such a dot marks <hi rend="italic">sin</hi>.<note n="30">E.g. TS A43:1 (Kahle MdW II MS M).</note>
+The marking of <hi rend="italic">dagesh “forte”</hi> and <hi rend="italic">“lene”</hi>, and of <hi rend="italic">rafe</hi> on <hi rend="italic">b, g, d, k, p, t,</hi> is common enough in Palestinian texts. In those texts, however, <hi rend="italic">dagesh</hi> is generally much more frequently used than <hi rend="italic">rafe</hi>, whereas the reverse is true in the texts described here. The difference is emphasized, in our texts, by the use of <hi rend="italic">rafe</hi> to mark word initial <hi rend="italic">l</hi> following the same consonant in word final position. Such a consonant is marked by <hi rend="italic">dagesh</hi> in Palestinian, as in Tiberian texts.<note n="31">E.g. Kahle’s MdW II, MS M, Is. 46:12, 57:11, <hi rend="italic">cf.</hi> C. and GINSBURG, <hi rend="italic">Introduction to the . . . Hebrew Bible</hi> (New York 1966), p. 116 f.</note> The use of <hi rend="italic">rafe</hi> on postvocallic <hi rend="italic">l, m,</hi> and <hi rend="italic">n</hi> hs no parallel in Palestinian texts, but immediately suggests the extended usage of <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> found in “ben Naftali” texts.<note n="32">DÍEZ-MACHO in his “New List of ben Naftali MSS” (<hi rend="italic">op. cit.</hi> see note 15) p. 25, suggests that this type of usage is found in the Palestinian texts. I would suggest that his examples are all cases of <hi rend="italic">rafe</hi> marking the absence of an expected <hi rend="italic">dagesh</hi>. (Cf. MURTONEN, <hi rend="italic">Materials for a non-Masoretic Hebrew Grammar I,</hi> Helsinki 1958, pp. 33–34). For the fullest use of <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> in “ben Naftali” texts, see MORAG, <hi rend="italic">JSS</hi> 4, 1959, p. 217 ff, on the Codex Reuchlinianus. In many MSS, however, <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> are less freely used, <hi rend="italic">rafe</hi> is more common than <hi rend="italic">dagesh</hi>, and is most common on <hi rend="italic">l, m,</hi> and <hi rend="italic">n</hi>. E.g. J. T. S. MS E. N. A. 2118, f. 14–15 (MURTONEN, <hi rend="italic">Abr Nahrain III,</hi> 1961–62, pp. 45–59).</note>
+The marking of accents in our texts is mostly done by signs used either in the Tiberian or in the Palestinian pointing. Many are common to both. However the signs for <hi rend="italic">zaqef, rebia, tifha,</hi> and <hi rend="italic">qeresh,</hi> have no parallel, in the use to which they are put, in either Palestinian or Tiberian systems, including the “ben Naftali” texts.</p>
+
+<p>13. These peculiarities show, then, that our texts are not merely representative of a stage in a process of transition from Palestinian to ben Asher pointing. Some third influence must have produced the features which are found in neither tradition. These “non-Palestinian non-ben Asher” features appear mostly to be confined to the writing system. However, the use of <hi rend="italic">rafe</hi> on postvocallic <hi rend="italic">l, m,</hi> and <hi rend="italic">n</hi> suggests features of pronunciation foreign both to ben Asher and to the Palestinian tradition, and it is possible that others existed. Some of these features ascribed to the “third influence” are found in the “ben Naftali” texts, as was pointed out above. The “ben Naftali” pointing, however, shows, even in its most primitive stages, a more developed use of Tiberian signs, and far less use of features deriving from the Palestinian tradition, or from the unknown “third</p>
+      <pb n="100"/>
+<head>100 ELIZABETH REVELL</head>
+<p>influence,” than is found in the fragments discussed here.<note n="33">These fragments, then, would appear to stand in a line of development between the “ben Naftali” texts as described by Diez Macho, and the sources of the peculiarities which distinguish them from other Tiberian texts. They can therefore be described as examples of the earliest stage yet known of the so-called “ben Naftali” tradition.</note></p>
+<p>14. If this identification is correct, the date of these MSS is of considerable interest. Various features of the Fragments suggest great age. Their generally poor physical condition and badly faded ink make them look older than most of the Palestinian fragments. However the accidents of preservation, and the composition of the ink must be allowed for.<note n="34">The shapes of the pages are rather surprising, as the width is usually equal to, or greater than, the height, whereas in both Palestinian and Tiberian MSS, the height is usually greater. With this format, it is even more surprising that the text of the fragments is not normally divided into columns.</note><note n="35">The script of the fragments, where clearly visible, seems fairly homogeneous.</note><note n="36">It is a freely written, neat, small, non-ornate square script of a Palestinian type. It is quite similar to that of TS D1:12, (dated by Weil c. 700,<note n="37">but in my opinion somewhat later), and somewhat similar to that of MS ENA 2118 of the Jewish Theological Seminary of America (dated by Murtonen c. 900).</note><note n="38">The fragments are possibly to be dated, then, to the beginning of the ninth century.</note></p>
+<note n="33">The main features present here, but not in the “ben Naftali” texts are (i) Palestinian: the extra “o” sign, the <hi rend="italic">pashṭa</hi> sign, and the very simple system of accentuation. (ii) “Third influence”: the signs for <hi rend="italic">zaqef, rebia, tifḥa</hi>, and <hi rend="italic">geresh</hi>, and the use of the <hi rend="italic">shewa</hi> sign. All features but this last are assimilated to ben Asher in the texts listed by DÍEZ-MACHO (<hi rend="italic">op. cit.</hi> see note 15). However features deriving from the “third influence” are retained, at least in some “ben Naftali” MSS. These are the marking of <hi rend="italic">shin</hi> by an internal dot, the use of <hi rend="italic">tebir</hi> for <hi rend="italic">deḥi</hi> in the accentuation of the “poetic” books (Palestinian texts also use the same sign — 2 dots below the word — in both positions), and the extensive use of <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> on all consonants. This last feature (the distinctive characteristic of “ben Naftali” texts, see MORAG, <hi rend="italic">Leshonenu</hi> 29, 1965, p. 208), is much more marked in later texts than in the fragments discussed here, but, the development of the usage can be observed in the later texts, which shows that the chronology suggested here is correct. See DÍEZ-MACHO (<hi rend="italic">op. cit.</hi> see note 15) p. 18–19,</note>
+<note n="34">The inks of Geniza MSS which now appear red-brown or olive-brown seem, in general, to have faded much more than those which appear dark brown or black.</note>
+<note n="35">NS 53:1 was certainly written in two or three columns, but is unique in this respect. Palestinian Biblical codices were usually written in two or three columns.</note>
+<note n="36">The script of B6:20 is larger and more ornate than the others. That of NS 287:38 tends towards cursive.</note>
+<note n="37">In <hi rend="italic">Annual of the Leeds University Oriental Society</hi> 3 (1961–62) p. 69.</note>
+<note n="38">In <hi rend="italic">Abr Nahrain</hi> III (1961–62) p. 47.</note>
+      <pb n="101"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+
+<div type="appendix">
+    <head>APPENDIX.</head>
+    <p rend="italic">Description of the fragments.</p>
+    <p><hi rend="italic">TS B6:20</hi> A leaf of parchment about 250 mm square with part of a second. The written area is about 170 mm high by 165 mm. The text is Ex. 2:23–3:8, 16:32–17:10, Hebrew and <hi rend="italic">targum</hi> in alternate verses. The original script was a rather large, formal, Palestinian square character in olive brown ink, now very faint. It was later retraced in a darker ink. The original pointing, also in olive brown ink, is also very faint over most of the MS, and in fact invisible in parts. Some signs were retraced or corrected in a darker ink, and a subsequent hand added occasional signs, (including <hi rend="italic">qameṣ</hi>) in black.</p>
+    <p><hi rend="italic">TS Misc. 1:85</hi> This fragment was originally discovered by Dr. Manfried Dietrich some years ago. I am very grateful to him for allowing me to use it here. It consists of two conjugate leaves of parchment with their outer edges torn away, height c. 225 mm, maximum width 170 mm. The leaves are torn, and in rather poor condition. The written area is c. 170 mm high. The text covers Neh. 8:17–9:16, 12:25–46. The script is an informal Palestinian square type in ink varying from olive to dark brown. The pointing is in a similar, but paler ink. Text and pointing are much clearer than in most of the MSS described here.</p>
+    <p><hi rend="italic">TS Misc. 2:25</hi> Two conjugate leaves of parchment with the outer edges torn away, height 250 mm, maximum width 180 mm. Part of the material is badly deteriorated, as if from dampness. The written area is c. 170 mm high. The text covers Mic. 7:16–Hab. 2:6.</p>
+    <p>The script is similar to that of Misc. 1:85, but more formal. The ink is pale olive brown. The pointing is in a similar ink. A few corrections were made, again in a similar ink. Both text and pointing are badly faded and illegible in parts.</p>
+    <p><hi rend="italic">TS Misc. 22:304</hi> A sheet of parchment with the upper inside quarter torn away, originally about 250 mm square. The written area is about 170 mm high by 175 mm. The text covers Ezra 1:1–2:36.</p>
+    <p>The original script was a fairly formal square Palestinian type in pale olive brown ink. It was retraced in dark brown. The original pointing, in pale red brown, is badly faded, especially on the verso. The text was repointed with a system similar to BH<hi rend="superscript">3</hi> in dark brown ink, obscuring the original pointing in many places.</p>
+    <p><hi rend="italic">TS NS 53:1</hi> The top inside corner of a leaf of parchment, now about 155 mm high by 115 mm. The text covers II Kings 10:22–27, 12:10–13, and must have been written in two or three columns.</p>
+</div>
+      <pb n="102"/>
+<head>ELIZABETH REVELL</head>
+<p>The script is a fairly free Palestinian square hand in olive brown ink, with pointing of the same colour, badly faded, and mostly illegible on the verso.
+<hi rend="italic">TS NS 61:1</hi> Two conjugate leaves of parchment, about 225 mm high by 215 mm, now in several pieces, and mostly very badly deteriorated as if from damp. The written area was perhaps about 150 mm square. The text covers Hos. 13:4–Joel 4:2. The script is a square Palestinian type in pale olive brown ink, with pointing of the same colour. Both text and pointing are very badly faded, and in fact completely invisible over most of the MS, even when ultra-violet light is used.
+<hi rend="italic">TS NS 72:2.</hi> A leaf of parchment, about 170 mm high by 185 mm, somewhat damaged at the edges. The written area is about 140 mm high by 150 mm. The text covers Gen. 47:27–49:14.
+The script is a fairly formal Palestinian square hand in olive brown ink, much faded in parts, and retraced in black on the verso. The original pointing appears to have consisted of accent signs only, marked in a pale red-brown ink, now much faded. The text was subsequently repointed, in a darker brown ink, with vowels and accents in a system similar to BH³, often obscuring the original pointing. The secondary accentuation shows occasional differences from bA, the most significant of which, perhaps, is the use of the <hi rend="italic">atnaḥ</hi> sign to mark <hi rend="italic">segolta</hi> as well (Gen. 48:13, 16, 20).
+<hi rend="italic">TS NS 280:2.</hi> A fragment of a leaf of parchment, now about 100 mm high by 135 mm, much damaged. The text covers Nu. 8:19–26, 9:8–14.
+The original script was a fairly free Palestinian square type in dark olive brown. It is badly faded in parts, particularly on the verso, where it was retraced in an ink which is itself badly faded. The original pointing was in a pale olive brown ink, now almost completely illegible on the verso. Occasional corrections were made in a brown ink, and the text was repointed in a system similar to BH³ in black, often obscuring the original pointing.
+<hi rend="italic">TS NS 287:38.</hi> This text was first noticed, I think, by Dr. N. Allony, and is being published, for the interest of its contents, by Prof. G.E. Weil. I am grateful to these scholars for encouraging me to make use of it here. It consists of a leaf of vellum, about 140 mm square, with slight damage, containing a massoretic list of words occurring in pairs. The written area is about 95 mm by 105 mm.
+The script is an informal Palestinian square type, tending towards cursive. The ink of the script is olive brown, that of the pointing pale red brown, badly faded, and probably obliterated in places.</p>
+      <pb n="103"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+
+<p>Table 1. <hi rend="italic">Accent Signs</hi></p>
+
+<list>
+    <item>(i) The “Prose Books”
+        <list>
+            <item>Typical Form Variant Forms</item>
+            <item>(<hi rend="italic">Silluq</hi> ◂-)</item>
+            <item><hi rend="italic">Atnaḥ</hi> ◂</item>
+            <item><hi rend="italic">Segolta</hi> ◂ NS 287:38 (1 case).</item>
+            <item><hi rend="italic">Zaqef qaṭon</hi> ‘</item>
+            <item><hi rend="italic">Zaqef gadol</hi> -‘ :‘ Misc. 2:25.</item>
+            <item><hi rend="italic">Rebia</hi> ‘ Misc. 22:304 (1 case).</item>
+            <item><hi rend="italic">Tifḥa</hi> ◂</item>
+            <item><hi rend="italic">Zarqa</hi> ²-</item>
+            <item><hi rend="italic">Pashta/yetib</hi> ◂</item>
+            <item><hi rend="italic">Tebir</hi> ◂ “ NS 287:38, ⁐ Misc. 22:304 (1 case)</item>
+            <item><hi rend="italic">Geresh</hi> “ ‘ Misc. 22:304 (2 cases).</item>
+            <item>(<hi rend="italic">Gershayim</hi> “-) (No Example in Misc. 22:304)</item>
+            <item><hi rend="italic">Legarmeh</hi> | Misc. 1:85 /— NS 72:2.</item>
+            <item><hi rend="italic">Pazer</hi> ◂ Misc. 1:85 ◂ NS 72:2 (1 case?)</item>
+            <item>∨ NS 287:38 (1 case).</item>
+            <item><hi rend="italic">Telisha</hi> ◡ &lt; B6:20</item>
+            <item>Conjunctives . .. Misc. 1:85 ⌟ (◂-) NS 287:38.</item>
+        </list>
+    </item>
+
+    <item>(ii) The “Poetic Books” (NS 287:38 only)
+        <list>
+            <item><hi rend="italic">Atnaḥ</hi> ◂ <hi rend="italic">Deḥi</hi> ◂</item>
+            <item><hi rend="italic">Rebia</hi> ◂ <hi rend="italic">Azla legarmeh</hi> ◂</item>
+            <item><hi rend="italic">Rebia mugrash</hi> ◂ <hi rend="italic">Mehuppak legarmeh</hi> ◂</item>
+            <item><hi rend="italic">Sinnor</hi> ²- Conjunctives ◂ ◂</item>
+        </list>
+    </item>
+</list>
+      <pb n="104"/>
+<head>ELIZABETH REVELL</head>
+<note>TS MISC.2:25
+Fol.1, recto</note>
+<list>
+    <label>MICAH 7</label>
+    <item><num>16</num> אָ]זְנֵיהֶם תֵּחֱרַשְׁ[נָה</item>
+    <item><num>17</num> מִמִּסְגְּרֹ[תֵיהֶם אֶל יהוה]</item>
+    <item><num>18</num> ]עָוֹן וְעֹבֵר עַל[</item>
+    <item><num>18-19</num> ]חָפֵץ חֶסֶד הוּא: יָשׁוּב[</item>
+    <item><num>19-20</num> בִּמְצֻלֹ[ת יָם כָּל חַטֹּאתָם: תִּתֵּן]</item>
+    <item><num>20</num> נִשְׁבַּעְתָּ לַאֲבֹתֵינ[וּ מִימֵי]</item>
+</list>
+<list>
+    <label>NAHUM 1</label>
+    <item><num>1</num> מַשָּׂ]א נִינְוֵה סֵפֶר חֲזוֹן נַחוּם הָאֶלְקֹשִׁי</item>
+    <item><num>2</num> יה]וה וּבַעַל חֵמָה נֹקֵם יה]וָה</item>
+    <item><num>3</num> יהוה אֶרֶךְ אַפַּיִם וּגְדָל כֹּחַ וְנַקֵּה[לֹא יְנַקֶּה]יהוה[</item>
+    <item><num>3-4</num> בְּסוּ]פָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו: גּוֹעֵר בַּיָּם וַיַּבְּשֵׁהוּ וְכָל הַנְּהָרוֹת</item>
+    <item><num>4-5</num> הֶחֱ]רִים וּפֶרַח לְבָנוֹן אֻמְלָל: הָרִים [רָעֲשׁוּ מִמֶּנּוּ</item>
+    <item><num>5</num> הַגְּ]בָעוֹת וַתִּמֹּג וַתִּשָּׂא הָאָרֶץ מִפָּנָיו וְתֵבֵ[ל]וְכָל יֹשְׁבֵי בָהּ: לִפְנֵי</item>
+    <item><num>6</num> זַ]עְמוֹ מִי יַעֲמֹד וּמִי יָקוּם בַּחֲרוֹן אַפּוֹ חֲמָתוֹ נִתְּכָה כָאֵשׁ</item>
+    <item><num>6-7</num> וְהַצֻּרִים] נִתְּצוּ מִמֶּנּוּ: טוֹב יהוה לְמָעוֹז בְּיוֹם צָרָה</item>
+    <item><num>8</num> וּבְשֶׁ]טֶף עֹבֵר כָּלָה יַעֲשֶׂה מְקוֹמָהּ וְאֹיְבָיו יְרַדֶּף</item>
+    <item><num>9</num> חֹ]שֶׁךְ מַה תְּחַשְּׁבוּ אֶל יהוה כָּלָה הוּא עֹשֶׂה לֹא תָקוּם פַּעֲמַיִם</item>
+    <item><num>10</num> צָרָ]ה כִּי עַד סִירִים סְבֻכִים וּכְסָבְאָם סְבוּאִים</item>
+    <item><num>11</num> אֻ]כְּלוּ כְּקַשׁ יָבֵשׁ מָלֵא: מִמֵּךְ יָצָא חֹשֵׁב עַל יהוה רָעָה יוֹעֵץ</item>
+    <item><num>12</num> בְּ]לִיָּעַל: כֹּה אָמַר יהוה אִם שְׁלֵמִים וְכֵן רַבִּים</item>
+    <item><num>12-13</num> וְ]כֵן נָגֹזּוּ וְעָבָר וְעִנִּיתִךְ לֹא אֲעַנֵּךְ עוֹד: וְעַתָּה</item>
+    <item><num>13</num> ] אֶשְׁבֹּר מוֹטֵהוּ מֵעָלָיִךְ</item>
+    <item><num>13</num> וּמוֹסְרוֹתַיִךְ אֲנַתֵּק:</item>
+    <item><num>14</num> וְצִוָּה עָלֶיךָ יהוה</item>
+</list>
+      <pb n="105"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+
+<p>
+<note place="margin-left">TS MISC. 2:25<lb/>Fol.1, verso</note>
+<note place="margin-right">NAHUM 1<lb/>14</note>
+מבֵּית אלהיך אכרית פֶּסֶל ומסכה]
+<lb/>
+<note place="margin-right">2:1</note>
+]על ההר֧ישׂ רגלי מְבַשׂר מַשְׁמִיעַ
+<lb/>
+<note place="margin-right">1</note>
+]כי לא יוסיף עוד לַעֲבֹר בָּךְ
+<lb/>
+<note place="margin-right">2</note>
+פָּ]נֶיךָ נָצור מצורה צַפֶּה דֶרֶךְ[
+<lb/>
+<note place="margin-right">3</note>
+י]הוה את גְאון יַעקב כגאון[
+<lb/>
+<note place="margin-right">3–4</note>
+שִׁ]חתו: מָגֵן גִּבּורֵיהו מאדם[
+<lb/>
+<note place="margin-right">4</note>
+]הרכב בְּיוֹם הֲכִינו וְהַבְּרשִׁים[
+<lb/>
+<note place="margin-right">5</note>
+יתהוללו הרכב ישתַּקְשְׁקון בָּרְחובות מַראיהן כַּלַפִּידִים
+<lb/>
+<note place="margin-right">5–6</note>
+]ירוצצו: יִזְכּ[ור] אדיריו יכָּשְׁלו בהליכתם יְמַהֲרו חומתה
+<lb/>
+<note place="margin-right">6–8</note>
+הֵ]וּכָן: שַׂערי הנהרות נפתח֧ו וההֵיכָל נָמ֧וג: וְהֻצַּב גֻּלְּתָה
+<lb/>
+<note place="margin-right">8</note>
+]ואמהותיה מנהגות כקול יונִים מתוֹפְפֹות על לְבָבֵיהן
+<lb/>
+<note place="margin-right">9</note>
+]מימי הי֧א וְהמה נָסִים עמדו עמֹדו ואיִן
+<lb/>
+<note place="margin-right">10</note>
+]ואין קָצֶה לַתְּבונה כָּבֵד מכל כְּלִי חֶמְדָּה:
+<lb/>
+<note place="margin-right">11</note>
+ומבלקָה וְלֵב נָמֵס ופיק ברכים וְחַלְחָלָה בכל
+<lb/>
+<note place="margin-right">11–12</note>
+]פארור: אַיֵּה מעוֹן אֲרָיות ומרעה הוא
+<lb/>
+<note place="margin-right">12</note>
+]אריה לביא שָׁם גור אריה ואין מח֧ריד:
+<lb/>
+<note place="margin-right">13</note>
+גָ]רוֹתיו ומחַנֵּק ללִבְאֹתָיו וימלא טרף חורי֧ו
+<lb/>
+<note place="margin-right">14</note>
+<note place="margin-left">צבאות<lb/>אק</note>
+[           הִנְנִי אֵלַיִךְ נְאֻם אֲדֹנָי יְהוָה
+<lb/>
+<note place="margin-right">14</note>
+והבערתי בָעָשָׁן רַכְבָּה וּכְפִירַיִךְ תֹּאכַל חָרֶב
+<lb/>
+<note place="margin-right">14</note>
+] והִכרתי מאֶרֶץ טַרְפֵּךְ וְלֹא יִשָּׁמע
+<lb/>
+<note place="margin-right">14–3:1</note>
+עוֹד קוֹל מַלְאָכֵכֵהָ: הֹוֹי עִיר דָּ ?
+<lb/>
+<note place="margin-right">1</note>
+עִיר דָּמִים כֻּלָּה כַּחַשׁ
+<lb/>
+<note place="margin-right">1</note>
+פֶּרֶק מְלֵאָה לא
+</p>
+      <pb n="106"/>
+<head>ELIZABETH REVELL</head>
+<note place="margin-left">
+    TS MISC. 2:25<br/>
+    Fol.2, recto
+</note>
+<list>
+    <label>NAHUM 3</label>
+    <item><num>2</num> [שוט וקול]</item>
+    <item><num>3</num> [מעלה ולהב ה]רֹב</item>
+    <item><num>3</num> [לגוִיּה וכשלו]</item>
+    <item><num>4</num> [המכרת גּו]יִם</item>
+    <item><num>5</num> [אליך נאם י]הוה</item>
+    <item><num>5</num> [גויס מערך ומ]לכות</item>
+    <item><num>6</num> ונבלּתיך ושׂמתי]ך</item>
+    <item><num>7</num> [שדדה נינִוֵה מי]</item>
+    <item><num>8</num> ה[תיטיבי מנוא אָמון]</item>
+    <item><num>8</num> חיל ים מים חומתה:]</item>
+    <item><num>9</num> ולובים היו בעזרת]ך</item>
+    <item><num>10</num> ירטּשׁו בראשׁ כל [חוצו]ת ועל]</item>
+    <item><num>10-11</num> דתקו בזיקים: וגם אתּ תשׂכרי]</item>
+    <item><num>11-12</num> מעוז מאויב: כל מבּצריך תאינים]</item>
+    <item><num>12-13</num> וינפלו על פי אוכל: הנה עמּך נשׂים]</item>
+    <item><num>13</num> נפתּחו שׁערי ארצך אכלה אשׁ בריחיך</item>
+    <item><num>14</num> לו חזקִי מבצריך בּאי בּטיט ורמס]י</item>
+    <item><num>15</num> שׁם תאכלך אשׂ תכריתך חרב תאכלך</item>
+    <item><num>15-16</num> התכבּדי כּארבּה: הרבּיתי רכלייך]</item>
+    <item><num>16-17</num> ובעף: מנּזריךּ כּארבּה וטפסריך</item>
+    <item><num>17</num> כּיום קרה שׁמשׁ זרחה ונוד]ד</item>
+    <item><num>18</num> רעוּ: מלך אשּׁוּר ישכּנו</item>
+    <item><num>18-19</num> ואין מקבּץ: אין כה]ה</item>
+    <item><num>19</num> תקעו כף עליך]</item>
+</list>
+      <pb n="107"/>
+<head>‘TIBERO-PALESTINIAN’ POINTING</head>
+<note place="margin-left">TS MISC. 2:25
+Fol.2, verso</note>
+<list>
+    <head>HABAKKUK 1</head>
+    <item n="2">]עד אנא יהוה שִׁנַעְתִּי[</item>
+    <item n="3">]תַּראנִ֫י אָונ וְעָמל[</item>
+    <item n="4">]על כֵּן תָּפ֫וּג תּוֹר֫ה[</item>
+    <item n="4-5">]על כֵּן יצא משפט מעקל: ראו</item>
+    <item n="5">]פעל בִּימֵיכֶם ולא תאמינו כי יספר:</item>
+    <item n="6">והנִנִ֫י הַהוֹלֵךְ למרחבי ארץ לרשת</item>
+    <item n="7-8">מִשְׁפָּטוֹ וּשְׂאֵת֫וֹ יצא: וקלו מנמרים</item>
+    <item n="8">]מֵרחוק יבאוּ יָעֻפֿוּ כנשר חש</item>
+    <item n="9-10">וַיֶּאֱסף כחול שֶׁבי: והוא במלכים</item>
+    <item n="10-11">וַיִצְבּר עָפָר וַילכְּדָהּ: אז</item>
+    <item n="12">]מקדם יהוה אֱלֹהַ֫י קְדֹו֫שִׁי</item>
+    <item n="12-13">]יסדתוֹ: טָהוֹר עינ֫ים</item>
+    <item n="13">לָמָ֫ה תַּבִּיט בּוֹגְדִים תַּחֲרִישׁ בְּבַלַּע</item>
+    <item n="14-15">]אָדם כדגֵי היָּם כרמֶשׂ לא מושל בוֹ: כֻּלֹּה</item>
+    <item n="15">]וַיַּאֲסְפֵהוּ במִכְמַרְתּוֹ על כֵּן ישׂמַח ויגיל:</item>
+    <item n="16">]למכמרתוֹ כי בָּהֵמָּה שָׁמֵן חֶלְקוֹ וּמַאֲכָלוֹ</item>
+    <item n="17-18">הֲתמִיד לַהֲרֹג גויִ֫ם ולא יַחֲמֹו֫ל: על</item>
+    <item n="1">]על מצוֹר וְאֶצְפֶּה לראוֹת מָה</item>
+    <item n="2">]וַיַּעֲנֵנִי יהוה וַיֹּאמֶר כתב חָזוֹן</item>
+    <item n="2-3">]קוֹרא בוֹ: כי עוֹד חָזוֹן לַמּוֹעֵד וְיָפֵחַ</item>
+    <item n="3-4">יתמהְמַהּ חַכֵּה לוֹ כִּי בֹא יָבֹא וְלֹא יְאחר: הנה</item>
+    <item n="4-5">]וצדִ֫יק באמוּנָת֫וֹ יחיה: וְאַף כִּי הַיַיִן</item>
+    <item n="5">]אשר הרחיב כִּשְׁאוֹל נַפְשׁוֹ והוּא כַמּוֶת</item>
+    <item n="5-6">]הגוים וַיִּקְבֹּץ אליו כל העמים: הלוא</item>
+</list>
+    </body>
+  </text>
+</TEI>

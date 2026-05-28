@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>The Conditioning of Stress Position in Waw Consecutive Perfect Forms in Biblical Hebrew</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>The Ohio State University</publisher>
+      <date when="1985">1985</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">The Conditioning of Stress Position in Waw Consecutive Perfect Forms in Biblical Hebrew</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Hebrew Annual Review</title>
+          <imprint>
+            <date>1985</date>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="page" from="277" to="300">277-300</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded from the file 07a.30_p3.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="handwritten">
+    FROM<lb/>
+    MASORETIC STUDIES 6<lb/>
+    ed. E. J. REVELL
+</p>
+      <pb n="95"/>
+<head>CONJUNCTIVE <hi rend="italic">DAGESH</hi>: A PRELIMINARY STUDY</head>
+
+<p>E. J. Revell
+<lb/>University of Toronto</p>
+
+<p>The term "Conjunctive Dagesh" is used here to cover both the phenomena traditionally referred to as <hi rend="italic">deḥiq</hi>, and those referred to as <hi rend="italic">’atē meraḥiq</hi>.<note n="1">1. I had originally intended to use the term <hi rend="italic">deḥiq</hi> to cover both (following the suggestion of Dotan "The Problem of <hi rend="italic">Deḥiq</hi> and <hi rend="italic">Atē Mēraḥiq</hi>" <hi rend="italic">Fourth World Congress of Jewish Studies, Papers</hi>, Vol. II [Jerusalem, 1969]: 101-105 [Hebrew], 186 [English summary] about its original meaning), but since most descriptions use both terms in the traditional way, this seems unwise.</note> The descriptions of these phenomena in the standard grammars, such as those of Gesenius-Kautzsch, Bergsträsser, or Joüon, are based on that of S. Baer. Baer sees the phenomenon as following set rules, with very few exceptions. Even in the limited range of examples which he gives, however, there are many variants from the Leningrad Codex B19a (L). The description given by I. Yeivin is less inclined to see the phenomenon as following fixed rules, and admits a considerable number of exceptions in some situations. This description is less complex than is Baer's, having merged some of the categories set up by Baer. However its use of the masoretic definition of vocal <hi rend="italic">shewa</hi>, and its treatment of the use of <hi rend="italic">maqqef</hi> separately from the use of a conjunctive accent seems to complicate the description unnecessarily.<note n="2">2. For Baer's description see "De primarum vocabulorum literarum dagessatione" (in his <hi rend="italic">Liber Proverbiorum</hi>, Lipsiae, 1880: vii-xiii). For that of Yeivin, see his <hi rend="italic">Introduction to the Tiberian Masorah</hi>, Missoula, 1980, #404-405. Yeivin's description is based on A.</note></p>
+
+<p>Conjunctive <hi rend="italic">dagesh</hi> typically occurs where a word ending in an unstressed open syllable with the vowel <hi rend="italic">qameṣ</hi> or <hi rend="italic">segol</hi> (terminal, or followed by <hi rend="italic">he</hi>), and marked with a conjunctive accent or <hi rend="italic">maqqef</hi>, is followed by a word stressed on its first full vowel</p>
+      <pb n="96"/>
+<head>96 / E. J. Revell</head>
+
+<p>(i.e. C¹V-- or CªC¹V--, etc.). A pair of words with these characteristics is referred to here as a "standard pair". Where such a pair occurs, <hi rend="italic">dagesh</hi> may be marked in the first letter of the second word. This "conjunctive <hi rend="italic">dagesh</hi>" is never used in initial <hi rend="italic">alef, he, het, ‘ayin</hi>, or <hi rend="italic">waw</hi>, so cases in which the second word begins with one of these letters are not considered as examples of a "standard pair". In L, conjunctive <hi rend="italic">dagesh</hi> is not used after a word ending in <hi rend="italic">alef</hi> in the Hebrew text (as far as I know -- including <foreign xml:lang="he">אַל־תֵּרֶא יַיִן</foreign> in Prov 23:31, mentioned in Yeivin's #404), but is used several times in the Aramaic parts of Daniel and Ezra (which are not extant in A), as <foreign xml:lang="he">כְּלָּא מָּטֵא</foreign> (Dan 4:25), <foreign xml:lang="he">אֲמַרְנָא לָּהֹם</foreign> (Ezra 5:4, 9). These Aramaic examples are not considered here. The special case of <foreign xml:lang="he">מַה</foreign> is also ignored. Apart from these, I have noted only 28 cases (less than 1/3 of 1%) in which conjunctive <hi rend="italic">dagesh</hi> is used in a situation different from that of the standard pair defined above.<ptr target="#note3"/></p>
+
+<p>It appears from a survey of the standard pairs collected that, when other conditions are the same, it makes no difference to the use of conjunctive <hi rend="italic">dagesh</hi> whether the two words are joined by a conjunctive accent or by <hi rend="italic">maqqef</hi>. Consequently the two situations are not distinguished. It also appears that <hi rend="italic">shewa</hi> is most usefully classified according to whether it does or does not reflect an earlier vowel. When the material is treated in this way, the basic pattern of occurrence of conjunctive <hi rend="italic">dagesh</hi> can be described very simply. Conjunctive <hi rend="italic">dagesh</hi> typically occurs in three categories of standard pairs:
+    <list rend="numbered">
+        <item n="1">Where the first word ends in <hi rend="italic">segol</hi>. 231 of 242 cases (95%), as Gen 2:18 <foreign xml:lang="he">אֶעֱשֶׂה־לּוֹ</foreign>.</item>
+        <item n="2">Where the first word ends in <hi rend="italic">qameṣ</hi>, if that <hi rend="italic">qameṣ</hi> is typically not stressed in the contextual form of that word. 304 of 330 cases 92%), as Gen 12:18 <foreign xml:lang="he">הִגַּדְתָּ־לִּי</foreign>.</item>
+        <item n="3">Where the first word ends in <hi rend="italic">qameṣ</hi> preceded by a <hi rend="italic">shewa</hi> which is marked as vocal, or reflects an earlier vowel. 153 of 178 cases (86%) as Gen 18:21 <foreign xml:lang="he">אֶרְדֶּה־נָּא</foreign>.</item>
+    </list>
+</p>
+
+<p>In category 3, the final <hi rend="italic">qameṣ</hi> is typically stressed in the contextual form. In a fourth category, the other cases in which the first word of a standard pair ends in <hi rend="italic">qameṣ</hi> which is typically stressed in the contextual form, conjunctive <hi rend="italic">dagesh</hi> typically does not occur. 170 of 184 cases (92%), as Gen 4:6 <foreign xml:lang="he">חָרָה לָּךְ</foreign>.</p>
+
+<note xml:id="note3" place="bottom">3. Conjunctive <hi rend="italic">dagesh</hi> occurs in a few cases in which the first word of the pair has final stress (Yeivin, op. cit. #405, end) and (more commonly) where the second word is not stressed on its first syllable (ibid. #407.i, see also #4 below). The presence or absence of <hi rend="italic">ga‘ya</hi> is of no significance in L in the latter cases (see ibid. #406).</note>
+      <pb n="97"/>
+<head>Conjunctive Dagesh / 97</head>
+
+<p>The list of examples of conjunctive <hi rend="italic">dagesh</hi> from which these figures are taken was generated by computer search of the FCAT text of the Bible in transliteration. The problems of using this text for a search of this sort were not fully solved; a hand search revealed about 10% more examples. This hand search has been carried out over Genesis, and the text extant in A. Consequently the list of examples used in this preliminary study is not complete, but should be nearly so. The material was studied in L, and the usage of L in the examples collected was compared with A and C.<note n="4">These codices rarely differ from L save in a few cases where they use conjunctive <hi rend="italic">dagesh</hi> according to the standard pattern, but L fails to use it. Some of these cases are noted below. In one case, however, all three sources differ. In <foreign xml:lang="heb">וַיִּקַּח֧ שָׁמָּה</foreign> (2 Kgs 9:2), A has <hi rend="italic">gaʿya</hi> and <hi rend="italic">maqqef</hi> on the verb, and shows conjunctive <hi rend="italic">dagesh</hi>. L has <hi rend="italic">tifḥa</hi> and does not show <hi rend="italic">dagesh</hi>. Both, then, are consistent with the standard pattern. C also shows <hi rend="italic">tifḥa</hi> on the verb, and shows <hi rend="italic">dagesh</hi> in the first letter of the following word. This <hi rend="italic">dagesh</hi> is anomalous (since the first word of the pair has a disjunctive) looks like the result of conflation. There are a few other cases in which it seems possible that the use of conjunctive <hi rend="italic">dagesh</hi> developed in a form of the tradition slightly different from that shown in these codices. Among the most persuasive are:
+<list>
+    <item>Jud 6:39 <foreign xml:lang="heb">אֲנַסֶּה־נָּא־רַק־הַפַּעַם</foreign></item>
+    <item>Ps 118:25 <foreign xml:lang="heb">הוֹשִׁיעָ֧ה נָּא . . . הַצְלִיחָ֧ה נָּא</foreign></item>
+</list></note></p>
+
+<p>The figures for the standard categories given above show that the use of conjunctive <hi rend="italic">dagesh</hi> is much more regular than is generally supposed. This impression is strengthened by a consideration of the exceptions. Many of these fall into groups which can be defined morphologically, and undoubtedly reflect inaccuracy in the description rather than irregularity in the phenomenon. Thus the fourteen exceptions in category 4 are all 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive, as Deut 27:7</p>
+
+<note n="4">4. Facsimiles of these sources are published as follows: L as <hi rend="italic">Pentateuch, Prophets, and Hagiographa: Codex Leningrad B19a</hi> with an introduction by D. S. Loewinger, Jerusalem, 1970; A as <hi rend="italic">The Aleppo Codex</hi> ed. by M. H. Goshen Gottstein, Jerusalem, 1976; C as <hi rend="italic">The Cairo Codex of the Prophets</hi> ed. by D. S. Loewinger, Jerusalem, 1971. P, <hi rend="italic">Prophetarum posteriorum codex babylonicus Petropolitanus</hi> ed. H. Strack, St. Petersburg, 1881, was also compared, as was <hi rend="italic">The Old Testament ... with the Various Readings from the MSS</hi> (ed. by C. D. Ginsburg, London, 1926). Some of the variations from L shown by P may be systematic, but neither these, nor those recorded by Ginsburg (which do not appear to be systematic) are significant for the present purpose.</note>
+      <pb n="98"/>
+<head>98 / E. J. Revell</head>
+<p>וְזָבַחְתָּ שְׁלָמִים וְאָכַלְתָּ שָּׁם.<note n="5" type="footnote">That is, in the matter of conjunctive <emph>dagesh</emph>, the perfect with <emph>waw</emph> consecutive acts like a "simple" perfect, a member of category 2.</note></p>
+<p>The question of whether a word ending in <emph>qames</emph> typically has final or penultimate stress in contextual position is not always clear. Apart from 2m.s forms of perfect with <emph>waw</emph> consecutive, however, it is always possible to give a plausible answer consistent with the pattern shown in the standard categories. As far as I know, the only case where such an answer differs from the commonly accepted view of the form is that of מָרָה־לָּהּ (2 Kgs 4:27). The first word of the pair is usually categorized as a perfect verb form.<note n="6" type="footnote">In this case stress would be typically penultimate and <emph>dagesh</emph> is expected. The form could equally well be an adjective. In this case typical stress would be final, and the lack of conjunctive <emph>dagesh</emph> in the following לָּהּ would conform to the expected pattern.</note> Typical final stress is also assumed for שָׁמְרָה (Amos 1:11. The final <emph>he</emph> represents a pronoun), and (with less certainty) אוֹיָה (Ps 120:5). Unusual forms for which typical penultimate stress is assumed are הָבָה (Gen 30:1, etc.);<note n="7" type="footnote">This would be irregular of the root is יהב, but the imperative of נגש shows similar forms with penultimate stress beside the expected patterns. Identical forms of imperative (of different origin) occur in אָרָה (Num 22:6), and קָבָה (Num 22:11).</note> גָּנָה (2 Sam 24:6, the final <emph>he</emph> is "directional"); and וְהִנִּיחָהּ (Zech 5:11, with stress position corresponding to that of the <emph>hif'il</emph>). Typical penultimate stress for the noun forms like יְשׁוּעָתָה (Ps 3:3), עֶזְרָתָה (Ps 44:27), עַוְלָתָה (Ps 92:16), בַּצָּרָתָה (Ps 120:1) is amply demonstrated in nouns of this form elsewhere (Exod 15:16, Ezek 28:15, Jonah 2:10, etc.). It can reasonably be stated, then, that in category 4, where the first word of a standard pair ends in <emph>qames</emph> which is typically stressed in context and is not preceded by <emph>shewa</emph> reflecting an earlier vowel, the failure to use conjunctive <emph>dagesh</emph> is absolutely regular.</p>
+<p>Where the first word of a standard pair ends in <emph>qames</emph> which is typically not stressed in context, the largest group of exceptions to the common pattern (I have 13 examples) occurs where the second word of the pair has a prefixed preposition (-בּ or</p>
+<note n="5" place="foot">5. Exod 25:12, Lev 25:35, Deut 14:26, 16:2, 17:14, 26:1, 27:7, 28:36, 64, 2 Sam 9:10, 1 Kgs 22:13, Ezek 28:12, 35:3, 2 Chron 18:12. These are all from strong roots. <emph>Waw</emph> consecutive perfect forms from final weak roots do not usually develop final stress.</note>
+<note n="6" place="foot">6. So, e.g., the Lexicon of Brown, Driver and Briggs, also that of Koehler, Baumgartner, et. al., also A. Even-Shoshan, <emph>A New Concordance of the Bible</emph> (Jerusalem, 1982).</note>
+      <pb n="99"/>
+<head>Conjunctive Dagesh / 99</head>
+
+<p>ל-- -- a well-known phenomenon, although not so consistent as is sometimes suggested).</p>
+
+<p>In the second largest group of exceptions in category 2, the first word is a feminine plural imperfect form from a final weak root with <emph rend="italic">segoḷ</emph> as its penultimate stressed vowel. I have noted six examples, as נְּפַּחְנָה לָּי (Ezek 23:4).<ptr target="#n8"/> C agrees with L in not showing conjunctive <emph rend="italic">dagesh</emph> here, as does A in all six cases. It is difficult to see how these exceptions could have a phonological basis. Conjunctive <emph rend="italic">dagesh</emph> does occur after a word ending in stressed <emph rend="italic">segoḷ</emph> followed by <emph rend="italic">qameṣ</emph> where the two vowels are separated by <emph rend="italic">nun</emph> marked with <emph rend="italic">dagesh</emph>, as with the suffixes in 1 Sam 18:21, 21:10, etc., and even in Mic 7:10 תִּרְאֶינָּה בָּהּ. It also occurs where vowels are separated by a single consonant other than <emph rend="italic">nun</emph> as in Gen 14:10, 38:29, Jos 8:28, etc. It is remarkable, however, that f.pl imperfect verbs commonly form exceptions to other standard phonological patterns. Neither the change of original *a to <emph rend="italic">qameṣ</emph> in pause, nor the change of original *i to <emph rend="italic">pataḥ</emph> in a closed stressed syllable, occurs regularly in these forms.<ptr target="#n9"/> What connection, if any, this has with the development of conjunctive <emph rend="italic">dagesh</emph> is a matter for speculation.</p>
+
+<p>In a number of other other exceptions to the standard pattern in category 2, conjunctive <emph rend="italic">dagesh</emph> does not occur in L where A and C do show it. Most of these reflect the tendency in L, noted by Prof. Dotan, to omit <emph rend="italic">dagesh</emph> in initial שׁ, מ, etc., where the second letter of the word has <emph rend="italic">dagesh</emph>.<ptr target="#n10"/> Of the other cases of omission of expected <emph rend="italic">dagesh</emph>, in L at least, וְבָאזְנֵי שָׁמַע (Ezek 3:10) appears to be an error. L does show <emph rend="italic">dagesh</emph> in the same pair in Ezek 40:4, 44:5; A and C show it in all three cases. In fact, there are only two cases in L in category 2 which do not appear clearly</p>
+
+<note xml:id="n8">8. Also forms from קרא in Ruth 1:20, 20, 21, 4:17, 17. Conjunctive <emph rend="italic">dagesh</emph> occurs regularly in f.pl imperfect forms where the penultimate syllable is closed, as תֵּלַכְנָה מָיִם (Ezek 7:17), and also where that syllable is open with <emph rend="italic">ḥolem</emph> in וַתָּבֹאנָה לָּךְ in L, (Isa 47:9) A, C.</note>
+
+<note xml:id="n9">9. <emph rend="italic">Pataḥ</emph> reflects original *a in the stressed syllable of an f.pl imperfect form in pause in Isa 5:15, 32:3, 60:14, Jer 49:2, Mic 7:16, and even before <emph rend="italic">ʿayin</emph> in תִּשְׁעֶנָה (Prov. 27:20, 20, 30:15). As far as I know, <emph rend="italic">qameṣ</emph> occurs only in תִּרְעֶנָה (Ezek 6:6). <emph rend="italic">Ṣere</emph> occurs regularly in the stressed syllable of f.pl imperfect forms from <emph rend="italic">piʿel</emph> or <emph rend="italic">hifʿil</emph> stems, and in the <emph rend="italic">qal</emph> form תֵּלַכְנָה (Ps 48:12, 51:10, 97:8). The expected <emph rend="italic">pataḥ</emph> occurs in other <emph rend="italic">qal</emph> forms, as תֵּלַכְנָה, and in <emph rend="italic">nifʿal</emph> forms.</note>
+
+<note xml:id="n10">10. See A. Dotan, "Deviation in Gemination in the Tiberian Vocalization", <emph rend="italic">Estudios Masoreticos</emph>, ed. E. Fernández-Tejero (Textos y Estudios vol. 33, 1983):67.</note>
+      <pb n="100"/>
+<p>
+   100 / E. J. Revell
+</p>
+<p>
+   to result from conditioning (phonological or otherwise) or error, and even these may
+   be explicable.
+</p>
+<p>
+   Neither the few exceptions in category 1, nor the many in category 3, show such
+   clear evidence of conditioning, but it seems probable that some, at least, were
+   conditioned. In category 1, where a standard pair is formed of <foreign xml:lang="heb">אֵלֶּה</foreign> followed by a
+   preposition with a pronominal suffix, as <foreign xml:lang="heb">מַה־אֵלֶּה לָּךְ</foreign> (2 Sam 16:2, and similarly Gen
+   33:5, 38:25, Ezek 24:19, 39:18), conjunctive <hi rend="italic">dagesh</hi> is used. Where the second word is
+   a noun or adverb, as <foreign xml:lang="heb">וְאֵלֶּה שְׁמוֹת בְּנֵי־יִשְׂרָאֵל</foreign> (Exod 6:16, and similarly Gen 46:8,
+   Deut 5:3, Isa 47:9), conjunctive <hi rend="italic">dagesh</hi> is not used. It seems likely that in this latter
+   group the prosodic patterns defining the structures originally prevented the
+   development of conjunctive <hi rend="italic">dagesh</hi>. That is to say, they were different from those
+   reflected by the received accentuation. It is noteworthy that, in the 17 other cases
+   where <foreign xml:lang="heb">אֵלֶּה שְׁמוֹת</foreign> is followed by a noun or noun phrase, <foreign xml:lang="heb">אֵלֶּה</foreign> has a disjunctive accent,
+   and so cannot form a standard pair. In category 3, nouns in which the penultimate
+   syllable was originally closed by a guttural which is followed by a <hi rend="italic">ḥaṭef shewa</hi> in L act
+   in the same way as do nouns in which a simple <hi rend="italic">shewa</hi> in the same position is consi-
+   dered silent, as <foreign xml:lang="heb">נַחֲלָה־לָּנוּ</foreign> (2 Sam 20:1, other forms Ezek 28:17, Prov 13:12, 15:17),
+   compare <foreign xml:lang="heb">וְעַנְוָתְךָ־תַרְבֵּנִי</foreign> (Ps 45:5, other forms Mic 1:11, Ps 45:5, Prov 17:1). Despite the
+   vocal <hi rend="italic">shewa</hi> before the final <hi rend="italic">qameṣ</hi>, forms like <foreign xml:lang="heb">נַחֲלָה</foreign> act as members of category 4.
+</p>
+<p>
+   Other forms with <hi rend="italic">shewa</hi> before a final <hi rend="italic">qameṣ</hi> also raise problems. Cases where
+   the first word in a standard pair is a feminine form noun acting as an infinitive, as
+   <foreign xml:lang="heb">לְטָמְאָה־בָהּ</foreign> (Lev 15:32, 18:20, 23, 22:8), <foreign xml:lang="heb">וּלְדָבְקָה־בוֹ</foreign> (Deut 11:22, 30:20, Jos 22:5)
+   appear to have a closed penultimate syllable and typical final stress, like <foreign xml:lang="heb">עֶנְוָה</foreign> etc.
+   They thus belong to category 4, so that conjunctive <hi rend="italic">dagesh</hi> is not expected. However
+   conjunctive <hi rend="italic">dagesh</hi> is regularly used after imperative forms of apparently similar
+   structure, as <foreign xml:lang="heb">זָכְרָה־לִּי</foreign> (Neh 5:19, similarly Neh 13:14, 22, 1 Chron 29:18) and
+   <foreign xml:lang="heb">שִׁמְעָה־לִּי</foreign> (Job 32:10, similarly Job 34:16). Conjunctive <hi rend="italic">dagesh</hi> is also used after two
+   other forms in which the penultimate syllable would generally be considered closed:
+   <foreign xml:lang="heb">נַעַמְדָה־יָּחַד</foreign> (Isa 50:8) and <foreign xml:lang="heb">נֶעֶזְבָה־נָּא</foreign> (Neh 5:10). A vowel clearly was used between
+   the last two root consonants of such forms in some traditions.<note n="11">It is possible that the
+   presence or absence of such a vowel was the factor which conditioned the use or non-</note>
+</p>
+<note n="11">
+   11. As is shown by the use of Waw before the last root consonant in imperative
+   forms, as <foreign xml:lang="heb">מְלוֹכָה</foreign> in Jud 9:8, and in <foreign xml:lang="heb">נעמודה</foreign> (Isa 50:8) in 1QIsa<hi rend="superscript">a</hi>. Cf. also <foreign xml:lang="heb">יעמודו</foreign> In
+   Cambridge University Library MS TS 16:96 (= P. E. Kahle, <hi rend="italic">MdW II</hi>, MS J) Dan 11:14
+   (<foreign xml:lang="heb">יעמדו</foreign> L).
+</note>
+      <pb n="101"/>
+<head>Conjunctive Dagesh / 101</head>
+<p>
+    use of conjunctive <hi rend="italic">dagesh</hi>. It is also possible that the conditioning factor was some
+    other feature in which verbs characteristically differed from nouns.
+</p>
+<p>
+    Third person feminine singular perfect verb forms provide another case in
+    which the status of <hi rend="italic">shewa</hi> is uncertain. Such forms are followed by conjunctive <hi rend="italic">dagesh</hi>
+    in 74 cases, (excluding forms which are, or may be, f.s participles), as <foreign xml:lang="he">מָטָֽתָה פָּֽרֶק</foreign> (Ps
+    107:42, Job 5:16). In another six cases, <hi rend="italic">dagesh</hi> does not occur, as <foreign xml:lang="he">וְתָחַנָּה פָּֽרֶק</foreign> (Prov
+    30:20). As the examples indicate, there is no obvious reason for the 7% of exceptions.
+    The <hi rend="italic">shewa</hi> in such forms is quite often written as composite (as in Prov 30:20), and
+    was unquestionably vocal at one time. In the present context, these forms would
+    belong in category 4 if the <hi rend="italic">shewa</hi> were silent. In this case conjunctive <hi rend="italic">dagesh</hi> in the
+    following word would be exceptional. In fact, however, the only forms in which a final
+    <hi rend="italic">qameṣ</hi> which is typically stressed is preceded by a silent <hi rend="italic">shewa</hi> are the noun and
+    infinitive forms described above. Thus there is a possibility that the factor that
+    governs the use of conjunctive <hi rend="italic">dagesh</hi> is not the vocal or silent nature of the <hi rend="italic">shewa</hi>,
+    but some characteristic difference between verbs and nouns. The most obvious dif-
+    ference is the fact that, in nouns, stress on a final <hi rend="italic">qameṣ</hi> is not the result of a shift of
+    stress from penultimate position, while in verb forms, it is.
+</p>
+<p>
+    If this difference is the conditioning factor, the description of conjunctive <hi rend="italic">dagesh</hi>
+    in words ending in <hi rend="italic">qameṣ</hi> can be simplified. Categories 2-3-4 can be replaced by the
+    statement that conjunctive <hi rend="italic">dagesh</hi> occurs after words in which the final <hi rend="italic">qameṣ</hi> was not
+    originally stressed, not after those in which it was. Under this formulation, <hi rend="italic">waw</hi>
+    consecutive perfect forms are no longer exceptional, and there is no irregularity in the
+    use of conjunctive <hi rend="italic">dagesh</hi> after the superficially identical infinitive and imperative
+    forms discussed above. The same applies to its use after <foreign xml:lang="he">מִצְוָה</foreign> in the three cases of
+    <foreign xml:lang="he">מִצְוָה-הִלָּה</foreign> (2 Kgs 7:1, 16, 18) in which the absence of conjunctive <hi rend="italic">dagesh</hi> contrasts with
+    its regular presence after imperative forms of the same structure, as in <foreign xml:lang="he">שְׁכָה-לָהּ</foreign> (Rut
+    4:1 and 20 other cases). Exceptions to the standard pattern remain, of course, but
+    under this simpler description the largest proportion is 8% in any category. Some of
+    these 8% represent errors by the <hi rend="italic">naqdan</hi> of L; others are phonologically conditioned.
+    The remaining proportion of anomalies is small enough that it can be confidently
+    stated that the phenomenon represented by conjunctive <hi rend="italic">dagesh</hi> results automatically
+    from close juncture in the situation described as a standard pair. It is not a Masoretic
+    mystery, but a <hi rend="italic">sandhi</hi> phenomenon. It is to be hoped that further study of a complete
+    collection of cases of conjunctive <hi rend="italic">dagesh</hi> will show that error or particular
+    phonological conditioning accounts for the majority of anomalies, and so place this
+    conclusion beyond the possibility of doubt.
+</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1 @@
+ERROR with model allenai/molmo-2-8b: Error code: 404 - {'error': {'message': 'All providers have been ignored. To change your default ignored providers, visit: https://openrouter.ai/settings/privacy', 'code': 404}}

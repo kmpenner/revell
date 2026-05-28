@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>The Battle with Benjamin (Jud. XX 29-48) and Hebrew Narrative Techniques</title>
+      <author>
+        <persName>
+          <forename>E.</forename>
+          <forename>J.</forename>
+          <surname>Revell</surname>
+        </persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Brill</publisher>
+      <date when="1985">1985</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">The Battle with Benjamin (Jud. XX 29-48) and Hebrew Narrative Techniques</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Vetus Testamentum</title>
+          <imprint>
+            <biblScope unit="volume">XXXV</biblScope>
+            <date when="1985">1985</date>
+            <biblScope unit="page" from="417" to="433">417-433</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded from file: 07a.24_The_Battle_with_Benjamin_(Jud._XX_29-48)_and_Hebrew_Narrative_Techniques_part2.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb n="417"/>
+<p rendition="right"><hi rend="italic">Vetus Testamentum</hi> XXXV, 4 (1985)</p>
+
+<head>THE BATTLE WITH BENJAMIN (JUDGES XX 29-48) AND HEBREW NARRATIVE TECHNIQUES</head>
+
+<p rendition="center">by</p>
+
+<p rendition="center">E. J. REVELL<lb/>
+Toronto</p>
+
+<p>The primary purpose of this article is to show that Judg. xx 29-48 can be understood as a logical and cohesive account of a battle, presented by methods typical of the other stories in the book.<note n="1">This is directed against the common view that the passage was incompetently composed. See C. F. Burney <hi rend="italic">The Book of Judges</hi> (2nd edn, London, 1920), p. 447, “Close examination of <hi rend="italic">chs.</hi> 20, 21, reveals the presence of a mass of discrepancies, repetitions, and dislocations ... ”; J. A. Soggin, <hi rend="italic">Judges</hi> (London, 1981), pp. 293-4, “The chief difficulty in this narrative is presented by the now generally accepted fact that here we have two accounts of the same event, somewhat crudely combined ...”</note> These methods are studied (so far as is necessary for this purpose) in the narrative materials of the book of Judges: that is, the whole book, excepting chapter five, and with all quoted speech excluded.<note n="2">For this material, only chapter and verse references are given. The book is only indicated for references outside Judges.</note> This material is accepted as a homogeneous unit for this purpose, on the assumption that we have it in substantially the same form in which it left its last editor or compiler, and that any features of the syntax of clauses or larger units characteristic of earlier sources, but unacceptable in the usage of his day, would have been harmonized with it.</p>
+
+<p>The study of narrative method is divided into three parts. The first deals with the function of clauses in the narrative, the second with the way in which they relate to the temporal framework in which an English translation is inevitably cast. The third part describes a few features of narrative technique which are not typical of English narrative. The material in Judg. xx 29-48 is not included in these sections, as they are intended to establish the framework within which that passage must be understood. The final part of the article presents a translation of the passage, with comments in the light of the conclusions of the first three parts.</p>
+      <pb/>
+<gap reason="illegible" resp="#author">
+  <desc>The page image provided is completely black and contains no discernible text or formatting.</desc>
+</gap>
+      <pb n="418"/>
+<fw type="header" rend="align(center)">
+    418 <space quantity="15" unit="chars"/> E. J. REVELL
+</fw>
+<head rend="italic">The Function of Clauses in the Narrative of Judges</head>
+<p>
+    The clauses in this corpus can be analysed, on a semantic basis,<note n="3">This basis is not entirely subjective, having the support of a long history of translation and comment. The support of grammatical features might seem desirable, but in fact renders analysis such as that of F. I. Andersen in <title rend="italic">The Sentence in Biblical Hebrew</title> (The Hague, 1974) unsuitable for this purpose, since the classification is based on a combination of semantic and structural phenomena. Apart from a few particles, grammatical markers of relationship above clause level appear (at the present stage of our knowledge) to be either ambiguous or non-existent. It seems to me that a satisfactory attempt to describe the significance of grammatical features above clause level must be based on independent studies both of clause structure and of semantic function. Despite its many valuable insights, Andersen’s book is difficult to use because this basic information, which is not, in fact, available to the reader, is assumed.</note>
+    as representing four categories.
+    <list rend="numbered">
+        <item>(1) Narrative—carrying the main line of narrative, which is represented as a series of events.</item>
+        <item>(2) Descriptive—providing information about an item or event mentioned in the preceding clause.</item>
+        <item>(3) Contextualizing—providing the context in time, space, or events in which a following narrative clause is located.</item>
+        <item>(4) Incidental—providing information which is neither a part of the main line of the narrative, nor closely related to what precedes or follows.</item>
+    </list>
+</p>
+<p>
+    In a semantic classification of this sort there are few objective indicators of the category to which a clause should be assigned, so that in a number of cases a good argument could be made for placing a clause in either of two categories. What is claimed here is that the existence of each category can be justified on the basis of clear examples, and that every clause in the corpus (excepting only those listed below as anomalous) can reasonably be assigned to one of these four categories.
+</p>
+<p>
+    1. <hi rend="italic">Narrative Clauses</hi>
+</p>
+<p>
+    The main line narrative is typically carried by verbal clauses with <hi rend="italic">wayyiqtōl</hi> forms.<note n="4">For simplicity, verb forms are referred to as <hi rend="italic">wayyiqtōl</hi> (imperfect with <hi rend="italic">waw</hi> consecutive), <hi rend="italic">yiqtōl</hi> (other imperfect), <hi rend="italic">wᵉqātal</hi> (perfect with <hi rend="italic">waw</hi> consecutive) or <hi rend="italic">qātal</hi> (other perfect).</note> It seems that, with the exception of the cases of <hi rend="italic">wyhy</hi> listed below, all <hi rend="italic">wayyiqtōl</hi> forms are contained in narrative clauses.<note n="5">There are cases where this might appear not to be so. E.g. in iv 5, <hi rend="italic">wyᶜlw</hi> might well be a continuation of a preceding incidental clause, <hi rend="italic">why’ ywšbt</hi> ..., with the</note>
+</p>
+      <pb n="419"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES XX 29-48) 419</head>
+
+<p>Where <hi rend="italic">wayyiqṭōl</hi> cannot be used, narrative in past time is usually carried by <hi rend="italic">qāṭal</hi> forms, as
+<list>
+    <item>viii 20 <hi rend="italic">wlʾ šlp ḥnʿr</hi> ... "The boy did not draw his sword"</item>
+    <item>vii 3 <hi rend="italic">wʿśrt ʾlpym nšʾrw</hi> ... "Ten thousand remained"</item>
+    <item>vii 25 <hi rend="italic">wrʾš ʿrb wzʾb hbyʾw</hi> ... "They brought the heads of Oreb and Zeeb ..."</item>
+</list>
+The subject or modifier is placed before the verb in the last two cases to focus attention on it, to highlight a contrast (change of subject or object) with the preceding clause.<note n="6" place="foot">Clauses of this form often occur at the end of a unit of text (as do these two) and may possibly be used with the intention of marking the end of such a unit.</note></p>
+
+<p>Clauses with <hi rend="italic">qāṭal</hi> verbs introduced by <hi rend="italic">ʾz</hi> (viii 3, xiii 21) or <hi rend="italic">ʿl kn</hi> (xv 19, xviii 12) indicating a result of the event presented in the preceding clause are also to be regarded as narrative.</p>
+
+<p>In the few cases in which repeated action in the past is presented, the verb of a narrative clause has the form <hi rend="italic">yiqṭōl</hi> or <hi rend="italic">weqāṭal</hi>, as ii 19 <hi rend="italic">yšbw whšḥytw</hi> ... "They reverted and acted more corruptly than their fathers". Also <hi rend="italic">tlknh</hi> xi 40, <hi rend="italic">wʾmr</hi> xix 30. In the case of <hi rend="italic">ykyn</hi>, xii 6, the meaning is uncertain. The action is possibly durative.</p>
+
+<p>There seems no reason to suppose that the main narrative line is ever carried by verbless clauses. Probably wherever this could occur, some form of <hi rend="italic">hyh</hi> was used, as
+vi 40 <hi rend="italic">wyhy ḥrb ʾl hgzh ... wʿl kl hʾrṣ hyh ṭl</hi> "It was dry on the fleece alone, but there was dew all over the ground".</p>
+
+<p>2. <hi rend="italic">Descriptive Clauses</hi></p>
+
+<p>Clauses of this type, which present further details about an item mentioned in the preceding clause, are typically verbless, as
+iv 22 <hi rend="italic">whytd brqtw</hi> "(There lay Sisera dead), the peg in his temple".</p>
+
+<note place="foot">following <hi rend="italic">wtšlh</hi> beginning the main narrative. This appears to be the general view, and is clearly that of Soggin (see n. 1) "She used to sit ... and the Israelites came up ... But one day she sent ..." However this view would appear to require <hi rend="italic">wʿlw</hi> to express repeated action (They used to come up). Consequently <hi rend="italic">whyʾ ywšbt</hi> is probably contextualizing, and <hi rend="italic">wyʿlw</hi> narrative. "(When) she was living ... the Israelites came up (on one occasion) ... and (on this occasion) she sent for Baraq ..."</note>
+
+<note n="6" place="foot">Andersen's remark that clauses involving contrast of this sort (a chiastic sentence in his terms, p. 137) form a pair in parallel as regards narrative function is certainly justified, but emphasizes the point made above. Chiasmus is defined structurally. Such chiastic pairs may have a variety of functions. In this case the function of both clauses is narrative, even if the actions presented are parallel.</note>
+      <pb n="420"/>
+<fw type="header">420 E. J. REVELL</fw>
+<p>Few such clauses contain even participles. One example is iv 2
+<unclear>whw’ yšb</unclear> “(Sisera) who lived in Ḥaroshet ha-Goyim”.
+A few verbal clauses describe items in this way, as
+xiii 2 <unclear>wl’ yldh</unclear>, in a series of descriptive clauses, “(A man named
+Manoaḥ whose wife was barren), not having borne”. Or
+x 4 <unclear>lhm yqr’w</unclear> ... “(Cities?) which they used to call Ḥavvot Jair”.</p>
+<p>Occasionally a verbal clause adds further detail on the action
+represented by the verb of the preceding clause, as
+vi 19 <unclear>hbśr śm</unclear> ... <unclear>whmrq śm</unclear> ... “(He prepared a kid) putting the flesh
+in a basket and the broth in a bowl”. (Also ii 17, 17, xviii 17, 17.)</p>
+<p>Verbal clauses in the descriptive category are regularly
+asyndeton, unless joined by the conjunction to a preceding clause of
+the same category, as the examples in xiii 2 and vi 19 quoted above,
+and <unclear>wl’ yḥṭ’</unclear> in xx 16.<note n="7"/></p>
+<p>Clauses introduced by <unclear>’šr</unclear> (relative) and <unclear>ky</unclear> (explanatory) can be
+considered as forming sub-classes of the descriptive category. In
+both cases verbless clauses are the most common, followed by
+clauses with <hi rend="italic">qāṭal</hi> verbs. Clauses with <hi rend="italic">yiqṭōl</hi> verbs occur occasional-
+ly. The single example of a clause introduced by <unclear>btrm</unclear> (xiv 18) is also
+classified as descriptive.</p>
+<head>3. Contextualizing Clauses</head>
+<p>These clauses, which place a following narrative clause in a con-
+text of time, place, or events, are typically verbal. The best-known
+group are those formed by <hi rend="italic">wyhy</hi> followed by a temporal phrase, or
+(less commonly) a clause introduced by <unclear>k’šr</unclear> or <unclear>ky</unclear>,<note n="8"/> as
+iii 27 <unclear>wyhy bbw’w</unclear> ... “When he had arrived, (he blew ... )”
+iii 18 <unclear>wyhy k’šr klh</unclear> ... “When he had finished presenting the tribute,
+(he dismissed ... )”.</p>
+<note n="7">Verbless descriptive clauses, and clauses of other types, are rarely asyndeton.
+The asyndeton verbal descriptive clauses in Judges are ii 17 <unclear>srw</unclear>, <unclear>l’ ‘św</unclear>; vi 19 <unclear>hbśr
+śm</unclear>; x 4 <unclear>lhm yqr’w</unclear>; xvii 6, xxi 25, <unclear>’yš ... y‘śh</unclear>; xviii 17, <unclear>b’w</unclear>, <unclear>lqḥw</unclear> (also xx 31 <unclear>hntqw</unclear>, and
+presumably xx 43, <unclear>ktrw</unclear>, <unclear>hrdyphw</unclear>, <unclear>mnwhh hdrykwh</unclear>, see below). <unclear>whmhnh hyh bṭh</unclear> in viii
+11 may be considered as a verbal descriptive clause with a conjunction (see Burney:
+“Whilst the host was careless”; Soggin: “When it thought that it was safe”).
+However, the use of <hi rend="italic">hyh</hi> is unparalleled in a clause of this sort, and a similar
+needless repetition of an explicit subject is found only in iii 17 <unclear>w‘gln</unclear>. On these
+grounds it may well be correct to classify the case in viii 11 as contextualizing.
+“The host had become secure (had not set sentries) so (there was no fight but)
+Zebah and Ṣalmunnaʿ fled ... ”</note>
+<note n="8">Similarly with <hi rend="italic">whyh</hi> where the context of past events was repeated ii 19, vi 3,
+xii 5.</note>
+      <pb n="421"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES XX 29-48) 421</head>
+
+<p>The same contextualizing function is also performed by clauses in which a <hi rend="italic">qāṭal</hi> verb is preceded by the subject, or (much less frequently) by a modifier, and by verbless clauses, usually containing a participle, and also usually with the subject placed first, as
+<list rend="simple">
+    <item>vi 34 <hi rend="italic">wrwḥ yhwh lbšh</hi> ... "The spirit of the Lord had clothed Gideon (and he blew the trumpet ...)"</item>
+    <item>xxi 1 <hi rend="italic">w’yš yśr’l nšbʿ</hi> ... "The Israelites had sworn ... (and the people came ...)"</item>
+    <item>xvi 9 <hi rend="italic">wh’rb yšb lh</hi> ... "The ambush was sitting (ready) for her ... (and she said to Samson ...)"</item>
+    <item>or, in a pair of such clauses</item>
+    <item>xviii 3 <hi rend="italic">hmh ʿm byt mykh whmh hkyrw</hi> ... "They were at Micah's place, and they had recognized the Levite's voice ... (and they turned aside ...)".</item>
+</list></p>
+
+<p>This last example provides indisputable proof that the use of an independent pronoun as the subject of a verb, or the placing of the subject before the verb, is not always intended to focus attention on it. There is no visible purpose in the repetition of <hi rend="italic">hmh</hi> except to provide a subject-<hi rend="italic">qāṭal</hi> structure. This can be regarded as definite proof that this clause (and so, by inference, other similar clauses) is not a narrative clause, and thus that subject-<hi rend="italic">qāṭal</hi> is a typical structure for contextualizing clauses.</p>
+
+<head>4. Incidental Clauses</head>
+
+<p>Most clauses originally assigned to this group could equally well be assigned to one or other of the two preceding groups. However a small number clearly does not fit either category. It seems best to classify in this way clauses introduced by <hi rend="italic">hnh</hi>, at least when not following a form of <hi rend="italic">r’h</hi>, as
+<list rend="simple">
+    <item>vi 28 <hi rend="italic">whnh ntṣ mzbh hbʿl</hi> ... "The altar of Baal had been torn down"</item>
+</list>
+This is followed by two further incidental clauses, also with <hi rend="italic">qāṭal</hi> verbs, but clauses of this type are more usually verbless, with a participle, as
+<list rend="simple">
+    <item>iv 22 <hi rend="italic">whnh sysr’ npl</hi> ... "Sisera was lying (dead)".</item>
+</list>
+Examples which are not introduced by <hi rend="italic">hnh</hi> are: verbal with <hi rend="italic">qāṭal</hi>
+<list rend="simple">
+    <item>xvi 31 <hi rend="italic">whw’ špṭ ’t yśr’l</hi> ... "He had judged Israel ...", verbless with participle,</item>
+    <item>xiv 4 <hi rend="italic">wbʿt hhy’ plštym mšlym</hi> ... "At that time the Philistines ruled Israel".</item>
+</list></p>
+      <pb n="422"/>
+<p>
+    422 <space dim="horizontal" extent="medium"/> E. J. REVELL
+</p>
+<p>
+    Verbless clauses with no participle are rare in this category. An example is<lb/>
+    viii 10 <hi rend="italic">whnplym mʾh wʿśrym ʾlp</hi> ... "The fallen were 120,000".
+</p>
+<p>
+    Clauses which were not included in the above categories were omitted because their meaning was in doubt due to syntactical anomaly. These are<lb/>
+    Verbal <hi rend="italic">wnʿl</hi> iii 23; <hi rend="italic">wayyiqtōl</hi>, or asyndeton <hi rend="italic">qātal</hi> is expected.<lb/>
+    <space dim="horizontal" extent="tabbed"/> <hi rend="italic">wʿlw</hi> xvi 18; <hi rend="italic">wayyiqtōl</hi> is expected.<lb/>
+    Verbless <hi rend="italic">ʿbr</hi> viii 4; anomalous.<ref target="#n9">9</ref><lb/>
+    <space dim="horizontal" extent="tabbed"/> <hi rend="italic">wmplyʾ lʿśwt</hi> xiii 19; a nominal subject is expected.<lb/>
+    xviii 7 <hi rend="italic">wʾyn mklym dbr bʾrṣ ywrš ʿṣr</hi> may be composed of two one part clauses, but the meaning is obscure.<ref target="#n10">10</ref>
+</p>
+<head>The Value of Verb-forms and of Verbless Clauses</head>
+<p>
+    The exact value of Semitic verb forms continues to be a subject of debate. For present purposes, however, the only question is how these forms are used in relation to the temporal framework of the English verbal system. The attempt to define this is made in terms of the actual relationship in time of the events in the narrative. This is a question quite separate from that of how Hebrew speakers perceived relationship in time.
+</p>
+<p>
+    The main body of the narrative is presented as a series of events represented in narrative clauses using <hi rend="italic">wayyiqtōl</hi> verbs, with <hi rend="italic">qātal</hi> as a less common conditioned variant. The events described are in the past relative to the reader.
+</p>
+<p>
+    Where a descriptive clause relates to the event represented by the verb of the preceding clause, it necessarily refers to the time of that event. Consequently <hi rend="italic">qātal</hi> in this situation refers to the same stratum of past time as does <hi rend="italic">wayyiqtōl</hi> (or <hi rend="italic">qātal</hi>) in the preceding narrative clause, what might be called the present relative to the narrative, the past relative to the reader. Such descriptive verbs are,
+</p>
+<note xml:id="n9" n="9" place="foot">
+    <hi rend="italic">mtdpqym</hi> in xix 22 may be a similar situation, but is more easily accepted as attributive.
+</note>
+<note xml:id="n10" n="10" place="foot">
+    Easily intelligible one-part verbless clauses occur in xviii 12 <hi rend="italic">hnh ʾhry qryt yʿrym</hi> "(It is) west of Qiriat Yeʿarim" and xix 28 <hi rend="italic">wʾyn ʿnh</hi> "(There was) no answer(er)". (That <hi rend="italic">ʾyn</hi> is not in any way a [quasi] verbal particle may be seen by comparing a typical clause <hi rend="italic">ʾynk šmr</hi> with the basic form <hi rend="italic">ʾth šmr</hi> and with other possible variations, as <hi rend="italic">hnk šmr, ʿwdk šmr</hi>. The verbal element is supplied only by English structure, not by Hebrew.)
+</note>
+      <pb n="423"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES XX 29-48)</head>
+<p>consequently, often conveniently translated by English participles, as vi 19 in (2) above, and in ii 17, 17, xviii 17, 17.</p>
+<p>In all other cases, decriptive clauses relate not to an event, but to an item mentioned in the preceding narrative clause. In this case, a <hi rend="italic">qāṭal</hi> verb represents an event already past relative to the event described in the preceding clause. That is, a <hi rend="italic">qāṭal</hi> form in a descriptive clause related to a preceding noun or pronoun refers to the past relative to the narrative, the pluperfect relative to the reader, as vii 19 <hi rend="italic">wyb’ gdᶜn ... r’š h’šmrt htykwnh ’k hqm hqymw ’t hšmrym ...</hi> “Gideon arrived ... at the beginning of the middle watch—they had just set the guards.” So also <hi rend="italic">yldh</hi> xiii 2, <hi rend="italic">htpqdw</hi> xx 15.</p>
+<p>The same is true of all other clause types mentioned. A <hi rend="italic">qāṭal</hi> form represents an event which had already occurred at the time of the narrative. Thus in viii 35 <hi rend="italic">’šr ᶜśh ...</hi> After Gideon’s death, the treatment of his family was not consistent with “all the good which he had done”, ix 5 <hi rend="italic">ky nhb’ ...</hi> Jotham escaped death “because he had hidden”. So also in a contextualizing clause xxi 1 <hi rend="italic">w’yš yśr’l nšbᶜ ...</hi> “The men of Israel had sworn”—presumably at the council before the battle, and in an incidental clause vi 28 <hi rend="italic">whnh ntṣ mzbḥ hbᶜl ...</hi> “The altar of Baal had been torn down”—in the night, before the citizens got up.</p>
+<p>The relative time is quite clear in these, and in many other examples. The only cases in which the translation of the verb as pluperfect may seem unreasonable are those in which it represents a state or activity orginating in the past and continuing into the present relative to the narrative.<note n="11">This is typical of <hi rend="italic">hyh</hi> (iii 31, vii 1, viii 30, 30, ix 51, xi 1) and <hi rend="italic">ydᶜ</hi> (xi 39, xiv 4) but also occurs with <hi rend="italic">yšbw</hi> (iii 5), and <hi rend="italic">mlk</hi> (iv 2). The difficulty arises from English semantics, as is shown by the variant possibilities of translation, as <hi rend="italic">yšbw</hi> “lived” or “had settled”, <hi rend="italic">mlk</hi> “reigned” or “had become king”. So also <hi rend="italic">hyh</hi> “was” or “had become”, or <hi rend="italic">ydᶜ</hi> “knew” or “had realized”.</note></p>
+<p>The states or events represented by (descriptive or other) verbless clauses are contemporary with those of the narrative context, (past</p>
+<note n="11">This assumes, of course, correct recognition of the nature of the action. For instance <hi rend="italic">ky ’mrw</hi> in ix 3 does not present an action contemporaneous with or subsequent to that of the preceding narrative clause, but gives the motivation for that action, and so represents a prior event. “(They decided to support Abimelech) for they had said/had decided on the basis of the fact that (He is our brother)”. So also xii 4, xvi 24.</note>
+      <pb n="424"/>
+<head>424 E. J. REVELL</head>
+<p>relative to the reader). If a participle is used, it typically represents a state or a durative activity, as
+<lb/>iii 24 <hi rend="italic">nʿlwt</hi> ‘‘the doors were locked’’
+<lb/>xix 22 <hi rend="italic">mytybym</hi> ‘‘They were enjoying themselves’’ etc.
+<lb/>In contrast to this, a <hi rend="italic">yiqtōl</hi> form typically represents an activity repeated in past time, as
+<lb/>ix 25 <hi rend="italic">yʿbr</hi> ‘‘all who used to come by’’
+<lb/>xiv 10 <hi rend="italic">yʿśw</hi> ‘‘That is what young men used to do’’
+<lb/>x 4 <hi rend="italic">yqrʾw</hi> ‘‘They used to call them’’.
+<lb/>However participle and imperfect are (at least in terms of English) interchangeable, as is shown by
+<lb/>xx 16 <hi rend="italic">qlʿ ... yḥtʾ</hi> ‘‘Each of these used to sling at a hair and not miss’’.<note n="12">It is quite possible, however, that the participle has the same function here as in <hi rend="italic">ślp ḥrb</hi> ‘‘Each of these was a ‘slinger-at-a-hair’, and used not to miss’’. </note></p>
+<p>A durative past (at least as perceived in English), can, then, be expressed by <hi rend="italic">qātal</hi> (with HYH or statives), <hi rend="italic">yiqtōl</hi>, or a participle. It is not unlikely that the conventions of Hebrew allowed such an overlap in function, just as simple or durative past forms can be interchanged in English, as ‘‘I sang as I walked along/was singing as I walked/sang as I was walking ...’’, without definable difference in meaning. The general pattern of usage is, however, quite clear.</p>
+<p>As was stated above, it is not claimed that the Hebrew speaker perceived the relationship of actions in terms of pluperfect etc., but that the distinct function of clauses other than narrative with <hi rend="italic">qātal</hi> verbs is most easily expressed in English by the use of this form. Compare
+<lb/>vi 33 <hi rend="italic">wkl mdyn ... nʾspw ... wyʿbrw wyḥnw</hi> ‘‘All Midian had gathered ... They went and invaded ...’’ with
+<lb/>vii 12 <hi rend="italic">wmdyn ... nplym</hi> ‘‘Midian was occupying ...’’ (as a result of the invasion). Also
+<lb/>iv 4 <hi rend="italic">hyʾ śpṭh</hi> ... ‘‘She was judging Israel’’ (at that time, participle, contextualizing)
+<lb/>xii 7 <hi rend="italic">wyśpṭ</hi> ... ‘‘He judged (... died ... and was buried’’, <hi rend="italic">wayyiqtōl</hi>, narrative).
+<lb/>xvi 31 <hi rend="italic">whwʾ śpṭ</hi> (Samson died ... They buried him ...) ‘‘He had judged Israel’’ (<hi rend="italic">qātal</hi>, incidental).
+<lb/>The use of different forms is also notable in xix 22 <hi rend="italic">hmh mytybyn ʾt lbm whnh ʾnšy hʿyr ... nsbw ...</hi> ‘‘They were enjoying themselves (partici-</p>
+      <pb n="425"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES xx 29-48)</head>
+
+<p>ple, contextualizing) and—surprise—the men of the city had surrounded (<hi rend="italic">qāṭal</hi>, incidental or contextualizing). Cf. also the pair of contextualizing clauses in xviii 3 (one verbless with no participle, one with <hi rend="italic">qāṭal</hi>) quoted above.</p>
+
+<p>The function of these contextualizing clauses with <hi rend="italic">qāṭal</hi> could, of course, be expressed in English by an adverb, such as “after”, rather than by a pluperfect verb form. This raises the question of the difference between these contextualizing clauses, and those introduced by <hi rend="italic">wyhy</hi> followed by <hi rend="italic">’ḥry</hi>. It appears that, as suggested above, a contextualizing clause with <hi rend="italic">qāṭal</hi> contextualizes a following <hi rend="italic">wayyiqṭōl</hi> in a specific stream of events, while <hi rend="italic">wyhy ’ḥry</hi> merely places it within a time-frame. This is demonstrated not only by the rarity of the latter usage (in Judges only i 1 and xvi 4) but also by the fact that by far the most common introductory clause of this sort is <hi rend="italic">wyhy ’ḥry kn</hi>, which relates solely to sequence in time. However there is no doubt that the two could be used to express the same idea. Compare<note n="13">These verses were pointed out to me by Stephen Dempster, whom I have to thank for many other useful suggestions.</note> 1 Kgs xx 1 <hi rend="italic">wbn hdd ... qbṣ ... wy‘l wyṣr</hi> “Ben Hadad had collected his army ... (contextualizing). He went up and besieged ... (narrative)” with 2 Kgs vi 24 <hi rend="italic">wyhy ’ḥry kn wyqbṣ bn hdd ... wy‘l wyṣr</hi> ... “After this (contextualizing) Ben Hadad collected his army ... and went up and besieged ... (narrative)”. The difference between the two is that the use of the subject-<hi rend="italic">qāṭal</hi> clause focusses the reader’s attention on the subject<note n="14">The fact that a subject (or other element) is placed before the verb to focus attention on it—as where the subject changes—has, of course, long been recognized. For another clear example of a contextualizing clause in which the subject has this function, see the note on xx 32.2 in the analysis of the battle below.</note> (Ben Hadad is a main participant in the opening verses of 1 Kgs xx) while the <hi rend="italic">wyhy</hi> clause does not (Ben Hadad is not a main participant in 2 Kgs vi 24 ff.).</p>
+
+<head rend="italic">Features of Narrative Technique in Judges</head>
+
+<p>It is difficult in any study of meaning to avoid a <hi rend="italic">priori</hi> reasoning based on the assumption that our own norms are universal. The following section describes a few features of Hebrew narrative which tend, for that reason, to be overlooked or misunderstood.</p>
+
+<p>The basic narrative, as was said, is presented as a series of events by means of <hi rend="italic">wayyiqṭōl</hi> clauses. Details are added by means of contextualizing and descriptive clauses. Despite this method, however,</p>
+      <pb n="426"/>
+<fw type="header">426 E. J. REVELL</fw>
+<p>the events presented as a series are not always in chronological order. Just as it is typical in Hebrew narrative to present a person or object first by a general statement, then by a specific one (as in iv 11 <foreign xml:lang="he">mqyn mbny hbb htn mšh</foreign> “from Cain—specifically from the descendants of Hobab”) so an event is quite often presented first in summary, and then in greater detail. Thus the fact represented by <foreign xml:lang="he">wywšyʿm</foreign> “and he saved them” in iii 9 is treated in greater detail in iii 10. Similarly in viii 35 it is stated that the men of Israel did not act rightly towards Gideon’s family, and the details of this are given in ix 1-6.</p>
+<p>Where two related chains of events must be described, it is common to complete the description of one before the other is treated. Thus in iv 16, the fate of the army of Hazor as a whole is described (“Baraq” here is clearly synecdoche for Baraq’s army), while the fate of their leader is detailed separately in iv 17-21. Similarly in 1 Kgs xviii, the activities of the priests of Baal are described in full in verses 26-29. Verse 30 begins the description of Elijah’s activities, but it is not until verse 36 that this reaches the point in time at which the narrative of the Baal priests ended in verse 29.</p>
+<p>Where the narrative of the first chain of events must be resumed after the second has been treated, the reader is often returned to the point in the narrative at which the treatment of the second chain began, by means of the repetition of a statement made at that point, as has been pointed out by Talmon.<note n="15">“The Presentation of Synchroneity and Simultaneity in the Biblical Narrative”, <title>Scripta Hierosolymitana</title> 27 (1978), pp. 9-26.</note> Typical examples are found in iii 19-20, where Ehud’s opening statement to the king (describing his message first as <foreign xml:lang="he">dbr str</foreign> then as <foreign xml:lang="he">dbr ʾlhym</foreign>) brackets a description of how the king came to be alone, and in vii 1-8, where the statement of the location of the Midianite army brackets the account of the reduction of Gideon’s troops to 300. However the presentation of simultaneous or synchronous events to which Talmon directs attention is only one aspect of the use of repetition. It may be used to return the reader to the main line of thought after any digression. In Jotham’s speech in ix 19, <foreign xml:lang="he">wʾm bʾmt wbtmym ʿśytm</foreign> “If you have acted with honesty and integrity”, repeating ix 16, gives an example of return from a digression in an argument which might occur in any language. In xi 32, <foreign xml:lang="he">wyʿbr ypth ʾl bny ʿmwn</foreign> “Jephthah marched against the Ammonites” repeats xi 29 <foreign xml:lang="he">wmmsph glʿd ʿbr bny ʿmwn</foreign>,</p>
+      <pb n="427"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES xx 29-48) 427</head>
+
+<p>returning the narrative to the main chain of events after a digres-
+sion describing Jephthah’s vow. The point in time at which the vow
+was made is irrelevant. In xiv 17 <hi rend="italic">wtbk ‘lyw šb‘t hymym</hi> “She wept at
+him for the seven days” repeats xiv 16 <hi rend="italic">wtbk ’št šmšwn ‘lyw</hi> after a
+digression which specifies those actions of Delilah summarized as
+<hi rend="italic">wtbk</hi>, and Samson’s reactions to them. A verb of speaking may be
+repeated to clarify the presentation of quoted speech. In xi 37, <hi rend="italic">wt’mr
+’l ’byh</hi> “She said to her father” (repeating xi 36 <hi rend="italic">wt’mr ’lyw</hi>),
+separates the statement, by his daughter, that Jephthah must keep
+his vow, from her request (presumably made in the same speech)
+for a two month delay. In a similar way, in xiii 5 <hi rend="italic">hnk hrh wyldt bn</hi>
+“You are pregnant and will bear a son (repeating xiii 3 <hi rend="italic">whryt wyldt
+bn</hi>) separates instructions on the conduct of the parents from
+instructions on the treatment of the child.</p>
+
+<p>There are over twenty examples in Judges of repetition of the
+types described (excluding cases such as the repetition of an explicit
+subject where a pronoun could be used, or repetition which is
+lexically necessary). It is clear, then, that repetition is an important
+technique, used in a variety of ways. It is also important to realize
+that such repetition is usually not exact, but is artistically varied, as
+is seen in the examples above, and in those given by Talmon. This
+variation quite often consists in the addition of new information, in
+the second clause, as the purpose of Jephtha’s advance in xi 32
+(<hi rend="italic">lhlhm</hi>), the addition of “seven days” as the period of Delilah’s
+weeping in xiv 17, and, among Talmon’s examples, the location of
+the Philistine army in 1 Sam. xxix 1 (cf. xxviii 1).</p>
+
+<head rend="italic">The Narrative of the Battle</head>
+
+<p>In the following translation, the clauses are marked, as (1) nar-
+rative, (2) descriptive, (3) contextualizing, or (4) incidental. The
+preceding description of these clause-types is considered to justify
+the translation given, so that alternative views are generally not
+considered. The conjunction <hi rend="italic">waw</hi> joining the clauses is ignored,
+since any representation conforming to English usage (as “but,
+then, so” rather than perpetual “and”) is highly subjective.<ptr target="#n16"/>
+Units of text marked out by these clause types, or by the use of</p>
+
+<note xml:id="n16" n="16">This has the advantage of illustrating Andersen’s remark that the different
+relations between clauses, marked in some languages by different conjunctions, are
+marked in Hebrew by different clause patterns (p. 61).</note>
+      <pb n="428"/>
+<head>428 E. J. REVELL</head>
+<p>techniques such as repetition, are separated by a blank line. A few cases where the text is obscure, and better understanding might affect the syntactical analysis, are marked (?). Problems of geography are ignored. Clauses are identified by the number of the verse (in Judg. xx) and a number representing the position of the clause in the verse.</p>
+<list>
+    <item>29.1 Israel set liers-in-wait against Gibea round about. (1)</item>
+</list>
+<list>
+    <item>30.1 Israel advanced against Benjamin on the third day. (1)</item>
+    <item>30.2 They drew up before Gibea as formerly. (1)</item>
+</list>
+<list>
+    <item>31.1 Benjamin made a sortie against the people. (1)</item>
+    <item>31.2 Being lured out from the city. (2)</item>
+    <item>31.3 They began striking down some of the people as formerly, in the roadways (...) in the farmland, some thirty men of Israel. (1)</item>
+    <item>32.1 Benjamin thought <quote>“They are routed before us as at first”</quote>. (1)</item>
+</list>
+<list>
+    <item>32.2 Israel had decided <quote>“We will retreat so as to lure them out from the city into the roadways”</quote>. (3)</item>
+    <item>33.1 Every man of Israel had risen from his place. (3)</item>
+    <item>33.2 They drew up at Baal Tamar. (1)</item>
+</list>
+<list>
+    <item>33.3 The Israelite ambush burst forth from its place at Maare Geba. (3)</item>
+    <item>34.1 They arrived opposite Gibea, 10,000 chosen men from all Israel. (1)</item>
+    <item>34.2 The battle was fierce. (4)</item>
+    <item>34.3 They (Benjamin) had not realized that disaster was imminent. (4)</item>
+</list>
+<list>
+    <item>35.1 God routed Benjamin before Israel. (1)</item>
+    <item>35.2 Israel slaughtered of Benjamin that day 25,100 men. (1)</item>
+    <item>35.3 All of these were sword-bearers. (2)</item>
+</list>
+<list>
+    <item>36.1 Benjamin saw that they (Israel) had been routed. (1)</item>
+    <item>36.2 The men of Israel gave place before Benjamin. (1)</item>
+    <item>36.3 Because they trusted in the ambush they had set against Gibea. (2)</item>
+</list>
+<list>
+    <item>37.1 The ambush had hurried. (3)</item>
+    <item>37.2 They rushed on Gibea. (1)</item>
+    <item>37.3 The ambush marched on. (1)</item>
+</list>
+      <pb n="429"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES xx 29-48)</head>
+
+<list>
+    <item>37.4 They put the whole city to the sword. (1)</item>
+    <item>38.1 An agreement had been made by Israel with the ambush that they should send up a great smoke signal from the city. (3)</item>
+    <item>39.1 Israel turned about in battle. (1)</item>
+    <item>39.2 Benjamin had begun to strike down the men of Israel, some thirty. (3)</item>
+    <item>39.3 For they had decided <quote>“They are clearly routed before us, as in the first battle”</quote>. (2)</item>
+    <item>40.1 The signal had begun to rise from the city, a pillar of smoke. (3)</item>
+    <item>40.2 Benjamin turned around. (1)</item>
+    <item>40.3 The sacrifice-like smoke of the city had risen to heaven. (4)</item>
+    <item>41.1 Israel had turned about. (3)</item>
+    <item>41.2 Benjamin was horrified. (1)</item>
+    <item>41.3 For they saw that disaster had come upon them. (2)</item>
+    <item>42.1 They turned about before Israel towards the wilderness. (1)</item>
+    <item>42.2 The fighting was inescapable. (4)</item>
+    <item>42.3 Those from the city (?) were destroying them between them(selves and the main body of Israel) (?). (4)</item>
+    <item>43.1 Surrounding Benjamin (?) (2)</item>
+    <item>43.2 Pursuing them (?) (2)</item>
+    <item>43.3 Overrunning them (?) as far as opposite Gibea. (2)</item>
+    <item>44.1 There fell of Benjamin 18,000 men. (1)</item>
+    <item>44.2 All of these were mighty men. (2)</item>
+    <item>45.1 They turned about and retreated to the wilderness, to Selaᶜ ha-Rimmon. (1)</item>
+    <item>45.2 They (Israel) gleaned of them in the roadways 5,000 men. (1)</item>
+    <item>45.3 They pursued them as far as Gidᶜom. (1)</item>
+    <item>45.4 They struck down of them 2,000 men. (1)</item>
+    <item>46.1 The total losses of Benjamin were 25,000 sword-bearers on that day. (1)</item>
+    <item>46.2 All of these were mighty men. (2)</item>
+    <item>47.1 They turned about and retreated to the wilderness, to Selaᶜ ha-Rimmon, 600 men. (1)</item>
+    <item>47.2 They stayed in Selaᶜ ha-Rimmon for four months. (1)</item>
+</list>
+      <pb n="430"/>
+<head>430 E. J. REVELL</head>
+<list>
+<item>48.1 The men of Israel had turned back to (the rest of) Benjamin. (3)</item>
+<item>48.2 They struck them down, city (?) and beast, all that they found. (1)</item>
+<item>48.3 They also set on fire all the cities they came to. (1)</item>
+</list>
+<p>The account opens with a series of narrative clauses forming two units which describe the initial actions of Israel (29.1-30.2). The next unit, a series of narrative clauses (31.1-32.1) which includes one descriptive clause (31.2, verbal, asyndetic) similarly describes the initial moves by Benjamin. In the next clause, 32.2, the subject is placed first, highlighting the change of participant. The clause does not, however, continue the narrative, but refers to a decision taken earlier by Israel, a consequence of which is already described in 29.1. Thus 32.2 acts as a clause contextualizing the events in 33.1-2. The next clause, 33.1, can also be considered as contextualizing the next narrative clause, 33.2. These describe the tactical withdrawal of the main body of Israel. 33.3 (contextualizing) and 34.1 (narrative) describe the movement of the ambush from its initial concealment into position to attack the now almost undefended Gibea.<note n="17" place="bottom"><hi rend="italic">mgyh</hi> probably means little more than “(Set out to) attack”; cf. LXX, Targum. <hi rend="italic">mngd</hi>, “opposite”, implies “at some distance (but within sight)”; see 2 Kgs ii 7, 15, iii 22, iv 25.</note> Two incidental clauses, 34.2-3, supply comment. The two narrative clauses and a descriptive clause in verse 35 then give a summary statement of Israel’s victory, following which the actions of the three separate groups of participants are treated in detail.<note n="18" place="bottom">For a summary preceding a more detailed statement, see the notes on narrative technique above. That <hi rend="italic">hm</hi> in 34.3 refers to Benjamin is clear from the context, and was indicated specifically by Jerome. On the lack of antecedent, see below.</note></p>
+<p>In 36.1, the story reverts, by means of repetition, to the beginning of the battle. 32.1 is repeated, with some change, as is common in these cases. The lack of clear indication that Israel is the subject of <hi rend="italic">ngpw</hi>, exacerbated by the use of the same root in 35.1, is certainly inept.<note n="19" place="bottom">The contrasting use of similar forms is not uncommon elsewhere, as in vii 5-7 <hi rend="italic">lqq</hi> (qal) “lap” (like a dog), <hi rend="italic">lqq</hi> (piʿel) “lap” (from the hands); vii 9 <hi rend="italic">wʾm yrʾ ʾth lrdt rd</hi> ... “If you are afraid to go down (to attack), go down (to spy) ...” These may be word-plays of the type more familiar at a higher literary level. If so, the word “inept” merely reflects this writer’s obtuseness.</note> It is, however, only the most striking of several cases in this passage in which the reader’s knowledge of events is</p>
+      <pb n="431"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES xx 29-48)</head>
+
+<p>relied on to provide the correct antecedent for a pronoun, and this is common enough elsewhere.<note n="20" place="foot">Cf. <hi rend="italic">hm</hi> 34.3, <hi rend="italic">btwkw</hi> 42.3, the subject of <hi rend="italic">wy’llhw</hi> 45.2. Confusing use of pronouns is common enough elsewhere, e.g. <hi rend="italic">wytq‘w</hi> in vii 22 (cf. the preceding verbs), <hi rend="italic">wyswrw</hi> xviii 15, <hi rend="italic">wybnw</hi> xviii 28 (cf. <hi rend="italic">lhm</hi>). Most commentators take Benjamin as the subject of <hi rend="italic">ngpw</hi>, in which case the clause is something of an embarrassment even where two sources are separated. It is usually tacked on to verse 35 as its sequel, but “the words make a ludicrous impression” in this position, as remarked by G. F. Moore <hi rend="italic">A Critical and Exegetical Commentary on Judges</hi> (Edinburgh, 1895), 438. He nevertheless takes this view, emphasizing the tacit assumption of such critics that the compiler was incompetent. Such theories are seriously deficient in their failure to suggest a plausible historical context and motivation for an editorial process which, as they see it, took two short but clear accounts and mixed them to form a longer but almost unintelligible one. As far as I have noticed, the fact that the subject of <hi rend="italic">ngpw</hi> is “Israel” is recognized only in the <hi rend="italic">New American Bible</hi> (New York, 1970).</note>
+In verse 37, the actions of the ambush are described. 37.1 (Contextualizing) alludes to 33.3. The following three narrative clauses describe the successful attack on the city.<note n="21" place="foot">The clause 37.3 appears completely redundant, but this is possibly because the implications of <hi rend="italic">pst</hi> and <hi rend="italic">mšk</hi> are not accurately known. E.g. if <hi rend="italic">mšk</hi> indicates a particular military formation (as suggested by Burney in iv 6) this clause is not redundant.</note> The next unit, 38.1-39.1, deals with Israel. The first clause (contextualizing) reveals a further part of their plan.<note n="22" place="foot">As the text stands, <hi rend="italic">hrb</hi> in xx 38 is to be taken as an irregular form of infinitive absolute (cf. the Targum). The introduction of a detail of the sort presented in this clause where it becomes significant in the story rather than at the chronological point at which it originated is common. Cf. Delilah’s ambush in xvi 9, the Israelite vow in xxi 1.</note> The narrative clause (39.1) presents the crucial event: Israel reverses its tactical withdrawal.
+From here on the narrative concentrates on Benjamin. A contextualizing clause, with following explanation (39.2-3) returns the reader again to the beginning of the battle by means of repetition (cf. 31.3, 32.1).<note n="23" place="foot">Burney emends the explanatory clause to a statement “And they said”. However the use of <hi rend="italic">ky ’mrw</hi> here is the same as that described in note 10. It gives the motivation of the acton of the preceding clause. Benjamin had begun to strike down their enemies (had committed their forces to a serious attack) because they had concluded that they were routed (so that caution was no longer necessary). This explanatory clause does repeat 32.1, which is given in the <hi rend="italic">wayyiqtol</hi> (narrative) form expected by Burney, but that follows the statement that Benjamin was drawn out of the city (31.2). A narrative (rather than an explanatory) clause was probably used there to allow the contrast with the following clause: “Benjamin concluded ..., but Israel had planned ...” For a similar variation see <hi rend="italic">whryt</hi> and <hi rend="italic">hnk hrh</hi> in xiii 4, 5, 7.</note> A further contextualizing clause, (40.1, cf. 38.1) leads to the narrative and incidental clause (40.2-3) in which Ben-</p>
+      <pb n="432"/>
+<fw type="header">432 E. J. REVELL</fw>
+<p>jamin discovers that their base is captured. This is now empha-
+sized. A contextualizing clause (41.1) repeats the crucial reversal by
+Israel (39.1), and a narrative and an explanatory clause (41.2-3)
+describe its effect on Benjamin. The narrative clause in 42.1, men-
+tioning Benjamin’s retreat, presents Benjamin’s reaction. The
+language of the next five clauses (apparently two incidental
+followed by three descriptive) is at times obscure, but there seems
+no doubt that they describe how Benjamin was treated as a result of
+Israel’s reversal. In verse 44, a narrative and a descriptive clause
+describe the losses of Benjamin during this first phase of Israel’s
+final attack.</p>
+<p>In 45.1 the retreat is again mentioned (repeating 42.1, with the
+added detail, often found in such cases, that Sela<hi rend="superscript">c</hi> ha-Rimmon is its
+objective). Three narrative clauses (45.2-4) detail the Benjaminite
+losses during this next phase of Israel’s final attack, firstly in the
+(presumably enclosed) ‘‘roadways’’, and secondly during the final
+phase of the pursuit, presumably through the open ‘‘wilderness’’.
+In verse 46, a narrative and a descriptive clause, the total losses are
+given.</p>
+<p>In 47.1, the narrative reverts to the retreat with the repetition of
+45.1, giving, in a characteristic addition of detail, the number who
+finally reached safety. A second narrative clause, 47.2, gives a final
+item of information on this remnant of Benjamin. In verse 48, the
+narrative turns back to Israel, possibly giving the reason for Ben-
+jamin’s long stay in the refuge. This final unit, a contextual, and
+two narrative clauses, describing the mopping up operations, closes
+the account of the battle. It also provides the background for the
+main concern of the next section of the narrative, the fact that Ben-
+jamin is left destitute of women.</p>
+<p>There is, then, no serious difficulty in accepting this section as a
+cohesive account of the battle, logically composed according to the
+conventions of Hebrew narrative standard in Judges and
+elsewhere. The complexity of the account is undoubtedly due, in
+part, to the need to present the activities of three different groups
+participating in the battle, a problem not often presented to the nar-
+rator, and difficult to solve within the linear convention of Hebrew
+narrative. The account in its present form does show some inep-
+titude (see above on 36.1), and this may reflect the fact that it was
+compiled from more than one source, as is commonly argued. It is,
+however, quite wrong to see what Burney called ‘‘repetitions and</p>
+      <pb n="433"/>
+<head>THE BATTLE WITH BENJAMIN (JUDGES xx 29-48) 433</head>
+
+<p>
+dislocations'' (see n. 1) as evidence of this. These are as much a
+part of the technique used to present the narrative as is the use of
+<hi rend="italic">wayyiqtōl</hi> forms. Identification of the phenomena which actually do
+reflect different sources is impossible unless the features of this
+narrative technique can be recognized for what they are. In other
+words, a good knowledge of the technique of Hebrew narrative as
+displayed in the received text is a necessary part of the equipment
+of a literary critic.<note n="24">The demonstration of this is the secondary
+purpose of this article.</note>
+</p>
+
+<note n="24">
+Features of narrative technique have been noted before, as in the commentary
+of C. F. Keil, <hi rend="italic">Biblischer Commentar über die prophetischen Geschichtsbücher 1, Josua,
+Richter und Ruth</hi> (Leipzig, 1863), p. 348, n. 1, E. tr. <hi rend="italic">Biblical Commentary on the Old
+Testament 4, Joshua, Judges, Ruth</hi> (Edinburgh, 1975), p. 455, n. 1, in reaction to the
+original source analysis of this passage by E. Bertheau. However the importance of
+such features is still not fully realized.
+</note>
+      <pb/>
+<p rend="align(right)">
+    <hi rend="italic">Vetus Testamentum</hi> XXXV, 4 (1985)
+</p>
+
+<head rend="align(center)">
+    THE MONOTHEISTIC ARGUMENTATION IN<lb/>
+    DEUTERONOMY IV 32-40:<lb/>
+    CONTENTS, COMPOSITION AND TEXT
+</head>
+
+<p rend="align(center)">
+    by
+</p>
+
+<p rend="align(center)">
+    ALEXANDER ROFÉ
+</p>
+
+<p rend="align(center)">
+    Jerusalem
+</p>
+
+<p>
+    The key to the understanding of the pericope Deut. iv 32-40 lies, in my opinion, in the critical reading of Deut. v 19-27. We turn first, therefore, to the latter passage in order to examine its literary sequence.<ptr target="#n1"/>
+</p>
+
+<p>
+    The main story in Deut. v 19-27 relates that when the Israelites heard the Ten Commandments they were stricken with awe. They turned to Moses and said: ‘‘Let us not die being consumed by this great fire; if we hear the voice of the Lord our God any longer we shall die’’ (v 22).<ptr target="#n2"/> The awesome sight of the fire surrounding the Lord and the hearing of his voice speaking to them were unbearable. The people, therefore, asked Moses to become an intermediary: ‘‘You go closer and hear all that the Lord our God says, and then you tell us everything that the Lord our God tells you, and we shall hear and do it’’ (v 24). The Lord acceded to their plea, commended their good intention (v 25-26) and commanded Moses to send them back to their tents (v 27). The following verses relate how the Lord appointed Moses to receive ‘‘the precept, the laws and the judgements which you shall impart to them’’ (v 28). Moses complied, and now, in his speech to the people, he imparts to them ‘‘the precept, the laws and the judgements’’ received at Horeb (vi 1), beginning with the solemn declaration: ‘‘Hear, O Israel, the Lord is our God, the Lord is one’’ (vi 4).
+</p>
+
+<p>
+    However, side by side with the description of the people’s awe and withdrawal, instrumental in the development of the story,
+</p>
+
+<note n="1" xml:id="n1">
+    I have made a first attempt in this direction in my article ‘‘Deuteronomy 5:28-6:1: Composition and Text in the Light of Deuteronomic Style and Three <hi rend="italic">Tefillin</hi> from Qumran (4Q 128, 129, 137)’’, <hi rend="italic">Henoch</hi> (in the press).
+</note>
+
+<note n="2" xml:id="n2">
+    Translations of biblical passages have been adapted from the NJPS.
+</note>
+      <pb/>
+<figure>
+    <figDesc>An extremely dark, underexposed, or blacked-out image. Most of the frame is solid black, while a faint, blurred, and grainy lighter area is visible on the left side, possibly suggesting a photographic artifact or a highly obscured physical object.</figDesc>
+</figure>
+    </body>
+  </text>
+</TEI>

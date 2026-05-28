@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Stress Position in Hebrew Verb Forms with vocalic Affix</title>
+      <author>
+        <persName>
+          <forename>E.</forename>
+          <forename>J.</forename>
+          <surname>Revell</surname>
+        </persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Oxford University Press</publisher>
+      <date when="1987">1987</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Stress Position in Hebrew Verb Forms with vocalic Affix</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Journal of Semitic Studies</title>
+          <imprint>
+            <biblScope unit="volume">XXXII</biblScope>
+            <date when="1987">1987</date>
+            <biblScope unit="page" from="249" to="271">249-271</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="en">English</language>
+      <language ident="he">Hebrew</language>
+    </langUsage>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>2023-10-27</date>
+      <label>Initial TEI header creation</label>
+    </change>
+  </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<head rend="center">JOURNAL OF SEMITIC STUDIES</head>
+<milestone unit="rule"/>
+<p rend="center">
+    <hi rend="italic">Extract from</hi><lb/>
+    JOURNAL OF SEMITIC STUDIES<lb/>
+    Vol. 32, No. 2, 1987
+</p>
+      <pb n="31"/>
+<p>
+    <lb n="1"/>
+</p>
+      <pb/>
+<p rendition="blank"></p>
+      <pb n="249"/>
+<p>
+  <hi rend="italic">Journal of Semitic Studies</hi> XXXII/2 Autumn 1987
+</p>
+
+<head>STRESS POSITION IN HEBREW VERB FORMS WITH VOCALIC AFFIX</head>
+
+<docAuthor>E. J. REVELL</docAuthor>
+
+<byline>UNIVERSITY OF TORONTO</byline>
+
+<div type="section">
+  <head rend="italic">Introduction</head>
+
+  <p>
+    1. Where a verb form ends in an afformative consisting of a vowel (as 3fs, 3pl perfect forms, 2fs, mpl, imperfect and imperative forms) stress is always penultimate in pausal situations, where the form can be regarded as terminal in the speech unit. Elsewhere, stress is regularly final in forms in which the penultimate syllable was originally short (open with a short vowel). Where the penultimate syllable was originally long (open with a long vowel, or closed), stress in verb forms with vocalic affix is generally penultimate, but exceptions are not uncommon. The principal purpose of this paper is to show that stress position in these forms is conditioned by intonation patterns, just as it is where the penultimate syllable was short. The importance of intonation patterns for the determination of stress position has already been shown in studies of the retraction of stress (cited below as NA), and the stressing of perfect forms with <hi rend="italic">waw</hi> consecutive (cited below as WC).<note n="1">The views developed in those studies are basic to this one.</note>
+  </p>
+</div>
+
+<note n="1">
+  The studies are <hi rend="italic">Nesiga in Tiberian Hebrew</hi>, Textos y Estudios, vol. (Madrid 1987), and ‘The Conditioning of Stress Position in <hi rend="italic">Waw</hi> Consecutive Perfect Forms in Biblical Hebrew’, <hi rend="italic">Hebrew Annual Review</hi> 9 (1986), 277–300. Both are cited by paragraph number. The work for the latter, and for the present study, was largely carried out as a Fellow of the Institute for Advanced Studies at the Hebrew University in Jerusalem in 1983–4. I am most grateful to the Directorate and Staff of the Institute for the opportunity to carry out this work, and for the excellent facilities provided.
+</note>
+
+<fw type="footer">249</fw>
+      <pb n="250"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>2. The intonation contours which conditioned the stress position in these forms were those of the form of the biblical reading tradition which gave rise to the stress and vowel patterns. This reading tradition was intended to express the meaning of the text; consequently it reflects syntactic and other semantic relationships. Where a verb form with vocalic affix and originally short penultimate syllable is not related to what follows (terminal position, a ‘pausal’ situation), stress is penultimate. Where the form is related to what follows (medial position, a ‘contextual’ situation), stress is final. Stress position in the forms to be discussed here is determined in exactly the same way, save that the development of final stress in these forms requires a particularly close relationship to what follows.</p>
+<p>3. It is important to note that the received accentuation arose in a form of the reading tradition somewhat different from that reflected by vowelling and stressing of the text, so that the accentuation does not necessarily reflect the relationships which determined stress position. However the two forms of reading tradition were obviously closely related, so that the accentuation has value as corroborative evidence (see NA § 1.15). The relationships which determined stress position in the biblical text can only be described in terms of clausal syntax, or of features which show relationship between clauses, as particles, or cross-referent pronouns (see NA § 2.5). Such relationships could affect stress position within a speech unit, but not across its boundaries. Speech units were delimited by the intonation contours which give rise to standard pausal forms. Relatively few words appear in distinct pausal and contextual forms, however, so that the accentuation must be used as a guide to the probable boundaries of these units. Pausal forms almost invariably occur with the accents <gloss>silluq</gloss> and <gloss>atnāḥ</gloss>, and (in the Three Books) ‘<gloss>oleh we-yored</gloss>, so that these accents can be taken as marking the end of speech units (although about 20 per cent of pausal forms do not occur with them). The units terminated by these accents are called ‘major units’ (see NA § 1.19.ii).<note n="2">In the Three Books, <gloss>atnāḥ</gloss> is considered to mark the end of a major unit where it does not follow ‘<gloss>oleh we-yored</gloss>, but not where it does.</note></p>
+<p>4. The following description of stress position in forms with long penultimate syllable and vocalic affix is limited to forms</p>
+
+<pb n="251"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>which show final stress in a significant proportion of cases, and therefore to perfect and imperative forms from the <gloss>qal</gloss> stem of hollow or geminate roots.<note n="3"/> These forms are composed only of two syllables; final stress in longer forms is extremely rare.<note n="4"/> Three categories of two-syllable forms in which final stress is never shown are also omitted from the description. These are (i) Forms from the root BW’;<note n="5"/> (ii) Mpl imperative forms from other hollow roots;<note n="6"/> (iii) Ms imperative forms from hollow roots which are not followed either by a word beginning with <gloss>alef</gloss>, or by a cognate object.<note n="7"/> Apart from these three categories the following description covers all 3fs and 3pl perfect forms, all fs and mpl imperative forms, and all ms imperatives with affixed <gloss>qāmeṣ-he</gloss>, from the <gloss>qal</gloss> stem of hollow and geminate roots.<note n="8"/></p>
+<note n="3">3fs perfect forms and fs participles from the <gloss>qal</gloss> of hollow roots are distinguished (if at all) only by stress position. The standard view is that all forms with penultimate stress are verbs, as are some forms with final stress. The forms of the latter type included in this discussion are those identified as verbs in A. Even Shoshan, <title>A New Concordance of the Bible</title> (Jerusalem 1982). This includes four forms with prefixed definite article which probably originated as participles (Ruth 1:22, 4:3, see § 9, Isa. 51:10, Ruth 2:6, see § 14; similar forms from BW’ are excluded, see § 4).</note>
+<note n="4">Final stress occurs in a few longer forms, as <gloss>yāzēmū</gloss> (Gen. 11:6), <gloss>tesār</gloss> (Isa. 49:19), <gloss>tezelī</gloss> (Jer. 2:36), <gloss>nāpētā</gloss> (Job 10:1), <gloss>wehummekū</gloss> (Job 24:24), <gloss>hop'al</gloss> forms from MWT, and some <gloss>hiph'il</gloss> forms, both where the penultimate vowel is reduced (as in I Sam. 14:22, 31:2; Jer. 9:2, 11:15; I Chr. 10:2) and where it is not (as in Ex. 26:33; Lev. 15:29; Ps. 118:25, 25). These do not appear to have resulted from the same conditioning as induced final stress in the shorter forms.</note>
+<note n="5">Final stress is most common where the verb begins a major unit (cf. G. Bergsträsser, <title>Hebräische Grammatik</title>, II Teil (Leipzig 1929), § 28e). 3fs and 3mpl forms from the perfect <gloss>qal</gloss> of BW’ occur in this position in 23 cases, of which have <gloss>waw</gloss> consecutive, see Bergsträsser, § 4e). Stress is penultimate in all cases. Corresponding forms from other roots occur in this position in 43 cases (27 have <gloss>waw</gloss> consecutive). Stress is final in 15 of these (35 per cent, of which 11 have <gloss>waw</gloss> consecutive). It seems clear, then, that the failure of final stress to occur in the forms from BW’ is not merely coincidental.</note>
+<note n="6">There is an apparent exception in <gloss>ūqurū</gloss> (Jer. 25:27), but the vowelling suggests that this was treated as a form from a final weak root (III<gloss>h</gloss>).</note>
+<note n="7">The vocalic affix in 2ms imperative forms is the ‘emphatic’ <gloss>qāmeṣ</gloss>. Final stress occurs in <gloss>rībā</gloss> where followed by a form of the noun <gloss>rīb</gloss>. Otherwise these forms show final stress only where the following word begins with <gloss>alef</gloss>.</note>
+<note n="8">Forms in which stress position is not indicated by the accent signal are, of course, ignored. Stress position is marked by a vertical stroke in the following examples, but is indicated only where it is significant for the discussion.</note>
+      <pb n="252"/>
+
+<head type="main">STRESS POSITION IN HEBREW VERB</head>
+
+<head type="sub">Stress position where the verb form ends the clause</head>
+
+<p>
+5. Where a verb form of this sort stands at the end of the clause, stress is regularly penultimate. This is true even where the verb is first of a pair, a situation in which other words often appear in medial, not in terminal form (see WC § 11.1). Examples are <hi rend="italic">sārû wayyēlēkû</hi> (‘They turned and left’, Jer. 5:23), and <hi rend="italic">qûmî wādôšî bat ṣiyyôn</hi> (‘Rise and thresh, daughter of Sion’, Mic. 4:13). Exceptions showing final stress are <hi rend="italic">wehattû</hi> (Isa. 20:5), <hi rend="italic">welāʿû</hi> (Ob. 1:16), <hi rend="italic">rāšû</hi> (Ps. 34:11), and <hi rend="italic">rônnî weśimḥî bat ṣiyyôn</hi> (‘Sing and rejoice, daughter of Sion’, Zech. 2:14). The case in Isa. 20:5 is the first of a pair of more or less synonymous verbs joined by a conjunction. The pair forms a major unit (cf. § 8). The case in Zech. 2:14 stands in the same situation, save that the pair of verbs is followed by a vocative related to both (cf. § 28); so also the case in Ps. 34:11, save that the pair of verbs is preceded by a noun acting as the subject of both (but cf. § 22). These cases are unique in the similarity of meaning of the two verbs, and in their close relationship.<note n="9">The case in Ob. 1:16 stands between two forms from roots III<hi rend="italic">h</hi>, and may well have been affected by their final stress position.</note>
+</p>
+
+<p>
+6. Final stress also occurs in a verb which is not followed by subject or modifiers in a few cases where an imperative form is repeated. Stress is final in both cases in which a fs imperative form is repeated and followed by a third imperative with its object, and by a vocative related to all three verbs (Isa. 51:9, 52:1; the form in question is from ʿWR in both cases). Stress is also final in Jud. 5:12, where a fs imperative form from ʿWR is repeated and followed directly by a vocative, but not in Cant. 7:1, where a fs form from ŠWB stands in the same situation. Stress is penultimate where imperative forms are repeated under other conditions, as the fs forms not followed by a vocative in
+</p>
+
+<note n="9">
+The case in Mic. 4:13 is superficially similar to that in Zech. 2:14, but the two verbs are not similar in meaning, and the first is from a hollow root, and so less likely to show final stress than is the geminate root form in Zech. 2:14 (see § 31). A similar case occurs in <hi rend="italic">nāḥā šāqeṭā kål hāʾāreṣ</hi> (Isa. 14:7), but here again the verbs are not similar in meaning. Forms from RNN collocate with forms from ŚMH or GYL in several cases, but this is not true of forms from QWM and DWŠ, nor of forms from NWḤ and ŠQṬ.
+</note>
+
+<fw type="footer">252</fw>
+      <pb n="253"/>
+
+<head type="running">STRESS POSITION IN HEBREW VERB</head>
+
+<p>Jud. 5:12; Cant. 7:1, and also in pairs of forms from different roots, as in Thr. 4:21. Since stress is final in Jud. 5:12, but penultimate in Cant. 7:1 under conditions which seem identical, it is possible that final stressing in this situation was facilitated by phonological or semantic factors characteristic of ‘WR but not of ŠWB. The case in Ob. 1:16 appears to have been affected by rhythmic considerations. Apart from this, these forms show final stress at the end of a clause only where the verb is particularly closely related to what follows. Consequently it is reasonable to argue that such close relationship was the primary cause of the shift of stress to final position. The immediate cause was the intonation contour, which reflected the relationship.</p>
+
+<head>Stress position where the verb does not end the clause</head>
+
+<p>7. The description of the conditioning of stress position in verb forms which do not stand at the end of a clause necessarily involves the description of clause structure. This follows the outline given in NA § 2.2, 2.4. Verbal clauses are made up of constituents of one or more words. Besides the verb constituent, these constituents may be nominal, functioning as subject, or as a modifier in objective or other relationship, or as a vocative; prepositional (a preposition plus a nominal element); infinitival (a preposition plus an infinitive and its modifiers); or adverbial (an adverb, including nouns with adverbial affix). Two or more words or phrases having the same relationship to the verb (as nouns forming a compound object) are considered as separate constituents, whether joined by a conjunction or not. The length of a constituent is measured in words (regardless of <hi rend="italic">maqqef</hi>), save that prefixed particles written with two letters are considered as part of the following word. The relationship of the verb to what precedes it is an important factor in determining stress position. This is presumably particularly close where the clause modifies a preceding noun or verb, and so forms (part of) a constituent of another clause,<note n="10">That is, where the clause is relative or objective, modifying a preceding word (introduced by <hi rend="italic">kî</hi> or <hi rend="italic">ʾᵃšer</hi>, or, in the four cases originating in participles listed in n. 3, by the definite article). Clauses representing quoted speech are treated as independent, even though they are technically the object of a preceding verb or infinitive.</note> or is preceded by some constituent other than</p>
+
+<fw type="footer">253</fw>
+      <pb n="254"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>the verb. The attempt to determine whether a particle preced-ing a verb marks a close relationship to a preceding clause, or has the same effect as a preceding constituent, is too complex for this paper. Particles, except for the conjunction <hi rend="italic">waw</hi>, are grouped together. Where it is not noted that the clause is subordinate, or that the verb is preceded by a constituent or a particle, the verb (which may have <hi rend="italic">waw</hi> prefixed), is the first word in the clause.</p>
+
+<head rend="italic">Perfect verb forms in the Twenty-One Books: short clauses</head>
+
+<p>A. The clause ends a major unit</p>
+
+<p>8. Where a perfect verb form is followed by a single one-word constituent which ends a major unit, stress is usually final in the Twenty-One books, as in <hi rend="italic">ṣaḥẇ mēḥālāb</hi> (Thr. 4:7; also Num. 4:14; Deut. 2:25; Isa. 23:17, 24:23, 28:7; Jer. 11:16). These are all main clauses. The subject is either different from that of the preceding clause, and follows the verb, or is given as a noun or pronoun in the preceding clause. Other pronouns used in these clauses are also familiar from the preceding context. Stress is penultimate where the verb is particularly closely related to what precedes, as in <hi rend="italic">ûp'āšû pārāšāw</hi> (Hab. 1:8) where the nom-inal constituent is subject both of this verb and of the preceding (by logic, but against the accentuation); see also Ex. 13:17; Cant. 2:17 = 4:6, in the last of two or more clauses with the same subject dependent on the same particle, and Jer: 50:2, where the clause is parallel to the preceding, with a different subject. This latter case differs from those in which stress is final, in that this clause and the preceding are related by a shared pronoun, the antecedent of which is separated from this pair of clauses by a preceding pair of parallel clauses. The significance of close relationship to what precedes is also seen in the fact that stress is penultimate where the verb is preceded by a constituent of the clause (Ex. 4:7; I Sam. 19:13). Stress is similarly penultimate where the clause modifies a preceding noun or verb (Ex. 6:4; Jos. 2:22; Jud. 20:36; I Sam. 14:22).<ptr target="#n11"/> A</p>
+
+<note xml:id="n11" n="11">There is an exception in Ex. 18:11 <hi rend="italic">zādû</hi>, but it is doubtful if this can be accepted at face value because of the obscurity of the context. The intonation contour may have suggested the need for the additional words following the verb which are represented in the Targumim.</note>
+<fw type="footer">254</fw>
+
+<pb n="255"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>verb preceded by a particle shows penultimate stress where it is the last of two or more successive verbs with the same subject (Jos. 7:11; I Sam 4:20), but stress is final in Gen. 26:22, where the verb has no such relationship to what precedes. Where a clause of this sort forms a major unit, stress is similarly final in hollow root forms which begin their clause (Num. 4:6, 8, 11), and even in a form from a geminate root preceded by a two-word constituent (Qoh. 5:10). However stress is penultimate in forms from hollow roots preceded by a particle (II Kgs 17:22) or by any constituent (Num. 16:34; Isa. 22:7; II Chr. 15:17), and so also in Isa. 28:20, in a geminate form with the same vowelling as a hollow root form.</p>
+
+<p>9. Where the verb is followed by a two-word construct phrase, stress is final in forms with geminate roots where the clause forms or ends a major unit, as <hi rend="italic">wᵉrabb'û halᵉlê YHWH</hi> (Isa. 66:16; also Hab. 3:6). This is sometimes true of forms from hollow roots followed by a similarly short constituent (I Sam. 8:11; Isa. 29:9), but not always (Gen. 33:13; Jer. 31:16). The conditioning factor is probably the closeness of the relationship of the clause to what precedes, but this cannot be clearly shown. Stress is also penultimate in hollow root forms followed by a longer constituent (Deut. 22:22; I Kgs 12:27), and in most cases where the verb does not begin the clause (Ex. 4:19; Num. 14:44, 21:5; I Sam 16:14; Jer. 50:29; Jon. 3:10; Neh. 9:35; I Chr. 11:13; II Chr. 34:33) or the clause is subordinate (Ruth 1:22, 4:3). Exceptions occur only where the verb is preceded by one word, and followed by a constituent composed of one word plus a longer modifier, as <hi rend="italic">hayyôm rabbû 'ᵃbādîm hammitpārᵉṣîm</hi> …… (I Sam. 25:10; also Lev. 18:28). Presumably the situation is similar to that of a verb followed by a single one-word constituent in a clause particularly closely related to what follows (§ 11).</p>
+
+<p>10. In the Twenty-One Books, where the verb is followed by two one-word constituents, and the clause forms or ends a major unit, stress is final in some perfect forms from geminate roots where the second of the two constituents is nominal (subject or a vocative as <hi rend="italic">wᵉḥatt'û gibbôrèkā tēmān</hi> (Ob. 1:9; also Isa. 31:9; Jer. 4:13), but not where it is prepositional in <hi rend="italic">tammû rōmēs min hā'āreṣ</hi> (Isa. 16:4). Stress is penultimate where the form is from a hollow root (Lev. 25:35; I Sam. 2:1; Isa. 7:2, 35:1).</p>
+<fw type="footer">255</fw>
+      <pb n="256"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>51:11; Jer. 31:17; Ez. 16:42), also where the clause is subor-
+dinate (I Sam. 31:7 = I Chr. 10:7; II Sam. 18:32; Jer. 23:14),
+and in most cases where the verb is preceded by a particle or
+a constituent (Num. 24:5; Jos. 5:7; I Sam. 4:11, 6:12; II Sam.
+18:17; I Kgs 14:4; Thr. 4:6). The only exception occurs in
+Gen. 40:15, which appears anomalous, considering the penul-
+timate stress in the similar case in Jos. 5:7.</p>
+
+<head>B. The clause does not end a major unit</head>
+
+<p>11. Where a verb followed by a single one-word constituent
+forms a clause which begins a major unit in the Twenty-One
+books, stress is final only where the clause is particularly closely
+related to what follows, as <emph rend="italic">bāz 'ā l<sup rend="macron">e</sup>kā lā ‘agā l<sup rend="macron">e</sup>kā b<sup rend="macron">e</sup>tūlat bat ṣiyyôn</emph>
+(II Kgs 19:21 = Isa. 37:22) in the first of a pair of clauses
+followed by the subject of both. Where the relationship to
+what follows is not unusually close, stress is penultimate
+(Num. 30:8; I Kgs 8:33; Isa. 19:22; Jer. 14:4, 20:11, 37:8;
+Mic. 3:7). All these forms are from hollow roots; forms from
+geminate roots do not occur in this situation. Where the clause
+stands within a major unit, stress is penultimate in forms from
+both hollow and geminate roots (Lev. 22:9; I Sam. 16:11;
+Jer. 44:12, 46:21; Ez. 24:11). Stress is final in the hollow root
+verb of a subordinate clause within a major unit in Num. 13:32,
+where it does not end the main clause, but penultimate in
+I Sam. 14:29, where the subordinate clause does end the main
+clause. Where the verb is preceded by a particle, stress is final
+in forms from geminate roots where the clause begins a major
+unit (Jer. 5:6, 14:7, 46:23; these clauses are not particularly
+closely related to what follows).<note n="12">Stress is penultimate in a
+hollow root form in a clause which begins a major unit (II
+Chr. 20:10) or ends one (Gen. 37:7) and also where the verb is
+preceded by a constituent (Jud. 20:33; Isa. 26:11).</note></p>
+
+<p>12. Where the verb is followed by a single longer constituent,
+stress is also final in forms from geminate roots in Hab. 1:8
+(<emph rend="italic">w<sup rend="macron">e</sup>ḥadd'û</emph>) and (with the verb preceded by a particle) Isa. 24:6.
+The first clause is (probably) unusually closely related to what</p>
+
+<note n="12">Stress is also final in <emph rend="italic">dāk'û</emph> under different conditions (Num. 11:8).
+However, this form could derive from DKH just as well as DWK, despite
+the following <emph rend="italic">bamm<sup rend="macron">e</sup>dōkā</emph> form the latter root. Forms based on different but
+related roots (ŠŠH and ŠŠŚ) are similarly juxtaposed in Jud. 2:14.</note>
+<pb n="256"/>
+      <pb n="257"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>follows (cf. § 8), but the second is not. Stress is final in one hollow root form in a clause standing within a major unit in <gloss>wᵉnās'û mᵉnusat ḥereb wᵉnāpᵉlû wᵉ'ên rodep</gloss> (Lev. 26:36). The circumstantial clause formed by the last two words relates to the first of the two verbs (the hollow root form), rather than the second, so this verb is particularly closely related to what follows. Elsewhere stress is penultimate in hollow root forms where the clause begins a major unit or stands within it in Num. 30:5, 12; Jos. 3:16; Isa. 11:13; Jer. 11:10, 14:3, 16:6; Zech. 5:4; also in a subordinate clause Jos. 10:11; I Sam. 31:7; and where the verb is preceded by a particle II Kg. 13:6; Hos. 7:10; or by a constituent Jud. 20:48, and in the prose of Job 1:17.</p>
+<p>13. Where the verb is followed by two one-word constituents, stress is generally final where the clause begins or stands within a major unit, as <gloss>nā'û 'iwᵉrîm baḥuṣôt</gloss> (Thr. 4:14; also Isa. 38:14; Hos. 11:6; Am. 8:12; Hab. 1:8 [<gloss>wᵉqallû</gloss>]; Thr. 4:7). Stress is also final where the verb is preceded by a particle in Isa. 59:12 and by a constituent in Ez. 22:28. Stress is penultimate in <gloss>b'ô 'immᵉkem mᵉ'od</gloss> (Jer. 50:12; also Jer. 49:23); also where the verb is preceded by a constituent in I Sam. 4:17 and Cant. 4:10. The form is from a hollow root in all cases. In I Sam. 4:17 and Jer. 49:23 the two constituents following the verb form a compound subject. If this was treated as a single longer constituent penultimate stress would be normal (cf. § 12). In Jer. 50:12 the second of the two constituents following the verb is adverbial, and in Cant. 4:10 it is prepositional, whereas in Ez. 22:28 (where a hollow root form preceded by a constituent shows final stress) it is nominal. This feature of composition could be the factor determining stress position (cf. WC § 15.3, 18.6.c).</p>
+<head rend="italic">Perfect forms in the Twenty-One Books: longer clauses</head>
+<p>14. Where the verb is followed by two constituents, either or both of which is more than one word, stress is always final in forms from geminate roots where the verb begins the clause, no matter what position the clause occupies in the major unit (Ex. 23:29; Deut. 15:9; Isa. 6:12).<note place="foot" n="13">Possibly also <gloss>wᵉrā'û</gloss> (Mic. 5:5), although derivation from R'H is at least as likely as from R''.</note> In forms from hollow</p>
+      <pb/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>roots, stress is final where the clause begins or stands within a major unit, and the verb is followed by a two-word constituent, as <hi rend="italic">wešāb’ā ’al bêt ’ābîhā kin‘ûrêhā</hi> (Lev. 22:13; also Isa. 11:14, 19:1; Mic. 5:5); or where the final constituent is nominal, either object as <hi rend="italic">weśām’û lāhæm ro’š ’æhād</hi> (Hos. 2:2), or a vocative (Nah. 3:18). Stress is penultimate where the verb is followed by a one-word adverb and a long prepositional phrase, as <hi rend="italic">s’āru mahēr min haddæræk ’ašær ṣiwwîtîm</hi> (Ex. 32:8 = Deut. 9:12; also Jud. 2:17). Where the clause forms a major unit, stress is final where the clause is very short in Nu. 6:27; Isa. 11:2<ref target="#n14">14</ref>, penultimate where it is somewhat longer in I Sam. 24:20; Jer. 12:13; Qoh. 12:2. Stress is also penultimate where the clause ends a major unit in I Sam. 16:23; II Kgs 2:15. Where the clause is subordinate, or the verb is preceded by a constituent, stress is penultimate, whether the constituent following the verb is one or more words (Gen. 8:8, 11; Ex. 5:14; Deut. 2:16; Jos. 3:17, 4:1, 5:8; II Sam. 14:7; Isa. 51:10; Jer. 42:17, 44:12, 48:13; Zech. 7:12; Ruth. 2:6; also Jer. 43:5, where the clause modifies a word in the preceding major unit). Where the verb is preceded by a particle, stress is final in Num. 20:13, where the verb is followed by a two-word constituent (the syntax of the particle is obscure) penultimate in Mic. 1:12, where the constituent following the verb is one word. It can be argued, then, that stress position in a clause which does not end a major unit is conditioned by the length and semantic relationship of the constituents. The same is probably true where the clause does end a major unit, but this remains uncertain.</p>
+<p>15. Where the verb is followed by more than two constituents, stress is final where the constituent following the verb is more than one word (Amos 4:8). Stress is also final where the constituent following the verb is one word, where that constituent is followed by two or more parallel constituents (Ex. 8:7; Isa. 7:19), by two constituents, the first short, the second long in <hi rend="italic">werā’ā lekā zo’t mikkål hārā’ā ’ašær...</hi> (II Sam. 19:8, the only case where the root is geminate), or by two closely related one-</p>
+<note xml:id="n14"><p>14 It is possible that the development of final stress in these cases was facilitated by the fact the word following the verb begins with a guttural in both, but there is no firm evidence that phonotactic factors of this sort conditioned stress position in perfect forms.</p></note>
+<p>258</p>
+      <pb n="259"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>word constituents and two parallel ones (Num. 4:19). Stress is penultimate where the constituent following the verb is one word, and that constituent is followed by two constituents, the first long and the second short in <hi rend="italic">śāmû šiqqûṣêhem babbayit ’ašer... leṭammĕ’ô</hi> (Jer. 7:30), or by a pair of parallel constituents followed by another (I Reg. 2:33, 8:48 = 2 Chr. 6:38). Stress is always penultimate where the clause is subordinate (Est. 9:22), where the verb is preceded by a particle (Ex. 10:23, 33:4; Jos. 2:11; I Sam. 30:6; Jer. 51:29; Ez. 16:5); or by a constituent (Gen. 48:7; Jos. 5:4; I Reg. 2:15; Jer. 3:10; Ruth 1:15). The structure of clauses in which the verb is preceded by a particle differs from that of those in which final stress is shown except where the word following the verb is stressed on its first syllable, a feature which might itself prevent the development of final stress (see n. 15). This is also true of the subordinate clause, but not of those in which the verb is preceded by a constituent.</p>
+<p rend="italic" style="text-align:center">Perfect forms in the Twenty-One Books: the conditioning of stress position</p>
+<p>16. The most common requirement for final stress appears to be that the verb is adequately separated from the end of the clause, or from the nearest following division of similar significance. Final stress is most common where the verb is followed by two one-word constituents, but the clause does not end a major unit. Presumably in this situation, the clause was treated as a unit, with negligible division between the constituents. At the end of a major unit, divisions between the constituents would be more marked, due to the slower tempo (see § 20). This would prevent the development of final stress. Final stress also occurs where the verb is followed by a single word or a short phrase, and the clause is closely related to what follows (§ 11, 12). Presumably any division between the verb and the following constituent, or between the clause in question and the following one, was too slight to prevent the development of final stress, because of the close relationship between the two clauses. Where relationship to what followed was not so close, one or both of these divisions was so marked that final stress could not develop. This would also be true for the division between a verb and a single longer constituent. Th</p>
+<p style="text-align:center">259</p>
+      <pb n="260"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+cases in I Sam. 25:10 and Lev. 18:28 noted in § 9, where the
+verb is followed by a constituent composed of one word plus a
+longer modifier, no doubt represent the same sort of situation
+as a two-word clause closely joined to what follows. This is
+probably also true of the cases where final stress is shown in a
+verb followed by two one-word constituents at the end of a
+major unit. Final stress is shown where the second of the two
+constituents following the verb is its subject or a vocative
+(§ 10). In clauses of different structure, the relationship of
+the constituents would not require that all three be so closely
+joined. Consequently final stress does not develop. Close rela-
+tionship to what precedes (as where the clause modifies a
+preceding word, or the verb is preceded by a constituent, or
+even a particle) also generally prevents the development of
+final stress. Probably where the verb was closely joined to
+what preceded, there was a tendency to separate it corres-
+pondingly from what followed, so that final stress did not
+develop (cf. NA § 2.49.i, iii).
+</p>
+<p>
+17. Final stress in the perfect forms with vocalic affix in longer
+clauses (§ 15) can be explained as conditioned by the position of
+the main division of the clause: final stress occurs where the
+clause was not divided after the first or second word. This seems
+obvious in <emph rend="italic">wᵉrāʾā lᵉkāl zōʾt mikkāl hārāʿā...</emph> (II Sam. 19:8) where
+the first two words have conjunctive accents. In the other
+clauses in which final stress is shown, the verb or the fol-
+lowing word has a disjunctive accent, but (as in the first case)
+the main division of the clause as marked by the accents is
+separated from the verb by two or more words. Where the verb
+begins the clause, but stress is penultimate, it can be argued that
+the clause had to be divided after the second word, because the
+next semantic unit (a pair of parallel constituents or one long
+constituent) was too long to be included in the initial division.
+Division after the second word would prevent the development
+of final stress just as it does where the verb or the following
+word ends a clause within a major unit (§ 11). The second word
+has a disjunctive accent in each of these clauses, but this
+is also true in most of the cases in which final stress is shown.
+</p>
+<p>
+18. In <emph rend="italic">waw</emph> consecutive perfect forms (other than <emph rend="italic">qal</emph>) from
+roots <emph rend="italic">IIIh</emph>, final stress is usual where the verb is followed by two
+constituents (WC § 22), but not where the verb is followed by
+</p>
+<fw type="pagenum">260</fw>
+
+<pb n="261"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+a single constituent (one word or longer) unless its first letter is
+<emph rend="italic">alef</emph> (WC § 19.2, 3, § 21). The description in WC § 23, 25.2.
+stresses the significance of the presence and position of the
+object for the conditioning of stress position in <emph rend="italic">waw</emph> consecutive
+perfect forms with open penultimate where the verb is followed
+by more than two constituents. This may well be overstated
+since this factor does not seem significant for <emph rend="italic">nesiga</emph> nor for stress
+position in perfect forms with vocalic affix. In any case, stress
+position in the forms described in WC § 23, 25.2, is consistent
+(so far as comparison is possible) with the description in § 1
+above. In both groups of forms, where, because of the length
+and relationship of the constituents which follow it, the verb is
+separated from the main division of the clause by at least two
+words, stress is final. As far as can be determined, then, final
+stress occurs in these <emph rend="italic">waw</emph> consecutive perfect forms with open
+penultimate under much the same conditions as it does in the
+forms with vocalic affix described above.
+</p>
+<p>
+19. Retraction of the word stress before a word stressed on its
+first syllable (<emph rend="italic">nesiga</emph>) also occurs where two words are closely
+related, but the conditions required for <emph rend="italic">nesiga</emph> differ from those
+in which final stress is developed in that <emph rend="italic">nesiga</emph> occurs only when
+such a pair of words is separated from what follows, a condi-
+tion which generally prevents the development of final stress in
+verb forms with vocalic affix. Consequently <emph rend="italic">nesiga</emph> is generally
+most common under conditions most likely to prevent the
+development of final stress in these forms. Thus <emph rend="italic">nesiga</emph> is usual
+in a verb followed by a single one-word constituent unless the
+clause is closely related to what follows (NA §<hi rend="superscript">2</hi> 49.ii).<hi rend="superscript">15</hi> Where
+the verb is followed by a single constituent of more than one
+word, the word following the verb is rarely separated from
+what follows sufficiently to permit the development of <emph rend="italic">nesiga</emph>
+(NA § 2.3). Apart from this, <emph rend="italic">nesiga</emph> is least common where the
+verb is followed by two one-word constituents (NA §<hi rend="superscript">2</hi> 49.ii).
+</p>
+<note n="15">
+The development of final stress in a perfect form with <emph rend="italic">waw</emph> consecutive
+is blocked where the form is closely related to a following word stressed on
+its first syllable, unless that word is itself closely related to what follows
+(WC § 15, 18.6). The same is no doubt true of the forms discussed here
+since stress in this situation is penultimate in all imperative forms and most
+perfect forms. However final stress occurs in the latter in <emph rend="italic">bār'ū</emph> (Isa. 24:6, § 4)
+and <emph rend="italic">wᵉḥālʿā</emph> (Hos. 11:6, § 13). For cases in which the development of final
+stress may have been blocked in this situation, see § 15, 22, 27, 29, 30.
+</note>
+<fw type="pagenum">261</fw>
+      <pb n="262"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>In longer clauses, <hi rend="italic">nesiga</hi> is conditioned by the length and relationship of the constituents of the clause in a manner similar to that described in § 15 (NA § 2:19–22). Close relationship to what precedes is generally conducive to the development of <hi rend="italic">nesiga</hi>. Presumably this increases (under most circumstances) the likelihood that the clause will be divided after the word following the verb (NA § 49.i). The evidence from <hi rend="italic">nesiga</hi>, then, also generally supports the view that the development of final stress in the forms described was conditioned by the intonation contours governing the units into which the text was divided.</p>
+<p>20. Final stress is also quite common in the verb forms discussed here in a second situation — where the verb form is followed by a single word (or sometimes by a short phrase) at the end of a major unit (§ 8, 9). This appears to conflict with the situation described in § 16. A verb form followed by a single word regularly shows <hi rend="italic">nesiga</hi> in this position. <hi rend="italic">Nesiga</hi> gives rise to an unstressed syllable before the terminal main stress. Presumably this was required for the full presentation of the terminal contour. Some forms retain a full vowel in an open syllable before the main word stress when they stand in terminal position but show <hi rend="italic">shewa</hi> in this syllable in medial position. Presumably the terminal contour results in a slower tempo, so that the vowel is not reduced.<note n="16">Examples of such forms are verbs with ‘paragogic’ <hi rend="italic">nun</hi>, as <hi rend="italic">tismaʿûn</hi> (Deut. 1:17, at the end of a clause, cf. <hi rend="italic">tišmeʿûn</hi>, Deut. 8:20, Zech. 6:15, within a clause. All three forms have <hi rend="italic">zāqēf</hi>). The slowing of the tempo was suggested by E. Sievers in <hi rend="italic">Studien zur hebräischen Metrik</hi> (Leipzig 1901), 215f., 245 and is demonstrated (for the accentuation) by the tendency to use a disjunctive towards the end of a major unit between items joined by a conjunctive at the beginning, as in Jud. 1:18, 27, 31.</note> Evidently the degree of reduction of tempo at the end of a major unit, combined with the fact that the intonation contour reflected the relationship of the verb to the following word, permitted the development of final stress in the verb forms described. Where the verb of a clause of this sort was closely related to what preceded, the relationship to what followed was not close enough to induce either <hi rend="italic">nesiga</hi> (NA § 2.7, 2.23) or the development of final stress (§ 8). Here again, of course, the effect of the conditioning factors differs in the different cases. The development of final stress is prevented by a lower degree of relationship to what precedes than is required to prevent <hi rend="italic">nesiga</hi>.</p>
+<p rend="text-align: center">262</p>
+      <pb n="263"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+    21. This survey supports the claim that the basic factor conditioning stress position in the forms with vocalic affixes described here, in <hi rend="italic">waw</hi> consecutive perfect forms, and perfect forms showing <hi rend="italic">nesiga</hi>, is the same: the intonation contour of the clause. The effects of this conditioning are modified, in each of the three cases, by phenomena specific to that case, namely the length and structure of the word in question, and the direction of the shift of stress in it (WC § 26, NA § 1.12–13). In the case of the verb forms with vocalic affix described above, the only significant modifying factor of this sort appears to be root structure.<note n="17">Final stress develops more readily in forms from geminate roots (§ 8, 9, 10, 11, 12, 14).</note>
+</p>
+<head rend="italic">Perfect forms in the Three Books</head>
+<p>
+    22. Where a perfect verb form is followed by a single stress word constituent in the Three Books, stress is final, when the clause forms a major unit, in a geminate form preceded by a noun and a particle, as <hi rend="italic">wešāmayim lō’ zakkû be‘ēnāw</hi> (Job 15:5; similarly Job 25:5; also Ps. 3:2, where the noun is vocative). In hollow root forms in the same situation, stress is penultimate, as <hi rend="italic">weyōde‘ay ’ak z’ārû mimmænnî</hi> (Job 19:13; also Ps. 3:7 where the clause modifies a word in the preceding major unit). Stress is also penultimate where the verb is preceded only by a noun, as <hi rend="italic">we‘aṣmî ḥārā minnî ḥōreb</hi> (Job 30:30; also Job 19:17), and where it is preceded only by one or more particles (Ps. 78:32, Ps. 34:27). Where the clause ends a major unit, stress is final in Ps. 76:6, where the verb begins the clause, and its subject is given in the preceding clause, so that the relationship to what precedes is similar to that in the cases in which final stress is shown listed above. So also in Prov. 30:13, where the clause and the preceding noun it modifies form a major unit. Stress is also final where the verb is preceded by a particle in Ps. 131:1, etc.
+</p>
+<note n="17">
+    There is no adequate evidence that phonotactic conditioning (by the initial sound of the following word) is a significant factor, as suggested by Bergsträsser, <hi rend="italic">Hebräische Grammatik</hi>, II, § 28e, except in the case of the imperative forms (see § 4, and n. 14 above). The presence of prefix <hi rend="italic">waw</hi> consecutive does appear conducive to the development of final stress (WC § 4e), since the majority of forms showing final stress have this prefix. However its influence is limited, as the majority of forms with <hi rend="italic">waw</hi> consecutive do not show final stress, as shown by the figures in n. 5.
+</note>
+<p rend="center">263</p>
+      <pb n="264"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>the preceding clause has a different subject, but penultimate in Job 39:4, where the preceding clause has the same subject, and the verb is followed by a word stressed on its first syllable. Stress is also penultimate in the verb of a subordinate clause in Ps. 84:4, where the clause and the noun modified do not form a major unit, and also in Ps. 46:7, 73:19, 94:18, where the verb begins the clause, but its subject is not given in the preceding clause. Where the clause begins a major unit, stress is final where the following clause has a different subject, as <hi rend="italic">nā'û ma<hi rend="superscript">g</hi>elôtähā lō' tēdā'</hi> (Prov. 5:6, also Job 35:6), but penultimate where the subject is the same in <hi rend="italic">q'āmû bānêhā waye'aššerûhā</hi> (Prov. 31:28). Stress is also penultimate where a hollow root form is preceded by a particle and a noun in Ps. 54:5.</p>
+<p>23. Where the verb is followed by a single constituent of more than one word, stress is final where the verb begins the clause in Ps. 38:20, penultimate in Job 31:40. The two clauses have the same structure, and both form major units. No objective reason can be offered for the difference in stress position, but it is noteworthy that the verb has a conjunctive accent in Ps. 38:20, a disjunctive in Job 31:40. This could well reflect the same joining or separation of the two constituents as conditioned the difference in stress position. If so, this must be a case of conditioning by semantic factors which cannot be objectively described. Stress is penultimate also in Prov. 28:1, where the clause begins the major unit.</p>
+<p>24. Where the verb is followed by two one-word constituents, stress is final in forms from geminate roots in Ps. 55:22, 104:24, and also in Ps. 73:9, where the verb is pointed as if from a geminate root. In Ps. 104:24 the verb is preceded by a particle. Here and in Ps. 55:2 the clause begins a major unit; that in Ps. 73:9 forms a major unit. Stress is penultimate in clauses of this sort where the verb is a typical hollow root form in Ps. 58:4, 74:4, 79:1, and where the verb is preceded by a particle in Ps. 54:5; Prov. 2:18; and also Ps. 44:26, where the root is ŠHH, but the pointing does not differ from that of a hollow root form. Stress is also penultimate in Ps. 9:7, where the verb is preceded by a constituent. The clause forms a major unit in all these cases. This description also fits the stress position in the three clauses in which the verb is followed by two constituents of which one or both is more than one word. All three have a verb</p>
+<fw type="footer">264</fw>
+      <pb n="265"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>from a geminate root, and form a major unit. Stress Ps. 69:5; Prov. 14:19, where the verb begins the claus penultimate in Ps. 12:2, where the verb is preceded by These are the longest clauses in the Three Books verb forms of the type studied here.</p>
+<p>25. This description suggests that stress is final in tl where the verb and its following modifier formed one main divisions of a major unit (including cases wher was preceded by a monosyllable), unless the verb st second of the two divisions and was not closely rela preceding, or stood in the first division, and was eitL related to the following, or was preceded by a constitut is, the use of final stress is dependent on the structu poetic verse. It occurs where the verb and the follow are closely related to each other, but not to what fol not to what precedes unless that forms the first of two of a major unit.<note n="18">The main division of a stich of poetry which forms a major a significant subdivision of that unit. It gives rise to penultimate <hi rend="italic">waw</hi> consecutive perfect forms, and to <hi rend="italic">nesiga</hi>. See WC § 14.4 with § 18.3.</note> The conditions under which <hi rend="italic">nesiga</hi> the Three Books also differ somewhat from those mc cive to it in the Twenty-One (NA § 2.55). Presumably conventions of recitation were used for the two cc is suggested by the accentuation. If final stress in th in the Three Books was conditioned as suggested, it admitted that the conditioning cannot always be objectively (see § 23). However this is often tru relationships marked by the accentuation,<note n="19">It has not seemed necessary to support the view that the reflect a semantic analysis of the text, as this has always beer accepted, and has been forcefully argued by G. E. Weil in Weil, R Serfaty, <hi rend="italic">Concordance de la cantilation du pentateuque et des cinq megi</hi>. (Metz 1978), viii–xiii. It is no doubt true that some features of system, such as the use of <hi rend="italic">pashṭa</hi> and <hi rend="italic">tifḥa</hi>, and of the differen conjunctive accents, are determined by musical rather than sem siderations, but this cannot affect the general validity of the abo</note> so acce this view presents no problems. Consequently there reason to believe that stress position in the forms des § 22–24 is determined by the intonation contours char of the poetic verse, but the available evidence cannot l demonstrate this clearly. It is, however, worth noting t</p>
+<p rendition="center">265</p>
+      <pb n="266"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>Three Books, as in the Twenty-One, final stress develops most easily in forms from geminate roots (§ 22, 24).</p>
+
+<head rend="italic">Perfect forms: similar structures of different origin</head>
+
+<p>26. In a few cases in the perfect <hi rend="italic">qal</hi> of hollow root verbs, the final root consonant is assimilated to the consonant of the 1cs or 2ms pronominal affix, producing a structure identical to that of a perfect form with vocalic affix from a geminate root. Such forms may show final stress, a feature otherwise found only in 1s or 2ms perfect forms where <hi rend="italic">waw</hi> consecutive is prefixed. In Ps. 8:7 <hi rend="italic">šattā</hi> shows penultimate stress where preceded by a constituent of one word, and followed by one of two. The most similar case to that described above is in Job 30:30 (§ 22). The constituent following the verb is shorter there, but this does not increase the likelihood of penultimate stress (§ 20, cf. § 9). In Ps. 73:28, <hi rend="italic">šattî</hi> shows final stress in a clause similar in structure to that in which a form shows final stress in Amos 4:8 (§ 15). No examples occur in similar structures in the Three Books. In Ps. 90:8, <hi rend="italic">šattā</hi> is followed by two one-word constituents, and shows final stress as the example in Ps. 73:9 (§ 24). Other forms of this sort stand at the end of a clause, and so have penultimate stress, or have prefixed <hi rend="italic">waw</hi> consecutive, and show final stress for that reason. As far as can be determined, then, stress in these forms is conditioned in the same way as in the forms with vocalic affix from hollow and geminate roots. This supports the view that final stress is automatically conditioned by phonological factors.</p>
+
+<head rend="italic">Imperative forms</head>
+
+<p>27. Where an imperative form (of the types included here, see § 4) is followed by a single one-word constituent, stress is final in ms forms in all positions, as <hi rend="italic">sūrā 'ᵃdōnî sūrā 'ēlay</hi> (Jud. 4:18; also Num. 10:35; Isa. 44:22; Ps. 3:8, 6:5, 9:20, 10:12, 17:13, 74:22, 22, 82:8, 90:13, 119:154). The verb is from a hollow root and begins the clause in all cases. Stress is final in an fs form from a geminate root in <hi rend="italic">gozzî nizrek</hi> (Jer. 7:29) where the clause begins a major unit, and in a hollow root form where the clause stands within a major unit in Isa. 21:2. Stress is penultimate in hollow root forms where the clause begins the major unit, as</p>
+<pb n="266"/>
+      <pb n="267"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+  <hi rend="italic">ʿûrî ṣāpôn</hi> (Cant. 4:16; also Isa. 23:4; Ruth 3:13)
+  (Gen. 16:9), and in hollow or geminate forms wh<lb/>
+  following the verb is stressed on its first syllab<lb/>
+  Isa. 49:13) or where the verb is preceded by a cor<lb/>
+  62:6, 114:7). Stress is final in mpl forms from RN<lb/>
+  clause begins the major unit in <hi rend="italic">rannû šāmayim</hi> (Isa.<lb/>
+  but not in forms from other roots, geminate or ho<lb/>
+  or other positions, as <hi rend="italic">roʿû ʿammîm</hi> (Isa. 8:9; also J<lb/>
+  5:23; Isa. 62:10; Nah. 2:10, 10; Ps. 48:13; Job. 24
+</p>
+<p>
+  28. Where the verb is followed by one longer<lb/>
+  stress is final only in fs forms from RNN wher<lb/>
+  begins or forms a major unit (Isa. 54:1; Zeph. 3:<lb/>
+  penultimate in fs forms from hollow roots in the<lb/>
+  (Jer. 31:21 [<hi rend="italic">šubî</hi>]; Ruth 1:15), and from hollow<lb/>
+  roots in other situations (II Kgs 8:1; Isa. 12:6, 5<lb/>
+  31:21 [<hi rend="italic">šubî</hi>]; Mic. 1:16, 4:13), in one ms form fro<lb/>
+  root (Jer. 40:5, the following constituent is prepo<lb/>
+  in mpl forms from hollow or geminate roots (I Sa<lb/>
+  19:9, 23:2).
+</p>
+<p>
+  29. Where the verb is followed by two one-word<lb/>
+  stress is final in ms forms from hollow roots whe<lb/>
+  begins a major unit (Ps. 7:7), ends it (Ps. 35:1),<lb/>
+  (Ps. 126:4, 132:8), but penultimate where the cla<lb/>
+  major unit in Ps. 21:14, or stands within it in Joel<lb/>
+  stress is final, the word following the verb has a<lb/>
+  accent; where penultimate, the accent is conjun<lb/>
+  accentuation reflects the same relationships as<lb/>
+  stress position, these cannot be described obje<lb/>
+  § 23). Where the clause stands within a major unit,<lb/>
+  in an fs form from a geminate root (Nah. 2:1),<lb/>
+  a hollow root form followed by a word stressed<lb/>
+  syllable (Jer. 31:21 <hi rend="italic">śîmî</hi>). Where the clause forms a<lb/>
+  stress is final in a hollow root form in Ps. 116:7<lb/>
+  Ps. 11:1 (where the syntax is obscure). Stress is fin<lb/>
+  form from RNN in Jer. 31:7, where the clause sta<lb/>
+  major unit, but penultimate in mpl forms from<lb/>
+  geminate roots in other situations in Jud. 5:23; Jo<lb/>
+  2:12.
+</p>
+<p>
+  30. In longer clauses, stress is final in ms forms f
+</p>
+      <pb n="268"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>or geminate roots (Nu. 10:36; Ps. 43:1, 68:29, and, where the verb is preceded by a particle II Chr. 6:41). Stress is, however, penultimate in an ms form from a hollow root in Ps. 7:7, possibly because the verb is not followed by a vocative, as is usually the case where stress is final. In fs forms, stress is final in a hollow root form where the clause begins a major unit in Zech. 9:9, but not in Cant. 2:10, where the following word is stressed on its first syllable. Stress is also final where the verb is preceded by a constituent in a clause which forms a major unit (Zech. 13:7). In other situations stress is penultimate in forms from hollow or geminate roots (Isa. 16:3, 23:16; Jer. 31:21 [<hi rend="italic">šîtî</hi>]; Mic. 4:10; Thr. 2:19). Stress is also penultimate in mpl forms from geminate roots in Jos. 10:18; Ps. 68:5.</p>
+<p>31. Final stress develops most easily in imperative forms where the verb is followed by a single one-word constituent, or by two one-word constituents. In the two cases of final stress in a verb followed by a single constituent of more than one word, the constituent following the verb is a very short construct phrase (Zeph. 3:14) or a single word modified by a relative clause (Isa. 54:1, cf. § 9). Final stress is most common where the clause begins a major unit, or stands within it. However, final stress also occurs in all three cases in which the verb is preceded by a constituent of the clause; so close relationship to what precedes evidently does not inhibit the development of final stress in imperative forms. It seems clear, then, that while the conditions under which final stress developed in perfect and imperative forms were generally similar, they differed in detail. It is to be expected, however, that a command would be characterized by an intonation contour different from that of a statement, so this difference is no obstacle to the view that stress position in imperatives was conditioned by intonation contours, as in perfects. The difference in the conditioning can be seen, among other things, in the fact that a number of features which have no effect on the development of final stress in perfect forms inhibit this development in imperatives, with the result that final stress has developed less readily in imperative forms than in perfects. (i) Word structure. Final stress developed most readily in forms geminate roots in both perfect and imperative forms.<ref target="#n20">20</ref> In imperatives, however, the devel-</p>
+<note xml:id="n20">
+    <p>20 Thus in mpl forms, final stress occurs only in forms from geminate roots. For fs forms, see § 27, 28, 29.</p>
+</note>
+<p rend="text-align:center">268</p>
+      <pb n="269"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+opment of final stress position is also evidently
+vowel pattern. Final stress is least likely to dev
+forms. It is most common in the ms forms, but sin
+in the most favourable situations are listed (see § 4),
+developed most easily in fs forms. This may expla
+stress occurs only in fs imperatives where the forn
+(see § 6, but see also iii below). (ii) The developm
+stress in ms forms is clearly conditioned by
+of the following sound, since final stress is almos
+restricted to cases where the following word begi
+(iii) Where this phonotactic condition is not met
+occurs only in ms forms from RYB which are fo
+cognate object, a semantic condition. This com
+words was presumably unusually closely joined in
+haps due to the commonness of its use. Semantic c
+may also be represented by the fact that final stre
+mpl forms only where the root is RNN, and in repea
+only where the root is ‘WR.
+</p>
+<p rend="italic" style="text-align:center">
+Imperative forms: similar structures of different
+</p>
+<p>
+32. Imperative forms from YHB which have a
+always have <hi rend="italic">qāmeṣ</hi> in the first syllable, and so resen
+root forms. The fs and mpl forms always have final
+expected in such forms from roots Iy. The <add place="above">m.s</add> <del rend="strikethrough">manuscript</del>
+has penultimate stress in Gen. 11:3, 4, 7; Ex. 1:1
+stands at the end of a clause, and in I Sam. 14:41
+following word begins with <hi rend="italic">taw</hi>. Stress is final or
+29:21, where the following word begins with <hi rend="italic">alef</hi>. I
+clause, the verb is followed by a single one-word cor
+that <hi rend="italic">hābā</hi> shows final stress under the same conditior
+forms from hollow roots (see § 4, 27). Penultimate st
+is anomalous, so this can hardly be regarded as
+evidence. It does, nevertheless, provide further supp
+view that final stress in the forms described here r
+automatic phonological conditioning.
+</p>
+<head rend="italic">Conclusion</head>
+<p>
+33. The above description demonstrates the prob
+stress position in these forms with vocalic affix a
+</p>
+      <pb n="270"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>penultimate syllable is conditioned by intonation contours reflecting the syntactic/semantic structure of the context, as it is in forms with vocalic affix and a short penultimate, and in perfect forms with <hi rend="italic">waw</hi> consecutive. The conclusion that the conditioning of stress position in the three groups is related is reinforced by the fact that members of all three groups exhibit three contrasting vowel patterns (see WC § 13, 14.8). One of these forms shows penultimate stress with <hi rend="italic">qāmēṣ</hi> in the penultimate syllable, as <hi rend="italic">yiggāšû</hi> (Ex. 24:2), <hi rend="italic">wāḥāttū</hi> (Jer. 50:36), <hi rend="italic">we’āmārtā</hi> (Isa. 14:4). The second shows penultimate stress with <hi rend="italic">pataḥ</hi> in the stressed syllable, as <hi rend="italic">yiggašû</hi> (Job 41:8), <hi rend="italic">ḥattū</hi> (Jer. 8:9), <hi rend="italic">we’āmārtî</hi> (Deut. 32:40). The third shows final stress, as <hi rend="italic">yiggešû</hi> (Isa. 41:1), <hi rend="italic">weḥattū</hi> (Ob. 1:9), <hi rend="italic">we’āmartî</hi> (Ez. 14:17). The first vowelling occurs where the terminal intonation contour has preserved the original penultimate stress, and has caused change in the vowel of the stressed syllable. The third vowelling occurs where the form is closely joined in speech to what follows, so that the intonation contour has induced final stress. The second vowelling is intermediate; the intonation contour has induced neither final stress nor vowel change. The reason that this intermediate form, showing <hi rend="italic">pataḥ</hi> with penultimate stress, is so rare where the penultimate syllable was originally short is not due to any difference in the basic conditioning.<note n="21">It reflects, in part, the fact that original short <hi rend="italic">*a</hi> in a stressed open syllable has nearly always developed into <hi rend="italic">qāmēṣ</hi> in MT, so that, where the form had original short <hi rend="italic">*a</hi> in an open penultimate, the intermediate vowelling is no longer distinct from the terminal. In part it reflects the fact that stress moved forward most readily from a short vowel in an open syllable, so that stress is final in forms with an original short penultimate and a vocalic affix in many positions in which stress remains penultimate where this syllable was originally long. That is, this is a further instance in which the influence of the intonation contours was modified by word structure.</note></p>
+
+<note n="21">As far as I know, only the root NGŚ gives rise to such forms. All three occur at the end of a clause. In II Sam. 3:34 and Ezek. 9:6 the accent is <hi rend="italic">zāqēf</hi>; in Job 41:8 it is <hi rend="italic">atnāḥ</hi>. Pausal forms do not always occur with <hi rend="italic">atnāḥ</hi> in the Three Books, even where not preceded by <hi rend="italic">‘olāh we-yored</hi>, as with the segolate nouns in Ps. 35:19, 48:11, 120:2; Prov. 30:21. Consequently the inclusion of these forms with the other cases of penultimate stress with <hi rend="italic">pataḥ</hi>, called ‘minor pausal forms’, is jusified by their use as well as their vowelling.</note>
+      <pb n="271"/>
+<head>STRESS POSITION IN HEBREW VERB</head>
+<p>
+34. The shift to final stress position in forms with an origi-
+nally short penultimate and a vocalic affix must have occurred
+somewhere about the turn of the era, being apparently quite
+complete in the transliterations of Origen (see above). If
+<hi rend="italic">Nesiga</hi> was a later development, and the same factors that
+caused <hi rend="italic">nesiga</hi> blocked the shift of stress to a final vowel from a
+long penultimate syllable (see above § 19n. 15). To be sure,
+(as was not in doubt) the shift of stress to a final vowel from a
+long penultimate was later than that from a short penul-
+timate. Both shifts, however, reflect the same tendency, and
+they are successive stages in the same process. This means that
+the later stage, the shift of stress from a long penultimate
+syllable to a final vowel, which is investigated here, is of
+considerable interest, since it was crystallized before it had
+developed far. Thus the evidence reveals the conditions under
+which final stress most easily developed, and those under which
+this development was most easily blocked. This information is
+potentially of interest for the study of other forms of Hebrew in
+which verb forms showing a ‘full’ vowel reflecting an originally
+short vowel in an open syllable before a vocalic affix occur in a
+wider range of positions than in the standard biblical text (e.g.
+so-called ‘pausal forms in non-pausal positions’ found in manu-
+scripts of the Mishna and Piyyuṭim). The information is also
+likely to shed some light on the variation of stress in forms such
+as <hi rend="italic">’attā</hi>, <hi rend="italic">lāmmā</hi>, and <hi rend="italic">’ānā</hi>. Since stress position in the cases
+discussed here appears to be determined by intonational factors
+specific to the biblical reading tradition, reflecting the syntactic-
+semantic relations of the word in question, it cannot be assumed
+that the conditioning of stress position or vowel patterns in the
+other cases will be found to be the same. It is to be hoped,
+however, that the ideas presented in this study are of some use
+in the understanding of the other material.
+</p>
+<fw type="footer">271</fw>
+    </body>
+  </text>
+</TEI>

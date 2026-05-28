@@ -1,0 +1,19 @@
+
+@import "{{ site.theme }}";
+
+/* Custom styles */
+.meta {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+}

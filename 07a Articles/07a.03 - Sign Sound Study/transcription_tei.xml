@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Sign and Sound in the Study of Written Texts</title>
+      <author>
+        <persName>
+          <forename>E.</forename>
+          <forename>J.</forename>
+          <surname>Revell</surname>
+        </persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Canadian Linguistic Association</publisher>
+      <date when="1967">1967</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">Sign and Sound in the Study of Written Texts</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Canadian Journal of Linguistics</title>
+          <imprint>
+            <date when="1967">1967</date>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="page" from="24" to="30">24-30</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <notesStmt>
+    <note type="filename">07a.03_Sign_and_Sound_in_the_Study_of_Written_Texts.pdf</note>
+  </notesStmt>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="#right">E. J. REVELL, University of Toronto <space extent="10" unit="chars"/> Bib 3</p>
+
+<head type="main">Sign and sound in the study of written texts</head>
+
+<p>
+    <list rend="numbered">
+        <item n="1">
+            <p><hi rend="bold">1.</hi> The increased interest in speech brought about by the development of modern Linguistics has resulted in a corresponding diminution of regard for written texts as a manifestation of language. In fact a majority of linguists, at least in North America, appear to regard only speech as “real language,” and writing as an incompetent attempt to record it, giving “an imperfect and incomplete picture of actual speech.”<note n="1">H. A. Gleason, An Introduction to Descriptive Linguistics (New York, 1965) 1.12 (p. 10).</note> The purpose of this paper is to show that this attitude reflects a distorted view of the relation of speech and writing, and has had a pernicious effect on the grammatical study of written texts.</p>
+        </item>
+        <item n="2">
+            <p><hi rend="bold">2.</hi> American linguists since Bloomfield appear to have defined language as spoken.<note n="2">So L. Bloomfield, Language (London, 1935), p. 21. It is interesting that Sapir, Language (New York, 1921), p. 7, does not include ‘vocal’ in his definition of language. Many European linguists would not do so either. Firth appears to reach the other extreme in defining ‘speech’ as ‘oral or written’, in “The Semantics of Linguistic Science,” Papers in Linguistics (London, 1957), p. 144.</note> The admissibility of such a definition, (philologicaly impeccable, if somewhat narrow in contrast to current usage) cannot be denied. Its use, however, requires some term other than “language” for the system of items and relations represented by the sounds of speech. The term <hi rend="bold">grammar</hi> is used here for this purpose. It comprehends morphemes, their arrangements (morphology and syntax) and their meanings (semantics).<note n="3">From the bareness of this statement it can be seen that no particular theory of language is presupposed here. However, the distinction between grammatical and lexical form, or between a form and its meaning, and the classing of the units so distinguished under separate terms, seems an unnecessary complication, at least for the practical study of language.</note> “Speech” here refers to a spoken utterance, “writing” to a written text, each, in its way, representative of the <hi rend="bold">grammar</hi>. To state</p>
+        </item>
+    </list>
+</p>
+
+<p>CJL/RCL 13:1 (1967)</p>
+      <pb n="23"/>
+<p>
+suffixes are not a characteristic feature of all OE adjectives, just
+as a positive suffix is not a characteristic feature of all OE
+adverbs. A second reason is that inflectional suffixes—such as
+those of the OE adjective strong/weak paradigms—usually
+have a connection with sentence concord, but the suffixes of
+comparison in OE adjective and adverb sets do not. Hence, for
+these two basic reasons the suffixes of comparison are labeled
+herein as postbases rather than as inflectional suffixes.
+</p>
+<p>
+On the basis of the evidence presented, it is apparent that the
+OE morphological set herein called adverb consists of subsets
+with positive, comparative, and superlative constructions marked
+by characteristic postbases, and that the set as a whole is an
+uninflected set. In contrast, the OE morphological set herein
+called adjective constitutes an inflected morphological set of
+subsets with positive, comparative, and superlative constructions,
+the last two of which are marked by characteristic postbases,
+and added to all three in sequential order are inflectional suffixes
+of the strong/weak adjective paradigms. This information may
+be summarized as follows:
+<list>
+<item>OE adverb = base + PoB (1, 2, 3)</item>
+<item>OE adjective = base + PoB (2, 3) + strong/weak suffix</item>
+</list>
+Thus, numerous OE constructions, as for example OE <hi rend="italic">fela</hi>
+‘much’, <hi rend="italic">gēara</hi> ‘formerly,’ and other traditionally labeled OE
+adverbs on the basis of syntactic function, would not qualify as
+morphological adverbs on the basis of the description given herein.
+</p>
+<p>
+Although the matter of syntactic classes in OE is properly
+outside the subject of this paper, nevertheless, so-called OE
+adverbs that do not qualify as morphological adverbs should be
+relabeled as adverbials, thus descriptively positing the necessary
+distinction between morphological adverbs and syntactic
+adverbials.
+</p>
+
+<fw type="footer">
+<address>PRINTED IN CANADA</address>
+PETERS: Old English adverb subsets—23
+</fw>
+
+<pb/>
+<p>
+the case in this way is no doubt ind
+(just as the definition of language as s
+but this statement should be justified
+</p>
+<p>
+<hi rend="bold">3.1.</hi> The most obvious question ra
+concerns the relationship of speech
+linguists state that “morphemes ar
+Their own works often show this
+suggesting that it is a badge of faith i
+rather than a carefully thought out
+how are the different allomorphs (“
+of phonemes) to be related to the
+“morphemes are stateable in terms
+agreement with the position taken
+composed of phonemes, but are rep
+sounds are not part of the <hi rend="bold">grammar</hi>
+of representing it.
+</p>
+<p>
+<hi rend="bold">3.2.</hi> It is necessary, as often in ling
+ber what a phoneme is. It is not a s
+it is a classification or description of s
+possible ways of making such a cla
+language, all equally valid. The pa
+and indeed the definition of “phone
+on the interests of the scholar, and
+phonemic analysis is being made.<hi rend="superscript">6</hi>
+possibly be “composed of” phoner
+used in any spoken language is char
+as is the way in which these sou
+morphemes. However, the sounds us
+widely in different localities, as is th
+variations in the sound system are a
+and not necessarily correlative, ch
+</p>
+
+<note n="4">
+<hi rend="superscript">4</hi>E.g., Harris, in Methods in Structural Lin
+of morphemic segments as “sequences of p
+stituting” a morpheme (pp. 195–6 passim), y
+a morphemic element. Such an element can
+nemes, it cannot “consist of” them. (See also n
+</note>
+<note n="5">
+<hi rend="superscript">5</hi>H. A. Gleason, Introduction, p. 75, follo
+short sequences of phonemes” and similar stat
+</note>
+<note n="6">
+<hi rend="superscript">6</hi>E.g., the material on the basis of which
+range from a single idiolect, as in D. Jones, I
+Chapter 2, (note especially #28, p. 9) to a wi
+and Smith, An Outline of English Structure (
+Papers 3, Washington, 1957), Section 1.
+</note>
+
+<fw type="footer">
+REVELL: The
+</fw>
+      <pb n="116"/>
+<p>There is obviously, then, no indissoluble bond between phonemes and morphemes. A morpheme does not consist of phonemes, it is represented by them, or, to be more accurate, by sounds which, for purposes of linguistic description, are classified as allophones of phonemes.</p>
+<p><hi rend="bold">4.</hi> If morphemes are only represented by, not composed of, phonemes, the question of whether the sounds of speech always indicate all the morphs of the grammatical structure they represent may be raised. The interest of the Firthian school in the “context of situation” is an indication that they do not. The existence of “zero morphs” and “homophones” strongly suggests that they do not. Features coming under Chomsky's heading of “deeper structure” can also be interpreted in this way. In any case coming under these headings, the normal speaker of the language will “understand” some grammatical elements in addition to those actually represented in sound. It is presumably possible to explain most such cases of “understanding” by reference to complete patterns of the <hi rend="bold">grammar</hi>: e.g., paradigmatic patterns in the case of “zero morphs” or collocations in the case of homophones. The fact remains, however, that these features are not represented in sound in a particular utterance, their existence can only be deduced from comparison of a number of utterances. Speech does not, then, always indicate all the morphs of the structure it represents.</p>
+<p><hi rend="bold">5.</hi> The conclusions about the relation of speech to the <hi rend="bold">grammar</hi> can, then, be stated as follows: The sound system of a spoken language is characteristic of that language. The elements of the <hi rend="bold">grammar</hi> are not, however, formed from sounds, but represented by them. The representation may be complete or incomplete according to the situation. The concept of “phoneme” is a tool designed to permit the simple and clear description of the way in which this representation is achieved.</p>
+<p><hi rend="bold">6.1.</hi> Speech, then, is the representation of the <hi rend="bold">grammar</hi> of a language in sound. Writing, according to many linguists, is an imperfect representation of speech. The “imperfection” which they see in traditional writing systems consists in their falling short of the “ideal” of phonemic transcription.<note n="7" place="bottom">Phonemic transcription also, of course, gives an “imperfect and incomplete picture of actual speech” (see note 1), a fact not noticed by those who condemn traditional writing systems on this ground. The linguist will claim that all “significant” features of speech are recorded in phonemic transcription—but significant to whom and for what? (see note as the “tones of voice” expressing anger, certainly significant to the hearer, although ger i.e., beyond the linguist’s concern.</note> Granted their point of view, they are right. No appears ever to have approached transcription. Our own system, when millenium B.C., did not even represen history it has been modified to suit th but never so far as to deserve the te of course, exceptions to this stateme devised by individuals,<note n="9" place="bottom">E.g., Steele and other English scholar in Studies in Phonetics and Linguistics (Lonc</note> but none of use. Such individual systems, howev phonemes, although not labelled, wa and that they had the technical abi transcription.<note n="10" place="bottom">Note also, besides the Indian tradition r tion of the vowels of Hebrew according to Saadya Ga’on (d. 942) given in S. L. Skoss, Grammarian, (Philadelphia, 1955) p. 27f., a ants of Arabic on the same basis by Ibn S: preceded by a detailed description of the phy given in K. I. Semaan, Arabic Phonetics (Lal</note></p>
+<p><hi rend="bold">6.2.</hi> If a phonemic transcriptio system, and could have been produce it never was brought into use. In transcription is a specialized tool ma It is quite unsuited to the require system, being far more complex thai Its use as a general writing syste restricted in space and time.<note n="12" place="bottom">Contemporary spoken English differs phonemes and their use, as is shown for exa in Trager and Smith’s Outline of English p. 22f. Sound changes will induce similar di period of time. If phonemic transcription wer several systems would be needed, no ma</note></p>
+<note n="8" place="bottom">This is true whether one holds the tradi alphabetic, or Gelb’s view in A Study of W that it was originally a syllabic system.</note>
+<note n="11" place="bottom">Even a child knows the intonation cont he begins reading. It is therefore unnecessar in this connection, to compare Pitman’s “In phonetic spelling designed for the teaching with success in the U.K. and the U.S.A.) wi which it differs in a variety of ways.</note>
+<p><hi rend="smallcaps">CJL/RCL</hi> 13:1 (1967) <space dim="horizontal" extent="30" unit="chars"/> <hi rend="smallcaps">REVELL</hi>: Th</p>
+      <pb/>
+<p>
+    <hi rend="bold">7.1.</hi> If writing is not an attempt at phonemic transcription, what, then, is it? R. H. Robins says “It is broadly true that one prime purpose of any writing system is to represent in permanent form the distinctive sound units or phonemes of a language,” and takes some pains to support this claim.<ptr target="#n13"/> It is not, however, really true to say that “In spellings like <hi rend="italic">rough</hi> and <hi rend="italic">cough</hi>, <hi rend="italic">ou</hi> and <hi rend="italic">gh</hi> indicate /ʌ/ and /ɔ/, and /f/.” Because of the diversity of speech patterns within a language, a given spelling will “indicate” different sounds to different readers. The reason for this is that the sounds “indicated” are not attainable directly from the written form, but only by way of the morph. <hi rend="italic">Rough</hi> “indicates” /rʌf/ to Robins only because he recognizes the morph represented by the letters, and knows the conventional representation of that morph in speech. The letters themselves do not preclude other pronunciations.<ptr target="#n14"/>
+</p>
+<p>
+    <hi rend="bold">7.2.</hi> What writing does, then, is represent the morphemes of a language sufficiently well to permit their recognition by the reader trained to them.<ptr target="#n15"/> This is obvious for “ideographic” writing systems, where each sign represents a morph or group of morphs. Such a system has its advantages, among them complete independence of dialect, or even language, boundaries.<ptr target="#n16"/> Their obvious disadvantage is the number of signs required.<ptr target="#n17"/> The
+</p>
+
+<note xml:id="n13">“phoneme” was envisaged, even in North America, (cf. Gleason on the transcription used in the “English-for-Foreigners” programme of the American Council of Learned Societies [in <hi rend="italic">Introduction</hi>, 19.17–18, p. 324 f.]), let alone the rest of the English speaking world. Furthermore, these systems would need periodic revision.</note>
+<note xml:id="n13-2"><hi rend="superscript">13</hi>In <hi rend="italic">CJL</hi> 9, (1964), p. 108 f.</note>
+<note xml:id="n14"><hi rend="superscript">14</hi>Of course broad general rules for the determination of spoken forms from written forms can be given, and these often enable readers to recognize a morph, when they are familiar with its spoken, but not its written representation. The traditional “spelling out” method of teaching reading is based on this. These rules, however, cannot be systematized. See note 15.</note>
+<note xml:id="n15"><hi rend="superscript">15</hi>The reader will, of course, normally state his recognition in terms of the spoken representative of the morph. However, because the connection between written and spoken form is only indirect, it is possible to “mis-recognize” a written form, even when the spoken counterpart is known, and even to the extent of including a new morph in the idiolect. E.g., <hi rend="italic">misled</hi> is not uncommonly ascribed to a verb <hi rend="italic">mizle</hi> or <hi rend="italic">mizzle</hi> rather than <hi rend="italic">mislead</hi>.</note>
+<note xml:id="n16"><hi rend="superscript">16</hi>Cf. the history of the Chinese writing system. The “Arabic” numerals are also a case in point.</note>
+<note xml:id="n17"><hi rend="superscript">17</hi>Thus the teaching of beginning readers by the “word recognition” method is unsatisfactory not because the theory on which it is based is wrong, but because there is no way in which the student can proceed on his own after acquiring basic principles.</note>
+
+<p>
+    <hi rend="italic">CJL/RCL</hi> 13:1 (1967)
+</p>
+      <pb n="10"/>
+<p>symbols, apply equally well to speech.<note n="23" place="foot">Symbols such as <emph>c, q</emph>, and the capital letters have their own place in the conventional written representation of English (for capitals, see note 25). They cannot be considered superfluous any more than allophones can be considered superfluous sounds.</note> The claim that <quote>writing is a secondary visual representation of speech</quote> is not true in the sense intended. Writing does not represent the morpheme system only by way of the sound system. As we have seen it would be much more true to reverse this statement. Consequently, any argument that writing fails to represent many features of speech is true but irrelevant. It is also true that writing sometimes fails to represent features of the <emph>grammar</emph> that are represented in speech.<note n="24" place="foot">E.g., <emph>export</emph> can represent a noun /ˈekspɔrt/ or a verb /ekˈspɔrt/.</note> However, the reverse is also true.<note n="25" place="foot">E.g., in such pairs as <emph>tail: tale, Liberal: liberal</emph>. Cf. also #4.</note> Writing cannot, therefore, be rejected as an object of linguistic study on the grounds that it gives an inadequate representation of spoken language.</p>
+<p><lb n="9.2."/> Some maintain that written language is distorted, governed by rules which are valueless because not valid for the <quote>real language</quote> of the spoken form, and pernicious because there is a tendency to hold them up as a standard for it. <quote>Nobody ever made a grammatical error in a non-literate society</quote><note n="26" place="foot">H. M. MacLuhan, <title>The Gutenberg Galaxy</title> (Toronto, 1962), p. 238, coupled with his even more surprising assertion that <quote>the printing press made bad grammar possible</quote> (p. 231); cf. note 27.</note> is a statement typical of this viewpoint. This is, of course, simply a fragment of linguistic mythology. Children make innumerable mistakes in learning their mother tongue. Frequently these are caused by unconscious recognition of linguistic patterns: the more common form of a morpheme is used where an uncommon allomorph is customary. Sometimes such <quote>mistakes</quote> are not dropped from childhood speech, but maintained, eventually causing the replacement of the rarer by the more common allomorph throughout the language. Such analogic replacement is a common cause of linguistic change.</p>
+<p><lb n="9.3."/> Whether or no during the course of such a change either form would be considered an error depends on whether the speakers recognize an ideal standard for their language, and how firmly they maintain it. This is a matter of social custom, not of linguistic medium. Such a standard may be based on a written form of the language,<note n="27" place="foot">The language of the Bible has long formed such a standard for Hebrew. The earliest record comes from Saadya Ga’on (d. 942). He complained of those Israelites who do not observe the simplest rules of Hebrew, who find reading the more difficult ones, and they mispronounce the easy ones. Cf. S. L. Skoss, in <title>Skoss, Saadya Ga'on</title>, p. 58).</note> but this is not necessarily so. In England the speech of the <quote>upper classes</quote> is the standard.<note n="28" place="foot">This standard is now less admired than formerly. On this subject see the writings of G. B. Shaw. See a collection <title>Selected Passages</title> from <quote>Pygmalion,</quote> the most obvious example, in <title>Phonetic Readings in the English Language</title>, (London, 1965).</note> This could not possibly be derived from written English. Among the Arabs, classical Arabic was looked on as ideal, so much so, apart from the prestige of the Qur’ān, which later became the ideal, that it had to conform to it.<note n="29" place="foot">See P. E. Kahle, <title>The Cairo Geniza</title> (Oxford, 1959), p. 143 f. and references there.</note> Even where some such ideal standard is not maintained, it seems to be the normal practice for the members of a community to feel that their forms are ideal, and that any differences shown by others are errors. This was true in ancient Greece and in North America. Such community speech forms can act as a written ideal.<note n="31" place="foot">Examples can be found in T. Pyles, <title>Words and Ways of American English</title> (London, 1954), Chapter 11. His remarks should also be considered under the condemnation of a particular structure mentioned in #9. 2. He never actually adhered to in the written language; he refers only to a local speech form contravening the written ideal. Another example is given by R. A. Hall (p. 204), showing a case where a regular change in community forms was not fully admitted to a community until it had appeared in written forms. This sort of thing is, of course, paralleled by the use of <quote>correct</quote> and <quote>incorrect</quote> slang in various groups, of which teen-age groups are the best example.</note> It may be difficult to establish whether a standard of this sort from a genuine linguistic basis, but it would be surprising if it were impossible.</p>
+<p><lb n="9.4."/> It is perfectly true that the written language may use structures foreign to its spoken counterpart, as an indication that writing is bound up with myriad grotesque and useless conventions, as is conservative usage. The history of the written forms may change slowly than the spoken, or that it has its own particular rules of <quote>correctness</quote>—can be of no linguistic concern.</p>
+
+<p>CJL/RCL 13:1 (1967)</p>
+<p>REVELL: The</p>
+      <pb/>
+<p>study, and can only add to the interest of a historical one. To exclude writing from consideration as a manifestation of language on the basis of these and similar factors is pure prejudice. It is well known that, in many societies, including our own, different forms of spoken language are required in different social situations. Why should the written form be treated as though it were on a different level?<hi rend="sup">32</hi> The spheres of use of written and spoken language are largely separate. It is to be expected that different forms of language should be used. There is no reason whatever to regard only one of these forms as <quote>“real language.”</quote></p>
+<p><lb/><hi rend="bold">10.1.</hi> There are no grounds, then, for rejecting writing as a manifestation of language. Nevertheless, there is a deplorable tendency on the part of linguists, when studying written texts, to convert them from their original writing system into a so-called phonemic transcription, and so to pretend to be studying records of speech.<hi rend="sup">33</hi> It is difficult to see how this practice could be justified, even where the scholar is familiar with the phonemic system used, for, as we have seen, writing and speech frequently follow different conventions. Where the phoneme system is not well known, as will normally be the case, the method is indefensible. An interpretation in terms of sound of a set of signs which are themselves at best inexactly and probably inconsistently imitating a set of sounds must be largely subjective. Various quite contradictory schemes can be drawn up, each of which satisfies the available facts equally well,<hi rend="sup">34</hi> and choice among</p>
+
+<note n="32" place="foot">Written language, of course, is also used in different forms in different situations: e.g., legal documents, newspaper reports, intimate letters.</note>
+<note n="33" place="foot">An extreme example is G. M. Schramm, The Graphemes of Tiberian Hebrew (Berkeley, 1964), in which the graphemes, the supposed subject of the study, are transcribed (not transliterated, p. 32, note 1) into sound symbols before their distribution is analysed. Important features of the writing system, such as the <quote>“shewa sign”</quote> and word final <quote>“alef”</quote> and <quote>“he”</quote> are not marked in the transcription, and their distribution therefore not analysed, so that Schramm cannot be said to be analysing the writing system. The sound symbols used are not intended to represent phonemes (p. 32), so it would be difficult to say just what he is analysing, and it is difficult to see how anything but gain could have resulted from analysing the distribution of the graphemes themselves, and basing the phonological transcription on this information. There are, however, some notable exceptions to this tendency to treat writing as an intended record of speech, e.g., M. A. K. Halliday, <quote>“Secret History of the Mongols,”</quote> The Language of the Chinese (Oxford, 1959).</note>
+<note n="34" place="foot">Opinions on the significance of the standard signs for the vowels of Biblical Hebrew ranges from <quote>“basically phonemic”</quote> (so S. Morag, The Vocalization Systems of Arabic, Hebrew, and Aramaic [The Hague, 1962], p. 29) to</note>
+
+<p>them can only be arbitrary. Analy would describe a language which existed. The writing system, on the indicate the morphemes of the languag decisions may be needed here too, b hardly likely to pervade the whole ana with error in phonemic interpretation the writing system provides the firm study.</p>
+<p><lb/><hi rend="bold">10.2.</hi> It is, of course, necessary to in sound for purposes of historical study language. Even here, however, the ba thorough study of the writing system subject of study, the analysis must written forms. Only in this way can the able information about the <hi rend="bold">grammar</hi> unsuitable for a written text to be ana for a spoken text to be analyzed in term</p>
+<p><lb/><hi rend="bold">11.</hi> The conclusion of this paper i ground for the rejection of writing as a and further, that techniques develope must not be used unchanged in the It is not intended at all to disparage th in their proper sphere. The intention writing as a representative of the g parallel to, not dependent on, the spok and to encourage the development of t writing parallel to those developed for t</p>
+
+<note place="foot"><quote>“basically phonetic”</quote> (so C. Rabin, <quote>“The ’Sma in Studies in Honour of N. H. Tur-Sinai [Publi Biblical Research 8, Jerusalem 1960, p. 206]. variety of phonemic interpretations of the syste</note>
+
+<p>
+    CJL/RCL 13:1 (1967)
+    <space dim="horizontal" extent="20em"/>
+    REVELL: The
+</p>
+<p>PRINTED IN CANADA</p>
+      <pb n="1"/>
+<p>P. M. AUSTIN, Brock University</p>
+
+<head>The etymology of ‘king’ in Soviet Turkic languages*</head>
+
+<p>IN THE MODERN TURKIC languages there are three words for a non-Muslim, European monarch: <hi rend="italic">kral</hi>, <hi rend="italic">kıral</hi>, <hi rend="italic">korol'</hi>. Obviously these words have the same common origin. This paper is an attempt at an explanation of the etymology of the last.</p>
+
+<p><hi rend="italic">Kral</hi> is the term for “king” common to all the South Slavic languages. Although it is not attested in the canon of Old Church Slavonic,<note n="1">For a definition of this canon, see H. G. Lunt, <hi rend="italic">Old Church Slavonic Grammar</hi> (The Hague, 1963), pp. 6–8.</note> it must have been borrowed early enough from the Frankish root <hi rend="italic">karl</hi>—that is, Charlemagne—to allow it to undergo the changes common to all roots of the type TorT.<note n="2">Czech <hi rend="italic">král</hi>, Polish <hi rend="italic">król</hi>, Serbo-Croatian <hi rend="italic">kralj</hi>, Bulgarian <hi rend="italic">kral</hi>, Russian <hi rend="italic">korol'</hi>. For a brief explanation of this feature, see A. Brückner, <hi rend="italic">Słownik etymologiczny języka polskiego</hi> (Warsaw, 1957), p. 269 and V. Machek, <hi rend="italic">Etymologický slovník jazyka českého a slovenského</hi> (Prague, 1957), pp. 231–32.</note> The language known as Turkish or Osmanli borrowed this root from the conquered Balkan Slavs to denote a non-Muslim monarch. However, because of the reluctance of Turkish to admit initial consonant clusters,<note n="3">L. Swift, <hi rend="italic">A Reference Grammar of Modern Turkish</hi> (The Hague, 1963), p. 19.</note> two forms are seen: <hi rend="italic">kral</hi> and <hi rend="italic">kıral</hi>. The first is a direct borrowing from the Slavic,<note n="4">For a discussion of original borrowings and later phonemic changes, see C. Hockett, <hi rend="italic">A Course in Modern Linguistics</hi> (New York, 1963), pp. 408ff.</note> and restricted to the sophisticated speaker, while <hi rend="italic">kıral</hi> is the modification of the root in keeping with the internal rules for initial consonant clusters and vowel</p>
+
+<note type="footnote">*I would like to thank Professor David Huntley of the Department of Slavic Languages and Literatures, University of Toronto, for his useful suggestions in the preparation of this article and also Professor Fahir İz of the University of Istanbul, Visiting Professor of Turkish at the University of Toronto, 1966–67, who read the article before its publication.</note>
+
+<p>CJL/RCL 13:1 (1967)</p>
+    </body>
+  </text>
+</TEI>
