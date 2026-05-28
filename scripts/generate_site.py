@@ -266,6 +266,29 @@ def ensure_dir(path):
     if not os.path.exists(path):
         os.makedirs(path)
 
+def compress_pdf(src_path, dest_path):
+    import subprocess
+    cmd = [
+        "gs",
+        "-sDEVICE=pdfwrite",
+        "-dCompatibilityLevel=1.4",
+        "-dPDFSETTINGS=/ebook",
+        "-dNOPAUSE",
+        "-dQUIET",
+        "-dBATCH",
+        f"-sOutputFile={dest_path}",
+        src_path
+    ]
+    try:
+        subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if os.path.exists(dest_path) and os.path.getsize(dest_path) > 0:
+            return True
+    except Exception as e:
+        pass
+    
+    shutil.copy2(src_path, dest_path)
+    return False
+
 def fix_links(html_content):
     # Regex to replace .md links with .html
     # Matches href="something.md"
@@ -356,25 +379,22 @@ def main():
 
         # Facsimile Handling
         facsimile_html = ""
-        if article_id:
-            # Look for images in assets/images/articles/[article_id]
-            src_img_dir = os.path.join(ASSETS_DIR, "images", "articles", article_id)
-            if os.path.exists(src_img_dir):
-                # Copy images to docs/assets/images/articles/[article_id]
-                dest_img_dir = os.path.join(OUTPUT_DIR, "assets", "images", "articles", article_id)
-                ensure_dir(dest_img_dir)
-
-                images = sorted([f for f in os.listdir(src_img_dir) if f.endswith('.png')])
-                if images:
-                    for img in images:
-                        shutil.copy2(os.path.join(src_img_dir, img), os.path.join(dest_img_dir, img))
-
-                    total_pages = len(images)
-                    first_page_url = f"../assets/images/articles/{article_id}/page_1.png"
-                    facsimile_html = FACSIMILE_TEMPLATE.format(
-                        total_pages=total_pages,
-                        first_page_url=first_page_url
-                    )
+        src_dir = os.path.dirname(md_path)
+        # Find any PDF in this directory (ignoring "reject" in name)
+        pdfs = [f for f in os.listdir(src_dir) if f.lower().endswith(".pdf") and "reject" not in f.lower()]
+        if pdfs:
+            pdfs.sort()
+            pdf_name = pdfs[0]
+            # Compress and copy PDF to docs/articles/
+            dest_pdf_path = os.path.join(articles_out_dir, pdf_name)
+            compress_pdf(os.path.join(src_dir, pdf_name), dest_pdf_path)
+            
+            # Render embedded PDF reader
+            facsimile_html = f"""
+<div class="facsimile-pane" style="height: 80vh; min-height: 600px; padding: 0;">
+    <iframe src="../articles/{pdf_name}" style="width: 100%; height: 100%; border: none; border-radius: 4px;"></iframe>
+</div>
+"""
 
         # Copy and link TEI XML source files
         tei_html = ""
@@ -457,7 +477,7 @@ def main():
             link_html = ""
             if pdf_path and os.path.exists(pdf_path):
                 dest_pdf_path = os.path.join(books_out_dir, pdf_name)
-                shutil.copy2(pdf_path, dest_pdf_path)
+                compress_pdf(pdf_path, dest_pdf_path)
                 
                 # Generate a dedicated book viewer page
                 clean_title = citation.split(', ', 1)[0].strip('"').strip('\'')
