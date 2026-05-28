@@ -426,11 +426,41 @@ def main():
         with open(bib_path, 'r', encoding='utf-8') as f:
             bib_data = json.load(f)
         
+        books_out_dir = os.path.join(OUTPUT_DIR, "books")
+        ensure_dir(books_out_dir)
+        
         books = sorted([(k, v) for k, v in bib_data.items() if k.startswith("7.b.")])
         for book_id, citation in books:
             # Clean and present book citation beautifully
             display_id = book_id.replace("7.b.", "Book ")
-            books_html += f'<li><strong style="color: var(--primary-color); font-family: var(--font-heading); font-size: 1.2rem; display: block;">{display_id}</strong><p style="margin: 0.2rem 0 0 0; color: var(--text-color); font-size: 1rem;">{citation}</p></li>\n'
+            
+            # Find matching PDF files for this book
+            book_num = int(book_id.split(".")[-1])
+            pdf_path = None
+            pdf_name = f"{book_id}.pdf"
+            
+            books_src_dir = os.path.join(ROOT_DIR, "07b Books")
+            if os.path.exists(books_src_dir):
+                for root, dirs, files in os.walk(books_src_dir):
+                    for file in files:
+                        if file.lower().endswith(".pdf"):
+                            parent_folder = os.path.basename(root)
+                            if (parent_folder.startswith(f"07b.{book_num}") or 
+                                file.startswith(f"07b.{book_num}") or 
+                                file.startswith(f"7.b.{book_num}") or 
+                                file.startswith(f"Revell 07b.{book_num}")):
+                                pdf_path = os.path.join(root, file)
+                                break
+                    if pdf_path:
+                        break
+            
+            link_html = ""
+            if pdf_path and os.path.exists(pdf_path):
+                dest_pdf_path = os.path.join(books_out_dir, pdf_name)
+                shutil.copy2(pdf_path, dest_pdf_path)
+                link_html = f'<div style="margin-top: 0.5rem;"><a href="books/{pdf_name}" target="_blank" class="tei-link" style="background: #eafaf1; border-color: #c2f0d5; color: #27ae60;">📖 Read Book PDF</a></div>'
+            
+            books_html += f'<li><strong style="color: var(--primary-color); font-family: var(--font-heading); font-size: 1.2rem; display: block;">{display_id}</strong><p style="margin: 0.2rem 0 0 0; color: var(--text-color); font-size: 1rem;">{citation}</p>{link_html}</li>\n'
     else:
         books_html += "<li>No books found in bibliography.</li>\n"
     books_html += "</ul>"

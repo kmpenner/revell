@@ -7,7 +7,7 @@ $RECYCLE.BIN/
 # Large files / Scans
 *.pdf
 !scripts/*.pdf
-!docs/*.pdf
+!docs/**/*.pdf
 
 # Specific exclusions
 funeral_program_ernest_revell.jpg
