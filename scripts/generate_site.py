@@ -458,7 +458,40 @@ def main():
             if pdf_path and os.path.exists(pdf_path):
                 dest_pdf_path = os.path.join(books_out_dir, pdf_name)
                 shutil.copy2(pdf_path, dest_pdf_path)
-                link_html = f'<div style="margin-top: 0.5rem;"><a href="books/{pdf_name}" target="_blank" class="tei-link" style="background: #eafaf1; border-color: #c2f0d5; color: #27ae60;">📖 Read Book PDF</a></div>'
+                
+                # Generate a dedicated book viewer page
+                clean_title = citation.split(', ', 1)[0].strip('"').strip('\'')
+                if len(clean_title) > 80:
+                    clean_title = clean_title[:77] + "..."
+                full_display_title = f"{display_id} &mdash; {clean_title}"
+                
+                book_viewer_content = f"""
+<article>
+    <div class="edition-container">
+        <div class="transcription-pane">
+            <header>
+                <h1>{display_id}</h1>
+                <p class="meta">Bibliography Reference: {book_id}</p>
+            </header>
+            <div class="content">
+                <p>This volume is part of Professor Ernest John Revell's digitized scholarly bibliography corpus. The right pane displays the interactive digitized facsimile scan of the full volume.</p>
+                <blockquote style="font-size: 1.1rem; border-left: 4px solid var(--accent-color); margin: 1.5rem 0; padding: 1rem; color: #555; background: #f9f9f9; font-style: italic; border-radius: 4px;">
+                    {citation}
+                </blockquote>
+                <div style="margin-top: 2rem;">
+                    <a href="../books/{pdf_name}" download class="tei-link" style="background: #eafaf1; border-color: #c2f0d5; color: #27ae60; padding: 0.5rem 1rem; font-size: 1rem; border-radius: 4px; font-weight: bold; display: inline-block;">💾 Download Complete PDF</a>
+                </div>
+            </div>
+        </div>
+        <div class="facsimile-pane" style="height: 80vh; min-height: 600px; padding: 0;">
+            <iframe src="../books/{pdf_name}" style="width: 100%; height: 100%; border: none; border-radius: 4px;"></iframe>
+        </div>
+    </div>
+</article>
+"""
+                generate_page(os.path.join(books_out_dir, f"{book_id}.html"), full_display_title, book_viewer_content, depth=1)
+                
+                link_html = f'<div style="margin-top: 0.5rem;"><a href="books/{book_id}.html" class="tei-link" style="background: #eafaf1; border-color: #c2f0d5; color: #27ae60;">📖 Read Book in Viewer</a></div>'
             
             books_html += f'<li><strong style="color: var(--primary-color); font-family: var(--font-heading); font-size: 1.2rem; display: block;">{display_id}</strong><p style="margin: 0.2rem 0 0 0; color: var(--text-color); font-size: 1rem;">{citation}</p>{link_html}</li>\n'
     else:
