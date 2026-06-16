@@ -3,11 +3,12 @@
 thumbs.db
 desktop.ini
 $RECYCLE.BIN/
+.git/
 
 # Large files / Scans
 *.pdf
 !scripts/*.pdf
-!docs/**/*.pdf
+!docs/*.pdf
 
 # Specific exclusions
 funeral_program_ernest_revell.jpg
@@ -64,3 +65,5 @@ misfiled/
 recovered/
 OCR/
 scans/
+assets/images/
+

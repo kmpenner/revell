@@ -1,12 +1,12 @@
-
 import os
 import markdown
 import shutil
 import glob
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
-ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..")) if os.path.exists(os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")), "07a Articles")) else r"g:\My Drive\Research\Revell"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(ROOT_DIR, "docs")
 ASSETS_DIR = os.path.join(ROOT_DIR, "assets")
 ARTICLES_DIR = os.path.join(ROOT_DIR, "07a Articles")
@@ -163,6 +163,69 @@ article h1 {
 .content h3 { margin-top: 1.5rem; color: var(--secondary-color); font-family: var(--font-heading); }
 .content blockquote { border-left: 4px solid var(--accent-color); margin: 1.5rem 0; padding-left: 1rem; color: #555; background: #f9f9f9; padding: 1rem; font-style: italic; }
 
+.hebrew {
+    font-family: 'SBL Hebrew', 'Arial', sans-serif;
+    font-size: 1.25rem;
+    direction: rtl;
+    unicode-bidi: embed;
+}
+.footnote-ref {
+    font-size: 0.75rem;
+    vertical-align: super;
+    line-height: 0;
+    margin-left: 2px;
+}
+.footnote-ref a {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+.page-break {
+    border-top: 1px dashed #ccc;
+    color: #999;
+    font-size: 0.8rem;
+    text-align: center;
+    margin: 2rem 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.unclear {
+    border-bottom: 1px dotted #888;
+    color: #555;
+}
+.item-num {
+    font-weight: bold;
+    margin-right: 0.5rem;
+    color: var(--secondary-color);
+}
+.item-label {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+.footnotes {
+    margin-top: 3rem;
+    font-size: 0.95rem;
+}
+.footnotes hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+}
+.footnotes h3 {
+    font-family: var(--font-heading);
+    color: var(--primary-color);
+}
+.footnotes ol {
+    padding-left: 1.5rem;
+}
+.footnotes li {
+    margin-bottom: 0.5rem;
+}
+.footnote-backref {
+    color: var(--accent-color);
+    margin-left: 0.3rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 footer {
     margin-top: 4rem;
     padding-top: 2rem;
@@ -233,40 +296,28 @@ ARTICLE_TEMPLATE = """
         {facsimile_html}
     </div>
 </article>
-
-<script>
-function changePage(delta, totalPages) {{
-    const img = document.getElementById('facsimile-img');
-    const pageNumEl = document.getElementById('page-number');
-    let currentPage = parseInt(pageNumEl.innerText);
-    let newPage = currentPage + delta;
-
-    if (newPage >= 1 && newPage <= totalPages) {{
-        pageNumEl.innerText = newPage;
-        // Construct new image path
-        const currentSrc = img.src;
-        img.src = currentSrc.substring(0, currentSrc.lastIndexOf('/') + 1) + 'page_' + newPage + '.png';
-    }}
-}}
-</script>
-"""
-
-FACSIMILE_TEMPLATE = """
-<div class="facsimile-pane">
-    <div class="facsimile-controls">
-        <button onclick="changePage(-1, {total_pages})">&laquo; Previous</button>
-        <span>Page <span id="page-number">1</span> of {total_pages}</span>
-        <button onclick="changePage(1, {total_pages})">Next &raquo;</button>
-    </div>
-    <img id="facsimile-img" src="{first_page_url}" alt="Page 1 facsimile">
-</div>
 """
 
 def ensure_dir(path):
-    if not os.path.exists(path):
-        os.makedirs(path)
+    os.makedirs(path, exist_ok=True)
+
+def safe_copy(src, dst):
+    try:
+        shutil.copy2(src, dst)
+    except Exception:
+        try:
+            shutil.copy(src, dst)
+        except Exception:
+            shutil.copyfile(src, dst)
 
 def compress_pdf(src_path, dest_path):
+    if os.path.exists(dest_path) and os.path.getsize(dest_path) > 0:
+        try:
+            if os.path.getmtime(dest_path) >= os.path.getmtime(src_path):
+                return True
+        except Exception:
+            pass
+
     import subprocess
     cmd = [
         "gs",
@@ -286,13 +337,13 @@ def compress_pdf(src_path, dest_path):
     except Exception as e:
         pass
     
-    shutil.copy2(src_path, dest_path)
+    safe_copy(src_path, dest_path)
     return False
 
 def fix_links(html_content):
-    # Regex to replace .md links with .html
-    # Matches href="something.md"
-    return re.sub(r'href="([^"]+)\.md"', r'href="\1.html"', html_content)
+    # Regex to replace .md and .xml links with .html
+    html_content = re.sub(r'href="([^"]+)\.md"', r'href="\1.html"', html_content)
+    return re.sub(r'href="([^"]+)\.xml"', r'href="\1.html"', html_content)
 
 def convert_md_to_html(md_path):
     with open(md_path, 'r', encoding='utf-8') as f:
@@ -309,11 +360,247 @@ def convert_md_to_html(md_path):
 
     return html_content, flattened_meta
 
+def convert_tei_to_html(xml_path):
+    from html.parser import HTMLParser
+    
+    class TEIParser(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.output_parts = []
+            self.footnotes = []
+            
+            # Metadata
+            self.title_chunks = []
+            self.date_chunks = []
+            self.title_captured = False
+            self.date_captured = False
+            
+            # States
+            self.in_title_stmt = False
+            self.in_title = False
+            self.in_publication_stmt = False
+            self.in_imprint = False
+            self.in_date = False
+            
+            # Footnote capture
+            self.in_note = False
+            self.note_depth = 0
+            self.current_note_id = None
+            self.current_note_buffer = []
+            
+            # HTML tag tracking stack
+            self.tag_stack = []
+
+        def handle_starttag(self, tag, attrs):
+            attr_dict = dict(attrs)
+            
+            # Metadata tracking
+            if tag == 'titlestmt':
+                self.in_title_stmt = True
+            elif tag == 'title' and self.in_title_stmt and not self.title_captured:
+                self.in_title = True
+            elif tag == 'publicationstmt':
+                self.in_publication_stmt = True
+            elif tag == 'imprint':
+                self.in_imprint = True
+            elif tag == 'date' and (self.in_publication_stmt or self.in_imprint) and not self.date_captured:
+                self.in_date = True
+                
+            # If inside a footnote note tag, buffer the raw content
+            if self.in_note:
+                self.note_depth += 1
+                attr_str = "".join([f' {k}="{v}"' for k, v in attrs])
+                self.current_note_buffer.append(f"<{tag}{attr_str}>")
+                return
+
+            if tag == 'note':
+                self.in_note = True
+                self.note_depth = 1
+                self.current_note_id = attr_dict.get('n') or attr_dict.get('xml:id') or str(len(self.footnotes) + 1)
+                self.current_note_buffer = []
+                return
+
+            # Main content tag translation
+            html_start = ""
+            if tag == 'p':
+                html_start = "<p>"
+            elif tag == 'head':
+                html_start = "<h2>"
+            elif tag in ['hi', 'i', 'emphasis', 'emph']:
+                rend = attr_dict.get('rend') or attr_dict.get('rendition')
+                if rend == 'bold':
+                    html_start = "<b>"
+                elif rend == 'typewriter':
+                    html_start = "<code>"
+                else:
+                    html_start = "<i>"
+            elif tag == 'foreign':
+                lang = attr_dict.get('lang') or attr_dict.get('xml:lang') or attr_dict.get('{http://www.w3.org/XML/1998/namespace}lang')
+                if lang in ['he', 'heb']:
+                    html_start = '<span dir="rtl" class="hebrew">'
+                else:
+                    html_start = '<i>'
+            elif tag == 'pb':
+                pb_n = attr_dict.get('n')
+                if pb_n:
+                    html_start = f'<div class="page-break" id="page-{pb_n}">[Page {pb_n}]</div>'
+                else:
+                    html_start = '<div class="page-break">[Page Break]</div>'
+            elif tag == 'lb':
+                html_start = "<br/>"
+            elif tag == 'list':
+                html_start = "<ul>\n"
+            elif tag == 'item':
+                item_n = attr_dict.get('n')
+                if item_n:
+                    html_start = f'<li><span class="item-num">{item_n}</span> '
+                else:
+                    html_start = "<li>"
+            elif tag == 'label':
+                html_start = '<span class="item-label">'
+            elif tag == 'unclear':
+                html_start = '<span class="unclear" title="Unclear text">'
+            elif tag == 'space':
+                qty = attr_dict.get('quantity') or "1"
+                try:
+                    spaces = "&nbsp;" * int(qty)
+                except ValueError:
+                    spaces = "&nbsp;"
+                html_start = spaces
+
+            if html_start:
+                self.output_parts.append(html_start)
+                self.tag_stack.append((tag, html_start))
+
+        def handle_endtag(self, tag):
+            if tag == 'titlestmt':
+                self.in_title_stmt = False
+            elif tag == 'title' and self.in_title:
+                self.in_title = False
+                self.title_captured = True
+            elif tag == 'publicationstmt':
+                self.in_publication_stmt = False
+            elif tag == 'imprint':
+                self.in_imprint = False
+            elif tag == 'date' and self.in_date:
+                self.in_date = False
+                self.date_captured = True
+
+            if self.in_note:
+                self.note_depth -= 1
+                if self.note_depth == 0:
+                    self.in_note = False
+                    note_content = "".join(self.current_note_buffer).strip()
+                    self.footnotes.append((self.current_note_id, note_content))
+                    self.output_parts.append(f'<sup class="footnote-ref"><a href="#fn-{self.current_note_id}" id="fnref-{self.current_note_id}">{self.current_note_id}</a></sup>')
+                else:
+                    self.current_note_buffer.append(f"</{tag}>")
+                return
+
+            # Pop tags from stack to close them
+            html_close = ""
+            for i in range(len(self.tag_stack) - 1, -1, -1):
+                stack_tag, html_start = self.tag_stack[i]
+                if stack_tag == tag:
+                    if html_start.startswith("<p>"): html_close = "</p>\n"
+                    elif html_start.startswith("<h2>"): html_close = "</h2>\n"
+                    elif html_start.startswith("<b>"): html_close = "</b>"
+                    elif html_start.startswith("<code>"): html_close = "</code>"
+                    elif html_start.startswith("<i>"): html_close = "</i>"
+                    elif html_start.startswith('<span dir="rtl" class="hebrew">'): html_close = "</span>"
+                    elif html_start.startswith("<ul>"): html_close = "</ul>\n"
+                    elif html_start.startswith("<li>"): html_close = "</li>\n"
+                    elif html_start.startswith('<span class="item-label">'): html_close = "</span>"
+                    elif html_start.startswith('<span class="unclear"'): html_close = "</span>"
+                    
+                    del self.tag_stack[i:]
+                    break
+
+            if html_close:
+                self.output_parts.append(html_close)
+
+        def handle_data(self, data):
+            if self.in_title:
+                self.title_chunks.append(data)
+            elif self.in_date:
+                self.date_chunks.append(data)
+            
+            if self.in_note:
+                self.current_note_buffer.append(data)
+            else:
+                self.output_parts.append(data)
+
+        def handle_entityref(self, name):
+            ref = f"&{name};"
+            if self.in_note:
+                self.current_note_buffer.append(ref)
+            else:
+                self.output_parts.append(ref)
+
+        def handle_charref(self, name):
+            ref = f"&#{name};"
+            if self.in_note:
+                self.current_note_buffer.append(ref)
+            else:
+                self.output_parts.append(ref)
+
+    try:
+        with open(xml_path, 'r', encoding='utf-8') as f:
+            xml_content = f.read()
+            
+        parser = TEIParser()
+        parser.feed(xml_content)
+        
+        content_html = "".join(parser.output_parts).strip()
+        footnotes = parser.footnotes
+        title = "".join(parser.title_chunks).strip()
+        date = "".join(parser.date_chunks).strip()
+    except Exception as e:
+        print(f"Error parsing {xml_path}: {e}")
+        return "", {}
+
+    # Extract article ID from path (e.g. '07a.01')
+    article_id = ""
+    match = re.search(r'07a\.\d+', xml_path)
+    if match:
+        article_id = match.group(0)
+
+    # Clean title
+    if title:
+        if title.startswith("Transcription of "):
+            title = title[len("Transcription of "):]
+        if title.endswith(".pdf"):
+            title = title[:-4]
+        title = title.replace('_', ' ').replace('-', ' ')
+    
+    # Fallback to heading in text if title is not set
+    if not title:
+        match_head = re.search(r'<h2>(.*?)</h2>', content_html)
+        if match_head:
+            title = re.sub(r'<[^>]+>', '', match_head.group(1)).strip().replace('\n', ' ')
+            
+    if not title:
+        title = os.path.basename(os.path.dirname(xml_path))
+
+    # Append footnotes
+    if footnotes:
+        content_html += '\n<div class="footnotes"><hr><h3>Footnotes</h3><ol>\n'
+        for note_id, note_content in footnotes:
+            content_html += f'<li id="fn-{note_id}">{note_content} <a href="#fnref-{note_id}" class="footnote-backref">↩</a></li>\n'
+        content_html += '</ol></div>\n'
+
+    meta = {
+        'title': title,
+        'article_id': article_id,
+        'date': date
+    }
+    return content_html, meta
+
 def generate_page(output_path, title, content, depth=0):
     root_path = "../" * depth if depth > 0 else ""
     css_path = f"{root_path}assets/css/style.css"
 
-    # Fix links in the full page content as well (just in case)
+    # Fix links in the full page content
     content = fix_links(content)
 
     page_html = BASE_TEMPLATE.format(
@@ -328,9 +615,89 @@ def generate_page(output_path, title, content, depth=0):
     print(f"Generated {output_path}")
 
 def main():
-    if os.path.exists(OUTPUT_DIR):
-        shutil.rmtree(OUTPUT_DIR)
     ensure_dir(OUTPUT_DIR)
+
+    # Clean only HTML and XML files in OUTPUT_DIR to preserve compressed PDFs
+    for root, dirs, files in os.walk(OUTPUT_DIR):
+        for file in files:
+            if file.endswith(".html") or file.endswith(".xml"):
+                try:
+                    os.remove(os.path.join(root, file))
+                except Exception:
+                    pass
+
+    # Gather PDF compression tasks
+    pdf_tasks = []
+    
+    # 1. Articles PDFs
+    article_files = glob.glob(os.path.join(ARTICLES_DIR, "**/*.xml"), recursive=True)
+    articles_out_dir = os.path.join(OUTPUT_DIR, "articles")
+    ensure_dir(articles_out_dir)
+    
+    for xml_path in article_files:
+        filename = os.path.basename(xml_path)
+        if not filename.startswith("transcription"):
+            continue
+        src_dir = os.path.dirname(xml_path)
+        pdfs = [f for f in os.listdir(src_dir) if f.lower().endswith(".pdf") and "reject" not in f.lower()]
+        if pdfs:
+            pdfs.sort()
+            pdf_name = pdfs[0]
+            src_pdf = os.path.join(src_dir, pdf_name)
+            dest_pdf = os.path.join(articles_out_dir, pdf_name)
+            pdf_tasks.append((src_pdf, dest_pdf))
+
+    # 2. Books PDFs
+    bib_path = os.path.join(ROOT_DIR, "metadata", "bibliography.json")
+    bib_data = {}
+    if os.path.exists(bib_path):
+        import json
+        with open(bib_path, 'r', encoding='utf-8') as f:
+            bib_data = json.load(f)
+        
+        books_out_dir = os.path.join(OUTPUT_DIR, "books")
+        ensure_dir(books_out_dir)
+        
+        books = sorted([(k, v) for k, v in bib_data.items() if k.startswith("7.b.")])
+        books_src_dir = os.path.join(ROOT_DIR, "07b Books")
+        if os.path.exists(books_src_dir):
+            book_pdf_files = []
+            for root, dirs, files in os.walk(books_src_dir):
+                for file in files:
+                    if file.lower().endswith(".pdf"):
+                        book_pdf_files.append((root, file))
+            
+            for book_id, citation in books:
+                book_num = int(book_id.split(".")[-1])
+                pdf_name = f"{book_id}.pdf"
+                pdf_path = None
+                for root, file in book_pdf_files:
+                    parent_folder = os.path.basename(root)
+                    if (parent_folder.startswith(f"07b.{book_num}") or 
+                        file.startswith(f"07b.{book_num}") or 
+                        file.startswith(f"7.b.{book_num}") or 
+                        file.startswith(f"Revell 07b.{book_num}")):
+                        pdf_path = os.path.join(root, file)
+                        break
+                if pdf_path:
+                    dest_pdf = os.path.join(books_out_dir, pdf_name)
+                    pdf_tasks.append((pdf_path, dest_pdf))
+
+    # Compress PDFs in parallel
+    pdf_tasks = list(set(pdf_tasks))
+    if pdf_tasks:
+        from concurrent.futures import ThreadPoolExecutor
+        print(f"Processing {len(pdf_tasks)} unique PDFs in parallel...")
+        def compress_worker(task):
+            src, dest = task
+            try:
+                compress_pdf(src, dest)
+            except Exception as e:
+                print(f"Error processing {src}: {e}")
+        
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            executor.map(compress_worker, pdf_tasks)
+        print("All PDFs processed (compressed/copied).")
 
     # Generate CSS
     css_dir = os.path.join(OUTPUT_DIR, "assets", "css")
@@ -352,24 +719,12 @@ def main():
 
     # Articles
     article_links = []
-    article_files = glob.glob(os.path.join(ARTICLES_DIR, "**/*.md"), recursive=True)
-
-    articles_out_dir = os.path.join(OUTPUT_DIR, "articles")
-    ensure_dir(articles_out_dir)
-
-    for md_path in article_files:
-        filename = os.path.basename(md_path)
-        
-        # Filter out extraneous non-article files
-        if not filename.startswith("07a."):
-            continue
-        if "reject" in filename.lower() or "checklist" in filename.lower() or "transcription" in filename.lower():
-            continue
-        if "reviews" in md_path.lower() or "rescan" in md_path.lower() or "to do" in md_path.lower():
+    for xml_path in article_files:
+        filename = os.path.basename(xml_path)
+        if not filename.startswith("transcription"):
             continue
             
-        output_filename = filename.replace('.md', '.html')
-        content, meta = convert_md_to_html(md_path)
+        content, meta = convert_tei_to_html(xml_path)
         title = meta.get('title', os.path.splitext(filename)[0].replace('_', ' ')).strip('"')
         date = meta.get('date', '').strip('"')
         article_id = meta.get('article_id', '').strip('"')
@@ -377,40 +732,29 @@ def main():
         if not article_id:
             continue
 
-        # Facsimile Handling
+        output_filename = filename.replace('.xml', '.html')
+        if article_id and not output_filename.startswith(article_id):
+            output_filename = f"{article_id}_{output_filename}"
+
         facsimile_html = ""
-        src_dir = os.path.dirname(md_path)
-        # Find any PDF in this directory (ignoring "reject" in name)
+        src_dir = os.path.dirname(xml_path)
         pdfs = [f for f in os.listdir(src_dir) if f.lower().endswith(".pdf") and "reject" not in f.lower()]
         if pdfs:
             pdfs.sort()
             pdf_name = pdfs[0]
-            # Compress and copy PDF to docs/articles/
-            dest_pdf_path = os.path.join(articles_out_dir, pdf_name)
-            compress_pdf(os.path.join(src_dir, pdf_name), dest_pdf_path)
-            
-            # Render embedded PDF reader
             facsimile_html = f"""
 <div class="facsimile-pane" style="height: 80vh; min-height: 600px; padding: 0;">
     <iframe src="../articles/{pdf_name}" style="width: 100%; height: 100%; border: none; border-radius: 4px;"></iframe>
 </div>
 """
 
-        # Copy and link TEI XML source files
         tei_html = ""
-        src_dir = os.path.dirname(md_path)
-        xml_files = sorted(glob.glob(os.path.join(src_dir, "*.xml")))
-        if xml_files:
+        if article_id:
             dest_tei_dir = os.path.join(OUTPUT_DIR, "tei", article_id)
             ensure_dir(dest_tei_dir)
-            
-            tei_links = []
-            for xml_path in xml_files:
-                xml_name = os.path.basename(xml_path)
-                shutil.copy2(xml_path, os.path.join(dest_tei_dir, xml_name))
-                tei_links.append(f'<a href="../tei/{article_id}/{xml_name}" target="_blank" class="tei-link">📜 {xml_name}</a>')
-                
-            tei_html = '<div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;"><span class="meta" style="margin-right: 0.5rem;">TEI Source:</span>' + ''.join(tei_links) + '</div>'
+            xml_name = os.path.basename(xml_path)
+            safe_copy(xml_path, os.path.join(dest_tei_dir, xml_name))
+            tei_html = f'<div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;"><span class="meta" style="margin-right: 0.5rem;">TEI Source:</span><a href="../tei/{article_id}/{xml_name}" target="_blank" class="tei-link">📜 {xml_name}</a></div>'
 
         meta_html = ""
         if article_id: meta_html += f'<p class="meta">ID: {article_id}</p>'
@@ -440,46 +784,15 @@ def main():
 
     # Generate Books Page
     books_html = "<h1>Books & Editions</h1>\n<ul class='article-list'>\n"
-    bib_path = os.path.join(ROOT_DIR, "metadata", "bibliography.json")
-    if os.path.exists(bib_path):
-        import json
-        with open(bib_path, 'r', encoding='utf-8') as f:
-            bib_data = json.load(f)
-        
-        books_out_dir = os.path.join(OUTPUT_DIR, "books")
-        ensure_dir(books_out_dir)
-        
+    if bib_data:
         books = sorted([(k, v) for k, v in bib_data.items() if k.startswith("7.b.")])
         for book_id, citation in books:
-            # Clean and present book citation beautifully
             display_id = book_id.replace("7.b.", "Book ")
-            
-            # Find matching PDF files for this book
-            book_num = int(book_id.split(".")[-1])
-            pdf_path = None
             pdf_name = f"{book_id}.pdf"
             
-            books_src_dir = os.path.join(ROOT_DIR, "07b Books")
-            if os.path.exists(books_src_dir):
-                for root, dirs, files in os.walk(books_src_dir):
-                    for file in files:
-                        if file.lower().endswith(".pdf"):
-                            parent_folder = os.path.basename(root)
-                            if (parent_folder.startswith(f"07b.{book_num}") or 
-                                file.startswith(f"07b.{book_num}") or 
-                                file.startswith(f"7.b.{book_num}") or 
-                                file.startswith(f"Revell 07b.{book_num}")):
-                                pdf_path = os.path.join(root, file)
-                                break
-                    if pdf_path:
-                        break
-            
+            dest_pdf_path = os.path.join(OUTPUT_DIR, "books", pdf_name)
             link_html = ""
-            if pdf_path and os.path.exists(pdf_path):
-                dest_pdf_path = os.path.join(books_out_dir, pdf_name)
-                compress_pdf(pdf_path, dest_pdf_path)
-                
-                # Generate a dedicated book viewer page
+            if os.path.exists(dest_pdf_path):
                 clean_title = citation.split(', ', 1)[0].strip('"').strip('\'')
                 if len(clean_title) > 80:
                     clean_title = clean_title[:77] + "..."
@@ -509,8 +822,7 @@ def main():
     </div>
 </article>
 """
-                generate_page(os.path.join(books_out_dir, f"{book_id}.html"), full_display_title, book_viewer_content, depth=1)
-                
+                generate_page(os.path.join(OUTPUT_DIR, "books", f"{book_id}.html"), full_display_title, book_viewer_content, depth=1)
                 link_html = f'<div style="margin-top: 0.5rem;"><a href="books/{book_id}.html" class="tei-link" style="background: #eafaf1; border-color: #c2f0d5; color: #27ae60;">📖 Read Book in Viewer</a></div>'
             
             books_html += f'<li><strong style="color: var(--primary-color); font-family: var(--font-heading); font-size: 1.2rem; display: block;">{display_id}</strong><p style="margin: 0.2rem 0 0 0; color: var(--text-color); font-size: 1rem;">{citation}</p>{link_html}</li>\n'

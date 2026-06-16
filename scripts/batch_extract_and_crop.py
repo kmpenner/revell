@@ -12,7 +12,7 @@ from openai import OpenAI
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-ROOT_DIR = r"g:\My Drive\Research\Revell"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ARTICLES_DIR = os.path.join(ROOT_DIR, "07a Articles")
 ASSETS_IMAGES_DIR = os.path.join(ROOT_DIR, "assets", "images", "articles")
 API_KEY_PATH = os.path.join(ROOT_DIR, "metadata", "openrouter_api_key.txt")
@@ -72,59 +72,25 @@ def process_pdf(pdf_path, article_id, client):
 
     doc = fitz.open(pdf_path)
     num_pages = len(doc)
-    doc.close()
 
     logging.info(f"Processing {article_id} ({num_pages} pages)...")
 
     for page_num in range(num_pages):
         output_path = os.path.join(article_img_dir, f"page_{page_num+1}.png")
-        # We overwrite to re-test with better bounds
+        # We overwrite to re-test
         # if os.path.exists(output_path):
         #     logging.info(f"  Page {page_num+1} already exists, skipping.")
         #     continue
 
-        logging.info(f"  Extracting and cropping page {page_num+1}...")
-        img_b64, width, height = pdf_page_to_base64(pdf_path, page_num)
-
-        bounds = detect_bounds(client, img_b64)
-        if not bounds:
-            logging.warning(f"    Failed to detect bounds for page {page_num+1}. Saving original.")
-            doc_temp = fitz.open(pdf_path)
-            page_temp = doc_temp.load_page(page_num)
-            pix_temp = page_temp.get_pixmap(matrix=fitz.Matrix(300/72, 300/72))
-            pix_temp.save(output_path)
-            doc_temp.close()
-            continue
-
-        # Apply crop
+        logging.info(f"  Extracting page {page_num+1} (cropping disabled)...")
         try:
-            img_bytes = base64.b64decode(img_b64)
-            img = Image.open(io.BytesIO(img_bytes))
-
-            # Ensure coordinates are floats
-            ymin = float(bounds['ymin'])
-            xmin = float(bounds['xmin'])
-            ymax = float(bounds['ymax'])
-            xmax = float(bounds['xmax'])
-
-            # Add 2% padding
-            padding = 20 # 2% of 1000
-            ymin = max(0, ymin - padding)
-            xmin = max(0, xmin - padding)
-            ymax = min(1000, ymax + padding)
-            xmax = min(1000, xmax + padding)
-
-            left = xmin * width / 1000
-            top = ymin * height / 1000
-            right = xmax * width / 1000
-            bottom = ymax * height / 1000
-
-            logging.info(f"    Cropping to: {left}, {top}, {right}, {bottom}")
-            cropped_img = img.crop((left, top, right, bottom))
-            cropped_img.save(output_path)
-            logging.info(f"    Saved cropped page to {output_path}")
+            page = doc.load_page(page_num)
+            pix = page.get_pixmap(matrix=fitz.Matrix(300/72, 300/72))
+            pix.save(output_path)
+            logging.info(f"    Saved original page to {output_path}")
         except Exception as e:
-            logging.error(f"    Error cropping page {page_num+1}: {e}")
+            logging.error(f"    Error extracting page {page_num+1}: {e}")
+    doc.close()
 
 def main():
     parser = argparse.ArgumentParser(description="Batch extract and crop PDF pages.")

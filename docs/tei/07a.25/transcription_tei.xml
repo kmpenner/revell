@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stress and the Waw 'Consecutive' in Biblical Hebrew</title>
+                <author>
+                    <persName>
+                        <forename>E.</forename>
+                        <forename>J.</forename>
+                        <surname>Revell</surname>
+                    </persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>American Oriental Society</publisher>
+                <date when="1984">1984</date>
+            </publicationStmt>
+            <notesStmt>
+                <note type="filename">07a.25_Stress_and_the_Waw_Consecutive_in_Biblical_Hebrew.pdf</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <title level="a">Stress and the Waw 'Consecutive' in Biblical Hebrew</title>
+                        <author>
+                            <persName>
+                                <forename>E.</forename>
+                                <forename>J.</forename>
+                                <surname>Revell</surname>
+                            </persName>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Journal of the American Oriental Society</title>
+                        <imprint>
+                            <biblScope unit="volume">104</biblScope>
+                            <biblScope unit="page" from="437" to="444">437-444</biblScope>
+                            <date when="1984">1984</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main">STRESS AND THE WAW “CONSECUTIVE” IN BIBLICAL HEBREW</titlePart>
+                </docTitle>
+                <docAuthor>E. J. REVELL</docAuthor>
+                <docEdition>UNIVERSITY OF TORONTO</docEdition>
+            </titlePage>
+        </front>
+        <body>
+            <pb n="437" />
+            <note place="top-right">With best wishes
+                EJR.</note>
+            <note place="top-center">B15/25</note>
+            <p>The stress patterns of biblical Hebrew are most easily explained as derived from a
+                stage in which words ending in a consonant had final stress, words ending in a
+                vowel, penultimate. Consequently, stress position in the great majority of verb
+                forms with <term>waw</term> consecutive—perfect and imperfect—must have been the
+                same, at this stage, as in the corresponding forms in other uses, and in most cases
+                the forms would have been identical. Suggestions are made as to how the marks now
+                distinguishing <term>waw</term> consecutive forms arose, and as to the historical
+                context in which such marks became necessary.</p>
+            <list>
+                <item>1. THE NATURE AND ORIGIN OF <term>waw</term> CONSECUTIVE FORMS IN HEBREW are a
+                    perennial problem. Attempts to find a solution always involve stress patterns,
+                    but these are invariably regarded as the result of a historical process, not as
+                    part of an existing system.<ptr target="#n1" /> Consequently a part of the
+                    information which they convey is ignored.</item>
+            </list>
+            <p>2. The stress patterns of biblical Hebrew can be described as follows:</p>
+            <p>2.1 A word ending in a consonant has final stress, as <mentioned>dā'ḇār</mentioned>, <mentioned>
+                daḇā'rîm</mentioned>, <mentioned>qā'ṭal</mentioned>, <mentioned>qəṭal'tem</mentioned>
+                , <mentioned>yiq'ṭōl</mentioned>, <mentioned>wayyiq'ṭōlūn</mentioned>.</p>
+            <p>EXCEPT (i) Segolate form nouns and corresponding structures, as <mentioned>ke'sep</mentioned>
+                , <mentioned>se'per</mentioned>, <mentioned>mamle'ket</mentioned>, <mentioned>ḥe'rep</mentioned>
+                , <mentioned>wayyi'ben</mentioned>, <mentioned>bəna'yik</mentioned> .</p>
+            <p>(ii) Some <term>waw</term> consecutive imperfect forms with open penultimate syllable
+                (as described in #10.1), also <mentioned>hiššā'mēr</mentioned> (see note 19), in
+                contextual position.<ptr target="#n2" /></p>
+            <p>(iii) 3fs perfect verb forms with 2fs or 3mpl suffix, as <mentioned>gənāḇā'tam</mentioned>
+                (Gen 31:32), <mentioned>šōḇā'ḇtek</mentioned> (Is 47:10).<ptr target="#n3" /></p>
+            <p>2.2 A word ending in a vowel has final stress if it derives from a root III ʾ, or
+                (except for the forms mentioned in #2.3) III h, as <mentioned>gālô'</mentioned>, <mentioned>
+                yiglô'</mentioned>, <mentioned>wayyeš'e'</mentioned>, <mentioned>gālû'</mentioned>, <mentioned>
+                rā'ê</mentioned>, <mentioned>bārā'</mentioned>, <mentioned>nāśā'</mentioned>, or
+                where the final vowel represents a suffixed pronoun, the fs nominal ending, or the
+                “gentilic” ending, or a similar ending in a few other nouns, as <mentioned>dəḇārô'</mentioned>
+                , <mentioned>dəḇārî'</mentioned>, <mentioned>šānā'</mentioned>, <mentioned>
+                    ʿazzā'tî</mentioned>, <mentioned>napta'lî</mentioned>.</p>
+            <p>2.3 A word ending in a vowel also has final stress in (other) forms ending in -CāCV.
+                These occur in contextual position only. Examples are verb forms ending in a vowel
+                representing a pronominal element, as <mentioned>qāṭā'lû</mentioned>, <mentioned>
+                tiqṭə'lû</mentioned>, <mentioned>yiqṭə'lû</mentioned>, and some words from root III
+                h: nouns of the form <mentioned>pərî'</mentioned>, <mentioned>ḥŏlî'</mentioned>, and
+                the corresponding verb forms as <mentioned>yaḥ'î</mentioned>, <mentioned>yah'î</mentioned>,
+                also some pronominal morphs, as <mentioned>ʾănî'</mentioned>, <mentioned>hinnənî'</mentioned>
+                , <mentioned>dəḇārakā'</mentioned>.</p>
+            <p>EXCEPT forms in which -āh “directional” is bound to a noun originally ending -CVCC,
+                as <mentioned>ʾō'hĕlā</mentioned> also <mentioned>lā'yəlā</mentioned>.</p>
+            <note xml:id="n1">¹ This is true even of the description of syllable structure and
+                stress patterns in J. Blau, “Hebrew Stress Shifts, Pretonic Lengthening, and
+                Segolization: Possible Cases of Aramaic Interference in Hebrew Syllable Structure”
+                in <title>Israel Oriental Studies</title> 8 (1978), 91–106 (henceforward “Blau”).
+                This description is “mainly synchronic” (p. 92). The reason for the omission of
+                construct forms (as having weak or no stress) is no doubt valid historically, but is
+                not true of the primary evidence. Stress is marked here by a vertical stroke (')
+                before the stressed vowel. The Hebrew vowels are represented as <mentioned>u</mentioned>
+                (<term>shureq, qibbus</term>), <mentioned>o</mentioned> (<term>holem</term>), <mentioned>
+                ɔ</mentioned> (<term>qames</term>), <mentioned>a</mentioned> (<term>patah</term>), <mentioned>
+                ε</mentioned> (<term>segol</term>), <mentioned>e</mentioned> (<term>sere</term>), <mentioned>
+                i</mentioned> (<term>hireq</term>), <mentioned>ə</mentioned> (<term>shewa</term>), <mentioned>
+                ŏ</mentioned>, <mentioned>ă</mentioned>, <mentioned>ĕ</mentioned>, (composite <term>
+                shewa</term>). A circumflex denotes the presence of a vowel letter, <mentioned>w</mentioned>
+                for <mentioned>û</mentioned>, <mentioned>ô</mentioned>, <mentioned>y</mentioned> for <mentioned>
+                î</mentioned>. Other non-consonantal uses of <mentioned>w</mentioned>, <mentioned>y</mentioned>,
+                and <mentioned>h</mentioned> are ignored.</note>
+            <note xml:id="n2">² In the cases described in #3, a word appears in a special pausal
+                form at the end of a syntactic/semantic unit (pausal position). Within these units
+                (contextual position) the contextual form is used. For the distribution of pausal
+                forms, see <title>JSS</title> 25 (1980), 165–179, <title>VT</title> 31 (1981),
+                186–199, and note 5 below.</note>
+            <note xml:id="n3">³ Both words are in pausal position. For similar forms in contextual
+                position, see Jos 2:6, Is 47:14, Hos 2:14, Ps 48:7 and Rut 4:15.</note>
+        </body>
+    </text>
+</TEI>

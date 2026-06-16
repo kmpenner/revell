@@ -19,6 +19,6 @@ His research focused on:
 
 - *Biblical Texts with Palestinian Pointing and their Accents* (1977)
 - *The Designation of the Individual: Expressive Usage in Biblical Narrative* (1996)
-- *Nesigah: Retraction of Accent in Biblical Hebrew* (2009)
+- *Nesiga (Retraction of Word Stress) in Tiberian Hebrew* (1987)
 
 This digital corpus aims to preserve and make accessible his extensive collection of articles and papers, ensuring his scholarly legacy continues to benefit researchers worldwide.

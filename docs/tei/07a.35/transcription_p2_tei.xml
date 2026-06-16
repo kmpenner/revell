@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>The Conditioning of Word Order in Verbless Clauses in Biblical Hebrew</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Oxford University Press</publisher>
+      <date when="1989">1989</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">The Conditioning of Word Order in Verbless Clauses in Biblical Hebrew</title>
+          <author>
+            <persName>
+              <forename>E.</forename>
+              <forename>J.</forename>
+              <surname>Revell</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Journal of Semitic Studies</title>
+          <imprint>
+            <date>1989</date>
+            <biblScope unit="volume">XXXIV</biblScope>
+            <biblScope unit="page" from="1" to="24">1-24</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p>Encoded from the source file: SBH-C368-NT26020615590_ocr.pdf</p>
+  </encodingDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+<head>Journal of Semitic Studies XXXIV/1 Spring 1989</head>
+
+<head>THE CONDITIONING OF WORD
+ORDER IN VERBLESS CLAUSES IN
+BIBLICAL HEBREW</head>
+
+<p>E. J. REVELL
+UNIVERSITY OF TORONTO</p>
+
+<head>Introduction</head>
+
+<p>1. This paper explores the factors which determine the order
+of the constituents in the standard two-part verbless clause and
+its variations in the books of Judges, Samuel, and Kings.<note place="foot">1 This paper derives from a comprehensive study of these books
+undertaken as a fellow of the Institute for Advanced Studies in the
+Humanities at Edinburgh University. I am most grateful to the Institute for
+providing facilities and congenial surroundings for the work. For the
+limited purposes of this paper, there is no difficulty in treating the material
+in these books as homogeneous. Poetical passages are ignored, as are
+obscure passages, and clauses which do not show standard two-part
+structure. In the few cases where the <hi rend="italic">ketiv</hi> is an unexpected spelling, the
+transliteration gives the <hi rend="italic">qere</hi> for clarity.</note>
+Little space is given to these clauses in grammars, and concen-
+tration on verbal clauses has tended to obscure the fact that a
+number of features of structure are common to clauses of both
+types. The same structures act as constituents of both types of
+clause, apart, of course, from the verbal constituent which
+characterizes verbal clauses. For present purposes these con-
+stituents can be classified simply as nominal or adverbial. Any
+noun or noun equivalent (including participles, adjectives,
+pronouns, or a phrase or clause functioning as the equivalent
+of a noun) can function as a nominal constituent. An adverb,
+or a preposition followed by a nominal, or by an infinitive and
+its modifiers, functions as an adverbial constituent.</p>
+
+<p>2. Verbless clauses differ from verbal clauses (apart from the
+use of the verb) chiefly in the number of constituents used.
+Verbal clauses often have, beside the verb and its subject,
+several constituents which modify the verb, and are related to
+each other only through their relationship to the verb. Verbless</p>
+
+<p>1</p>
+      <pb n="2"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>clauses are typically composed only of two constituents, which are in some way equated by the structure. There is an intermediary form of clause, in which this equating is marked by a form of the verb HYH. Such clauses are structurally verbal clauses, and may include more than one constituent besides the verb and its subject, as</p>
+<list>
+    <item>1 Sam. 3:1 <hi rend="italic">wdbr yhwh hyh yqr bymym hhm</hi></item>
+    <item>1 Sam. 14:38 <hi rend="italic">bmh hyth bhṭ't hz't hywm</hi></item>
+    <item>2 Sam. 19:23 <hi rend="italic">thyh ly hywm lśṭn</hi></item>
+</list>
+<p>Structures which can be analysed as two-part verbless clauses occasionally also show, in one of the parts, two or more phrases which do not appear to be directly related to each other, but are related only through the structure of the clause. In</p>
+<list>
+    <item>1 Sam. 27:11 <hi rend="italic">Kh 'śh dwd wkh mšpṭw kl hymym 'šr yšb bśdh plštym</hi></item>
+</list>
+<p>the phrase <hi rend="italic">kl hymym</hi> ... is related to the second (verbless) clause just as much as to the first (verbal) one. This verbless clause has, then, a predicate composed of two phrases which are not directly related to each other. Other examples of composite predicates of this sort are</p>
+<list>
+    <item>1 Sam. 9:12 <hi rend="italic">zbḥ hywm l'm bbmh</hi></item>
+    <item>2 Sam. 3:12 <hi rend="italic">ydy 'mk lhsb 'lyk 't kl yśr'l</hi></item>
+    <item>1 Kgs 10:22 <hi rend="italic">'ny tršyš lmlk bym</hi></item>
+</list>
+<p>There are various possibilities for the description of these clauses, but analysis as a verbless clause with a predicate composed of two or more phrases seems the best. It seems clear that the use of two or more constituents beside the subject does not constitute an absolute difference between verbal and verbless clauses.</p>
+<p>3. The constituents of a verbal clause are commonly said to appear in a standard order, but this order is ‘standard’ only in the sense of being the most common. In principle, any constituent may stand in any position. Their order is conditioned by semantic considerations, not by syntax. The constituent placed first in the clause is that which the author wishes to be the primary focus of the reader’s attention. Thus in a narrative passage, there the story is treated as a sequence of events, the verb, which presents the event, typically stands first in each</p>
+<p rend="centered">2</p>
+      <pb n="3"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>clause. Where the participants change, however, as where a new subject is introduced, the author will often draw the change to the reader’s attention by placing the subject first in the clause. Similarly, clauses in which the verb does not stand first are often used at the beginning of a narrative, to present the main participant, or the time or location of the action, since, at the beginning of a narrative, this information is often of greater significance than that conveyed by the verb.<note n="2">The form <hi rend="italic">wyhy</hi> is often used to introduce material of this sort, particularly temporal phrases. This verb is ‘empty’; it does not represent an event. Consequently a temporal phrase introduced by <hi rend="italic">wyhy</hi> has a level of prominence similar to that of one which begins a clause. The use of <hi rend="italic">wyhy</hi> is this way seems to have been a literary development.</note> For similar reasons, verb initial clauses are much less common in quoted speech than in narrative. Quoted speech constantly introduces new topics, and rarely includes long stretches of sequential action.<note n="3">A constituent may require the prominence conferred by initial position in the clause for a variety of reasons, and these reasons may be seen as operating on more than one level. They may highlight anaphoric relationships (see section 7, 12), or the answer to a question (as <hi rend="italic">gdʿwn</hi> Jud. 6:29, cf. section 3, 11.3), or the significance of information for the story. Gideon’s concubine is mentioned for the first and last time in Jud. 8:31 <hi rend="italic">wpylgšw ʾšr bškm yldh lw</hi>, but the relationship described provides the motivation for the following events. Where a constituent other than the verb begins the second clause in a chiastic pair, the significance of its position is primarily literary, but it also has the common function of highlighting a contrast. Thus Gen. 4:2-5 contains a set of three chiastic pairs composed of a standard verb-initial narrative clause followed by a clause in which a contrasting subject or adverbial is highlighted by initial position. These three pairs combine to form the larger pattern described and interpreted by F. I. Andersen in <hi rend="italic">The Sentence in Biblical Hebrew</hi> (The Hague 1974), 122. In the same way, the position of any constituent before the verb is significant for its relationship both to its immediate context and to a larger context. In common terminology (used, e.g. in W. Schneider, <hi rend="italic">Grammatik des biblischen Hebräisch</hi> (München 1974), section 44.2.1.1-2) it marks the clause as providing ‘background’, not ‘foreground’ information. Because the function of clause-initial position is so varied and complex, it seems best to give it a non-specific label such as ‘significance’, rather than a more specific one, such as ‘theme’.</note></p>
+<p>4. The order of the constituents which follow the verb in a verbal clause is also conditioned by semantic considerations. The standard order represents the common gradation of the significance of the constituents in relation to the action: subject</p>
+<p rend="text-align: center;">3</p>
+      <pb n="4"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>– object – adverbials. A preposition with a pronominal suffix usually precedes the subject. The suffix refers (if first or second person) to the participants in the dialogue, or (if third person) to an antecedent in the preceding context, and so is of prime significance for the relation of the clause to its context. For the same reason anaphoric adverbs, such as <hi rend="italic">šm</hi> also usually stand immediately after the verb. Other variations in the standard order are equally semantically conditioned, as was shown by Lars Lode.<hi rend="superscript">4</hi></p>
+
+<head rend="italic">The simple two-part verbless clause</head>
+
+<p>5. The basic form of verbless clause in Hebrew is composed of two parts: subject (the topic of the clause) and predicate (the information supplied on that topic). These are semantic classifications; neither subject nor predicate is consistently identified by any formal marker in any type of clause. Nevertheless, an adverbial, or a nominal headed by a participle or adjective, can confidently be identified as the predicate where the other constituent is an ordinary nominal. In such clauses, the standard (or most common) order is subject – predicate, which occurs in some sixty per cent of the cases where the predicate is adverbial, and in some eighty-five per cent of the cases where the predicate is headed by a participle or adjective. Consequently the description below concentrates on the cases in which the predicate precedes the subject. Where both constituents are nominal, but neither is headed by a participle or adjective (or if both are), the identification of the subject is more problematical, so a more general description is given. However it still appears that the subject precedes the predicate in a majority of cases. In verbal clauses, too, the subject typically precedes all other constituents but the verb in a verb-initial clause, and is by far the most common initial constituent where the verb does not stand first. This, of course, reflects the fact that the subject is generally the most significant constituent in a verbal clause (save for the verb in consecutive narrative)</p>
+
+<note n="4">In ‘Post Verbal Word order in Biblical Hebrew’, <hi rend="italic">Semitics</hi> 9 (1984), 113-64. However, while it is true that ‘Any deviation from the standard pattern is significant’, it is misleading to call the standard pattern itself ‘completely fixed’ and ‘neutral’ (p. 149). This pattern represents the most common order of the significance of the constituents relative to the verb. See section 16 below.</note>
+      <pb n="5"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>since the rest of the clause provides information about it. The same factor of ‘significance’ accounts for the position of the subject in verbless clauses. As with verbal clauses, this significance is of various kinds. Some of these are illustrated below, but much detailed study of clauses in their context is needed before a satisfactory categorization can be made.<note n="5" place="foot">Description in terms of a single pair of opposing categories is too simple for the complex motivation of word order. This is shown, e.g., by the fact that, despite the fact that ‘identification’ is a generally satisfactory designation of one category, the answer to the question ‘what is your identity?’ belongs to the other. See T. Muraoka, <hi rend="italic">Emphasis in Biblical Hebrew</hi> (Hebrew University Thesis 1969) 149 n. 16, cf. p. 5, and F.I. Andersen, <hi rend="italic">The Hebrew Verbless Clause in the Pentateuch</hi> (JBL Monograph Series XIV, Nashville 1970), 42. Cf. J. Blau’s remarks in his review of Andersen in <hi rend="italic">Leshonenu</hi> 37 (1972-3), 71. See also section 11 below.</note></p>
+<p>6. Where a clause is composed of a nominal constituent (the subject) and an adverbial constituent (the predicate), the factors conditioning the order of these constituents can be clearly seen where the clause is interrogative.
+(1) Where the adverbial constituent is an interrogative particle, it begins the clause, as
+<list>
+<item>Jud. 6:13 <hi rend="italic">w’yh kl npl’wtyw</hi></item>
+<item>1 Sam. 19:22 <hi rend="italic">’yph šmw’l wdwd</hi></item>
+<item>2 Sam. 19:35 <hi rend="italic">kmh ymy šny hyy</hi></item>
+</list>
+Interrogative particles typically stand at the beginning of a clause in Hebrew – possibly another manifestation of the general principle that the most significant item in a clause is placed first.
+(2) Where the nominal constituent is interrogative (<hi rend="italic">my</hi> or <hi rend="italic">mh</hi>) this naturally takes first position. Where he interrogative introduces a question, it is prefixed to the constituent representing the item which is the concern of the question, and this is placed first, as the adverbial constituent in
+<list>
+<item>Jud. 14:3 <hi rend="italic">h’yn bbnwt ’hyk … ’šh</hi></item>
+<item>1 Sam. 9:11 <hi rend="italic">hyš bzh hr’h</hi></item>
+<item>2 Sam. 9:3 <hi rend="italic">h’ps ‘wd ’yš lbyt š’wl</hi></item>
+</list>
+or as the nominal constituent in
+<list>
+<item>Jud. 8:6 <hi rend="italic">hkp zbh wṣlmn’ ‘th bydk</hi></item>
+<item>1 Sam. 10:11 <hi rend="italic">hgm š’wl bnby’ym</hi></item>
+<item>2 Sam. 14:19 <hi rend="italic">hyd yw’b ‘tk bkl z’t</hi></item>
+</list>
+</p>
+      <pb n="6"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>(3) The response to a question usually (although not always) follows the wording of the question. The significant constituent, that representing the item which is the concern of the question, is typically placed first in the response, as in the question, as</p>
+
+<list>
+    <item>2 Sam. 15:2 <hi rend="italic">ʾy mzh ʿyr ʾth ... mʾḥd šbṭy yśrʾl ʿbdk</hi></item>
+</list>
+
+<p>So also the question in 2 Sam. 9:3 receives the answer <hi rend="italic">ʿwd bn lyh-wntn</hi>. A response may correspond only to this initial constituent presenting the item which is the concern of the question, as</p>
+
+<list>
+    <item>2 Kgs 4:26 <hi rend="italic">hšlwm lk ... šlwm</hi>.</item>
+</list>
+
+<p>If the response is reduced to an affirmative or a negative, that particle refers to the first constituent of the question, as</p>
+
+<list>
+    <item>Jud. 4:20 <hi rend="italic">hyš ph ʾyš ... ʾyn</hi></item>
+</list>
+
+<p>where <hi rend="italic">ʾyn</hi> in the response replaces <hi rend="italic">yš</hi> in the question.<note n="6">On affirmatives and negatives, see section 25. In 2 Sam 9:4 <hi rend="italic">ʾyph hwʾ ... hwʾ byt mkyr</hi> ... the response follows the wording of the question, but changes the order of the constituents. Presumably, even though the interrogative adverb had to take first position in the question, the pronoun was considered the more significant item in the reply. Note also that the statement on <hi rend="italic">he</hi> interrogative in section 6.2 does not hold for questions introduces by <hi rend="italic">hlʾ</hi>. See n. 12.</p></note>
+
+<p>7. Where the adverbial constituent is a preposition with a pronominal suffix, it is commonly significant as indicating the relationship of the clause to its context, and so precedes the subject. Thus, where the pronoun identifies participants in a dialogue</p>
+
+<list>
+    <item>1 Kgs 2:8 <hi rend="italic">ʿmk šmʿy bn grʾ</hi></item>
+    <item>2 Kgs 2:16 <hi rend="italic">yš ʾt ʿbdyk ḥmšym ʾnšym ...</hi></item>
+</list>
+
+<p>Also where the pronoun has its antecedent in the preceding context,</p>
+
+<list>
+    <item>Jud. 3:16 (<hi rend="italic">wyʿś ... ḥrb</hi>) <hi rend="italic">wlh šny pywt</hi></item>
+    <item>1 Sam. 1:2 (<hi rend="italic">myhy ʾyš ...</hi>) <hi rend="italic">wlw šty nšym</hi></item>
+</list>
+
+<p>The same is true of anaphoric adverbs, as</p>
+
+<list>
+    <item>1 Sam. 1:3 (<hi rend="italic">wʿlh ... lhštḥwt ... bšlh</hi>) <hi rend="italic">wšm šny bny ʿly</hi></item>
+</list>
+
+<p rend="center">6</p>
+      <list>
+    <item>
+        <pb n="7"/>
+        <head>WORD ORDER IN BIBLICAL HEBREW</head>
+        <p>This corresponds to the typical position of constituents of this kind in a verbal clause – preceding the subject (see section 4). In both verbal and verbless clauses, the subject precedes an adverbial of this type only when it (the subject) is of particular significance. This is common (for obvious reasons) where God is subject, as
+            <list>
+                <item>Jud. 2:18 <foreign xml:lang="he-Latn" rendition="italic">hqym yhwh lhm šptym</foreign></item>
+            </list>
+            (also Jud. 3:15, 11:9, 17:13 etc.), and
+            <list>
+                <item>1 Sam. 18:14 <foreign xml:lang="he-Latn" rendition="italic">(wyhy dwd ... mśkyl) wyhwh ʿmw</foreign></item>
+            </list>
+            (also 18:28, 2 Sam. 5:10, 7:3 etc.). The same occurs where some other subject is of particular significance, as in
+            <list>
+                <item>Jud. 11 : 2 <foreign xml:lang="he-Latn" rendition="italic">wtld ʾšt glʿd lw bnym</foreign></item>
+            </list>
+            The position of the subject highlights the significance of the fact that Gideon’s wife, as well as his concubine, bore him children.
+            <list>
+                <item>2 Sam. 11 : 16 <foreign xml:lang="he-Latn" rendition="italic">(hmqwm ʾšr ydʿ ky) ʾnšy hyl šm</foreign></item>
+            </list>
+            The <foreign xml:lang="he-Latn" rendition="italic">ʾnšy hyl</foreign> are to kill Uriah.
+            <list>
+                <item>2 Sam. 16 : 15 <foreign xml:lang="he-Latn" rendition="italic">wʾbšlwm wkl hʿm ... bʾw yrwšlm) wʾhytpl ʾtw</foreign></item>
+            </list>
+            Ahitophel plays a significant part in the following narrative.
+        </p>
+        <p>8. In other cases in which an adverbial is placed first in the clause, its position can also be ascribed to the significance of the relationships which it marks. This may be an anaphoric relationship, as where the nominal represents a person or thing mentioned in the preceding context, as
+            <list>
+                <item>2 Sam. 3 : 7 <foreign xml:lang="he-Latn" rendition="italic">wlšʾwl plgš</foreign>, and</item>
+                <item>2 Sam. 4 : 4 <foreign xml:lang="he-Latn" rendition="italic">wlyhwntn bn šʾwl bn</foreign></item>
+            </list>
+            The relationship to Saul is significant in the narrative in both cases. Also
+            <list>
+                <item>1 Kgs 7:29 <foreign xml:lang="he-Latn" rendition="italic">wʿl hmsgrwt ... ʾrywt</foreign></item>
+            </list>
+            The adverbial locates the decoration as on an item previously mentioned. In some other cases the adverbial marks a significant contrast, as in
+            <list>
+                <item>1 Sam. 1 : 2 <foreign xml:lang="he-Latn" rendition="italic">wyhy lpnh yldym wlhn h ʾyn yldym</foreign></item>
+            </list>
+        </p>
+        <p align="center">7</p>
+    </item>
+</list>
+      <pb n="8"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>The significance of a contrast of this sort is a common reason for the placing of a constituent before the verb in a verbal clause, as
+<list rend="unnumbered">
+    <item>Jud. 6:39 <mentioned>yhy n' ḥrb 'l hgzh lbdh w'l kl h'rṣ yhyh tl</mentioned></item>
+</list></p>
+
+<p>9. A predicate headed by a participle or adjective precedes its subject in relatively few situations. Where it does, however, it is clearly the more significant of the two constituents.
+(1) A participle consistently stands first in a verbless clause where it carries a blessing or a curse, as
+<list rend="unnumbered">
+    <item>1 Sam. 14:24 <mentioned>'rwr h'yš 'šr y'kl lḥm</mentioned></item>
+    <item>1 Sam. 25:33 <mentioned>wbrwk ṭ'mk wbrwkh 't</mentioned></item>
+</list>
+and many other examples.
+(2) An adjective expressing approval or disapproval also regularly takes initial position, as
+<list rend="unnumbered">
+    <item>1 Sam. 9:10 <mentioned>ṭwb dbrk</mentioned></item>
+</list>
+also 1 Kgs 2:38, 2:42, 18:24, 2 Kgs 20:19. The significant item in a clause of this sort, the initial predicate, may be used alone to present such approval, as in 2 Sam. 3:13, 1 Kgs 2:18.
+Disapproval is expressed similarly as
+<list rend="unnumbered">
+    <item>2 Sam. 17:7 <mentioned>l' ṭwbh h'ṣh 'šr y'ṣ 'ḥytpl</mentioned></item>
+</list>
+also 1 Sam. 2:24, 26:16.
+(3) A participle expressing willingness to receive a message stands first in its clause in
+<list rend="unnumbered">
+    <item>1 Sam. 3:9 <mentioned>šm' 'bdk</mentioned></item>
+</list>
+also 1 Sam. 3:10, 2 Sam. 20:17, 2 Kgs 18:26, and also where such willingness is requested in
+<list rend="unnumbered">
+    <item>2 Sam. 15:27 <mentioned>hr'h 'th</mentioned></item>
+</list>
+(4) A participle or adjective begins its clause in a few other cases where it is of particular significance in the context, as
+<list rend="unnumbered">
+    <item>1 Sam. 19:14 <mentioned>ḥlh hw'</mentioned></item>
+</list>
+Cf. also 1 Kgs 14:5, 2 Kgs 8:29, In each case illness is offered as the reason for some action, or the lack of it.
+<list rend="unnumbered">
+    <item>2 Sam. 11:5 <mentioned>hrh 'nky</mentioned></item>
+</list></p>
+      <pb n="9"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>Bathsheba’s pregnancy is of oustanding significance as motiva-tion for the following narrative.</p>
+
+<list>
+    <item>2 Sam. 24:14 (<emph>nplh n’ byd yhwh ky</emph>) <emph>rhym rhmyw</emph></item>
+</list>
+
+<p>David is relying on the greatness of God’s mercy.<note n="7">Other cases occur in 1 Sam. 22:17, 29:6, 2 Sam. 15:19, 2 Kgs 7:12, 10:9, 22:13. Cases of variation in the order of a participle or adjective and its modifiers are treated below in sections 15-19.</note></p>
+
+<p>10. Where one constituent of a clause is a pronoun, and the other is also nominal (but is not headed by a participle or adjective), it is again clear that the constituent which is the more significant in the context is placed first. This significance can be expressed as follows. A pronominal subject which precedes its predicate designates the particular individual or group (out of those possible) to which the predicate is appli-cable. Where the pronoun follows the predicate, the clause shows that that predicate (as opposed to other possible predi-cates) is applicable to the individual or group designated by the pronoun.</p>
+
+<p>11. This is easily seen in clauses dealing with identity.
+<lb/>(1) If the clause indicates which individual (out of a number of possibilities) has a particular identity, then the individual is named first. Thus in</p>
+
+<list>
+    <item>1 Kgs 20:28 (<emph>wyd’tm ky</emph>) <emph>’ny yhwh</emph></item>
+</list>
+
+<p>the concern is not that people do not know the name of God. The message conveyed is ‘You will realize that I (the speaker and no-one else) am the Lord (with all the power and authority that that implies)’. Similarly in</p>
+
+<list>
+    <item>1 Sam. 28:12 (<emph>lmh rmytny</emph>) <emph>w’th š’wl</emph></item>
+</list>
+
+<p>the witch of Endor is not simply stating that the man’s name is Saul; she means that (although she had never suspected it) this individual is in fact Saul, (whose decree she has flouted).
+<lb/>(2) Where there is a question of whether an individual has a particular identity, the question similarly places the pronominal subject first (cf. section 6.2), as</p>
+
+<list>
+    <item>Jud. 13:11 <emph>h’th h’yš ’šr dbrt ’l h’šh</emph></item>
+    <item>2 Sam. 9:2 <emph>h’th sybh</emph></item>
+</list>
+      <pb n="10"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>The answer often presents only the significant initial part of the clause (the subject), and so in Jud.13:11 <foreign xml:lang="he">’ny</foreign>, in 2 Sam.9:2 <foreign xml:lang="he">‘bdk</foreign>. (3) A question asking what is the identity of a particular individual is typically put with an interrogative pronoun. The identity of the individual is placed first in the response, which may consist only of this significant initial part of the clause (the predicate), as
+<list rend="unnumbered">
+    <item>1 Sam.17:58 <foreign xml:lang="he">bn my ’th hn‘r ... bn ‘bdk yšy</foreign></item>
+    <item>2 Sam.1:8 <foreign xml:lang="he">my ’th ... ‘mlqy ’nky</foreign></item>
+    <item>2 Kgs 10:13 <foreign xml:lang="he">my ’tm ... ’ḥy ’ḥzyhw ’nḥnw</foreign></item>
+    <item>cf. also 2 Kgs 1:7-8 <foreign xml:lang="he">mh mšpṭ h’yš ... ’lyhw htšby hw’</foreign></item>
+</list></p>
+<p>The particular form in which the identity is given varies, as these examples show. The form is no doubt partly responsive to the question, and partly a matter of social convention. The significant fact is that where the identity is given first, the clause answers the question ‘What is the identity of the individual represented by the pronoun?’ Where the pronoun is placed first, the clause answers the question ‘What individual has the identity named?’<ptr target="#n8"/></p>
+<p>12. The same considerations govern the use of pronouns in other verbless clauses. Where the pronoun stands first, it is the more significant of the constituents, indicating the particular entity to which the predicate is applicable. Thus the demonstrative pronouns <foreign xml:lang="he">zh</foreign>, <foreign xml:lang="he">z’t</foreign>, etc., typically stand first in the clause, as
+<list rend="unnumbered">
+    <item>2 Kgs 6:19 <foreign xml:lang="he">l’ zh hdrk wl’ zh h‘yr</foreign></item>
+</list></p>
+<p>Other pronouns are also placed first where they mark important relationship to the preceding context (see section 4), as
+<list rend="unnumbered">
+    <item>1 Sam. 1:10 (<foreign xml:lang="he">wtqm ḥnh ...</foreign>) <foreign xml:lang="he">why’ mrt npš</foreign></item>
+    <item>2 Kgs 14:21 (<foreign xml:lang="he">wyqḥw ... ’t ‘zryh</foreign>) <foreign xml:lang="he">whw’ bn šš ‘śrh šnh</foreign></item>
+</list></p>
+<p>A pronoun which follows the predicate is the less significant of the two constituents. The constrasting value of the two orders is neatly displayed in</p>
+<note xml:id="n8" n="8">The statement of Rachel in Gen. 24:23-4 discussed in Andersen, <hi rend="italic">The Verbless Clause</hi>, 42, clearly answers the first question (as the examples in section 11.3), as does the case in 1 Sam. 28:14, mentioned with that in 2 Kgs 1:8 on p. 40. Andersen’s general conclusions were presumably much the same as those presented here, but his categorization of clauses of this type as ‘identifying’ or ‘classifying’ seems too specific and too limited, as argued in n. 5 above.</note>
+<p rend="center">10</p>
+      <pb n="11"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>1 Sam. 17:33 <hi rend="italic">nʻr ’th whw’ ’yš mlhmh mnʻwryw</hi></p>
+<p>‘For (only) a lad (not a soldier) are you, and he (but not you) has been a soldier since his youth’. Cf. also</p>
+
+<p>1 Kgs 18:27 <hi rend="italic">(qr’w bqwl gdwl ky) ’lhym hw’</hi></p>
+<p>‘A God is (supposedly) what he (Baal) is’, with</p>
+
+<p>1 Kgs 18:36 <hi rend="italic">(hywm ywdʻ ky) ’th ’lhym byśr’l</hi></p>
+<p>‘(Let it be known that) you (and not Baal) are God in Israel’. Similarly uses of <hi rend="italic">dm</hi> in initial position, such as that quoted above, can be compared with</p>
+
+<p>2 Kgs 3:23 <hi rend="italic">dm zh</hi></p>
+<p>‘Blood is what this is’. The clause explains a puzzling phenomenon.</p>
+
+<p>13. Where both constituents are nominal, but neither is a pronoun, or is headed by a participle or adjective, the same principles can be seen to govern their arrangement. Typically, one constituent designates an individual, item, or group, and the other some attribute of that individual, item, or group. The latter, the predicate, usually stands in second position. The following are some characteristic examples of features presented in this way.
+<list>
+    <item>(1) Name. The standard order ‘and his name was PN’ is used constantly, as Jud. 13:2, 17:1, 2 Sam. 20:1, and in the formula naming a new king’s mother, as 1 Kgs 14:21, 31, etc. The reverse order is only used where the name is of particular significance in the context, as
+    <p>2 Sam. 20:21 <hi rend="italic">(’yš mhr ’prym) šbʻ bn bkry šmw (nś’ ydw) ...</hi></p>
+    The speaker is explaining that the capture of Sheba ben Bichri is the sole aim of his expedition. Other examples occur with Nabal (1 Sam. 25:25), where the name is the subject of a pun, and with outstanding individuals: Goliath in 1 Sam. 17:4, 23, and Josiah in 1 Kgs 13:2.</item>
+    <item>(2) Age. The standard order is exemplified in
+    <p>1 Sam. 4:15 <hi rend="italic">wʻly bn tšʻym wšmnh šnh</hi></p>
+    This standard order is reversed in the formulaic clauses giving the king’s age on his accession, where the age is of particular significance, as 2 Sam. 2:10, 5:4, etc.</item>
+</list>
+</p>
+<p rend="center">11</p>
+      <pb n="12"/>
+<head type="running">WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>(3) Weights, measures, etc. According to the general pattern, the name of the item measured should typically stand first, as it does in
+<list rend="unnumbered">
+    <item>1 Sam. 17:5 <foreign xml:lang="hbo-Latn">wmšql hšrywn hmš ’lpym šqlym nhšt</foreign></item>
+    <item>2 Sam. 24:9 <foreign xml:lang="hbo-Latn">w’yh yhwdh hmš m’wt ’lp ’yš</foreign></item>
+</list>
+The reverse order is numerically more frequent in the material studied, but it is virtually restricted to the description of Solomon’s temple in 1 Kgs chapters 6 and 7 (also 2 Kgs 25:17). The measurements are presumably stressed there as indicating the monumental nature of the work. Similarly, in
+<quote>Jud. 3:16 (<foreign xml:lang="hbo-Latn">wy‘ś lw ’hwd hrb ...</foreign>) <foreign xml:lang="hbo-Latn">gmd ’rkh</foreign></quote>
+the measurement is placed first to draw attention to the fact that Ehud’s weapon was of a length suitable for concealment.
+(4) Other attributes, such as the period of reign (1 Kgs 2:11, 11:42, 14:20, 2 Kgs 10:36), occupation (2 Sam. 20:24, 1 Kgs 4:2-5), relationship (1 Sam. 17:12, 2 Sam. 17:25), vitality (1 Kgs 3:22-3) and so on, are treated in the same way. The name of the item to be described is typically given first, followed by the attribute ascribed to it. However where an attribute is of particular significance, and so requires stress, it is placed in first position, as
+<quote>2 Kgs 19:3 <foreign xml:lang="hbo-Latn">ywm ṣrh wtwkhh wn’ṣh hywm hzh</foreign></quote>
+referring to the day of the Rab Shaqeh’s demand for the surrender of Jerusalem.</p>
+
+<head>Clauses with discontinuous constituents</head>
+
+<p>14. The words forming a composite constituent of a verbal clause, as a noun with modifiers, or two or more nouns coordinated or in apposition, usually follow each other without interruption. They may, however, be interrupted by the insertion of other constituents. Technically a nominal subject (which stands in apposition to the pronominal morph in the verb form) forms a discontinuous constituent when it is separated from its verb. The purpose of such discontinuity is to allow the insertion, directly after the verb, of material more immediately significant for the understanding of the clause than is the description of the entity designated by the subject pronoun (see section 4). However a subject of this sort is only</p>
+
+<fw type="footer">12</fw>
+      <pb n="13"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>the most common type of discontinuous constituent used in verbal clauses.</p>
+<list>
+<item>(1) Where an object, or other constituent, follows the verb, its head may be presented in its standard position, but separated from its modifiers by other constituents, as
+<list>
+<item>Jud. 14:1 <hi rend="italic">wyrʼ ’šh btmnth mbnwt plštym</hi></item>
+</list>
+</item>
+<item>(2) A constituent which is treated in this way is sometimes extraposed. The head of the constituent is given in the standard position, but the whole constituent is given at the end of the clause. The head may be repeated, as
+<list>
+<item>Jud. 10:8 <hi rend="italic">wyrṣṣw ’t bny yśrʼl bšnh hhyʼ ... ’t kl bny yśrʼl ...</hi></item>
+</list>
+or it may be represented by a pronoun, as
+<list>
+<item>Jud. 9:48 <hi rend="italic">wyʻl ʻbymlk hr ṣlmwn hwʼ wkl hʻm ’šr ʼtw</hi></item>
+</list>
+</item>
+<item>(3) A constituent which is placed before the verb to draw attention to its significance may be treated in the same way. Where such a constituent is composed of several co-ordinated nouns, or of a noun with modifiers, it may be given in discontinuous form, as
+<list>
+<item>Jud. 18:24 <hi rend="italic">’t ʼlhy ’šr ʻśyty lqhtm wʼt hkhn</hi></item>
+<item>1 Sam. 30:5 <hi rend="italic">wšty nšy dwd nšbw ʼhynʻm ... wʼbygyl</hi></item>
+</list>
+</item>
+<item>(4) A constituent preceding the verb may also be extraposed – given in full at the beginning of the clause, and represented in the standard position by a pronoun, as
+<list>
+<item>Jud. 7:5 <hi rend="italic">kl ’šr ylq blšwnw ... tṣyg ʼwtw lbd</hi></item>
+<item>2 Sam. 6:23 <hi rend="italic">wlmykl bt šʼwl lʼ hyh lb yld ʻd ywm mwth</hi></item>
+</list>
+</item>
+</list>
+<p>The common description of structures like those in (4), and in similar verbless clauses (see sections 18, 22) as composed of a subject followed by a predicate which is itself a complete subject-predicate clause, is a reasonable interpretation of the semantic relationships involved. However these relationships occur on a different level of structure from that of the syntax, and such description obscures the interrelationship of the various different arrangements in which the components of clauses can occur.<note n="9">The potential for confusion is illustrated by the note in W. Schneider, <hi rend="italic">Grammatik</hi>, section 44.4.4, requiring that in 2 Sam. 13:4, where the object of a participle carries the most significant information in the clause, and so</note> Syntactically, these are simply clauses with a</p>
+      <pb n="14"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>constituent preposed to give it the prominence required by its significance, and ‘resumed’ by a pronoun within the clause for reasons such as those suggested below.</p>
+<p>15. Discontinuous constituents are used in verbless clauses as well as in verbal. Where a participle or adjective acting as head of the predicate is placed at the beginning of a clause, it is typically followed immediately by the subject, and this is followed by the modifiers of the head of the predicate. Examples of this usage are common in
+<list rend="numbered">
+<item>(1) Blessing or curse formulae, where this is the standard arrangement (see section 9.1), as
+<p rend="indent">Jud. 17:2 <hi rend="italic">brwk bny lyhwh</hi></p>
+Also 1 Sam. 23:21, 26:19, 2 Sam. 2:5.</item>
+<item>(2) Where the predicate is headed by an adjective which is modified by comparative <hi rend="italic">mn</hi>, as
+<p rend="indent">2 Kgs 6:16 <hi rend="italic">rbym ’šr ’tnw m’šr ’wtm</hi></p>
+Also 1 Sam. 24:17, 2 Sam. 17:14, 18:3, 19:8, 1 Kgs 19:4, 2 Kgs 5:12.</item>
+<item>(3) Where the participle or adjective heading the predicate is of particular significance in the context in some other way, as where David protests his innocence in
+<p rend="indent">2 Sam. 3:28 <hi rend="italic">nqy ’nky wmmlkty m’m yhwh ‘d ‘wlm</hi></p>
+or where Saul charges Jonathan with supporting David against him in
+<p rend="indent">1 Sam. 20:30 <hi rend="italic">bḥr ’th lbn yšy lbštk</hi></p>
+Also 1 Sam. 3:13, 19:2, 23:10, 26:16, 30:6, and so on.</item>
+</list>
+</p>
+<note place="bottom">
+begins it, it should be regarded as the subject of the clause. It should, then, be called ‘subject of discourse’ or ‘thematic subject’ to distinguish it from the syntactic subject, but even this terminology often seems inappropriate where an adverbial is preposed (see section 18.2). Clauses occasionally do act as constituents, both nominalized clauses such as those introduced by <hi rend="italic">’šr</hi> (as in 2 Sam. 17:10, quoted in section 25.3), and others, as 2 Sam. 14:32 <hi rend="italic">twb ly ‘wd ’ny šm</hi>. The view that the function of the resumptive pronoun is simply copulative also seems inappropriate, as such a pronoun does not always resume the subject. Cases where <hi rend="italic">hw’</hi> is used to resume a 1.s or 2m.s pronoun, which provide the strongest support for this view, may in fact distinguish a resumed pronoun from a repeated pronoun (as Isa. 43:11).
+</note>
+      <pb n="15"/>
+<head type="running">WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>16. In these clauses, the purpose of the discontinuity is the same as in verbal clauses. A constituent is interrupted to allow the insertion of material in a position which gives due prominence to its significance. The discontinuity of the predicate in these cases results in the presentation of the semantic components of the clause in the order characteristic of verbal clauses with initial verb. This is strikingly demonstrated where the perfect of HYH is used with the participle, forming a composite verbal constituent, in
+<list>
+    <item>1 Sam. 17:34 <foreign xml:lang="he-Latn">r'h hyh 'bdk l'byw bṣ'n</foreign></item>
+</list>
+The head of the predicate, whether it be participle, adjective, or verb, is followed by its subject, and then by its modifiers, because this is the usual order of relative significance of the components of a clause in which the head of the predicate is the most significant constituent in the context, and so stands first in the clause. In verbal clauses this ‘standard’ order is the most common of the possible variations in word order only in a narrative context, because only there is the verb usually the most significant constituent of the clause (see section 3 and note 4). In the ‘standard’ order for the components of a verbless clause with predicate headed by a participle or adjective, the predicate follows the subject and is not discontinuous. The order described above, where the head of the predicate precedes the subject, is the most common variation on this. Other variations, also invoving discontinuous predicates, are described in sections 17-19. Discontinuous predicates in other types of clause, which are less common, are described in section 20, and discontinuous subjects in section 21.</p>
+
+<p>17. An initial participle or adjective may be separated by a modifier from its following subject. In the few examples where this occurs the modifier is adverbial, and includes a pronoun or other anaphoric element, as
+<list>
+    <item>Jud. 15:11 <foreign xml:lang="he-Latn">mšlym bnw plštym</foreign></item>
+    <item>1 Kgs 19:7 <foreign xml:lang="he-Latn">rb mmk hdrk</foreign></item>
+</list>
+Also Jud. 20:34, 1 Sam. 3:13, 29:6, 2 Sam. 17:13. An adverbial placed in this position is given some prominence, (although not as great as if it stood first in the clause see section 18). In both these cases stress is laid on the pronoun. Compare the standard form of the <foreign xml:lang="he-Latn">rb mn</foreign> structure in 2 Kgs 6:16 (quoted in section</p>
+
+<fw type="footer">15</fw>
+      <pb n="16"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>15.2). This usage is parallel to that in verbal clauses, where adverbials may be placed immediately after the verb not only where they mark significant relationships (see section 4), but also where they require prominence for other reasons, as</p>
+
+<list>
+    <item>Jud. 1:20 <foreign>wytnw lklb ’t ḥbrwn</foreign></item>
+</list>
+
+<p>Caleb is given prominence as the recipient designated by Moses.</p>
+
+<list>
+    <item>Jud. 15:18 <foreign>’th ntt byd ‘bdk ’t hťšw‘h hgdlh hz’t</foreign></item>
+</list>
+
+<p>Here the ultimate recipient of action (the ‘indirect object’) is given greater prominence than the primary recipient (the ‘direct object’) as is usual with NTN <foreign>byd</foreign>.</p>
+
+<p>18. Where some modifier of a participle or adjective is of particular significance, it is placed at the beginning of the clause. In this case the subject and the head of the predicate remain in the standard order, subject first. Thus</p>
+
+<p>(1) With a preposed nominal</p>
+
+<list>
+    <item>2 Sam. 3:13 <foreign>’k dbr ’ḥd ’nky š’l m’tk</foreign></item>
+    <item>2 Sam. 13:4 <foreign>’t tmr ... ’ny ’hb</foreign></item>
+</list>
+
+<p>Also 1 Sam. 17:5, 25:28, 2 Sam. 24:12, 2 Kgs 3:14, etc., and, with the interrogative <foreign>mh</foreign>, 2 Sam. 21:4, 1 Kgs 11:22, etc.</p>
+
+<p>(2) With a preposed adverbial</p>
+
+<list>
+    <item>1 Sam. 7:3 <foreign>’m bkl lbbkm ’tm šbym ’l yhwh</foreign></item>
+    <item>1 Kgs 3:3 <foreign>rq bbmwt hw’ mzbb wmqtyr</foreign></item>
+    <item>1 Kgs 20:22 <foreign>ltšwbt hšnh mlk ’rm ‘lh ‘lyk</foreign></item>
+</list>
+
+<p>Also 1 Sam. 19:11, 24:14, 1 Kgs 3:3, 18:11, 14, 22:44, 2 Kgs 17:34, 40, etc., and, with the interrogative <foreign>‘d mty</foreign>, 1 Sam. 16:1, 1 Kgs 18:21, or others 1 Kgs 12:6, 22:16 and so on. Also, where a nominal has adverbial value</p>
+
+<list>
+    <item>2 Kgs 2:3, 5 <foreign>hywm yhwh lqḥ ’t ’dnyk m’l r’šk</foreign></item>
+</list>
+
+<p>(3) Occasionally more than one modifier of a participle precedes the subject of the clause, as</p>
+
+<list>
+    <item>2 Sam. 9:13 <foreign>’l šlḥn hmlk tmyd hw’ ’kl</foreign></item>
+    <item>2 Kgs 4:16 <foreign>lmw‘d hzh k‘t ḥyh ’t ḥbqt bn</foreign></item>
+</list>
+
+<p>In both clauses, the two adverbials combine to provide the</p>
+
+<p rend="text-align: center">16</p>
+      <pb n="17"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>most significant information. Two constituents may similarly precede a verb where both require prominence, as
+<list>
+    <item>Jud. 2:15 <hi rend="italic">bkl 'šr yṣ'w yd yhwh hyth bm lr'h</hi></item>
+</list></p>
+<p>19. A lesser level of prominence can be accorded to an adverbial modifier by placing it after the subject, but before the participle or adjective which it modifies, as
+<list>
+    <item>2 Sam. 19:7 (<hi rend="italic">lw 'bšlwm hy</hi>) <hi rend="italic">wknw hywm mtym</hi></item>
+</list>
+Here <hi rend="italic">hywm</hi> is marked by its position as significant, but less so (relatively) than <hi rend="italic">hywm</hi> in 2 Kgs 2:3 (see section 18.2). Also
+<list>
+    <item>1 Sam. 23:3 <hi rend="italic">hnh 'nhnw ph byhwdh yr'ym</hi></item>
+</list>
+‘We are – even here in Judah – fearful.’
+<list>
+    <item>1 Kgs 22:13 <hi rend="italic">dbry hnby'ym ph 'hd ṭwb 'l hmlk</hi></item>
+</list>
+‘The words of the Prophets are – without exception – favourable to the king.’ Also 1 Sam. 15:22, 17:12, 19:9, 22:14, 24:3, 25:19, 2 Sam. 3:39, 11:11, 13:4, 19:7.</p>
+<p>20. Initial adverbial predicates are sometimes discontinuous. The purpose is the same: to arrange the separate phrases so as best to impress on the reader the relative significance of the information they convey, as is clear in
+<list>
+    <item>2 Sam. 14:9 <hi rend="italic">'ly ... h'wn w'l byt 'by</hi></item>
+</list>
+‘On me be the guilt, and on my house.’ The same is true of a nominal predicate which is not headed by a participle or adjective, as
+<list>
+    <item>2 Sam. 3:8 <hi rend="italic">hr'š klb 'nky 'šr lyhwdh</hi></item>
+</list>
+‘Is it a dog’s head I am, which belongs to Judah?’
+<list>
+    <item>2 Sam. 18:20 <hi rend="italic">l' 'yš bśrh 'th hywm hzh</hi></item>
+</list>
+‘It is not a news-bearer that you will be today.’ A part of such a predicate may precede the clause, as in the case where it is extraposed in
+<list>
+    <item>1 Kgs 1:20 <hi rend="italic">w'th ... 'yny kl yśr'l 'lyk</hi></item>
+</list>
+‘And you ... the eyes of all Israel are upon you’.<note n="10">Note that the use of an independent pronoun at the beginning of the</note></p>
+      <pb n="18"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>21. The subject of any type of verbless clause can be discontinuous, as can the subject of a verbal clause (see section 14). Commonly, the headword of the subject is placed first, and is followed by the predicate. Other parts of the subject, such as co-ordinate nouns, or attributive or other modifiers, follow the predicate. Examples are, where the parts of the subject are co-ordinate</p>
+
+<list>
+    <item>1 Kgs 20:1 <foreign xml:lang="he-Latn">wšlšym wšnym mlk ’tw wsws wrkb</foreign></item>
+    <item>2 Kgs 6:15 <foreign xml:lang="he-Latn">hyl swbb ’t h‛yr wsws wrkb</foreign></item>
+</list>
+
+<p>Where the subject is composed of a head and modifiers, as</p>
+
+<list>
+    <item>2 Sam. 15:3 <foreign xml:lang="he-Latn">wšm‛ ’yn lk m’t hmlk</foreign></item>
+    <item>2 Sam. 19:44 <foreign xml:lang="he-Latn">’šr ydwt ly bmlk</foreign></item>
+</list>
+
+<p>Word order of this sort presents the predicate in a position befitting its significance, which is greater than that of the subsidiary details of the subject. Such order may also be used simply to present the structure of the clause more clearly than would be the case where a short predicate follows a long and complex subject (see section 22.5).</p>
+
+<p>22. Where a subject requires greater prominence than is provided by its standard position at the beginning of the clause, it is extraposed, as it is in verbal clauses. The subject may require such prominence for a variety of reasons.
+<list>
+    <item>(1) An extraposed subject may be used to emphasize a statement, as
+        <list>
+            <item>1 Kgs 8:60, 18:39 <foreign xml:lang="he-Latn">yhwh hw’ h’lhym</foreign></item>
+        </list>
+        ‘The Lord is in fact the one who is God’ (cf. the longer equivalent in 1 Kgs 18:24, and the unemphasized form in the conditional in 1 Kgs 18:21).
+    </item>
+    <item>(2) An extraposed subject may highlight a contrast, as that between the presence of Samuel’s sons and his own anticipated absence,
+        <list>
+            <item>1 Sam. 12:2 <foreign xml:lang="he-Latn">(w’ny zqnty wšbty) wbny hnm ’tkm</foreign></item>
+        </list>
+    </item>
+    <item>(3) An extraposed subject may emphasize a change of topic, as</item>
+</list>
+</p>
+
+<note place="bottom">clause in 1 Kgs 1:20 does not show that that pronoun is acting as subject. Cf the similar use of an independent pronoun to emphasize the object of a preposition in 1 Sam. 25:24.</note>
+
+<fw type="pageNumber">18</fw>
+      <pb n="19"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>where the narrator reverts to the topic of David from that of his brothers in</p>
+<list>
+    <item>1 Sam. 17:14 <foreign xml:lang="he-Latn">(wśm šlšt bnyw ...) wdwd hw’ hqṭn</foreign></item>
+</list>
+<p>(4) A pronoun marking significant relationship to a preceding clause (see section 4) may be extraposed to highlight this function, as</p>
+<list>
+    <item>1 Kgs 12:2 <foreign xml:lang="he-Latn">(wyhy kšm‘ yrb‘m ...) whw’ ’wdnw bmṣrym</foreign></item>
+</list>
+<p>‘When Jeroboam heard ... he being still in Egypt.’<br/>
+(5) The use of an extraposed subject can also bring clarity to the structure of a long involved clause, as in</p>
+<list>
+    <item>1 Sam. 21:10 <foreign xml:lang="he-Latn">ḥrb glyt hplšty ’šr ... hnh hy’ lwṭh bśmlh ...</foreign></item>
+</list>
+<p>‘The sword of Goliath the Philistine whom you slew in the Vale of Elah, it is indeed rolled up in a cloth.’ The formulaic statement closing the description of a reign (as 1 Kgs 11:41 etc.) provides other examples.</p>
+<p>23. In the examples in section 22, the ‘resumptive’ pronoun which represents the extraposed subject, that is, the pronoun acting as subject of the basic clause, stands in the typical subject position, before the predicate. Where the author wishes to give some prominence to the predicate of the clause, it precedes this subject, as</p>
+<list>
+    <item>1 Kgs 20:3 <foreign xml:lang="he-Latn">kspk wzhbk ly hw’ wnšyk wbnyk hṭwbym ly hm</foreign></item>
+</list>
+<p>Here Ben Hadad stress not only the desired objects, but also his right to them. Contrast the response, a two-part clause with initial predicate, acknowledging the right. There is no need to give prominence to the items requested.</p>
+<list>
+    <item>2 Kgs 20:4 <foreign xml:lang="he-Latn">lk ’ny wkl ’šr ly</foreign></item>
+</list>
+<p>In</p>
+<list>
+    <item>2 Sam. 5:1 <foreign xml:lang="he-Latn">hnnw ‘ṣmk wbśrk ’nḥnw</foreign></item>
+</list>
+<p>emphasis is placed both on the speakers themselves, and on their relationship to the king, by the use of the extraposed subject, and by the predicate-subject order of the basic clause.</p>
+<p>24. These structures with discontinuous constituents are not particular clause types, but developments of the standard two-</p>
+<p>19</p>
+      <pb n="20"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>part clause which make use of the variations allowed by the language to present the constituents of the clause in the order best fitted to their relative significance. The common patterns have been described above, but the possibilities of variation do not end there.</p>
+
+<p>(1) In a few cases an extraposed subject is used to introduce a set of clauses, as</p>
+
+<list>
+    <item>1 Sam. 14:49 <hi rend="italic">wšm šty bntyw šm hbkyrh mrb wšm hqtnh mykl</hi></item>
+</list>
+
+<p>Also 1 Kgs 6:2.</p>
+
+<p>(2) Both constituents may be discontinuous, following the patterns already described, as</p>
+
+<list>
+    <item>1 Kgs 5:21 <hi rend="italic">brwk yhwh hywm ʾšr ntn ldwd bn ḥkm</hi></item>
+</list>
+
+<p>‘Blessed (be) God today, who has given to David a wise son.’</p>
+
+<list>
+    <item>2 Kgs 17:41 <hi rend="italic">gm bnyhm ... kʾšr ʿśw ʾbtm hm ʿśym ʿd hywm hzh</hi></item>
+</list>
+
+<p>‘Moreover their sons – as their fathers did they (are) doing up to this day.’</p>
+
+<list>
+    <item>2 Kgs 19:15 <hi rend="italic">ʾth hwʾ hʾlhym lbdk lkl mmlkwt hʾrṣ</hi></item>
+</list>
+
+<p>‘You are the one who is God – only you – of all kingdoms.’</p>
+
+<p>(3) The constituents of a clause may even be separated by another clause, as</p>
+
+<list>
+    <item>1 Sam. 17:23 <hi rend="italic">ʾyš hbnym ʿwlh glyt hplšty šmw mgt mmʿrkwt plštym</hi></item>
+</list>
+
+<p>‘A champion came up [Goliath the Philistine was his name, from Gath] from the Philistine ranks.’ Another example occurs in 1 Kgs 22:8: ‘There is still one man from whom one can enquire of God [but I hate him, because he does not prophesy good fortune, but bad], Micaiah ben Imlah.’</p>
+
+<p>It is, of course, possible that such cases result from dislocation of the text, but considering the informal style constantly used in the narratives of these books, and the literary effect conveyed by the discontinuity, it seems unlikely. The narrator cannot wait to impress on his readers that he is introducing the famous Goliath (cf. section 13.1). The king cannot prevent his hatred of the prophet from rising to the surface. These are simply unusual examples of the interruption of syntactic structures to present information in the position appropriate to its significance in the context, that is, of discontinuous constituents. Subordinate clauses are sometimes imbedded in verbal</p>
+
+<fw type="footer">20</fw>
+      <pb n="21"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>clauses in a similar way, as in 2 Sam. 20:21, quoted in section 13.1.</p>
+<head>Negatives and Affirmatives: ’yn, yš, and l’</head>
+<p>25. Negatives and affirmatives have been ignored in the above discussion. They have no effect on the order of the constituents in these clauses, but they do throw some light on the way it is conditioned.
+<lb/>(1) <emph>’yn</emph> and <emph>yš</emph> are common only in clauses with adverbial predicate. Where the predicate is nominal, <emph>’yn</emph> and <emph>yš</emph> occur only with an initial subject, usually a pronoun. Where the clause has an adverbial predicate, <emph>’yn</emph> and <emph>yš</emph> usually stand before the first part of the clause, but may stand before the second.<note n="11">Both <emph>’yn</emph> and <emph>yš</emph> are common in one-part clauses, and both appear occasionally following the item they modify. They occur in a clause with a nominal predicate in Jud. 3:25, 6:36, 7:14, 12:3, 1 Sam. 11:7, 19:11, 2 Sam. 19:8, 1 Kgs 21:5, 2 Kgs 12:8, 17:26, 34, 34.</note> In either position they occur before the predicate somewhat more commonly than before the subject. The placing of <emph>’yn</emph> and <emph>yš</emph> is determined by semantic considerations, as is the order of the parts of the clause. The negative or affirmative is prefixed to the constituent to which it specifically applies. Contrast, for instance</p>
+<list>
+    <item>Jud. 13:9 <emph>wmnwḥ ’yšw ’yn ‘mw</emph></item>
+</list>
+<p>‘Manoah her husband was not with her. (He was elsewhere.)’ with</p>
+<list>
+    <item>1 Kgs 3:18 <emph>’yn zr ’tnw bbyt</emph></item>
+</list>
+<p>‘No stranger was with us in the house; (no one but us need be considered).’</p>
+<list>
+    <item>Jud. 11:34 <emph>’yn lw mmnw bn ’w bt</emph></item>
+</list>
+<p>‘Not for him a child except her(!). (He did not have other children)’ with</p>
+<list>
+    <item>1 Sam. 1:2 <emph>wlḥnh ’yn yldym</emph></item>
+</list>
+<p>‘For Hanna, no children. (Hanna had no children at all.)’</p>
+<list>
+    <item>Jud. 19:19 <emph>wgm tbn gm mspw’ yš lḥmwrynw</emph></item>
+</list>
+<p>‘Moreover fodder is available for our donkeys’ with</p>
+      <pb n="22"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+
+<p>1 Sam. 17:46 <hi rend="italic">yš ’lhym lyśr’l</hi></p>
+<p>‘There is indeed a God for Israel.’</p>
+<p>(2) <hi rend="italic">L’</hi> may be used with any type of clause. Where the clause is verbless, <hi rend="italic">l’</hi> almost always begins it, and can generally be reasonably taken as negating the clause as a whole, and so as distinct from <hi rend="italic">’yn</hi>.<note n="12">As noted in Schneider, <hi rend="italic">Grammatik</hi>, section 51.2.4.1, and demonstrated in the pair of negative clauses in 2 Sam. 20:1. So also <hi rend="italic">hl’</hi> introducing a question is not necessarily followed by the constituent which is the concern of the question, as in <hi rend="italic">h’yn</hi> (see section 25.1), as in 1 Sam. 20:37 <hi rend="italic">hlw’ hhsy mmk whl’h</hi>, where the concern of the question is the position of the arrow (see section 6.2). This example shows that <hi rend="italic">l’</hi> does not always stand before the predicate (as do others, as 2 Sam. 20:1, 1 Kgs 22:17), although it most commonly does.</note> However, where <hi rend="italic">l’</hi> precedes an adverbial constituent, it appears to relate directly to that constituent, as would <hi rend="italic">’yn</hi>. The examples are</p>
+
+<list>
+<item>Jud. 19:12 <hi rend="italic">l’ mbny yśr’l hnh</hi></item>
+</list>
+
+<p>and similarly 2 Sam. 21:2, 1 Kgs 8:41, 9:20.</p>
+
+<list>
+<item>2 Sam. 20:21 <hi rend="italic">l’ kn hdbr</hi></item>
+</list>
+
+<p>and similarly 2 Sam. 23:5.</p>
+
+<list>
+<item>1 Kgs 19:11 <hi rend="italic">l’ brwḥ yhwh</hi></item>
+</list>
+
+<p>and similarly 1 Kgs 19:11, 12.</p>
+<p>The same occasionally occurs with nominal predicates, as in there rare case of <hi rend="italic">l’</hi> preceding the second part of the clause in</p>
+
+<list>
+<item>2 Sam. 3:34 <hi rend="italic">ydk l’ ’srwt</hi></item>
+</list>
+
+<p>Consequently, in these cases at least, <hi rend="italic">l’</hi> appears to be a free variant of <hi rend="italic">’yn</hi>.</p>
+
+<p>26. The placing of <hi rend="italic">’yn</hi> and <hi rend="italic">yš</hi> provides a further demonstration of the importance of semantic factors in determining word order in verbless clauses. The dominant factor determining the order of the constituent of these clauses – and even the components of constituents – is the significance in the context of the information which they present. The examples above have been closen to show an easily appreciable difference in the significance of a constituent when it stands first from when it does not, so as to make this point as clearly as possible.</p>
+
+<p rend="center">22</p>
+      <pb/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>Variation in word order can, however, be used to convey quite delicate nuances, as is shown in the following contrasting pairs.</p>
+<list>
+<item>(1) 1 Sam. 20:5 <foreign xml:lang="he-Latn">ḥdš mḥr (w’nky yšb ’šb ’m hmlk)</foreign></item>
+</list>
+<p>‘It is New Moon tomorrow – and (because it is New Moon) I must sit with the king.’ The significant fact here is the New Moon. Because of this, David’s presence is required at the meal.</p>
+<p rend="indent">1 Sam. 20:18 <foreign xml:lang="he-Latn">mḥr ḥdš (wnpqdt ky ypqd mwšbk)</foreign></p>
+<p>‘Tomorrow is New Moon – and (tomorrow) you will be missed (because you must sit with the King),’ The significant fact here is the time element. The crisis will occur tomorrow.</p>
+<list>
+<item>(2) 2 Kgs 9:36 <foreign xml:lang="he-Latn">dbr yhwh hw’</foreign></item>
+</list>
+<p>This clause emphasizes the fact that the event was foretold. It stands in a quoted speech by Jehu, within which there is no antecedent for the pronoun (although the fate of Jezebel, to which it refers, has just been described by the narrator).</p>
+<p rend="indent">2 Kgs 15:12 <foreign xml:lang="he-Latn">hw’ dbr yhwh</foreign></p>
+<p>This clause is a narrator’s comment. The pronoun is placed first to highlight the relationship to the preceding context (see section 12) in which the death of Zechariah, to which the pronoun refers, has just been described.</p>
+<list>
+<item>(3) 2 Sam. 17:10 <foreign xml:lang="he-Latn">gbwr ’byk wbny ḥyl ’šr ’tw</foreign></item>
+</list>
+<p>The predicate-subject order lays stress on important attributes of David and his men which must be taken into account in the plans being discussed.</p>
+<p rend="indent">1 Kgs 11:28 <foreign xml:lang="he-Latn">wh’yš yrb‘m gbwr ḥyl</foreign></p>
+<p>The subject-predicate order (the standard order), making an ordinary statement of fact, presents an attribute which led to Jeroboam’s employment.</p>
+<list>
+<item>(4) 1 Sam. 29:6 <foreign xml:lang="he-Latn">wtwb b‘yny š’tk wbw’k ’ty bmḥnh</foreign></item>
+<item rend="indent">1 Sam. 29:9 <foreign xml:lang="he-Latn">ṭwb ’th b‘yny kml’k ’lhym</foreign></item>
+</list>
+<p>In 1 Sam. 29:6, Achish is contrasting his opinion of David with that of the other Philistine leaders, so that the first person pronoun in <foreign xml:lang="he-Latn">b‘yny</foreign> is given prominence (see section 17). In verse 9, Achish is still laudatory, but confirms his decision to accept</p>
+<fw type="footer" place="bottom">23</fw>
+      <pb n="24"/>
+<head>WORD ORDER IN BIBLICAL HEBREW</head>
+<p>the view of the other leaders, so there is no need to highlight the first person pronoun.</p>
+<list>
+    <item>(5) Jud. 17:6 (18:1, 21:25) <hi rend="italic">bymym hhm ’yn mlk byśr’l</hi></item>
+    <item>Jud. 19:1 <hi rend="italic">wyhy bymym hhm wmlk ’yn byśr’l</hi></item>
+</list>
+<p>Where the negative is applied to the subject, stressing the lack of a king, the clause precedes the statement that everyone did what he wanted (Jud. 17:6, 21:25), and the statment that the tribe of Dan had to look for a new territory (Jud. 18:1), problems which resulted from the absence of a central authority. Where the negative is applied to the predicate, the clause is not specifically concerned with central authority, but indicates a general state of affairs. It is inserted in Jud. 19:1 as part of the context used to introduce the family problems of the Levite. The similar clause in 1 Kgs 22:48 appears to be an isolated note on the general political situation.</p>
+<p>27. It seems quite clear, then, that the main factor determining the order in which the constituents of a verbless clause are presented was the significance — for the narrator — of these constituents, or of their components, in the particular context. The exact interpretation of this significance is a matter of subjective speculation, but a detailed analysis and comparison of the clauses leaves no doubt that this significance was the main factor determining word order. This is the factor called by Geoffrey Leech ‘Thematization: the organizing of the elements of a message so that weight and emphasis fall in the appropriate place.’<note n="13">See Geoffrey Leech, <hi rend="italic">Semantics²</hi> (Penguin 1981), 195.</note> The same factor determines the order of the constituents of verbal clauses, resulting in the many features of structure common to both verbal and verbless clauses.</p>
+      <pb/>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>'obed (Deut 26:5) and the Function of the Participle in M.T.</title>
+      <author>E. J. Revell</author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Sefarad</publisher>
+      <date when="1988">1988</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">'obed (Deut 26:5) and the Function of the Participle in M.T.</title>
+          <author>E. J. Revell</author>
+        </analytic>
+        <monogr>
+          <title level="j">Sefarad</title>
+          <imprint>
+            <biblScope unit="volume">XLVIII</biblScope>
+            <date when="1988">1988</date>
+            <biblScope unit="page" from="197" to="205">197-205</biblScope>
+          </imprint>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+    <change>
+      <desc>Initial TEI header creation based on file 07a.34.pdf</desc>
+    </change>
+  </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p rendition="align-right">R</p>
+<p rendition="align-center">CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS<lb/>INSTITUTO DE FILOLOGÍA</p>
+<p rendition="align-right">Bib 34</p>
+<head rendition="align-center" style="font-size: xx-large; color: red;">S E F A R A D</head>
+<p rendition="align-center" style="font-style: italic;">REVISTA DE ESTUDIOS HEBRAICOS, SEFARDÍES<lb/>Y DE ORIENTE PRÓXIMO</p>
+<p rendition="align-left" style="margin-top: 10em;">AÑO XLVIII <space extent="10" unit="char"/> MADRID 1988 <space extent="10" unit="char"/> FASC. 1</p>
+      <pb/>
+<p rendition="center">CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS<lb/>INSTITUTO DE FILOLOGÍA</p>
+<head rendition="center" type="title">S E F A R A D</head>
+<p rendition="center"><lb/>REVISTA DE ESTUDIOS HEBRAICOS, SEFARDÍES<lb/>Y DE ORIENTE PRÓXIMO</p>
+<p rendition="center"><lb/>AÑO XLVIII<space extent="20" unit="chars"/>MADRID 1988<space extent="20" unit="chars"/>FASC. 1</p>
+<p rendition="center" style="margin-top: 50px;"><lb/>S U M A R I O</p>
+<list>
+    <head rendition="left">ESTUDIOS:</head>
+    <label rendition="right">Páginas</label>
+    <item>
+        <lb/><persName>BARÁIBAR LÓPEZ, Juan</persName>: <title>Significado y originalidad de la Historia de Egipto de Manetón</title>
+        <ptr target="#p3"/>3-17
+    </item>
+    <item>
+        <lb/><persName>CASANOVAS, J.</persName>: <title>Cinco inscripciones hebraicas inéditas de Castellón de Ampurias</title>
+        <ptr target="#p19"/>19-28
+    </item>
+    <item>
+        <lb/><persName>LADERO QUESADA, Manuel F.</persName>: <title>Apuntes para la historia de los judíos y los conversos de Zamora en la Edad Media (siglos XIII-XV)</title>
+        <ptr target="#p29"/>29-57
+    </item>
+    <item>
+        <lb/><persName>MCGAHA, Michael</persName>: <title>Antonio Enríquez Gómez and the «Romance al divín mártir, Judá Creyente»</title>
+        <ptr target="#p59"/>59-92
+    </item>
+    <item>
+        <lb/><persName>MARÍN PADILLA, Encarnación</persName>: <title>Inventario de los bienes muebles del judío bilbilitano Salamon Ezi en 1492</title>
+        <ptr target="#p93"/>93-115
+    </item>
+    <item>
+        <lb/><persName>MARTZ, Linda</persName>: <title>Converso Families in Fifteenth— and Sixteenth-Century Toledo: The Significance of Lineage</title>
+        <ptr target="#p117"/>117-196
+    </item>
+    <item>
+        <lb/><persName>REVELL, E. J.</persName>: <title>'Obed (Deut 26:5) and the Function of the Participle in MT</title>
+        <ptr target="#p197"/>197-205
+    </item>
+</list>
+      <pb/>
+<p rendition="right">Páginas</p>
+
+<head>RESEÑA DE LIBROS:</head>
+
+<list>
+  <item>Fernández Marcos, Natalio - José Ramón Busto Saiz: <title>Quaestiones in Reges et Paralipomena. Editio critica</title> [M.V.S.] Fernández Marcos, N., J. Trebolle Barrera y J. Fernández Vallina: <title>Simposio bíblico español</title>. (Salamanca, 1982) [M.J. de A.] Saulnier, Christiane, avec la collaboration de Charles Perrot: <title>Histoire d'Israël</title> [F.S.] Stone, Michael E.: <title>Jewish Writings of the Second Temple Period</title> [J.R.B.S.] <space/> 207-215</item>
+</list>
+
+<head>ELENCO DE ARTÍCULOS DE REVISTAS:</head>
+
+<list>
+  <item>*<title>Aegyptus</title> LXI (1981) - LXIV (1984) [J.B.] *<title>Bibbia e Oriente</title> XXII (1980) - XXV (1983) [C.M.A.] <title>Biblical Archaeologist</title> 45 (1982) - 49 (1986) [F.M.] *<title>Bulletin Hispanique</title> LXXXII (1980) - LXXXVIII (1986) [P. D-M.] <space/> 217-232</item>
+  <item>Publicaciones recibidas en la Redacción <space/> 233-234</item>
+</list>
+
+<p rendition="center">
+  Depósito Legal: M. 545.—1958<br/>
+  ISSN: 0037-0894<br/>
+  GRÁFICAS URPE, S. A.<br/>
+  Rufino González, 14 - 28037 MADRID
+</p>
+
+<pb/>
+
+<head>’OBED (DEUT 26:5) AND THE FUNCTION OF THE PARTICIPLE IN MT</head>
+
+<p rendition="right">
+  E. J. REVELL<br/>
+  University of Toronto
+</p>
+
+<p>
+  <label>1.</label> The identification of <mention>’obed</mention> in Deut 26:5 as a noun (a participle) attributive to the preceding <mention>’ărammî</mention> has become so widely accepted that the typical commentator does not even mention the fact that the ancient versions identified the word as a verb <ref target="#n1">¹</ref>. This ancient identification is the more striking as it does not procede from a common understanding of the passage. The preceding <mention>’ărammî</mention> is subject of the verb for the Targums and Jerome, object for the LXX. It is reasonable to suggest, then, that the identification of <mention>’obed</mention> as a verb was not based on its context in this passage, but represented the standard grammatical analysis of the period. This paper attempts to show that this was so <ref target="#n2">²</ref>.
+</p>
+
+<p>
+  <label>2.</label> It is well known that, in the Hebrew of the Mishna, the participle was often treated as the present tense of the verb. A. Gordon has demonstrated that a progressive development towards this situation can be seen in biblical Hebrew <ref target="#n3">³</ref>. By the end of the biblical period, the development was well advanced. The results of this development are visible not only in the syntactic and semantic factors noted by Gordon, but also, in some cases, in morphology. Three different forms of feminine singular participle are marked either as nouns or as verbs by their vocalization.
+</p>
+
+<note xml:id="n1">
+  <label>¹</label> The view that <mention>’obed</mention> is a verb was ably defended by J. Z. H. MEKLENBURG in <title>Ha-Ketav weha-Qabbalah</title>, Berlin 1880 (reprint Jerusalem 1969), vol. 2, p. 73. He classifies <mention>’obed</mention> as a <mention>po‘el</mention> perfect, pointing out that, with the conative value characteristic of the cognate III form of Arabic, the translation should be «An Aramaean tried to destroy my father» —exactly what is needed here. The earliest proponent known to me of the view now commonly accepted is Abraham ibn Ezra, who argues, in his commentary <mention>ad loc.</mention>, that, if the word <mention>’obed</mention> were really an active verb (as translated by Onqelos), the <mention>pi‘el</mention> or <mention>hif‘il</mention> stem would have been used.
+</note>
+
+<note xml:id="n2">
+  <label>²</label> An earlier form of this paper was read in the joint AOS-NACAL session of the American Oriental Society Conference in New Haven in 1986.
+</note>
+
+<note xml:id="n3">
+  <label>³</label> A. GORDON, «The Development of the Participle in Biblical, Mishnaic, and Modern Hebrew», <title>Afroasiatic Linguistics</title> 8/3 (1982), #2.2.
+</note>
+      <pb n="198"/>
+<p>
+    198 <space dim="horizontal"/> E. J. REVELL <space dim="horizontal"/> SEF XLVIII 1 (1988)
+</p>
+<p>
+    I. <head>Forms from Tri-Consonantal Roots with Vocalic Gender-Number Marker.</head>
+</p>
+<p>
+    3. <hi rend="italic">Qal</hi> participles from triconsonantal roots marked as feminine singular by the «vocalic» <hi rend="italic">qameṣ-he</hi> affix always show <hi rend="italic">ṣere</hi> in the penultimate syllable where the form stands at the end of a clause <note n="4">4 Isa 21:3, 29:6,8, 30:30, 33:14, 34:9, Jer 6:24, 22:23, 30:6, 49:24, 50:43, Mic 4:6, 9, 10, Zeph 3:19, Ps 48:7, 107:9, 118:16 (?), Lam 1:11.</note>, as in <hi rend="italic">mî yāgûr lānû ‘ēš ‘ôkēlā mî yāgûr...</hi> (Isa 33:14). Within a clause, two distinct forms occur, which can be regarded as verbal and nominal. The form showing <hi rend="italic">ṣere</hi> occurs where a noun is expected <note n="5">5 After a construct noun, Hos 13:13; after a preposition, Isa 13:8, 42:14, Jer 31:11, Mic 4:7; attributive to a following noun, Jer 3:8, to a preceding noun modifying a following verb, Hos 4:16; object of a verb Song 1:6, subject of a verb Mic 5:2. The same points about the voweling of these forms have been made, with somewhat different emphases, by W. R. GARR in his article «Pretonic Vowels in H. brew» (<hi rend="italic">Vetus Testamentum</hi> XXXVII, 1987, 129-153) pp. 144-145.</note>, as after a construct noun or a preposition, or as object of a preceding verb, as in <hi rend="italic">śāmūnî nōṭērā ‘et hakkĕrāmîm</hi> (Song 1:6). The other vowelling, with <hi rend="italic">shewa</hi> before the last root letter, occurs elsewhere where the form is followed by a modifier <note n="6">6 Jud 4:4, Isa 30: 3, 47:8, Jer 12:12, 49:4, Joel 2:5, Mic 7:10, Zeph 2:15, Lam 1:16, also, presumably, <hi rend="italic">šeyyōṣā’</hi> in Qoh 10:5 (derived from <hi rend="italic">šeyyōs’ā’</hi>).</note>. The function of the participle may be predicative, as in <hi rend="italic">hî’ šōpĕṭā ‘et yiśrā’ēl</hi> (Judg 4:4); or it may be attributive, including cases where the article is prefixed, but the word does not modify a noun with the definite article which immediately precedes it <note n="7">7 Also Mic 7:10, Zeph 2:15, and also Jer 49:4, where the preceding word is also a participle with the definite article. The two participles are parallel modifiers of the preceding word; the one does not modify the other. In the only cases in which a form of this sort is attributive to a preceding noun with the definite article, the penultimate syllable has <hi rend="italic">ṣere</hi> but the form (which is not generally considered a participle) stands in pausal position (Jer 31:21, 49:4).</note>, as in <hi rend="italic">śim‘î zō’t ‘ădînā hayyōšebet lābeṭaḥ hā’ōmĕrā bilĕbābāh...</hi> (Isa 47:8). <hi rend="italic">Shewa</hi> also occurs in <hi rend="italic">kî yhwh ‘ělōhêkā ‘ēš ‘ōkēlā hû’</hi> (Deut 4:24), where the word has no modifier, but it ends the predicate of a verbless clause, and is immediately followed by the subject. There are 27 cases of the form with penultimate <hi rend="italic">ṣere</hi> consistent with this description, and 11 of the form with penultimate <hi rend="italic">shewa</hi>. <hi rend="italic">Shewa</hi> occurs exceptionally in the penultimate syllable of a word at the end of a clause in Deut 9:3, and (with <hi rend="italic">atnaḥ</hi>) Isa 57:3 <note n="8">8 Penultimate <hi rend="italic">ṣere</hi> appears before a modifier in <hi rend="italic">tannûr bō‘ērā</hi> (Hos 7:4). However the <hi rend="italic">ṣere</hi> is stressed, so the form is anomalous, and does not constitute an exception to the above description. The form may well have been perceived as m.s., with anomalous <hi rend="italic">qameṣ-he</hi> affix (see P. JOÜON, <hi rend="italic">Grammaire de l’hébreu biblique</hi>, #93k) in conformity with the masculine gender of <hi rend="italic">tannûr</hi> elsewhere (Lev 26:26, Sir 48:1, Mishna <hi rend="italic">kelîm</hi> 3:6 etc.).</note>.
+</p>
+<pb n="199"/>
+<p>
+    SEF XLVIII 1 (1988) <space dim="horizontal"/> THE FUNCTION OF THE PARTICIPLE IN MT <space dim="horizontal"/> 199
+</p>
+<p>
+    4. Where the forms stood at the end of a clause, the terminal intonation contour preserved the penultimate vowel <note n="9">9 The originally short vowel of an unstressed open syllable followed by the main word stress is also preserved by a terminal contour in verb forms with «paragogic» <hi rend="italic">nun</hi>, as <hi rend="italic">tišmĕ‘ûn</hi> (Deut 1:17, at the end of a clause) where it would otherwise be lost, as <hi rend="italic">tišmĕ‘ûn</hi> (Deut 8:20, Zech 6:15, within a clause, all three forms have <hi rend="italic">zaqef</hi>).</note>. Within the clause, the preservation or reduction of this vowel is conditioned semantically. Where a <hi rend="italic">qal</hi> participle marked as f.s by <hi rend="italic">qameṣ-he</hi> occurs in a context which clearly requires a noun, the vowel of the penultimate syllable is maintained as <hi rend="italic">ṣere</hi>. In other situations, the form was perceived as a verb, so the penultimate vowel is reduced to <hi rend="italic">shewa</hi>, following the pattern typical of similar verb forms when not in terminal position <note n="10">10 It must be stressed that the basis of this conditioning is semantic, not syntactic. A verb which ends its clause may show medial vowelling where that clause is closely related to the following, and a verb which does not end its clause may nevertheless show terminal vowelling if it stands at a semantic division. See E. J. REVELL, «The Conditioning of Stress Position in <hi rend="italic">Waw</hi> Consecutive Perfect Forms» (<hi rend="italic">Hebrew Annual Review</hi> 9, 1985, 277-300) #9. This combination of phonological and semantic conditioning is very similar to that of 1c.s and 2m.s perfect forms with <hi rend="italic">waw</hi> consecutive. These are distinguished by final stress except in pause, and in some other situations in which the shift to final stress was also blocked by phonological factors (<hi rend="italic">ibid.</hi>, #14--15).</note>. This is, then, a further example of a common phenomenon. In many forms «medial» vowelling is typically shown by construct nouns, and by verbs which do not end their clauses. Terminal vowelling is shown by absolute nouns, and by verbs which stand at the end of their clause.
+</p>
+<p>
+    5. In the <hi rend="italic">nif‘al</hi> stem, an f.s participle form with a vocalic affix which was marked as a verb by the reduction of the penultimate vowel would be indistinguishable from a 3f.s perfect form. The only case of a <hi rend="italic">nif‘al</hi> form marked as f.s by <hi rend="italic">qameṣ-he</hi>, and as a participle by penultimate <hi rend="italic">qameṣ</hi>, occurring in a «verbal» situation is <hi rend="italic">mî zō’t hannišqāpā kĕmô šāḥar yāpā... bārā... ‘ăyummā...</hi> (Song 6:10), where the following nouns in parallel function possibly caused the participle to be perceived as a noun. On the other hand, there is no strong reason to regard any form vowelled as a 3f.s perfect <hi rend="italic">nif‘al</hi> as having originated as a participle, so the question of whether the verbal funtion of f.s participle forms was marked in the <hi rend="italic">nif‘al</hi> by reduction of the penultimate vowel, as in the <hi rend="italic">qal</hi>, must remain open. All participles from other stems, and all plural forms, have morphological characteristics which are specifically nominal. They show no trace of semantically conditioned variation of the sort described.
+</p>
+      <pb n="200"/>
+<fw type="header">200 E. J. REVELL SEF XLVIII 1 (1988)</fw>
+<head>II. Qal Forms from Hollow Roots</head>
+<p>
+6. In the <hi rend="italic">qal</hi> stem of hollow root verbs, the f.s participle is commonly distinguished from the 3f.s perfect form by stress position: final for the participle, penultimate for the verb. There are seven cases in which the definite article is prefixed to a form of this sort which has penultimate stress, and so is identified as a verb. Each of the seven f.s <hi rend="italic">qal</hi> forms with prefixed article and penultimate stress refers to the past. Each is syntactically attributive to a preceding noun, but does not follow immediately after a noun with the definite article, as in <hi rend="italic">kol hannepes̃ lābāt yaʿăqōb habbāʾā miṣraymā</hi> (Gen 46:27). Where a form of this sort with the definite article is attributive to an immediately preceding noun with the definite article, the form shows final stress, as in <hi rend="italic">kol hannepes̃ habbāʾā leyaʿăqōb miṣraymā</hi> (Gen 46:26). Final stress also occurs in other situations in which the form clearly has a nominal function, as in <hi rend="italic">hammētā tāmût</hi> (Zech 11:9), where the form is subject of a following verb. It seems certain that one of these seven forms with the definite article and penultimate stress originated as a participle. In <hi rend="italic">hălōʾ ʾatt hīʾ hammaḥărebet yām... haśśāmā maʿămaqqê yām derek...</hi> (Isa 51:10), <hi rend="italic">haśśāmā</hi> is syntactically parallel to another participle. Together, the seven forms would make up one tenth of the total of 3f.s perfect <hi rend="italic">qal</hi> forms from hollow roots. The article is prefixed to an insignificant proportion of other verb forms: eight certain cases, plus a few more which are questionable <note n="11">These forms, and the seven f.s <hi rend="italic">qal</hi> forms from hollow roots in question, are listed in JOÜON, <hi rend="italic">Grammaire</hi>, #145d, e.</note>. It appears very probable that in the seven cases where stress is penultimate, the form originated as a participle (as suggested by Joüon), but came to be perceived as a verb because it does not hold a position typical for an attributive nominal. As a consequence, it received penultimate stress.
+</p>
+<p>
+7. Here too, then, it appears that the phonological development of a form was conditioned in accordance with its semantic classification. Where an f.s participle of this sort (which was identical to the 3f.s perfect verb form except for its stress position) was clearly marked as a noun by its relationship to a verb, or because position immediately after another noun with the definite article showed it to be attributive, it was perceived as a noun, and so received final stress.
+</p>
+<pb n="201"/>
+<fw type="header">SEF XLVIII 1 (1988) THE FUNCTION OF THE PARTICIPLE IN MT 201</fw>
+<p>
+The time reference of these cases with final stress is past in some cases (Gen 46:26, 1 Chr 27:1), present, future, or indeterminate in others (Ezek 17:22, Zech 11:9, Ruth 4:11). Where the form was not clearly identified as a noun, and was used in a past context, it was perceived as a verb, and so received penultimate stress. A prefixed article was treated as a relative, consistent with usage which seems to have developed late in the biblical period, and to have been short-lived <note n="12">JOÜON (<hi rend="italic">Grammaire</hi>, #145e) argues that the use of the article as a relative is late in terms of biblical Hebrew. As far as I know, this usage is not found at Qumran or in the Mishna, so it appears to have been short-lived.</note>.
+</p>
+<p>
+8. This question cannot reasonably be treated in isolation from the fact that verb forms with vocalic affix from hollow roots quite often show final stress, including 3f.s perfect <hi rend="italic">qal</hi> forms, as in <hi rend="italic">bāzā lākā lāʿăgā lākā betûlat bat ṣiyyōn</hi> (2 Kgs 19:21 = Isa 37:22). It is possible to argue that final stress in such forms results from unusually close syntactic or semantic relationship to what follows —as here, where the two verbs with their prepositional modifiers form a compound predicate followed by a noun phrase acting as subject of both verbs <note n="13">On final stress in these verb forms, see E. J. REVELL, «Stress Position in Hebrew Verb Forms with Vocalic Affix», <hi rend="italic">Journal of Semitic Studies</hi> 32 (1987), 249-271.</note>. That is, final stress results from the fact that the close relationship is reflected by the intonation contours, just as does the use of <hi rend="italic">shewa</hi> in the penultimate syllable of the participles discussed above (#3-4). If stress position is phonologically determined in this way, it cannot be regarded as phonemic on the segmental level, a position which appears to conflict with the view expressed in #6, that the f.s participles from the <hi rend="italic">qal</hi> of hollow roots which show penultimate stress do so because they were perceived as verbs. Probably the conflict is to be explained by the fact that two different stages of development are represented. It is generally agreed that stress position in Hebrew was originally determined by word structure. Consequently it was fixed, not phonemic. As the language developed, sound changes gave rise to a few pairs of forms distinguished from each other only by stress position. Consequently stress carried a small phonemic load; as a part of its function, it distinguished the f.s participle from the 3f.s perfect from the <hi rend="italic">qal</hi> of hollow roots. At this stage, the adjustment of stress pattern and syllable structure under the influence of prosodic features occurred
+</p>
+      <pb n="202"/>
+<p>
+    <num>202</num>
+    <seg rend="right">E. J. REVELL</seg>
+    <seg rend="right">SEF XLVIII 1 (1988)</seg>
+</p>
+
+<p>
+within single words. In larger structures, it was restricted to construct
+phrases. At a later stage, such adjustment took place in other
+groups of closely related words, such as a verb with following
+modifiers. This new development may well be directly attributable
+to the influence of the biblical reading tradition. As a result of it,
+stress position became variable in a number of the forms in which it
+had earlier been fixed. At this stage (that represented by the standard
+Tiberian tradition) forms that originated as f.s participles and 3f.s
+perfect verb forms from the <hi rend="italic">qal</hi> of hollow roots are no longer
+distinguished by stress position <ptr target="#n14"/>. Either form may have either
+stress position. However the participles of this form which have
+penultimate stress acquired it because they were perceived as verbs
+during the preceding stage, when stress position was phonemic.
+</p>
+
+<div n="III">
+    <head>III. <hi rend="italic">Forms from Tri-Consonantal Roots with Consonantal Gender-Number Marker.</hi></head>
+
+    <p>
+    <num>9.</num> In a small number of participles which are marked as feminine
+    singular by the «consonantal» affix, the consonantal cluster resulting
+    from the loss of the case-ending vowel was retained, so that the f.s
+    participle became a homonym of a 2f.s <hi rend="italic">po‘el</hi> perfect form (*qātiltu -
+    - *qotilt -- <hi rend="italic">qotalt</hi>). This occurs where the context will admit a 2f.s
+    perfect verb form, as in <hi rend="italic">hinnāk horɔ wɛyoladt ben</hi> (Gen 16:11 = Judg
+    13:5,7), where the form is treated as a perfect with <hi rend="italic">waw</hi> consecutive;
+    also Jer 22:23 where two participles of this sort are followed by
+    what is probably a perfect verb form (cf. Jerome); and Jer 51:13,
+    where the context is also past, as is shown by the verbs in 51:12.
+    The ordinary segolate ending occurs where a second person verb
+    form is not admissible, as <hi rend="italic">hinne hɔ‘almɔ horɔ wɛyoledet ben</hi> (Isa
+    7:14), also Ezek 16:45 where the participle modifies the preceding
+    noun «mother», not the 2f.s pronoun; and Ezek 27:3 where the
+    participles modify «Tyre». The segolate ending also occurs where a
+    perfect verb is not admissible, as in <hi rend="italic">lammô‘ēd hazzeh kɔ‘et ḥayyɔ ’att
+    ḥobeqet ben</hi> (2 Kgs 4:16), where the time reference is future, and the
+    participle could not be treated as a «consecutive» verb form. The
+    segolate ending is also used where the form is preceded by an 
+    </p>
+</div>
+
+<note xml:id="n14">
+    <num>14</num> On the phonemic status of stress position in MT, see E. J. REVELL, <hi rend="italic">Nesiga</hi> (Textos y
+    Estudios «Cardenal Cisneros» 39, Madrid 1987) # 9.20.
+</note>
+
+<pb n="203"/>
+<p>
+    <seg rend="left">SEF XLVIII 1 (1988)</seg>
+    <seg rend="center">THE FUNCTION OF THE PARTICIPLE IN MT</seg>
+    <num rend="right">203</num>
+</p>
+
+<p>
+imperative in Jer 10:17, Lam 4:21, or where it is followed by one in
+1 Kgs 2:22, and elsewhere in quoted speech in a present or future
+context in 2 Kgs 4:23, also Ezek 36:13 (where the structure would,
+in any case, be abnormal for a verbal clause). Thus it can be
+concluded that the consonantal cluster was retained because the
+word was perceived as a 2f.s perfect verb form. Where this identifi-
+cation is not admissible in the context, the expected phonological
+development occurred, producing a typical nominal form with a
+segolate ending.
+</p>
+
+<p>
+<num>10.</num> This phenomenon overlaps with that of the terminal <hi rend="italic">yod</hi> «<hi rend="italic">com-
+paginis</hi>», but is independent of it <ptr target="#n15"/>. The vowel patterns discussed
+here are a feature of the reading tradition. The terminal <hi rend="italic">yod</hi> is a
+feature of the written text, and is commonly ignored in the reading
+tradition. Forms spelled with terminal <hi rend="italic">yod</hi> may be vowelled as
+participles (as in 2 Kgs 4:23), or as verbs (as in Jer 22:23). In the
+latter case, they correspond to the fairly common use of a vowelless
+terminal <hi rend="italic">yod</hi> in other forms of the 2f.s pronominal morph <ptr target="#n16"/>. In one
+case (in Hos 10:11) terminal <hi rend="italic">yod</hi> on an f.s <hi rend="italic">qal</hi> participle form is
+treated as a vowel letter. Since the reading tradition treated this
+form as different from the others considered here, it should not be
+included with them in this discussion.
+</p>
+
+<p>
+<num>11.</num> It appears, then, that the forms discussed represent three seman-
+tic categories: noun, verb (past), verb (other). Where possible,
+members of one category were formally distinguished from members
+of the other two, thus:
+</p>
+
+<list>
+    <item>
+        <seg rend="tab">Noun</seg>
+        <seg rend="tab">Verb (past)</seg>
+        <seg rend="tab">Verb (other)</seg>
+    </item>
+    <item>
+        <seg rend="tab">(I)</seg>
+        <seg rend="tab"><hi rend="italic">’okelɔ</hi></seg>
+        <seg rend="tab"><hi rend="italic">’okəlɔ</hi></seg>
+        <seg rend="tab"><hi rend="italic">’okəlɔ</hi></seg>
+    </item>
+    <item>
+        <seg rend="tab">(II)</seg>
+        <seg rend="tab"><hi rend="italic">bɔ’ɔ</hi></seg>
+        <seg rend="tab"><hi rend="italic">b’ɔ</hi></seg>
+        <seg rend="tab"><hi rend="italic">bɔ’’ɔ</hi></seg>
+    </item>
+    <item>
+        <seg rend="tab">(III)</seg>
+        <seg rend="tab"><hi rend="italic">yoledet</hi></seg>
+        <seg rend="tab"><hi rend="italic">yoladt</hi></seg>
+        <seg rend="tab"><hi rend="italic">yoledet</hi></seg>
+    </item>
+</list>
+
+<p>
+However, only natural linguistic developments were used to mark
+the distinction, so it was never possible to distinguish the members
+</p>
+
+<note xml:id="n15">
+    <num>15</num> The cases of this terminal <hi rend="italic">yod</hi> are listed, and their use discussed, in D. ROBERTSON, «The
+    Morphemes <hi rend="italic">-y(-i)</hi> and <hi rend="italic">-w(-o)</hi> in Biblical Hebrew» (<hi rend="italic">Vetus Testamentum XIX</hi>, 1969, 211-223).
+</note>
+<note xml:id="n16">
+    <num>16</num> Both in perfect forms (see G. BERGSTRÄSSER, <hi rend="italic">Hebräische Grammatik, II Teil</hi>, Leipzig 1929,
+    #4a), and in the independent form of the pronoun. See JOÜON, <hi rend="italic">Grammaire</hi>, #39a, 42f.
+</note>
+      <pb n="204"/>
+<fw type="header">204 E. J. REVELL SEF XLVIII 1 (1988)</fw>
+
+<p>of all three categories <note n="17">The fact that the marking of such distinction was limited in this way also shows it to be an innovation, not the vestige of an earlier distinction (comparable, e.g., to that of the Akkadian stative and verbal adjective).</note>. The phenomenon is systematic. It cannot result from sporadic change, conscious or unconscious, by scribes or masoretes. While it can be argued that these scholars did occasionally make changes in the text without support from the tradition, it must be agreed that the systematic alteration, by them, of morphological features of this sort is unthinkable, considering the great variety of morphological anomalies which they carefully preserved. Consequently the distinction of members of the three categories as described must be regarded as a natural (unconscious) linguistic change comparable to that which resulted in the pronunciation of vestigial passive <hi rend="italic">qal</hi> forms as <hi rend="italic">puʿal</hi> or <hi rend="italic">hofʿal</hi>. The variations described in this paper are thus a form of morphological development through «analogy»; that is, development due to the perception of the form as belonging to some category other than that in which it originated <note n="18">This is a common cause of linguistic development, as is its lexical parallel known as «folk etymology».</note>. This case of analogic development is, however, unusual in that the process which led to the changed perception of the function of the forms can be relatively well documented.</p>
+
+<p><hi rend="bold">12.</hi> These changes reflect the development which led to the use of the participle to represent the present tense in a three tense system. This development began in the biblical period, as is shown by the increase in the verbal use of the participle over that period, together with the corresponding decrease in its use with past or future time reference documented by Gordon (<hi rend="italic">op. cit.</hi> p. 11). This tendency to avoid the use of participles with past or future time reference no doubt contributed to the tendency, shown in the material discussed above, to perceive participles with past time reference as perfect verbs where this was possible morphologically. It is undoubtedly this generally established tendency which gave rise to the treatment of <hi rend="italic">ʾobed</hi> in Deut 26:5 as a verb by the ancient versions. The three types of feminine participle discussed above bear further witness to this tendency. Where their date can be established, the changes which permit the distinction of these forms as nouns or verbs occurred at a later date than the Greek translation, although the perceptions which gave rise to the distinction may have been in</p>
+
+<pb n="205"/>
+<fw type="header">SEF XLVIII 1 (1988) THE FUNCTION OF THE PARTICIPLE IN MT 205</fw>
+
+<p>place much earlier <note n="19">The reduction of an originally short vowel in an unstressed penultimate open syllable in verbs forms evidently occurred about the time of Origen (see REVELL, <hi rend="italic">Nesiga</hi>, #9.15). The «segolation» of doubly closed terminal syllables is not marked in the transliterations of the Hexapla, but it may be that it was considered unnecessary to mark the final unstressed vowel in this situation. (See G. KAHN, «Vowel Length and Syllable Structure in the Tiberian Tradition of Biblical Hebrew» [<hi rend="italic">Journal of Semitic Studies</hi> 32, 1987, 23-82] p. 43.) Penultimate stress in f.s <hi rend="italic">qal</hi> participles from hollow roots perceived as verbs probably developed considerably earlier (see #7), but this cannot be documented.</note>. These phenomena are of interest, however, as they document some of the details of the categorization of the form as verbal or nominal. This includes the detail presumably decisive in the case of <hi rend="italic">ʾobed</hi>: where a participle follows a noun, and the relationship is not marked as attributive by the use of the definite article on both, the participle was perceived as a verb (see #3, #6).</p>
+
+<head>RESUMEN</head>
+
+<p>El artículo se centra en el estudio de tres pares de palabras <hi rend="italic">ʾokelâ</hi> por <hi rend="italic">ʾokĕlâ</hi>, <hi rend="italic">hab:āʾâ</hi> por <hi rend="italic">hab:āʾāh</hi>, <hi rend="italic">yoledet</hi> por <hi rend="italic">yoladt</hi>. La primera forma de cada par es un participio femenino singular típico. Se sugiere que la segunda surgió también como participio. Ambas tenían originariamente la misma forma. La primera representa el desarrollo típico de un nombre, la segunda, el de un verbo. La diferencia surgió porque los participios de estas formas fueron evidentemente tratados como verbos, a no ser que se encontraran en una posición en la que (en términos sintácticos) se requiriera un nombre. Se sugiere que este fenómeno refleja el concepto que se tenía de los participios a final del período bíblico. Esto explicaría por qué las antiguas versiones entendieron <hi rend="italic">ʾobed</hi> en Dt 26,5 como verbo.</p>
+
+<head>SUMMARY</head>
+
+<p>This paper is mainly concerned with three contrasting pairs of forms of the type <hi rend="italic">ʾokelâ</hi> × <hi rend="italic">ʾokĕlâ</hi>, <hi rend="italic">hab:āʾâ</hi> × <hi rend="italic">hab:āʾāh</hi>, <hi rend="italic">yoledet</hi> × <hi rend="italic">yoladt</hi>. The first form in each pair is a typical feminine singular participle. It is suggested that the second also originated as a participle. The two were originally identical in form. The first represents the development typical for a noun, the second that typical for a verb. The difference arose because participles of these forms were evidently treated as verbs unless they stood in a position in which (in terms of syntax) a noun was required. It is suggested that this reflects the perception of participles standard at the end of the biblical period. This would explain why the ancient versions understood <hi rend="italic">ʾobed</hi> in Deut 26:5 as a verb.</p>
+    </body>
+  </text>
+</TEI>

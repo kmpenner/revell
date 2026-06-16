@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>A New Biblical Fragment with Palestinian Vocalization</title>
+      <author>
+        <persName>E. J. Revell</persName>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>The Hebrew University Magnes Press</publisher>
+      <date when="1969">1969</date>
+    </publicationStmt>
+    <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title level="a">A New Biblical Fragment with Palestinian Vocalization</title>
+          <author>
+            <persName>E. J. Revell</persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j">Textus</title>
+          <imprint>
+            <date>1969</date>
+            <biblScope unit="volume">VII</biblScope>
+            <biblScope unit="page" from="59" to="75">59-75</biblScope>
+          </imprint>
+        </monogr>
+        <note type="filename">07a.04.pdf</note>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+  <text>
+    <body>
+      <pb/>
+<p/>
+      <pb n="1"/>
+<head>A NEW BIBLICAL FRAGMENT WITH PALESTINIAN VOCALISATION</head>
+<head>E. J. REVELL</head>
+<p>1.1 This article discusses a text from the Henriques Collection of the Cambridge University Library, now designated TS NS 172: 11.<note n="1">The fragment was originally found by Prof. N. Allony, to whom I am most grateful for various helpful suggestions for this article. I wish also to thank the Cambridge University Library Syndicate for permitting me to publish this fragment.</note> This fragment now consists of the lower parts of a pair of conjoint leaves of parchment, and a large detached fragment from the upper part of fol. 2. The extant height of fol. 2. is 18 cm., the width, 13 cm. The material is in poor condition: brittle, and with several holes.</p>
+<p>1.2 The text under consideration is palimpsest over Hebrew script in a neat small hand. The lower text is now almost completely obliterated, but can be seen to have been liturgical in content.<note n="2">The poems discernable are for the ‘18 benedictions’, and have an alphabetic acrostic. In TS NS 249 :6 (see below) fol. 2v, lines 15–17 of the lower writing read:—
+<lb rend="right-to-left"/>אז בליל פסחתה בב[         ]במגן בֿ[ ]שומירך
+<lb rend="right-to-left"/>שומר אשמור[              ]בתחיית טל בֿ גֿנותה גא ו[
+<lb rend="right-to-left"/>עד משמר לין
+<lb/>A similar amount can be read on a few lines of TS NS 272: 11 fol. 1r. Elsewhere, for the most part, only isolated words can be distinguished.</note> The upper script is a Palestinian hand of the ninth or tenth century, rather clumsily written in large characters. The text has Palestinian vowel and accent signs, also rather clumsily made, possibly by the script hand. Occasional Tiberian signs, made by a pen and ink indistinguishable from that of the Palestinian signs, also appear. The ink used for both script and pointing varies from pale red brown to dark olive brown. In a few cases the faded signs were retraced in black ink, and this hand also added the <hi rend="italic">samek</hi> ringed with dots to the other marks of <hi rend="italic">seder</hi> division on fol. 2, recto. The writing on one side of a leaf is frequently visible on the other, and this, as well as the traces of lower writing, complicates the reading of the text. In the following transcription, made from the original text, care has been taken to exclude such extraneous marks. Underlining indicates uncertain or badly damaged letters.</p>
+      60	E. J. REVELL
+
+<pb n="60"/>
+<p>TS NS 172:11
+Fol. 1, recto. I Chron. 3:16</p>
+<table>
+<row>
+<cell>17–18</cell>
+<cell>צדקיהו ב[נ</cell>
+</row>
+<row>
+<cell>18–19</cell>
+<cell>ו : ומלכירם ו[</cell>
+</row>
+<row>
+<cell>19</cell>
+<cell>ונדביה : ובני פי[</cell>
+</row>
+<row>
+<cell>20</cell>
+<cell>זרבב משולם . וחננ[</cell>
+</row>
+<row>
+<cell>21</cell>
+<cell>וחשובה הל יה וחס[</cell>
+</row>
+<row>
+<cell>21–22</cell>
+<cell>ובן . חנניה פלטיה . וישע[</cell>
+</row>
+<row>
+<cell>22–23</cell>
+<cell>י . רנ י . עבדיה י . ה : ו[</cell>
+</row>
+<row>
+<cell>23–24</cell>
+<cell>יה י עיה חט א ח ר שפ[ ]ה :[ ] ובן . [</cell>
+</row>
+<row>
+<cell>24</cell>
+<cell>ויי ני קיה ק ה : ובני . עינ יוהו שי[</cell>
+</row>
+<row>
+<cell>4: 1–2</cell>
+<cell>יה קזב ונ יה ועננ שעה : [</cell>
+</row>
+<row>
+<cell>2</cell>
+<cell>בני דה וְ רון כמ ר . שובל : וראיה[</cell>
+</row>
+<row>
+<cell>2–3</cell>
+<cell>נ. ב ד . יח וית . ל ת . מ ת . לה א ת[</cell>
+</row>
+<row>
+<cell>3–4</cell>
+<cell>תי: ואלה י . עיט על . וים ב שְ אות</cell>
+</row>
+<row>
+<cell>4–5</cell>
+<cell>הצללפוני : ופנואל י . ד ע י . חושה</cell>
+</row>
+<row>
+<cell>5–6</cell>
+<cell>ה . י. חו ר . ר אב ת . ל : ולאשחור י .[</cell>
+</row>
+<row>
+<cell>6</cell>
+<cell>ק הי י . נש חל א נרה : ותלד . ו . נע</cell>
+</row>
+<row>
+<cell>6–8</cell>
+<cell>נערה ת . אחזם ת . חפ ת . מנ ת . ר.</cell>
+</row>
+<row>
+<cell></cell>
+<cell>א ני נרה : ובני א צ וצ נן : וקוץ . ל[</cell>
+</row>
+</table>
+
+<p>TS NS. 172:11
+Fol. 1, verso.</p>
+<list>
+<item>I Chron. 4:14 ת רה יה[</item>
+<item>14 ]ים הו :</item>
+<item>15 ]ערו . אל ונ נ אל.ה</item>
+<item>16 ]אל ף . פה תיריה ואש:</item>
+<item>17 ]מרד עפ . ויל.ו ותה ת . מ.</item>
+<item>17–18 ]אמש ע : ואשתו . היהודיה</item>
+<item>18 ] י דורת . חב י . כו ת . א י</item>
+</list>
+      <pb n="61"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+
+<list>
+<item n="18">נוא] בְתֵיָה בַּ עַה שַׂר . לְ קַ ד <unclear>ש</unclear></item>
+<item n="19">וּבַנֵי ת דַיָה ת נֹחַ בַּ לָה הַגַּמַּ</item>
+<item n="19-20">מִּ י : וּבְנֵי . שִׁמְעוֹן אָמְנָ . נָה וְֹחָנָ נַּ לוֹ י .</item>
+<item n="20-21">עֳִי חָ נָ חָת : בְּנֵי הַ. נָ .ד עַר י כְּ דָ י .</item>
+<item n="21">מַרְשָׁ וּמֹוִת ת . דָת . הַבָּצָ ת אַבַּע :</item>
+<item n="22">וּבְ]וֹקִים י . בַּ ש . דַף ר . בַּלָּוֹ . אָ וְיָשִׁי . לָ .</item>
+<item n="22-23">ר . ס : הֵמָה דִי בַּי ע ר.ה עָם . מָ . בַת יָשִׁ]</item>
+<item n="23-25">שֵׁם : בְּנֵי עָ ל . וְיָמֵי יָר, וְרַח . שׁל : שלם .</item>
+<item n="25-26">בְּנָוּ מִבְשָׂם בְּן מַע . ו . <unclear>ל</unclear> וּבְנֵי מִשְׁמָ</item>
+<item n="26-27">חָל . בֶּן זַכּוּר בֶּּ שׁ ו : וּלְשִׁמְעִי נִים .</item>
+<item n="27">ה . שַׁ ת . שׁשׁ חָ אָ ס . יִם כַּ פָּת לֹא .</item>
+</list>
+
+<p>TS NS 172:11</p>
+<p>Fol. 2, recto. I Chron. 4:29–30</p>
+
+<list>
+<item n="30-31">]חַה עֶצֶן [ ] וּבִבְתוּאֵל]</item>
+<item n="31-32">]ג : וּבְבַיִת . מַבְ ר . סוּס בְּבֵית]</item>
+<item n="32-33">בִּרְים אָה . רִיָה ד . לָךְ . ד : וְחַצְרֵיהֶם</item>
+<item n="33">]רֶמֶ וְתֹכֶן עֶשָׂ רִי חָשׁ : וְכל.חֵיה</item>
+<item n="34-35">]עַךְ הָא ד . בַּעַל זֹא תם שׁם ס :</item>
+<item n="35-36">]וַיּמֹל וְיֹשָׁה וְ ה : וְיֹאֵל וְיֵהוּ ן . יִשָׁה</item>
+<item n="36-37">ן] [ ] וְאֶלְיוֹעֵינַי כָּ שָׁח וַעֲשָׂ וְאָ וְשָׁא</item>
+<item n="37-38">ה : וַיּוּה] עַי . ן . אֱלֹוֹן . יְדָיָה . וֹ . רָ ן .</item>
+<item n="39">ה : אֵלָה] תְּ בִי יָהּ פָּץ לָרוֹב :</item>
+<item n="39-40">וַיֵּלְכוּ א . [ ] מִזְרַח . הַגָּ לָבַקֵּשׁ .</item>
+<item n="40">מֹרְ לָם : וַיִּמְצ] וּעָה שָׁמֵן וְטוֹ</item>
+<item n="40-41">וְהָא רַחֲב . יָדֵי שׁ] לוֹ [ ] . מִן . חָם בִּים</item>
+<item n="41">שָׁם ס : וַיָּבֹאוּ אֵלֶּה . בְּיַמֵ] מִי . וֹ . ד</item>
+</list>
+
+<note>עוינכ <lb/> ויכלֹ . ת . אָה ת . המעינ] ו.מ <lb/> עונק</note>
+      <pb n="62"/>
+<head>E. J. REVELL</head>
+<list>
+    <item>41 <p>וַיַחֲרִימוּ ד . ם הֹו ז וַיִּשְׁבֵ[ם <space unit="chars" quantity="4"/>]י . עֹה</p></item>
+    <item>41-42 <p>לָן שָׁם : וּמֵהֶם ו . עֹ הַכּ[ֹל]</p></item>
+    <item>42 <p>חֵשׁ . מֵאָ טִיהוּ יָהּ פִּיהָ [ ]</p></item>
+    <item>42-43 <p>נָ שָׁעַ ם : וַיכוּ ת . ת . לִי לַע[ן]</p></item>
+    <item>43 <p>וַיִּשְׁוּ . שָׁ עַ ם . ה : <space unit="chars" quantity="8"/>]</p></item>
+    <item>5:1 <p>וּבְנֵיֹ . ו . ר . אֵל / י . א . וּרְ וּב[ן]</p></item>
+    <item>1 <p>ס יִצוּ אבֹ נֹוָה תֹו נֵי סֹף וְ אֵ[ ]</p></item>
+    <item>1-2 <p>סד ה : כי יהודה גָ אֹח וְנָגִ מ [ ]</p></item>
+    <item>3 <p>בני . ראבן ר . יִשְׁ חֲנֹ לוֹ חֹ[ ]</p></item>
+    <item>4-5 <p>ה . בג ג בניו : מ[ ] בנו[ ]</p></item>
+    <item>5-6 <p>נ בני בעו : בארה . [ <space unit="chars" quantity="4"/>] הג[ ]</p></item>
+    <item><p>Fol. 2, verso.</p></item>
+    <item>6-7 <p><sup>?</sup>[אשר]כ ד . אֲשֶׁר א[ ]ני : ואח[ ]<lb/>[א]שור[ק]</p></item>
+    <item>7-8 <p>תֹתָם הֹךָ אָ ה : ובלע וֹ ע[ ]</p></item>
+    <item>8 <p>[ ]אָ הוֹ ב . בעע ד⁻ נָבְ ל . [ ]</p></item>
+    <item>9 <p>יִשָּׁ ד . א . רה ו . נַהּ פֹּר [ ]</p></item>
+    <item>9-10 <p>ע . ד : ובימי . שאו עֹו . [ ]</p></item>
+    <item>10 <p>וַלָו ד . וַיֵּשֶׁב יהּ ל . ל . [ ]</p></item>
+    <item>11-12 <p>ובני . גד . ד יָבְ אֵץ . [ ] ד . ה : יואל .</p></item>
+    <item>12-13 <p>ש הר ושפם נֹה [ ]ן : ואחיהם</p></item>
+    <item>13 <p>ת . יה אֹ ל ושוֹ[ ]ע . וֹע ה :</p></item>
+    <item>14 <p>אלה / בני] א[ו]ן חוֹר וְ רוֹת וַ עד .</p></item>
+    <item>14-15 <p>וְ אֶ שׁשֹ וְ דַוֹ ו דֹוז ו בזו : אחי ו ל .</p></item>
+    <item>15-16 <p>נ[ ] : וַיֵּשְׁבוּ בגע בבש ובביה</p></item>
+    <item>16-17 <p>לוֹ [ ]שר . ל . תם : כלם חֹשׂוֹ מי</p></item>
+    <item>17 <p>]ד.ה ובימ ס . ד . ל :</p></item>
+    <item>18 <p>]בני . וֹב וגו וחצי . ט . שה / ו</p></item>
+</list>
+      <pb n="63"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+<list>
+    <item><label>18</label> נִי . חַיִל שׁ ׇ נְשִׁי . וְ וַחַר דּ ׇ קֹ</item>
+    <item><label>18</label> לְמׇו מלח עים . וארע . אָ ע .</item>
+    <item><label>18–19</label> אֵת שׁשַׁיְ אִי א : וַיַעֲשׂוּ מִלְ ם</item>
+    <item><label>19–20</label> טַר . פׇּישׁ ב : וַיַעְזְרוּ עַל ׇ ונְי .</item>
+    <item><label>20</label> ם]. הַהוּא כ הֵם כִּי אלהים . וַיזְעַ</item>
+    <item><label>20–21</label> וַנַעְתׇּרוּ הֶם י . ו . ו : וַיִשְׁבּוּ הַם</item>
+    <item><label>21</label> אֲ] ם . שׁ א ׇ רֵי אֲפַיִם וְנ</item>
+    <item><label>21–22</label> [אַף] [ללוּים בִּי נָפַל כְּ מֵהַהִים</item>
+</list>
+
+<p>1.3 This fragment, containing I Chronicles 3: 16–5: 22 written according to a system of abbreviation (‘Serugin’ or ‘shorthand’), formed the inner sheet of a fascicle. The Cambridge fragment TS NS 249: 6, described and published by Dr. Manfried Dietrich,<note n="3">In his <title>Neue palästinisch punktierte Bibelfragmente</title> (Leiden 1968) as MS cb 9.</note> formed the adjoining sheet, containing I Chron. 2: 25–3: 5, 5: 23–6: 33. The following remarks cover both fragments.</p>
+
+<p>2. Textual Variants.</p>
+<p>2.1 The following words occurring in the ben Asher tradition (henceforth bA) are not represented in our text: —
+    <list>
+        <item>4: 2, 5: 32, 36, 37, 38 <foreign xml:lang="he">את</foreign></item>
+        <item>4: 42 <foreign xml:lang="he">בני</foreign></item>
+        <item>5: 15 <foreign xml:lang="he">בן</foreign></item>
+    </list>
+</p>
+
+<p>2.2 In the following cases, forms different from those of bA were used<note n="4">Dietrich reads <foreign xml:lang="he">ואחימעץ</foreign> in 5: 35, but the last letter is probably <emphasis>ṣade</emphasis>, although badly made.</note>: —
+    <list>
+        <item>2: 55 <foreign xml:lang="he">א</foreign> for bA <foreign xml:lang="he">המה</foreign>. (Presumably, as Dietrich notes, for <foreign xml:lang="he">אלה</foreign>).</item>
+        <item>3: 1 <foreign xml:lang="he">אלה</foreign> ” ” <foreign xml:lang="he">ואלה</foreign> (Probable, see note 20).</item>
+        <item>3: 16 <foreign xml:lang="he">צדקיהו</foreign> for bA <foreign xml:lang="he">צדקיה</foreign>.</item>
+        <item>4: 42 <foreign xml:lang="he">טיהו</foreign> ” ” <foreign xml:lang="he">פלטיה</foreign>.</item>
+        <item>5: 7 <foreign xml:lang="he">(וזכרי)ה</foreign> ” ” <foreign xml:lang="he">וזכריהו</foreign>.</item>
+        <item>5: 17 <foreign xml:lang="he">חַשׂוֹ</foreign> ” ” <foreign xml:lang="he">התיחשׁו</foreign> (? probably a double reading, see 3.2).</item>
+    </list>
+</p>
+
+<p>2.3 The following forms show variations from bA in the use of vowel letters: —
+    <list>
+        <item>(i) ‘Plene’ writings: —
+            <list>
+                <item>3: 1 <foreign xml:lang="he">נו</foreign> for bA <foreign xml:lang="he">אמנן</foreign></item>
+                <item>3: 2 <foreign xml:lang="he">השלישי</foreign></item>
+                <item>3: 19 <foreign xml:lang="he">משולם</foreign></item>
+                <item>3: 20 <foreign xml:lang="he">והשובר</foreign></item>
+                <item>4: 18 <foreign xml:lang="he">היהודיה</foreign></item>
+                <item>4: 41 <foreign xml:lang="he">ויחרימו(ם)</foreign></item>
+                <item>4: 43 <foreign xml:lang="he">לי</foreign> for bA <foreign xml:lang="he">הפלטה</foreign></item>
+            </list>
+        </item>
+    </list>
+</p>
+      <pb n="64"/>
+<head>E. J. REVELL</head>
+
+<list>
+    <item>(ii) ‘Defective’ writings:— 4: 35 <foreign xml:lang="heb">ויאל</foreign>. Other forms are listed by Dietrich as defective, but, since they are not the first words of verses, this cannot be certain (see 5.1).</item>
+    <item>(iii) <hi rend="italic">He</hi> for bA <hi rend="italic">‘alef</hi>:— 4: 16 <foreign xml:lang="heb">חיררה</foreign>, 4: 37 <foreign xml:lang="heb">וזיוה</foreign>.</item>
+</list>
+
+<p>2.4 The following forms involve <hi rend="italic">qerê-kethîb</hi> readings in bA or in the Palestinian tradition:—
+<list>
+    <item>(i) Text as bA <hi rend="italic">kethîb</hi>:— <foreign xml:lang="heb">ישבו</foreign> (2: 55), <foreign xml:lang="heb">יוהו</foreign> for <foreign xml:lang="heb">הדיורו</foreign> (3: 24), and <foreign xml:lang="heb">המעינ(ים)</foreign> (4: 41).<ptr target="#n5"/></item>
+    <item>(ii) Text as bA <hi rend="italic">qerê</hi>:— <foreign xml:lang="heb">וצ</foreign> for <foreign xml:lang="heb">יצהר</foreign> (4: 7), <foreign xml:lang="heb">לי</foreign> for <foreign xml:lang="heb">ירושלם</foreign> (5: 41), <foreign xml:lang="heb">בני</foreign> for <foreign xml:lang="heb">בנו</foreign> (6: 11)<ptr target="#n6"/>, and <foreign xml:lang="heb">צוף</foreign> for <foreign xml:lang="heb">ציף</foreign> (6: 20).</item>
+    <item>(iii) The text has <hi rend="italic">kethîb</hi> differing from, <hi rend="italic">qerê</hi> the same as, bA:— <foreign xml:lang="heb">וה</foreign> for <foreign xml:lang="heb">יצהר</foreign> (5: 28).</item>
+</list></p>
+
+<p>2: 5 Dittography occurs in this text in 3: 3, 4: 6, and 5: 18. These appear, however, to be intentional corrections, since in each case the second writing differs from the first, although the first is crossed out only in 5: 18. The first writing is in each case pointed, which suggests that the scribe pointed as he wrote.<ptr target="#n7"/></p>
+
+<p>2.6 A considerable number of minor errors and variants are to be expected in any copy in which the reproduction of the text itself is not of major importance. This is manifestly the case in any text written by a system of abbreviations, and doubly so here, where the main purpose of the MS seems to have been to record the accent system (see 7.3). Many of these variants from bA are, then, most probably errors by an individual scribe, and of no significance. Some variants do, of course, represent a particular Palestinian tradition, as is shown by the Massoretic notes, but the significance of these appears negligible also.<ptr target="#n8"/></p>
+
+<head>3. The Vocalisation System.<ptr target="#n9"/></head>
+<p>3.1 All seven Palestinian vowel signs are used in these fragments, the ‘a’ vowels interchanging occasionally, the ‘e’ vowels quite frequently, as follows:—</p>
+
+<note n="5" xml:id="n5">In the first case the text is broken at the margin. The other two note the <hi rend="italic">qerê</hi> there. Cf. also the marginal note to 5: 6(?).</note>
+<note n="6" xml:id="n6">The bA form is noted as <hi rend="italic">kethîb</hi> in the margin.</note>
+<note n="7" xml:id="n7">The same is probably true of MdW II MS M, where a special form of <hi rend="italic">shin</hi> was written to accommodate internal points. This is not usually the case.</note>
+<note n="8" xml:id="n8">As Dr. Dietrich has pointed out (<hi rend="italic">op. cit</hi>, 93), it is characteristic of Palestinian Biblical texts to show variants of the ‘vulgar text’ type.</note>
+<note n="9" xml:id="n9">The vocalisation of these fragments is described in greater detail in my book, <hi rend="italic">Hebrew Texts with Palestinian Vocalization</hi> (= HTPV) to be published by the University of Toronto Press.</note>
+      <pb n="65"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+
+<list>
+    <item>Where bA has<note n="10" place="foot">These statements compare the <hi rend="italic">position</hi> in which the signs are used in this text and bA. No implication about the <hi rend="italic">sounds</hi> represented is intended.</note> <hi rend="italic">shureq/qibbuṣ</hi>, <space quantity="5" unit="chars"/> <seg rend="typewriter">"</seg> is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">ḥolem,</hi> <space quantity="10" unit="chars"/> <seg rend="typewriter">:</seg> ” ”</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">qameṣ gadol,</hi> <space quantity="5" unit="chars"/> <seg rend="typewriter">'</seg> rarely (5%) <seg rend="typewriter">"</seg>, is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">qameṣ ḥaṭuf</hi> <space quantity="4" unit="chars"/> <seg rend="typewriter">'</seg> is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">pataḥ</hi> <space quantity="11" unit="chars"/> <seg rend="typewriter">=</seg> rarely (3%) <seg rend="typewriter">'</seg>, is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">ḥaṭef pataḥ</hi> <space quantity="5" unit="chars"/> <seg rend="typewriter">=</seg> is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">segol</hi> <space quantity="12" unit="chars"/> <seg rend="typewriter">`</seg> rarely (4%) <seg rend="typewriter">:</seg>, is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">ṣere</hi> <space quantity="12" unit="chars"/> <seg rend="typewriter">`</seg> (67%), or <seg rend="typewriter">:</seg> (33%), is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">ḥireq</hi> <space quantity="11" unit="chars"/> <seg rend="typewriter">:</seg> is used.</item>
+    <item><space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> ” <space quantity="2" unit="chars"/> <hi rend="italic">shewa</hi> before yod <space quantity="2" unit="chars"/> <seg rend="typewriter">:</seg> is used. Elsewhere <seg rend="typewriter">:</seg> occurs six times, and <seg rend="typewriter">:</seg> once. (For <seg rend="typewriter">'</seg> and <seg rend="typewriter">=</seg> see below 3.2 and 6.4).</item>
+</list>
+
+<p>3.2 The following diacritical signs are used in this text:—<lb/>
+<seg rend="typewriter">&lt;</seg> corresponds to bA dagesh ‘<hi rend="italic">forte</hi>’ and ‘<hi rend="italic">lene</hi>’, and also marks consonantal ‘<hi rend="italic">alef</hi> (5: 18). The writing <foreign xml:lang="heb">חִשּׁוּ</foreign> for <foreign xml:lang="heb">הִתִיחַשׁוּ</foreign> (5: 17) could be explained in a variety of ways, including the suggestion of scribal error, or that <seg rend="typewriter">&lt;</seg> marks <hi rend="italic">sin</hi>.<note n="11" place="foot">As in TS H16: 3+, published by Kahle in MdW I, but unlikely here since other signs are used (see 3.2).</note> If only <seg rend="typewriter">&lt;</seg> occurred in this form, it would be taken as marking the preceding <hi rend="italic">ḥet</hi> as closing a syllable<note n="12" place="foot">I.e. the same feature which bA marks with a simple <hi rend="italic">shewa</hi>. This usage is quite common in Palestinian texts, Biblical (e.g. MdW II MS K, Jer. 1: 17; MS M, Is. 5: 28, 7: 11) and non-Biblical (e.g., Sonne, HUCA 18 p. 206, 1. 20), Cf. Ginsburg, C. D. <hi rend="italic">Introduction to the Massoretico-Critical Edition of the Hebrew Bible</hi> (London 1897) 121 ff.</note>, while <seg rend="typewriter">-</seg> alone would be taken as corresponding to bA <hi rend="italic">ḥaṭef pataḥ</hi>. Probably the pointing is intended to indicate the acceptability of either of these possibilities.<note n="13" place="foot">The accent signs appear sometimes similarly to indicate acceptable alternatives (see 7.2). Similar pointings are found elsewhere. See, <hi rend="italic">e.g.</hi>, Morag, JSS 4 (1959) 224.</note><lb/>
+<seg rend="typewriter">^</seg> corresponds to bA <hi rend="italic">rafe</hi>, and also marks quiescent ‘<hi rend="italic">alef</hi> (5: 20, 25) and (apparently) consonantal <hi rend="italic">yod</hi> in <foreign xml:lang="heb">חירָה</foreign> (4: 16).<note n="14" place="foot">For similar uses of <hi rend="italic">rafe</hi> cf. MdW II p. 29*, Morag, JSS 4 (1959), 220, and Qimḥi, <hi rend="italic">Miklol</hi> (Lyk ed., p. 140).</note><lb/>
+<seg rend="typewriter">ש</seg> marks <hi rend="italic">sin</hi> in 6: 25, and possibly elsewhere (<hi rend="italic">cf.</hi> MdW II MS M). <seg rend="typewriter">ש</seg> in 4: 36 may perform the same function (<hi rend="italic">cf.</hi> MdW II MS L), or could possibly have indicated a marginal note.</p>
+
+<p>3.3 The only Tiberian vowel sign which occurs in the text is <hi rend="italic">pataḥ</hi>. In <foreign xml:lang="heb">ועליוניני</foreign> (4: 36), its use was possibly determined by the accent sign, which would make the use of a supralinear vowel sign awkward. In 4: 19, it is presumably a correction.</p>
+
+<note n="10" place="foot">These statements compare the <hi rend="italic">position</hi> in which the signs are used in this text and bA. No implication about the <hi rend="italic">sounds</hi> represented is intended.</note>
+<note n="11" place="foot">As in TS H16: 3+, published by Kahle in MdW I, but unlikely here since other signs are used (see 3.2).</note>
+<note n="12" place="foot">I.e. the same feature which bA marks with a simple <hi rend="italic">shewa</hi>. This usage is quite common in Palestinian texts, Biblical (e.g. MdW II MS K, Jer. 1: 17; MS M, Is. 5: 28, 7: 11) and non-Biblical (e.g., Sonne, HUCA 18 p. 206, 1. 20), Cf. Ginsburg, C. D. <hi rend="italic">Introduction to the Massoretico-Critical Edition of the Hebrew Bible</hi> (London 1897) 121 ff.</note>
+<note n="13" place="foot">The accent signs appear sometimes similarly to indicate acceptable alternatives (see 7.2). Similar pointings are found elsewhere. See, <hi rend="italic">e.g.</hi>, Morag, JSS 4 (1959) 224.</note>
+<note n="14" place="foot">For similar uses of <hi rend="italic">rafe</hi> cf. MdW II p. 29*, Morag, JSS 4 (1959), 220, and Qimḥi, <hi rend="italic">Miklol</hi> (Lyk ed., p. 140).</note>
+      <pb n="66"/>
+<head>66 E. J. REVELL</head>
+
+<p>3.4 Comparison of the known texts with Palestinian pointing suggests that there were two main streams in the Palestinian tradition: group A, conservative, and showing relatively few divergences from bA, and group B, non-conservative, and showing many more divergences. The MS described here belongs to a class of pointing in which the ‘e’ signs, (<orig>◌ܶ</orig> and <orig>◌ܷ</orig>) are used quite differently from bA <hi rend="italic">segol</hi> and <hi rend="italic">ṣere</hi>, while the other vowel signs are used in much the same way as are their bA counterparts. This represents the most fully developed type of group B pointing.<note n="15">The use of the ‘a’ signs (<orig>◌ܰ</orig> and <orig>◌ܱ</orig>) could possibly depend on the influence of bA, and might be taken that way if viewed in isolation. Other features of the pointing, however, are quite different from bA usage (<hi rend="italic">e.g.</hi>, the use of the ‘e’ signs, the lack of <hi rend="italic">shewa</hi> sign, the use of ‘i’ where bA has <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi>). It is difficult to believe that bA would affect one area of the pointing system without equally affecting others. Consequently the vocalisation of this text is not to be taken as an ignorant attempt to imitate bA (as some might suggest), but as representing a genuine Palestinian tradition, divergent from bA.</note></p>
+
+<head>4. <hi rend="italic">The Accent System.</hi></head>
+<p>4.1 The system of accent signs used in these fragments is unusually full for a Palestinian text. An accent sign is normally given for every word, although some (mostly conjunctives) are omitted. The system of disjunctive accents used is closely similar to that of bA. Consequently the Palestinian accent signs are described under the name of the Tiberian sign to which they correspond.</p>
+
+<list>
+    <item>4.2: (i) <hi rend="italic">Silluq</hi> has no equivalent, unless <hi rend="italic">sof pasuq</hi> was considered as an accent sign. This is possible, as the last word in a verse is abbreviated in the same way as are other words which are followed by their accent signs (see 5.1.ii,iii). The <hi rend="italic">sof pasuq</hi> sign usually has the same form as in bA, but this is occasionally surmounted by a semicircular mark for which I can see no significance (<hi rend="italic">e.g.</hi>, 3: 16, 4: 1, 25). This mark alone occurs in 4: 18. The <hi rend="italic">sof pasuq</hi> sign was accidentally placed within, as well as after, 3: 2.</item>
+    <item>(ii) <hi rend="italic">Atnaḥ</hi> <orig>◌ܮ</orig>. The Tiberian form occurs in 6: 11.</item>
+    <item>(iii) <hi rend="italic">Zaqef</hi> <orig>◌ܯ</orig>, written higher above the word than <hi rend="italic">rebia</hi>, and so distinguished from it, although not always clearly in this clumsy handwriting. If, <orig>◌ܳ</orig> in 4: 40 represents an accent, it is presumably a variant from bA <hi rend="italic">zaqef</hi>.</item>
+    <item>(iv) <hi rend="italic">Segolta</hi> <orig>◌ܮ</orig> (5: 1, as in MdW II MS J), or <orig>◌ܯ</orig> (5: 18, as in MdW II MS M). The latter sign possibly represents <hi rend="italic">zaqef</hi> replacing <hi rend="italic">segolta</hi>.</item>
+</list>
+
+<note n="15">See <hi rend="italic">HTPV</hi> IV. 2, and V.</note>
+      <pb n="67"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+<list>
+    <item>(v) <hi rend="italic">Tifḥa</hi> ◌ַ. In <foreign xml:lang="heb">ד</foreign> for <foreign xml:lang="heb">כְּיָד</foreign> (5: 41), a conjunctive accent is used where bA has <hi rend="italic">tifḥa</hi>.<note n="16" place="bottom">The abbreviation shows that this is not merely a badly placed sign. See 5.1 (iii) and (v).</note></item>
+    <item>(vi) <hi rend="italic">Rebia</hi> ◌ׄ.</item>
+    <item>(vii) <hi rend="italic">Pashta</hi> ◌̎. The same Palestinian sign normally corresponds to <hi rend="italic">yetib</hi> (e.g. 4: 21, 22, 33), but the Tiberian sign is added in 2: 49.</item>
+    <item>(viii) <hi rend="italic">Tebir</hi> ◌֪.</item>
+    <item>(ix) <hi rend="italic">Zarqa</hi> ◌֘ (5: 1, 18). Presumably a Palestinina form (as in MdW II MS J) combined with the Tiberian.</item>
+    <item>(x) <hi rend="italic">Geresh</hi> ◌֮. In 4: 41 the Tiberian form (also prepositive!) occurs.</item>
+    <item>(xi) <hi rend="italic">Pazer</hi> ◌֟.</item>
+    <item>(xii) <hi rend="italic">Telisha</hi> ◌֠.</item>
+    <item>(xiii) <hi rend="italic">Legarmeh</hi> |— (5: 14) is the sign most commonly corresponding to bA <hi rend="italic">legarmeh</hi> in Palestinian MSS (e.g. MdW II MS J). It is probably the original sign in the system of this MS, and hence the need to use the Tiberian sign to distinguish <hi rend="italic">zarqa</hi> (the two are rarely distinguished in Palestinian MSS). However both ◌֟ (3: 1, as in MdW II MS L)<note n="17" place="bottom">Ps. 71: 6. The sign occurs between <foreign xml:lang="heb">עליך</foreign> and the following word, not over the final <hi rend="italic">kaf</hi> as transcribed there.</note> and ◌◂ (4: 42) also occur where bA has <hi rend="italic">legarmeh</hi>.</item>
+</list>
+
+<p>4.3 The system of conjunctive accents used differs considerably from that of bA. The following signs occur:—</p>
+<list>
+    <item>(i) ◌ַ— is by far the most common sign, corresponding to bA <hi rend="italic">munaḥ, mehuppak, merka, darga,</hi> and <hi rend="italic">maqqef</hi>.</item>
+    <item>(ii) ◌֪ corresponds to <hi rend="italic">merka</hi> or <hi rend="italic">darga</hi>, but only when the word marked occurs immediately before a word bearing <hi rend="italic">tifḥa</hi> or <hi rend="italic">tebir</hi> (e.g. 4: 29, 30, 36, 42). The sign ◌ַ— is, however, also used in this position (e.g., 4: 43, 6: 17). The two signs certainly represent different ‘accents,’<note n="18" place="bottom">The abbreviations show that these ‘accents’ were distinct (see 5.1.iii and v).</note> but the conditions governing their use is not clear to me. It seems, as a generalization, that when few or no syllables intervene between the stress syllable of the word bearing the conjunctive, and that of the following word, (ii) is used, otherwise (i) occurs. This distinction, however, is not clear cut.</item>
+    <item>(iii) ◌֪◌ַ— corresponds to <hi rend="italic">merka</hi> or <hi rend="italic">darga</hi> before <hi rend="italic">tifḥa</hi> or <hi rend="italic">tebir</hi>, and once (5: 18) before <hi rend="italic">zarqa</hi>. It seems probable that this should be regarded as signs (i) and (ii) used on the same word, one sign being an alternative for, or a correction of, the other (see 7.2). Certainly I can see no way in which the situations in which (iii) occurs differ from those where (ii) is found.</item>
+    <item>(iv) ◌ַ◌֙ corresponds to <hi rend="italic">azla</hi>. This is also probably not a single composite</item>
+</list>
+      <pb n="68"/>
+<head>E. J. REVELL</head>
+<p>sign, but a combination of a Palestinian with a Tiberian form (see 7.2). The Tiberian sign occurs alone in 5: 24 and 6: 17, and the Palestinian conjunctive dot occurs where bA has <gloss>azla</gloss> in 5: 18.
+<list rend="unnumbered">
+    <item>(v) <unclear>ט</unclear> corresponds to <gloss>telisha geṭana</gloss> in 5: 26, and <unclear>.ט</unclear> in 4: 41. As with (iii), the latter form probably contains two separate signs, one an alternative for, or correction of, the other. The subscript sign apparently occurs again in <foreign xml:lang="heb">האחאלי</foreign> for <foreign xml:lang="heb">הַאִשְׁתָּאֳלִי</foreign> (2: 53), possibly representing the same feature as the bA <gloss>tifḥa</gloss> sign (<gloss>mayela</gloss>).</item>
+    <item>(vi) The Tiberian form of <gloss>maqgef</gloss> occurs in 4: 20, 5: 8.</item>
+    <item>(vii) In <foreign xml:lang="heb">ויהוצדק</foreign> (5: 41) <gloss>pashṭa</gloss> apparently occurs where bA has <gloss>munaḥ</gloss>.</item>
+</list></p>
+
+<head>5. <title>The Abbreviation System.</title></head>
+<p>5.1 At first sight, the abbreviations by which the words of the text are represented do not appear to be standardized, but a little investigation shows that they follow a simple system. Each word in a verse is represented. Any of the letters of the word may be included in the abbreviated form, but certain letters regularly are included, as follows:—
+<list rend="numbered">
+    <item>(i) The first word in a verse is given in full.</item>
+    <item>(ii) The abbreviation of the last word in a verse shows the last letter.</item>
+    <item>(iii) The abbreviation of a medial word bearing the conjunctive accent .—, which follows the word, shows the last letter of the word.</item>
+    <item>(iv) The abbreviation of a medial word bearing the accent <unclear>┴</unclear> (<gloss>geresh</gloss>), which is prepositive, shows the first letter of the word.</item>
+    <item>(v) The abbreviation of a medial word bearing one of the other accents, all of which are written above or below the (bA) stress syllable, marks this syllable, by giving either its first consonant (most common), or its vowel letter (as in <foreign xml:lang="heb">ובביה</foreign> for <foreign xml:lang="heb">ובבנותיה</foreign> 5: 16, and <foreign xml:lang="heb">י</foreign> for <foreign xml:lang="heb">אֱלֹהִים</foreign>, 5: 25).</item>
+</list></p>
+
+<p>5.2 These statements show that the way in which a word was abbreviated was determined by the conventional position of the accent sign it bore. This is not clear at first glance, because extra letters were often added to the basic abbreviation. So few forms conflict with these statements, however, that they can be taken as the rules according to which the abbreviations were made, and the conflicting forms as evidence of difference from bA or of error, but not of breakdown in the system.</p>
+
+<p>5.3 The following are the forms conflicting with the statements of 5.1:—
+<list rend="numbered">
+    <item>(i) The first word of a verse is not given in full:— <lb/>
+    <foreign xml:lang="heb">אלה</foreign> for <foreign xml:lang="heb">ואלה</foreign> 3: 1. If correct,<note n="19">The text is damaged, but enough remains to show it to be unlikely that the <hi rend="italic">waw</hi> was written.</note> this is a textual variant.</item>
+</list></p>
+      <pb n="69"/>
+<head>A NEW BIBLICAL FRAGMENT <space unit="char" quantity="10"/> 69</head>
+
+<p>בנ for בני 5:27 and 6:7, and ו for בן 6:23. Presumably these are errors due to the frequency of the words in the context.<note n="20">The abbreviations are correct for the type of accent, but not for the position in the verse.</note>
+וזדן for וזבד given by Dietrich in 2:37 is uncertain, but should probably be read וזבנד.</p>
+
+<p>(ii) The abbreviation of the last word does not show the last letter:—
+לֹ: (4:4) and וֹאש: (4:16). Scribal errors (?).
+ה: for וזכריהו 5:7. This is a textual variant (see 2:2).</p>
+
+<p>(iii) The abbreviation of a word followed by its accent sign does not show its last letter:—
+<list>
+    <item>1 <space unit="char" quantity="2"/> עפ. <space unit="char" quantity="2"/> for <space unit="char" quantity="1"/> ועפר 4:17</item>
+    <item>2 <space unit="char" quantity="2"/> הִ֬ <space unit="char" quantity="4"/> ” <space unit="char" quantity="2"/> המלך 4:23</item>
+    <item>3 <space unit="char" quantity="2"/> רחב. <space unit="char" quantity="1"/> ” <space unit="char" quantity="2"/> רחבת 4:40</item>
+    <item>4 <space unit="char" quantity="1"/> וארע. <space unit="char" quantity="1"/> ” <space unit="char" quantity="1"/> וארבעה 5:18</item>
+</list>
+Of these, No. 2, הִ֬, could be a case in which the abbreviation depends on the subscript accent sign, not on the following one, which may therefore be secondary. The remaining cases (and possibly also No. 2), presumably show that the scribe failed to take account of the accent, and gave the type of abbreviation most commonly called for, showing the stress syllable. Two other cases, in which the scribe omitted to mark any accent, but in which <seg rend="italic">.</seg>— is expected, could be explained in the same way:—
+<list>
+    <item>5 <space unit="char" orientation="horizontal" quantity="2"/> ב for בת- 4:18</item>
+    <item>6 <space unit="char" orientation="horizontal" quantity="1"/> תלג <space unit="char" quantity="2"/> ” תלגת 5:26</item>
+</list>
+Finally there are five more forms in which again no accent is marked, but <seg rend="italic">.</seg>— is expected. In these one must assume either a difference of stress position from bA (<seg rend="italic">cf.</seg> 6.2 below), or a difference of accent, in order to explain the abbreviation, unless they are to be treated as unmotivated scribal errors.
+<list>
+    <item>7 <space unit="char" quantity="4"/> ש for <space unit="char" quantity="2"/> שמעי 4:26</item>
+    <item>8 <space unit="char" quantity="3"/> יצו <space unit="char" quantity="2"/> ” <space unit="char" quantity="2"/> יצועי 5:1</item>
+    <item>9 <space unit="char" quantity="4"/> ג <space unit="char" quantity="3"/> ” <space unit="char" quantity="3"/> גבר 5:2</item>
+    <item>10 <space unit="char" quantity="3"/> יר <space unit="char" quantity="3"/> ” <space unit="char" quantity="2"/> ירחם 6:12</item>
+    <item>11 <space unit="char" quantity="3"/> ע <space unit="char" quantity="3"/> ” <space unit="char" quantity="3"/> עזה 6:14</item>
+</list>
+(v) The abbreviation of a word, the accent of which is placed on the (bA) stress syllable, does not mark that syllable.<note n="21">In Nos. 1, 14, and 23, no Palestinian accent was written.</note>
+<list>
+    <item>1 <space unit="char" quantity="3"/> ויונ for <space unit="char" quantity="2"/> ויונתן 2:32 (<seg rend="italic">cf.</seg> חן 2:33)</item>
+    <item>2 <space unit="char" quantity="3"/> שו <space unit="char" quantity="3"/> ” <space unit="char" quantity="3"/> שובל 2:50 א</item>
+    <item>3 <space unit="char" quantity="3"/> שמ <space unit="char" quantity="3"/> ” <space unit="char" quantity="1"/> והשמתי 2:53</item>
+    <item>4 <space unit="char" quantity="2"/> שפט for <space unit="char" quantity="2"/> שפטיה 3:3</item>
+</list>
+</p>
+
+<note n="20">20 The abbreviations are correct for the type of accent, but not for the position in the verse.</note>
+<note n="21">21 In Nos. 1, 14, and 23, no Palestinian accent was written.</note>
+      <pb n="70"/>
+<head>E. J. REVELL</head>
+
+<list>
+    <item>'5 <space extent="1" unit="chars"/> ר‥ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ונערהָ 3 : 22 (<hi rend="italic">cf.</hi> יָהּ 4 : 42)</item>
+    <item>'6 <space extent="1" unit="chars"/> נַע <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> נַערה 4 : 6 (corrected, see 2.5)</item>
+    <item>'7 <space extent="1" unit="chars"/> שחֹ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> וישוחיהָ 4 : 36</item>
+    <item>·8 <space extent="1" unit="chars"/> מַר <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> מרעה 4 : 39 (<hi rend="italic">cf.</hi> עָה [4 : 40, עָה 4 : 41])</item>
+    <item>'9 <space extent="1" unit="chars"/> מּֿ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> שמָּה 4 : 41</item>
+    <item>·10 <space extent="1" unit="chars"/> לֿי <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> הפלטה 4 : 43</item>
+    <item>'11 <space extent="1" unit="chars"/> יַשׂ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ישׂראל 5 : 3 (<hi rend="italic">cf.</hi> אֵל 5 : 1)</item>
+    <item>·12 <space extent="1" unit="chars"/> רֹה <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> מדבּרה 5 : 9</item>
+    <item>·13 <space extent="1" unit="chars"/> למו] <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ולמודי 5 : 18</item>
+    <item>·14 <space extent="1" unit="chars"/> מלח <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> מלחמה 5 : 18</item>
+    <item>.15 <space extent="1" unit="chars"/> מַל <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> מלחמה 5 : 19</item>
+    <item>.16 <space extent="1" unit="chars"/> עַל <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> עליהם 5 : 20</item>
+    <item>·17 <space extent="1" unit="chars"/> ויג <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ויגלם 5 : 26</item>
+    <item>·18 <space extent="1" unit="chars"/> רֵ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ומרים 5 : 29</item>
+    <item>·19 <space extent="1" unit="chars"/> הַ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> אהרן 5 : 29 (<hi rend="italic">cf.</hi> רֹן 5 : 29)</item>
+    <item>·20 <space extent="1" unit="chars"/> חַ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> וזרחיה 5 : 32</item>
+    <item>,21 <space extent="1" unit="chars"/> רָ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> עזריה 5 : 36</item>
+    <item>·22 <space extent="1" unit="chars"/> לִק <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> וחלקיה 5 : 39</item>
+    <item>'23 <space extent="1" unit="chars"/> חַ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> וחברון 6 : 3 (<hi rend="italic">cf.</hi> חַר 3 : 4)</item>
+    <item>.24 <space extent="1" unit="chars"/> ושׂ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> ושני 6 : 13</item>
+    <item>·25 <space extent="1" unit="chars"/> וֹד <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> דויד 6 : 16 (<hi rend="italic">cf.</hi> ויד 3 : 1)</item>
+    <item>·26 <space extent="1" unit="chars"/> דָּ <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> מועד 6 : 17</item>
+    <item>’27 <space extent="1" unit="chars"/> חי <space extent="2" unit="chars"/> ” <space extent="1" unit="chars"/> אחיחם 6 : 29</item>
+</list>
+
+<p>Before attempting to evaluate the significance of these forms, some preliminary remarks are needed. The forms themselves are discussed below in 6.3 ff.</p>
+
+<head>6. <hi rend="italic">The Stress System.</hi></head>
+<p>6.1 As has been shown, the abbreviation system of this MS is based on the accent system. Apart from the first and last words of a verse, the purpose of the abbreviation appears to be to mark the position in the word over, under, or beside which the accent sign should be written. This is quite clear in the case of the conjunctive dot which follows its word, and the prepositive ‘<hi rend="italic">geresh</hi>’. In the case of words bearing other accents, we find that, in the overwhelming majority of cases, they are represented by abbreviations consisting of, or including, the first consonant or the vowel letter of what is, in bA, the stress syllable. In many cases, in longer forms, the accent sign is deliberately placed over those letters.<note n="22">It is therefore entirely reasonable to suppose that the</note></p>
+
+<note n="22"><hi rend="italic">E.g.</hi>, וַאֵלֶּה (3: 4), חָנֹת (6: 22).</note>
+      <pb n="71"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+<p>syllables so marked were stressed in the Palestinian pronunciation as well as in that of bA. Consequently we can take this text as a deliberate, and reasonably clear, record of the position of the main word stress in this Palestinian tradition.</p>
+<p>6.2 Where the abbreviation marks only the bA stress syllable, or that and the final letter of a word, it seems certain that the Palestinian stress position was the same as that of bA. Where other consonants are given as well, there can be no certainty, but, as long as the bA stress syllable is marked, it is reasonable to assume that the Palestinian stress fell in the same place. In some cases, as listed above, the bA stress syllable is not marked. While some of these cases may be due to other causes, it is necessary, following the above arguments, to assume that, in the majority, the position of the word stress of this Palestinian tradition differed from that of bA. The importance of this fact for the study of the Palestinian pronunciation warrants a detailed study of these forms.</p>
+<p>6.3 Forms 9 and 12 of 5.3 (v) both give only the final letter of a noun to which the ‘directional’ adverbial suffix is added. This seems a certain indication that, in this Palestinian tradition, this suffix was stressed, in contrast to the bA tradition. The significance of these two forms is emphasized by the fact that all the other forms listed in 5.3 (v) suggest that the Palestinian stress position was closer to the beginning of the word than was that of bA.</p>
+<p>6.4 Forms 4, 5, 7, 20, 21 and 22 of 5.3(v) show names ending in <hi rend="italic">yod he</hi>.<note n="23" place="foot">Note also the accent position in יַדְיָה (4: 37).</note> This final syllable is stressed in bA, but these abbreviations suggest that, in this Palestinian tradition, the consonant before the <hi rend="italic">yod</hi> began the stress syllable. In forms 7 and 22, the <hi rend="italic">yod</hi> is preceded by a vowel in bA. In the remaining forms, the Palestinian pronunciation must also have used a vowel before the <hi rend="italic">yod</hi>. Such a vowel is marked in תִירִיָהִ (4: 16). The writing ירמיהו in the Bodleian MS Heb. d55, f. 4v4, 5, 7, etc., shows a comparable form in another Palestinian text.<note n="24" place="foot">See Murtonen, <hi rend="italic">Materials for a non-Masoretic Hebrew Grammar I</hi>, (Helsinki 1958), MS a. Its pointing is of a different class from that of our text, but still of group B.</note> The phenomenon shown here can be related solely to the pronunciation of theophoric names of this type, or it can be connected with the tendency, apparent in several Palestinian MSS, to use an ‘a’ vowel sign where bA has <hi rend="italic">ḥireq</hi> or <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi> followed by an ‘a’ vowel. In the latter case, form 18 of 5.3(v), ר for מרים, should be connected with the forms discussed above, as should וימ for וַיִּמְלֹךְ (4: 34), where וימ is expected.<note n="25" place="foot">I am inclined to think that the sign in this latter case is a badly written ‘i’, as is my definite opinion of the similar case noted by Dietrich in 2: 28. The phenomenon occurs else-</note> is adopted, however, it should be noted that the phenomenon is only sporadic,</p>
+      <pb n="72"/>
+<head>72 E. J. REVELL</head>
+<p>since our MS frequently uses <hi rend="italic">yod he</hi>, which must reflect the same stress position as that of bA, as the abbreviation for names of this type (<hi rend="italic">e.g.</hi> 3: 20, 22, 24, etc.).</p>
+<p>6.5 Forms 16 and 27 of 5.3(v) show words ending in <hi rend="italic">he mem</hi>, representing the 3mpl. pronominal morph. They suggest that, in these words, the penultimate syllable was stressed, not (as in bA), the pronominal morph. This phenomenon can also only have been sporadic, since <hi rend="italic">he</hi> and <hi rend="italic">he mem</hi> occur as abbreviations for similar words (5: 21, 25, 6: 18). It is interesting to note, however, that the most common abbreviation for words of this type is <hi rend="italic">yod he</hi>, which could reflect stress on either the ultimate or the penultimate syllable (<hi rend="italic">e.g.</hi> 4: 33, 38).</p>
+<p>6.6 The following statements can be made about the remaining forms in 5.3(v):—
+<list>
+    <item>(i) Words having, before the final syllable, an open syllable with full vowel other than (bA) ‘pretonal’ <hi rend="italic">qameṣ</hi>, are stressed on that syllable.</item>
+    <item>(ii) Where this is not the case, the word is stressed on a closed syllable preceding the final syllable.</item>
+</list>
+</p>
+<p>These statements will, in fact, cover all the forms listed in 5.3(v), with the exception of the cases with ‘directional’ <hi rend="italic">he</hi> (see 6.3), and the anomalous ר for מרים and ה for אהרן (both 5: 29).<note n="26" place="foot">They will also cover forms 7–11 of 5.3(iii), which may also reflect a stress position different from that of bA.</note><note n="27" place="foot">The description is attractive, because the apparent exclusion of (bA) ‘pretonal’ <hi rend="italic">qameṣ</hi> in (i) can be connected with cases in which, where bA has this vowel, Palestinian texts appear to use a <hi rend="italic">shewa</hi> vowel.</note><note n="28" place="foot">Finally the stress pattern which emerges recalls that of Arabic, a language which could well have provided the influence which produced these differences from the bA pattern.</note><note n="29" place="foot">Reasons for rejecting the view that the Palestinian pointing represents a pre-bA stage</note></p>
+
+<note place="foot">where, <hi rend="italic">e.g.</hi> MdW II MS J, Dan. 11: 15, 16, 17, MS L, Ps. 70: 3 (the conjunction), Bodleian MS Heb. d41, f. 15r20, 13r29, 14r30 (תחיי<hi rend="italic">ה</hi> and תחיי<hi rend="italic">ת</hi> in an MS with two interchangeable ‘a’ signs). These MSS are all of group B. It is possible that Ḥayyuj’s emphasis on the rule that ‘Vocal <hi rend="italic">shewa</hi> before <hi rend="italic">yod</hi> is pronounced as <hi rend="italic">ḥireq</hi>’ was directed against similar pronunciations. See Nutt, J. W., <hi rend="italic">Two Treatises... by R. Jehuda Ḥayug</hi> (London 1870) 131.</note>
+<note n="26" place="foot">ה for אהרן could be explained, but not, I think, convincingly. It may be an error (cf. ר 5: 29). The same is likely for ר for מרים, unless the suggestion in 6.4 is correct.</note>
+<note n="27" place="foot">ר for גבר (5: 2) might present a difficulty, but it too may be an error. Cf. form 8 of 5.3(iii) with 13 of 5.3(v).</note>
+<note n="28" place="foot"><hi rend="italic">E.g.</hi>, חשיבו, MdW II MS H, Ez. 14: 6, יביאו <hi rend="italic">ibid.</hi>, MS L, Ps. 69: 28, תשע Murtonen, <hi rend="italic">op. cit.</hi>, MS c, Ps. 39: 14 (again all group B MSS). The ‘e’ signs almost certainly represent ‘<hi rend="italic">shewa</hi> vowels’, see my “Studies in the Vocalization of Palestinian Hebrew” (to be published in a <hi rend="italic">Toronto Texts and Studies</hi> volume by the University of Toronto Press), No. 21 ff.</note>
+<note n="29" place="foot">Reasons for rejecting the view that the Palestinian pointing represents a pre-bA stage</note>
+      <pb n="73"/>
+<head>A NEW BIBLICAL FRAGMENT <fw type="page">73</fw></head>
+
+<p>6.7 It must be noted, however, that other statements could be devised to fit the few facts available. Furthermore, such statements only describe the few cases in which the stress position in this Palestinian tradition appears to differ from that of bA. In the vast majority of cases there is no evidence of variation at all.<note n="30" place="foot">Consequently the stress system shown in this text must be described as much the same as that of bA, but with a (possibly constant) morphemically conditioned difference (see 6.3), and an irregular tendency for words stressed on the final syllable in bA to be stressed on some preceding syllable.</note></p>
+
+<p>7. <hi rend="italic">Conclusion</hi>.
+<lb/>7.1 As has been seen, the text of this fragment, allowing for peculiarities due to the writing system, is a typical Palestinian ‘vulgar text’. The original system of accents used in the text was also certainly genuinely Palestinian, as is shown by the form and position<note n="31" place="foot">Dr. Dietrich argues that it was bA influence which led to the placing of the Palestinian accent signs on the stress syllable (<hi rend="italic">op. cit</hi>. p. 109 f.). This cannot be maintained here. bA <hi rend="italic">pashta</hi>, <hi rend="italic">geresh</hi>, and <hi rend="italic">telisha</hi> obviously did not influence the position of the corresponding signs in this MS. In fact with <hi rend="italic">geresh</hi> the reverse is true (see 4.2 x). It cannot be reasonably maintained that bA influence affected the positioning only of the other accent signs. The fact is that, although the number of ‘accents’ and their use appears to have been fairly stable, the history of the means of representing them is complex. Various systems were used, both with Palestinian and with Tiberian vowel signs, and, as with the vowel signs, the idea of a single stream of evolution from Palestinian to bA does not satisfy the facts.</note> of the signs, and the peculiar system of conjunctive accents.</p>
+
+<p>7.2 This system of conjunctives is of particular interest. Other systems known from Palestinian MSS are<note n="32" place="foot">These systems are found as follows:— 1, <hi rend="italic">e.g</hi>. Bod. Heb. d29, f. 17–20 (Dietrich, <hi rend="italic">op. cit</hi>. MS Ob 1); 2, <hi rend="italic">e.g</hi>. MdW II, MS J; 3, <hi rend="italic">ibid</hi>. MS M; 4, <hi rend="italic">ibid</hi>. MS K, and TS NS 246:22 (Diez Macho, <hi rend="italic">Studia Papyrologica</hi> VI, 1967, p. 15–25). There is some variation in the sign use shown in the table in systems 3 and 4.</note>:</p>
+
+<list>
+    <item><hi rend="italic">munah mehuppak merka darga azla telisha maqqef general</hi></item>
+    <item>1 <space quantity="33" unit="chars"/> _ .</item>
+    <item>2 <space quantity="24" unit="chars"/> c) c|</item>
+    <item>3 _ _ _ _ \ c) _</item>
+    <item>4 ._ _ _ _ . . c) _</item>
+</list>
+
+<p>This supports the suggestion made above (4.3.iii–v) that the signs ._ , ._` , and of Hebrew gradually brought under bA influence are given in my “Studies” (see note 62) especially No. 31 ff.</p>
+      <pb n="74"/>
+<head>E. J. REVELL</head>
+<p>
+<seg rend="hebrew">. פ</seg> are each composed of two accent signs, the general conjunctive sign and a specific sign which is either Palestinian or Tiberian. Our text, then, uses a unique three-sign conjunctive system intermediate between systems 2 and 3. More than forty of the composite signs occur, and in all but one case (see 5.3.iii.2) the abbreviation is correct for either accent. This suggests that both were in the mind of the scribe, and were marked as alternative possibilities. This is supported by the probability that the script hand actually wrote the accent signs (see 2.5). The same conclusion holds for the Tiberian signs as for the Palestinian. Various Tiberian signs occur, with or without a Palestinian sign on the same word (see 4.2.ii., vii, x, 4.3.iv, vi). As far as can now be seen, they could all have been made by the same pen and ink as the Palestinian signs, and so could all have indicated alternatives, either of ‘accent’, or of sign form, to the basic Palestinian tradition. Even if some were, as seems likely, subsequent to the original pointing, they cannot have been much later, and their purpose must still have been that suggested.<note n="33">I.e. they were presumably made before the black ink was used to retrace faded signs, and hence while the text was still in a Palestinian milieu. By no stretch of the imagination could they be called a harmonization of the Palestinian with a Tiberian system.</note> The text must, then, have been used by, if not made for, a reader who was mainly interested in the Palestinian tradition, but was familiar with a Tiberian one (probably bA), and wished to record some of its divergent features.
+</p>
+<p>
+7.3 The abbreviation system is dependent on the Palestinian accent system, and is itself undoubtedly a Palestinian product. It seems clear that its main purpose is to mark the correct positions for the accents, so the text is perhaps to be taken as a sort of ‘Manual of the Accent System’ for a scholar or <hi rend="italic">naqdan</hi>.<note n="34">The few vowel signs, useful mainly as aids to word recognition, cannot have been the main interest, nor can the representation of the text itself have been a major purpose. Finally the involved system of abbreviations seems ill suited to help with an almost memorized text.</note> This idea, if correct, would account for the second rate material and careless script used for the text. It would also explain the large number of alternatives (if such they are) which occur in the accent system.
+</p>
+<p>
+7.4 The stress on the Palestinian origin of the various features of this text is intended to emphasize the fact that this Biblical tradition, without any doubt a genuine Palestinian one, shows relatively few and minor divergences from the bA tradition.<note n="35">That is, few and minor in comparison with what has been suggested for the Palestinian tradition.</note> This supports the conclusion drawn from the study of other Palestinian Biblical texts: that in general the Palestinian vocalisation system was less exact and efficient, and their traditional Biblical text and
+</p>
+      <pb n="75"/>
+<head>A NEW BIBLICAL FRAGMENT</head>
+<p>
+    pronunciation less well preserved, than was that of bA, and that this accounts
+    for the majority of the differences between them. The particular contribution
+    of this text to our knowledge of the Palestinian Biblical traditions is the stress
+    system reflected by the system of abbreviations. This is free from the usual
+    uncertainties about the positioning of accent signs<ref target="#n36">36</ref>, and so gives for the first
+    time a clear idea of the extent of the similarities and differences between the
+    stress system of at least one Palestinian system of Biblical pronunciation and
+    that of bA.
+</p>
+<note xml:id="n36" n="36"> See Dietrich, <hi rend="italic">op. cit.</hi>, 109 f.</note>
+    </body>
+  </text>
+</TEI>

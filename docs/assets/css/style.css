@@ -149,6 +149,69 @@ article h1 {
 .content h3 { margin-top: 1.5rem; color: var(--secondary-color); font-family: var(--font-heading); }
 .content blockquote { border-left: 4px solid var(--accent-color); margin: 1.5rem 0; padding-left: 1rem; color: #555; background: #f9f9f9; padding: 1rem; font-style: italic; }
 
+.hebrew {
+    font-family: 'SBL Hebrew', 'Arial', sans-serif;
+    font-size: 1.25rem;
+    direction: rtl;
+    unicode-bidi: embed;
+}
+.footnote-ref {
+    font-size: 0.75rem;
+    vertical-align: super;
+    line-height: 0;
+    margin-left: 2px;
+}
+.footnote-ref a {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+.page-break {
+    border-top: 1px dashed #ccc;
+    color: #999;
+    font-size: 0.8rem;
+    text-align: center;
+    margin: 2rem 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.unclear {
+    border-bottom: 1px dotted #888;
+    color: #555;
+}
+.item-num {
+    font-weight: bold;
+    margin-right: 0.5rem;
+    color: var(--secondary-color);
+}
+.item-label {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+.footnotes {
+    margin-top: 3rem;
+    font-size: 0.95rem;
+}
+.footnotes hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+}
+.footnotes h3 {
+    font-family: var(--font-heading);
+    color: var(--primary-color);
+}
+.footnotes ol {
+    padding-left: 1.5rem;
+}
+.footnotes li {
+    margin-bottom: 0.5rem;
+}
+.footnote-backref {
+    color: var(--accent-color);
+    margin-left: 0.3rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 footer {
     margin-top: 4rem;
     padding-top: 2rem;

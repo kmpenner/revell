@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of 07a.11.pdf</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digitized as part of the Revell Digital Corpus Project.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Original PDF: 07a.11.pdf</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="87"/>
+<head>THE RELATION OF THE PALESTINIAN TO THE TIBERIAN MASSORA</head>
+<head>E. J. Revell, Victoria College, Toronto</head>
+
+<p>The term "Palestinian" here refers to texts with the <hi rend="underline">niqqud</hi>
+<hi rend="underline">ʾereṣ yiśrael</hi>. It may seem surprising to talk of "Massora" in
+connection with these texts, as they have been labelled "Pre-
+Massoretic". Indeed, few of these texts have any marginal no-
+tations similar to those of the marginal massora familiar in
+Tiberian texts. Such notations as there are nearly all refer
+to <hi rend="underline">qere/ketiv</hi> situations. Those which do not are probably not
+original. These few notes which do not refer to <hi rend="underline">qere/ketiv</hi>
+can also be found in Tiberian MSS, as can the only separate
+Massoretic compilation which can be identified as Palestinian.
+(The fragment of <hi rend="underline">Okla we'Okla</hi> published by Weil, Annual of the
+Leeds University Oriental Society III, 1961-2, p.68-80). As
+for the <hi rend="underline">qere/ketiv</hi> situations, they are nearly all the same as
+those given in BHK. The main difference between Tiberian and
+Palestinian MSS in this area is that Palestinian MSS have a
+strong tendency to use the <hi rend="underline">qere</hi> form in the text. If the term
+"Massora" refers to these annotations, then, we must agree that
+there is, as far as is known, no independent "Palestinian"
+Massora. What we have appears to be a partial and inexact use
+of the same body of material used by the Tiberian scholars.</p>
+
+<p>The term "Massora" can, however, be used with a wider meaning,
+to include all features of the writing of the Biblical Text:
+the layout of the page, the wording of the text, the use of
+<hi rend="underline">petuhot</hi> and <hi rend="underline">setumot</hi>, the form of the vowel and accent signs,
+and the system of using them. Palestinian usage in some of
+these features has been compared with Tiberian. Dr. Dietrich
+has concluded that the Palestinian fragments which he knew rep-
+resent "vulgar texts" (<hi rend="underline">Neue palästinisch punktierte</hi>
+<hi rend="underline">Bibelfragmente</hi>, Leiden, 1968, p.93). That is, they come from
+MSS in which the wording or spelling of the Biblical text was
+87</p>
+      <pb n="88"/>
+<p>
+not preserved as carefully as it was in the best Tiberian
+examples.  The Palestinian vocalization has been studied by a
+number of scholars, leading to the general opinion that the
+pronunciation represented reflects a stage of the language
+earlier than that represented by the Tiberian vocalization,
+but which is -- in most of the fragments if not in all - in a
+process of assimilation to the Tiberian tradition.  My own
+view is that the Palestinian pointing represents a reading
+tradition which was originally similar to, or the same as,
+the Tiberian, but which has undergone further developments
+under the impact of normal linguistic change.  In other words
+the reading tradition, like the textual tradition, was not well
+preserved.  Whichever view of its history is correct, it is
+clear that the Palestinian vocalization represents a pronuncia-
+tion not greatly different from the Tiberian.
+</p>
+<p>
+Several scholars have discussed the Palestinian accents, arriv-
+ing at the general opinion that the Palestinian accent system
+is more primitive than the Tiberian.  In my opinion, these
+treatments have failed to grasp a basic principle of the
+Palestinian accentuation -- indeed of the Palestinian pointing
+as a whole.  This might be called the principle of economy of
+sign form.  A definite effort was made to keep the number of
+different sign forms used in these texts to a minimum.  This
+is particularly well illustrated by the two fragments TS 12:197
+and TS NS 246:22 (Published by P. Kahle, MdW II, and A. Díez
+Macho, <hi rend="underline">Studia Papyrologica</hi> 6, 1967, p.15-25).  These MSS use a
+sign wherever the Tiberian text uses a disjunctive or conjunc-
+tive accent.  They even use three separate signs for the three
+shofar accents which the Tiberian system represents only by
+<hi rend="underline">munaḥ</hi>.  Despite the obvious sophistication of these systems,
+however, only 15 different accent signs are used altogether.
+</p>
+      <pb n="89"/>
+<p>
+    Of these, only eight different signs represent the disjunctive accents, as against thirteen in the basic Tiberian system of disjunctives, and nine in the majority of Palestinian texts, including those thought to be the most ancient, and, because they have no signs for conjunctives, the most primitive. It is clear, then, that in the two MSS described, there was a definite effort to keep the number of different sign forms used to a minimum, and this is characteristic of the Palestinian tradition as a whole.
+</p>
+<p>
+    The following are the common patterns in which two or more accents are marked by one sign in the Palestinian texts.
+</p>
+<list>
+    <item>
+        1. (a) <seg rend="typewriter">.–</seg> the <term rend="underline">tifḥa</term> sign represents <term rend="underline">tifḥa</term>, <term rend="underline">atnaḥ</term>, <term rend="underline">segolta</term> (&amp; <term rend="underline">silluq</term>).
+    </item>
+    <item>
+        (b) <seg rend="typewriter">^</seg> the <term rend="underline">atnaḥ</term> sign represents <term rend="underline">atnaḥ</term> and <term rend="underline">segolta</term>.
+    </item>
+    <item>
+        2. <seg rend="typewriter">/ </seg> the <term rend="underline">legarmeh</term> sign represents <term rend="underline">legarmeh</term> and <term rend="underline">zarqa</term>.
+    </item>
+</list>
+<p>
+    The majority of texts show both pattern 1 -- either (a) or (b) - and pattern 2. Other patterns are found -- in one or two MSS each -- which need not be detailed here. In them, as in the patterns listed, a sign which represents one particular accent is used to mark one or two others as well. Such signs can be identified with a particular accent because in all MSS in which such a sign is used, it is used to represent that particular accent. It may represent others as well, but in some of these MSS, these other accents are represented by other signs. (Thus MSS using the inverted "v" for <term rend="underline">atnaḥ</term> as in pattern 1(b) still use the subscript dot of pattern 1(a) to mark <term rend="underline">tifḥa</term>.) This tendency to use one sign for several accents is not necessarily a mark of primitiveness. As we have seen, the smallest number of different signs for disjunctive accents is, in fact, used in the MSS differentiating the greatest number of accents.
+</p>
+      <pb n="90"/>
+<p>
+This use of a single sign to mark two accents, is, then, not an indication that the accents were considered to be identical, but is merely a graphic device, similar to the marking of <seg rend="underline">śin</seg> and shin by the same letter of the alphabet, and, like that, probably due to failure to develop the writing system.
+</p>
+
+<p>
+This proposition is further supported by a consideration of the accents which are not marked by their own sign, but by the sign for some other accent. There are about ten different systems of accent signs used in the twenty-five Palestinian Biblical MSS. The table below shows the cases in each system where an accent is (1) marked with its own specific sign, (2) marked with the sign for some other accent, (3) not marked: either because the system typically omitted it, as is usual with <seg rend="underline">silluq</seg> and common with <seg rend="underline">atnaḥ</seg>, or because there was no occasion to mark it.
+</p>
+
+<table rows="9" cols="4">
+    <row>
+        <cell></cell>
+        <cell rend="underline">1</cell>
+        <cell rend="underline">2</cell>
+        <cell rend="underline">3</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">silluq</seg></cell>
+        <cell>–</cell>
+        <cell>1</cell>
+        <cell>9</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">segolta</seg></cell>
+        <cell>–</cell>
+        <cell>6</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">atnaḥ</seg></cell>
+        <cell>3</cell>
+        <cell>5</cell>
+        <cell>2</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">zarqa</seg></cell>
+        <cell>3</cell>
+        <cell>5</cell>
+        <cell>2</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">pazer</seg></cell>
+        <cell>8</cell>
+        <cell>2</cell>
+        <cell>–</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">legarmeh</seg></cell>
+        <cell>9</cell>
+        <cell>1</cell>
+        <cell>–</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">telisha</seg></cell>
+        <cell>9</cell>
+        <cell>1</cell>
+        <cell>–</cell>
+    </row>
+    <row>
+        <cell><seg rend="underline">revia</seg></cell>
+        <cell>9</cell>
+        <cell>1</cell>
+        <cell>–</cell>
+    </row>
+</table>
+
+<p>
+This table shows clearly that no specific sign for <seg rend="underline">silluq</seg> or <seg rend="underline">segolta</seg> was ever developed in the Palestinian tradition. The same was probably true, for many systems, for <seg rend="underline">atnaḥ</seg> and <seg rend="underline">zarqa</seg>. The MSS which do not use specific signs for <seg rend="underline">pazer</seg> and <seg rend="underline">legarmeh</seg> are those like the two mentioned above, and MdW II MS M, which have complete systems of conjunctive accents. The only MS
+</p>
+      <pb n="91"/>
+
+<p>
+    which does not use specific signs for <term>telisha</term> and <term>revia</term> is MdW II MS H, which differs from the others in several other ways.
+</p>
+
+<p>
+    If the view given here is correct, the Palestinian system of disjunctive accents was identical to the Tiberian. We can, then, at last rationalize the bewildering number of signs which are used to mark some of the Palestinian accents. The following signs are those which actually represent the individual accents.
+</p>
+
+<table>
+    <head>
+        <anchor xml:id="col1"/>
+        <anchor xml:id="col2"/>Palestinian
+        <anchor xml:id="col3"/>
+        <anchor xml:id="col4"/>Tiberian
+    </head>
+    <row>
+        <cell/>
+        <cell role="label">dot</cell>
+        <cell role="label">stroke</cell>
+        <cell/>
+    </row>
+    <row>
+        <cell><term rend="underline">zaqef</term></cell>
+        <cell>˙--- (high)</cell>
+        <cell>┴--</cell>
+        <cell>╵--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">revia</term></cell>
+        <cell>.--- (low)</cell>
+        <cell>₌--</cell>
+        <cell>˙--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">tifḥa</term></cell>
+        <cell>.-- (.-.--)</cell>
+        <cell>?</cell>
+        <cell>◟--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">pashṭa</term></cell>
+        <cell>˙˙--</cell>
+        <cell>?</cell>
+        <cell>╰--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">tevir</term></cell>
+        <cell>⸮-- (-.--)</cell>
+        <cell>?</cell>
+        <cell>◟-- (&lt;◟--)</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">geresh</term></cell>
+        <cell>---˙</cell>
+        <cell>---´ or ∠-- (--₌)</cell>
+        <cell>⸍--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">legarmeh</term></cell>
+        <cell>⸴--- (?)</cell>
+        <cell>/---</cell>
+        <cell>|--- (&lt;|---)</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">pazer</term></cell>
+        <cell>´--- (?)</cell>
+        <cell>˅--</cell>
+        <cell>˅--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">telisha</term></cell>
+        <cell>╨---</cell>
+        <cell>---^</cell>
+        <cell>---ᵔ (&lt;---ᵔ)</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">telisha qeṭanna</term></cell>
+        <cell>?</cell>
+        <cell>︧˅--</cell>
+        <cell>ᵔ--- (cf. ᵕ-- ("<term rend="underline">yeraḥ</term> [ben yomo")</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">zarqa</term></cell>
+        <cell>?</cell>
+        <cell>ᵔ---</cell>
+        <cell>ᵔ---</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">atnaḥ</term></cell>
+        <cell>?</cell>
+        <cell>⊼--</cell>
+        <cell>⊼--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">segolta</term></cell>
+        <cell>?</cell>
+        <cell>?</cell>
+        <cell>ᵔ˙--</cell>
+    </row>
+    <row>
+        <cell><term rend="underline">silluq</term></cell>
+        <cell>?</cell>
+        <cell>?</cell>
+        <cell>⊤--</cell>
+    </row>
+</table>
+
+<list>
+    <item>(---) sign occurs in one MS only</item>
+    <item>(?) identification of sign uncertain</item>
+    <item>? no sign form known</item>
+</list>
+      <pb n="92"/>
+
+<p>The signs are listed in such a way as to make the next point clear. Most accents are represented in Palestinian texts both by a 'dot' form sign and by a 'stroke' form sign, although both lists are incomplete. These 'dot' and 'stroke' signs appear in the MSS mixed in different proportions. No MS uses all 'dot' or all 'stroke' forms, although some come very close.</p>
+
+<p>The Tiberian accent signs actually show a similar mixture, and, when regarded from this viewpoint, they show an astonishing similarity to the Palestinian forms. This similarity appears to extend beyond the actual form, to some phenomenon underlying the sign for each accent whether in dot or stroke form, and whether from Palestinian or Tiberian MSS. Thus, the signs for <hi rend="underline">zaqef</hi> and <hi rend="underline">revia</hi> are always contrasted as high and low. In the Tiberian system, a second dot is placed under the 'high' dot form <hi rend="underline">zaqef</hi> sign to emphasize this difference. <hi rend="underline">Geresh</hi> is indicated by a dot at the right hand end of the word, or by a stroke leaning right, (and sometimes also prepositive) indicating interest in the beginning of the word. <hi rend="underline">Pashṭa</hi> and <hi rend="underline">Tevir</hi> are indicated by the same sign placed above or below the word - I think I can show that the dot is not original in the Tiberian sign for <hi rend="underline">tevir</hi>. Enough has been said to indicate the type of relationship which occurs. It is more difficult to extend this to other dot and stroke forms, because of the uncertainty of the dot form signs, although some suggestions could be made. The relationship between the Tiberian and Palestinian stroke form signs can, however, be further emphasized. The <hi rend="underline">munaḥ</hi> in Tiberian <hi rend="underline">legarmeh</hi> is, as I think I can show, not original, so the sign was originally the same in both traditions. The Palestinian stroke forms for <hi rend="underline">zarqa</hi>, <hi rend="underline">pazer</hi>, both <hi rend="underline">telishas</hi>, and also <hi rend="underline">atnaḥ</hi> are variations on a 'v' shape. Probably this indicates a certain relationship between <hi rend="underline">pazer</hi> and <hi rend="underline">telisha</hi> - and the fact</p>
+      <pb n="93"/>
+<p>
+that separate signs for <hi rend="underline">zarqa</hi> and <hi rend="underline">atnaḥ</hi> were a late development.
+The Tiberian signs for the same accents betray the same origin.
+The Tiberian sign for <hi rend="underline">telisha qetanṇa</hi> contrasts with that for
+<hi rend="underline">telisha gedola</hi> in a different way from the Palestinian. Com-
+pare, however the specialized conjunctive <hi rend="underline">yeraḥ</hi> ben <hi rend="underline">yomọ</hi> which
+is also called <hi rend="underline">telisha qeṭanṇa</hi> (or <hi rend="underline">telisha seghi̠ra</hi>), as opposed
+to '<hi rend="underline">telisha śemalit'</hi>. This evidence for relationship between
+the two traditions extends beyond the individual sign forms.
+The Tiberian signs for the accents of <hi rend="underline">zaqef</hi> clause (except
+<hi rend="underline">yetiv</hi>) are all written on or above the line, while those for
+<hi rend="underline">silluq</hi>, <hi rend="underline">atnaḥ</hi>, <hi rend="underline">tifḥa</hi> and <hi rend="underline">tevir</hi> are written below the line. The
+same is true for the Palestinian signs, whether in dot or
+stroke form. There can, I think, be no question that the
+Palestinian and Tiberian sign forms derive from the same origin.
+</p>
+<p>
+It seems reasonable to suggest that the original from which the
+different forms of Palestinian and Tiberian signs for an accent
+derived was, in fact, the manual sign used to represent the
+accent in cheironomy. (These manual signs have, of course,
+often been suggested as the originals of the Tiberian signs.)
+It seems possible that a more or less uniform set of hand signs
+was used by those who taught the reading tradition. These
+would be passed on by those who taught Bible reading and chant.
+When these hand signs were converted into writing, however, a
+new set of people, the scribes, were involved in the develop-
+ment, and were not controlled by the bearers of the reading
+tradition. The result was that different representations of
+the same hand sign were produced in different areas. This idea
+would explain why it was possible to mix dot and stroke form
+signs. They both represented the same thing. The reason for
+the mixing was perhaps nothing more than the search for the
+most simple and easily recognizable set of signs. E.g., the
+</p>
+      <pb n="94"/>
+<p>
+    94
+    <lb/>Tiberian dot-form <hi rend="underline">zaqef</hi> avoided the need for the narrow distinc-
+    <lb/>tion of stroke angles (difficult in manuscript) which would have
+    <lb/>been needed to distinguish the stroke form <hi rend="underline">zaqef</hi> from <hi rend="underline">pashṭa</hi> or
+    <lb/><hi rend="underline">azala</hi> and <hi rend="underline">geresh</hi>. The dot form <hi rend="underline">revia</hi> avoided the possibility of
+    <lb/>confusion between the stroke form <hi rend="underline">revia</hi> and the <hi rend="underline">rafe</hi> sign.
+</p>
+<p>
+    There are further shreds of evidence supporting this theory of
+    <lb/>the common origin of the Tiberian and Palestinian accent signs.
+    <lb/>I know of one fragment (TS NS 78:4, unpublished) in which the
+    <lb/>vertical stroke form <hi rend="underline">zaqef</hi> sign actually is used in an other-
+    <lb/>wise typically Tiberian set of accent signs. Several Tiberian
+    <lb/>fragments use the <hi rend="underline">atnaḥ</hi> sign to mark <hi rend="underline">segolta</hi> (e.g. TS 28:16,
+    <lb/>unpublished), at least two use a vertical stroke at the end of
+    <lb/>the word to mark both <hi rend="underline">legarmeh</hi> and <hi rend="underline">zarqa</hi>, (TS 28:16, MdW II MS
+    <lb/>E), and in another fragment with Tiberian accentuation, the
+    <lb/>stroke form <hi rend="underline">tifḥa</hi> sign is used to mark <hi rend="underline">atnaḥ</hi> (and probably
+    <lb/><hi rend="underline">silluq</hi>) as well as <hi rend="underline">tifḥa</hi> (JTS MS ENA 2576 published by Díez
+    <lb/>Macho in <hi rend="underline">Estudios Ecclesiasticos</hi> 34, 1960, p.461-66). All
+    <lb/>these correspond to typical Palestinian patterns listed above.
+</p>
+<p>
+    There is, then, no doubt in my own mind that the Palestinian
+    <lb/>and Tiberian accent signs derive from the same origin, and
+    <lb/>represent the same system of disjunctive accents. (There is
+    <lb/>much less evidence of relationship in the use and marking of
+    <lb/>conjunctive accents -- contrary to the usual view that the
+    <lb/>Palestinians borrowed them from the Tiberians.) There is
+    <lb/>equally no doubt that these two sets of signs are the product
+    <lb/>of different groups with different viewpoints underlying their
+    <lb/>approach to the marking of accents. The Tiberian scholars
+    <lb/>used many different accent signs to make the details of their
+    <lb/>traditional cantillation as clear as possible. The Palestin-
+    <lb/>ians wished to avoid using a large number of different signs,
+</p>
+      <pb n="95"/>
+<p>
+but used a few with great ingenuity to provide almost the same
+information.
+</p>
+<p>
+Other features generally show that the Palestinians tended to
+be careless about the preservation of their tradition. As
+pointed out, the consonantal text is full of minor variants,
+of which the rather common failure to write the <hi rend="underline">ketiv</hi> form is
+an example. The marking of paragraphs shows a similar situa-
+tion. All MSS mark paragraphs, and divisions are usually made
+where the Standard Tiberian text marks one also. As regards
+the use of <hi rend="underline">petuḥot</hi> and <hi rend="underline">setumot</hi>; when Palestinian texts can be
+shown to use two types of paragraph division, which is not
+always the case, they rarely correspond closely to the Tiber-
+ian <hi rend="underline">petuḥot</hi> and <hi rend="underline">setumot</hi>, although in a few fragments they do
+correspond exactly.
+</p>
+<p>
+It seems, in fact, that there was no definite Palestinian tra-
+dition in these matters. Both the Bodleian MS Heb. d29, f.
+17-20 (published by Dietrich, <hi rend="underline">op.</hi> <hi rend="underline">cit.</hi>, as MS Ob1) and the
+Jewish Theological Seminary MS ENA 1755, f. 3-7 (unpublished.
+I am most grateful to Dr. I. Yeivin for drawing this MS to my
+attention) cover Jos. 18:7-21:31. In 87 cases of textual
+variants from BHK in this material, the two MSS agree in 33
+and differ in 54. In nine cases where they differ from BHK
+in the marking of paragraphs, they agree in only three. In
+the marking of <hi rend="underline">qere</hi>/<hi rend="underline">ketiv</hi>, where one or other differs from
+BHK, both agree in only two of six cases. In fact, in all
+these cases of differences from BHK, either MS agrees with
+BHK more commonly than with the other Palestinian MS. The
+only reasonable conclusion seems to me that these (and pre-
+sumably all other) Palestinian MSS do not carry a "Palestinian"
+tradition, but a variety of approximations to the standard
+Tiberian tradition.
+</p>
+      <pb n="96"/>
+
+<p>
+    It seems to me correct to conclude from this information on the various facets of the Palestinian tradition that the basic difference between the Palestinian and Tiberian traditions is graphic. They are simply different methods of representing in writing what was basically the same reading tradition. The Babylonian pointing represents a different tradition, showing constant differences from the Tiberian in both vocalization and accentuation. There are no such constant differences between the Tiberian and Palestinian traditions. The differences which do exist can, it seems to me, be best explained in terms of two statements:–
+</p>
+
+<list>
+    <item>
+        <label>1).</label>
+        The Palestinians preserved the reading tradition which they inherited less well than did the Tiberians, so that various changes occurred, particularly in the vowel system.
+    </item>
+    <item>
+        <label>2).</label>
+        The development of the pointing system which the Palestinians invented to represent their reading tradition was inhibited by the principle of economy of sign form.
+    </item>
+</list>
+
+<p>
+    It is possible that this was not so much a consciously maintained principle as the result of an unimaginative conservatism, to which the idea of going beyond the restricted list of signs copied from the original hand-signs scarcely occurred. I personally favour this idea, as it suggests to me the attitude of provincials, isolated from the major scholarly centres. This situation -- a provincial area centred on no leading scholarly body -- would, it seems to me, explain several of the peculiarities of the Palestinian texts, such as their astonishing lack of uniformity, and their failure to preserve their reading and textual tradition unchanged. This, then, is how I would see the relationship of the Palestinian to the Tiberian Massora: They originated in the same stream of tradition, and
+</p>
+      <pb n="97"/>
+<p>
+    came to differ mainly because the Palestinian tradition became
+    isolated and lacked any leading scholarly body, so that its
+    reading tradition changed faster than the Tiberian, while its
+    pointing system developed more slowly.
+</p>
+    </body>
+  </text>
+</TEI>

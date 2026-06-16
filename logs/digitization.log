@@ -220,3 +220,14 @@
 2026-05-14 10:01:42,042 - INFO - Successfully processed 07a Articles/07a.30 - Conditioning Stress Position/07a.30.pdf
 2026-05-14 10:07:05,332 - INFO - Processing 07a Articles/07a.32 - First Person Imperfect/07a.32.pdf
 2026-05-14 10:07:07,248 - INFO - Successfully processed 07a Articles/07a.32 - First Person Imperfect/07a.32.pdf
+2026-05-25 12:44:30,540 - INFO - Processing c:\Users\kpenner\Google Drive\Research\Revell\07b Books\07b.4 - Nesigah in Biblical Hebrew\07b.4 - Nesigah in Biblical Hebrew.pdf
+2026-05-25 12:44:30,689 - ERROR - Error processing c:\Users\kpenner\Google Drive\Research\Revell\07b Books\07b.4 - Nesigah in Biblical Hebrew\07b.4 - Nesigah in Biblical Hebrew.pdf: File conversion failed after 1 attempts:
+ - PdfConverter threw MissingDependencyException with message: PdfConverter recognized the input as a potential .pdf file, but the dependencies needed to read .pdf files have not been installed. To resolve this error, include the optional dependency [pdf] or [all] when installing MarkItDown. For example:
+
+* pip install markitdown[pdf]
+* pip install markitdown[all]
+* pip install markitdown[pdf, ...]
+* etc.
+
+2026-05-25 12:44:49,343 - INFO - Processing c:\Users\kpenner\Google Drive\Research\Revell\07b Books\07b.4 - Nesigah in Biblical Hebrew\07b.4 - Nesigah in Biblical Hebrew.pdf
+2026-05-25 12:45:33,129 - INFO - Successfully processed c:\Users\kpenner\Google Drive\Research\Revell\07b Books\07b.4 - Nesigah in Biblical Hebrew\07b.4 - Nesigah in Biblical Hebrew.pdf

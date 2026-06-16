@@ -1,0 +1,19 @@
+STDOUT:
+Generated /home/kmpenner/Cloud/gdrive/Research/Revell/docs/index.html
+Generated /home/kmpenner/Cloud/gdrive/Research/Revell/docs/biography.html
+
+STDERR:
+Traceback (most recent call last):
+  File "/home/kmpenner/Cloud/gdrive/Research/Revell/scripts/generate_site.py", line 730, in <module>
+    main()
+    ~~~~^^
+  File "/home/kmpenner/Cloud/gdrive/Research/Revell/scripts/generate_site.py", line 615, in main
+    ensure_dir(dest_tei_dir)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/home/kmpenner/Cloud/gdrive/Research/Revell/scripts/generate_site.py", line 303, in ensure_dir
+    os.makedirs(path)
+    ~~~~~~~~~~~^^^^^^
+  File "<frozen os>", line 236, in makedirs
+FileExistsError: [Errno 17] File exists: '/home/kmpenner/Cloud/gdrive/Research/Revell/docs/tei/07a.01'
+
+EXIT CODE: 1

@@ -30,8 +30,9 @@ def get_citation(pdf_path):
     """Try to find bibliographic info for the given PDF."""
     root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     # Walk up to find Revell root if needed, but we assume it's running in typical structure
-    # Alternatively, use project-wide metadata path
-    bib_path = r"g:\My Drive\Research\Revell\metadata\bibliography.json"
+    bib_path = os.path.join(root_dir, "metadata", "bibliography.json")
+    if not os.path.exists(bib_path):
+        bib_path = r"g:\My Drive\Research\Revell\metadata\bibliography.json"
 
     # Extract ID from filename/folder
     # Pattern: 07a.01
@@ -55,7 +56,7 @@ def get_citation(pdf_path):
 
     return None, None
 
-def generate_header(client, citation, filename, model="google/gemini-3-flash-preview"):
+def generate_header(client, citation, filename, model="qwen/qwen3.6-flash"):
     """Generate a high-quality TEI Header based on bibliographic info."""
     prompt = f"""
     Create a complete <teiHeader> for the following scholarly article.
@@ -69,7 +70,8 @@ def generate_header(client, citation, filename, model="google/gemini-3-flash-pre
 
     response = client.chat.completions.create(
         model=model,
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=4096
     )
     content = response.choices[0].message.content.strip()
     if content.startswith("```xml"):
@@ -78,7 +80,7 @@ def generate_header(client, citation, filename, model="google/gemini-3-flash-pre
         content = content[3:-3].strip()
     return content
 
-def transcribe_page(client, base64_image, model="google/gemini-3-flash-preview"):
+def transcribe_page(client, base64_image, model="qwen/qwen3.6-flash"):
     """Send image to OpenRouter for transcription."""
     prompt = (
         "Transcribe the following page image into a TEI P5 XML fragment. "
@@ -103,15 +105,106 @@ def transcribe_page(client, base64_image, model="google/gemini-3-flash-preview")
                     }
                 ]
             }
-        ]
+        ],
+        max_tokens=4096
     )
-    return response.choices[0].message.content
+    content = response.choices[0].message.content.strip()
+    if content.startswith("```xml"):
+        content = content[6:-3].strip()
+    elif content.startswith("```"):
+        content = content[3:-3].strip()
+    return content
+
+def escape_invalid_tags(xml_text):
+    valid_tags = {
+        'p', 'pb', 'head', 'list', 'item', 'note', 'ref', 'lb', 'hi',
+        'teiHeader', 'fileDesc', 'titleStmt', 'title', 'publicationStmt', 'sourceDesc',
+        'text', 'body', 'TEI', 'div', 'table', 'row', 'cell', 'num', 'g', 'cb', 'sup', 'em',
+        '/p', '/head', '/list', '/item', '/note', '/ref', '/lb', '/hi',
+        '/teiHeader', '/fileDesc', '/titleStmt', '/title', '/publicationStmt', '/sourceDesc',
+        '/text', '/body', '/TEI', '/div', '/table', '/row', '/cell', '/num', '/g', '/cb', '/sup', '/em'
+    }
+    
+    def replace_tag(match):
+        tag = match.group(0)
+        if tag.startswith('<?xml') or tag.startswith('<?XML') or tag.startswith('<!--'):
+            return tag
+            
+        tag_name_match = re.match(r'^</?([a-zA-Z0-9_:-]+)', tag)
+        if tag_name_match:
+            name = tag_name_match.group(1)
+            if name in valid_tags or ('/' + name) in valid_tags:
+                return tag
+        return tag.replace('<', '&lt;').replace('>', '&gt;')
+        
+    return re.sub(r'<[^>]+>', replace_tag, xml_text)
+
+def clean_xml_content(xml_text):
+    # Fix common tag spacing/spelling typos from LLM
+    xml_text = re.sub(r'<hirend=', '<hi rend=', xml_text)
+    xml_text = re.sub(r'<pbn=', '<pb n=', xml_text)
+    xml_text = re.sub(r'<notetype=', '<note type=', xml_text)
+    xml_text = re.sub(r'<reftarget=', '<ref target=', xml_text)
+    
+    # Strip duplicate XML declarations from fragments
+    lines = xml_text.splitlines()
+    cleaned_lines = []
+    xml_decl_found = False
+    for line in lines:
+        if '<?xml' in line:
+            if not xml_decl_found:
+                cleaned_lines.append(line)
+                xml_decl_found = True
+        else:
+            cleaned_lines.append(line)
+            
+    xml_text = escape_invalid_tags('\n'.join(cleaned_lines))
+    return fix_semantic_anomalies(xml_text)
+
+def fix_semantic_anomalies(xml_text):
+    """Post-processing heuristic fixes for LLM OCR anomalies."""
+    # 1. Strip watermarks
+    xml_text = re.sub(r'(?i)\s*Digitized by Google\s*', '', xml_text)
+    
+    # 2. Fix floating page numbers (e.g. "— 84 —")
+    # Matches <p>— 84 —</p> or just — 84 — on its own line
+    xml_text = re.sub(r'(?m)^[—\-]\s*(\d+)\s*[—\-]$', r'<pb n="\1"/>', xml_text)
+    xml_text = re.sub(r'<p>\s*[—\-]\s*(\d+)\s*[—\-]\s*</p>', r'<pb n="\1"/>', xml_text)
+
+    # 3. Normalize <pb> sequences
+    pb_tags = list(re.finditer(r'<pb[^>]*>', xml_text))
+    
+    first_num = None
+    first_num_idx = -1
+    for i, match in enumerate(pb_tags):
+        tag_text = match.group(0)
+        n_match = re.search(r'n=["\'](\d+)["\']', tag_text)
+        if n_match:
+            first_num = int(n_match.group(1))
+            first_num_idx = i
+            break
+            
+    if first_num is not None:
+        # Calculate the starting number for the very first pb tag
+        start_num = first_num - first_num_idx
+        current_num = start_num
+        
+        def replace_pb(match):
+            nonlocal current_num
+            replacement = f'<pb n="{current_num}"/>'
+            current_num += 1
+            return replacement
+            
+        xml_text = re.sub(r'<pb[^>]*>', replace_pb, xml_text)
+        
+    return xml_text
+
 
 def main():
-    parser = argparse.ArgumentParser(description="Transcribe PDF to TEI P5 XML using OpenRouter and Gemini 3 Flash.")
+    parser = argparse.ArgumentParser(description="Transcribe PDF to TEI P5 XML using OpenRouter and Qwen 3.6 Flash.")
     parser.add_argument("--input", required=True, help="Path to input PDF file.")
     parser.add_argument("--output", required=True, help="Path to output XML file.")
-    parser.add_argument("--model", default="google/gemini-3-flash-preview", help="OpenRouter model ID.")
+    parser.add_argument("--model", default="qwen/qwen3.6-flash", help="OpenRouter model ID.")
     args = parser.parse_args()
 
     api_key = os.environ.get("OPENROUTER_API_KEY")
@@ -168,6 +261,7 @@ def main():
             '</TEI>'
         )
 
+        tei_xml = clean_xml_content(tei_xml)
         with open(args.output, 'w', encoding='utf-8') as f:
             f.write(tei_xml)
         print(f"Transcription complete: {args.output}")

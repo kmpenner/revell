@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MdW II, MS M, and other Palestinian MSS with defective Accentuation</title>
+        <author>
+          <persName>
+            <forename>E.</forename>
+            <forename>J.</forename>
+            <surname>Revell</surname>
+          </persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Society of Biblical Literature</publisher>
+        <date when="1974">1974</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title level="a">MdW II, MS M, and other Palestinian MSS with defective Accentuation</title>
+            <author>
+              <persName>
+                <forename>E.</forename>
+                <forename>J.</forename>
+                <surname>Revell</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Masoretic Studies</title>
+            <imprint>
+              <publisher>Society of Biblical Literature</publisher>
+              <date>1974</date>
+              <biblScope unit="volume">I</biblScope>
+              <biblScope unit="page" from="149" to="157">149-157</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <notesStmt>
+      <note type="filename">65220426660005163.pdf</note>
+    </notesStmt>
+  </teiHeader>
+  <text>
+    <body>
+      <pb/>
+      <p rend="center">1972 AND 1973 PROCEEDINGS<lb/>
+      IOMS<lb/>
+      Edited by<lb/>
+      HARRY M. ORLINSKY<lb/>
+      for the<lb/>
+      INTERNATIONAL ORGANIZATION<lb/>
+      FOR MASORETIC STUDIES<lb/>
+      (IOMS)<lb/>
+      and the<lb/>
+      SOCIETY OF BIBLICAL LITERATURE<lb/>
+      MASORETIC STUDIES Number 1<lb/>
+      1974</p>
+
+      <pb/>
+      <p rend="center">Distributed by<lb/>
+      KTAV PUBLISHING HOUSE, INC.<lb/>
+      New York<lb/>
+      Copyright © 1974<lb/>
+      by<lb/>
+      Society of Biblical Literature<lb/>
+      Library of Congress Card Catalogue Number: 74-16568<lb/>
+      ISBN: 0-88414-042-3<lb/>
+      Printed in the United States of America<lb/>
+      Printing Department, University of Montana, Missoula, Montana 59801</p>
+
+      <pb n="149"/>
+      <head rend="center">MdW II, MS M, and other Palestinian MSS with defective Accentuation</head>
+      <docAuthor rend="center">E. J. Revell</docAuthor>
+      
+      <note type="acknowledgement">The study on which this paper is based would not have been possible without photographs of the MSS described, and the opportunity to study the originals, provided by the Librarians in charge of the MSS. I wish, therefore, to begin by thanking the Librarian of the University Library, Cambridge (TS MSS), the Librarian of the Bodleian Library, Oxford, and the Librarian of the Jewish Theological Seminary of America in New York (JTS MSS), for their kind help in this regard. This paper is based on the study not only of these MSS, but of all other Palestinian Biblical MSS known to me, and rests on assumptions derived from that study. The most important of these for this paper is the idea that there was no major difference between the Palestinian and Tiberian accent systems. This assumption is justified by the relatively small proportion of cases in which the accentuation of Palestinian MSS differs from that of BHK, and by the close connection between the two systems demonstrated in the other paper of mine printed in this volume. The assumption justifies describing the Palestinian accentuation in Tiberian terms, as is done here.</note>
+      
+      <p>MdW II, MS M, is the well known "shorthand" MS, the first Biblical fragment with Palestinian pointing discovered by scholars. It contains parts of Leviticus, Isaiah, Jeremiah, and Ezekiel. (The fragment of Exodus published by Kahle under the same number comes from a different, though similar, MS.). The text is written on small pages in two columns, with each verse occupying, in most cases, only one line of text. This extraordinary compactness is achieved by the use of a system of "shorthand" (it should, I am told, be called brachygraphy) which has two aspects. The words of the text are abbreviated, and the verses themselves are also abbreviated, in that only some of the words are represented. The only explanation which has been offered for the omission of some words but not others, is that only words which presented some difficulty are represented. This</p>
+      <fw type="footer" place="bottom">149</fw>
+
+      <pb n="150"/>
+      <p>is in part true, but it is a secondary phenomenon. The basic system of representing the words in a verse is dependent on the accentuation of that verse, as is explained below. A similar phenomenon is found in a shorthand fragment with Babylonian pointing published by I. Yeivin in <title level="j">Textus II</title>. There, after the first word of the verse, only words with disjunctive accents are represented.</p>
+      <p>In MdW II, MS M, the system is much more complex, and is obscured by the fact that considerable additions to the basic system have been made. In brief, the basic system is as follows:</p>
+      <list rend="numbered">
+        <item n="1">Silluq, atnah, segolta, and zaqef following pashta, are not marked.</item>
+        <item n="2">Zaqef not following pashta, zarqa, pashta, tevir, geresh, legarmeh, pazer, and telisha, are always marked.</item>
+        <item n="3">Revia and tifha are usually marked (about 80% of cases). In general it can be said that these two accents may be omitted when the preceding accents make their position predictable.</item>
+      </list>
+      <p>Conjunctive accents are also marked, but the system here depends not on the conjunctive itself, but on the disjunctive it "serves", and on the number of conjunctives in the phrase. Maqqef is, in this respect, treated as a conjunctive. A single conjunctive before silluq, atnah, segolta, and zaqef following pashta (the accents of group I) is usually not marked. Before revia, pashta, tevir, geresh, and legarmeh, a single conjunctive is more commonly marked.</p>
+      <p>Before zaqef not following pashta, tifha, zarqa, pazer, and telisha, a single conjunctive is usually marked (over 80% of the cases). Omissions are, in fact, restricted to prepositions and similar small words where a conjunctive is a certainty.</p>
+      <p>In the case of two conjunctive phrases, both conjunctives are often omitted before the major disjunctives—as with single conjunctives. Before lesser disjunctives, the usual practice is to mark one of the two accents, so that the other can be determined with reasonable accuracy. With tifha, however, this system is refined, so that the accentuation is definitely indicated. Where the phrase is <hi rend="italic">merka-maqqef</hi>, only merka is marked; where the phrase is <hi rend="italic">maqqef-merka</hi>, both are marked. Where the phrase is <hi rend="italic">maqqef-maqqef</hi>, the first maqqef is marked. Phrases with three or more conjunctives are treated much as are those with two. Again the detailed attention given to the servi of tifha is noticeable. Two typical examples of this system of</p>
+      <fw type="footer" place="bottom">150</fw>
+
+      <pb n="151"/>
+      <p>marking the accents are given here. The Tiberian pointing, as elsewhere in this paper, is taken from BHK.</p>
+      
+      <p rend="center">Is. 6:3<lb/>
+      <foreign xml:lang="heb">וְקָרָא זֶה אֶל־זֶה וְאָמַר קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ יְהוָה צְבָאוֹת מְלֹא כָל־הָאָרֶץ כְּבוֹדוֹ</foreign></p>
+      
+      <p rend="center">Jer. 25:13<lb/>
+      <foreign xml:lang="heb">וְהֵבֵאתִי עַל־הָאָרֶץ הַהִיא אֶת־כָּל־דְּבָרַי אֲשֶׁר־דִּבַּרְתִּי עָלֶיהָ אֵת כָּל־הַכָּתוּב בַּסֵּפֶר הַזֶּה אֲשֶׁר־נִבָּא יִרְמְיָהוּ עַל־כָּל־הַגּוֹיִם</foreign></p>
+      
+      <p>The basic practice outlined here is used throughout the MS with few exceptions. Such exceptions often have an obvious cause, e.g. atnah is represented where it is the first accent in the verse (Ez. 33:33, 34:19). In other cases I can see no reason for an exception, although, of course, a more discerning eye might find one. In general, then, a skeleton of the accentuation of any verse is presented, from which anyone familiar with the system could predict the accentuation of any word.</p>
+      
+      <p>Despite this skeletal presentation, however, more details of the accentuation are given than in most Palestinian texts. This includes even the marking of secondary accents, a feature unique in Palestinian MSS. This occurs in a few cases where the Tiberian accentuation marks a conjunctive and disjunctive on the same word as in <foreign xml:lang="heb">הַנַּחֲלִים</foreign> (Is. 7:19) and <foreign xml:lang="heb">וְעָבְדוּ</foreign> (Jer. 25:11). More commonly, however, Palestinian signs for conjunctives or maqqef are used where the Tiberian system has ga'ya—or in similar situations where it does not. The shofar sign is used in this way in 32 cases, e.g. <foreign xml:lang="heb">קָשֶׁר</foreign> (Is. 8:12), <foreign xml:lang="heb">יַעֲטוֹף</foreign> (Is. 57:16); the merka-darga sign in five cases, e.g. <foreign xml:lang="heb">טָבְאַל</foreign> (Is. 7:6), <foreign xml:lang="heb">בָּלוּל</foreign> for <foreign xml:lang="heb">לְמִנְחָה</foreign> (Lev. 14:21); and the maqqef sign in 16 cases, e.g. <foreign xml:lang="heb">יְפֹצֵץ סָלַע</foreign> (Jer. 23:29), <foreign xml:lang="heb">הַנַּחְלוֹת</foreign> (Ez. 34:21).</p>
+      
+      <p>In these last cases it appears that the secondary sign marks phenomena similar to those denoted by Tiberian ga'ya. Since no distinct sign for ga'ya had been developed, however, signs for conjunctive accents had to be used instead. This is comparable to the Palestinian use of a "full vowel" sign to represent phenomena evidently very similar to the Tiberian shewa. It is interesting to note that these signs never correspond to "regular firm ga'ya". Indeed they are most commonly used where BHK has patah or segol preceding a laryngeal with hatef. Such differences in the written accentuation no doubt represent minor differences, perhaps local, in a basically homogeneous "Western" reading tradition.</p>
+      <fw type="footer" place="bottom">151</fw>
+
+      <pb n="152"/>
+      <p>To return to this MS, however, this marking of secondary accent signs shows that, despite the skeletal presentation of the accent system, the smallest details of this system could be—and sometimes were—represented. This representation of the accent system was the basis of the system of abbreviating verses, and accounts for about 80% of the words represented. The remaining 20% are represented for the sake of some feature of vocalization which the scribe wished to point out; most commonly features such as pausal forms, or the presence or absence of the article with an inseparable preposition, which are in no way indicated in the written text. These are the words which fall into the category of difficulties which had to be clarified. They form, however, only a small proportion of the words represented, so that it is quite clear that the basic purpose of this text is to represent the accent system. This is done with great economy and ingenuity, but in a way which would be perfectly clear to someone with an adequate knowledge of the accent system.</p>
+      <p>It also seems clear that the presentation of the accent system is the basic concern of the other "shorthand" MSS which have been described in detail: the Babylonian text published by I. Yeivin in <title level="j">Textus II</title>, and the other Palestinian example, in which all the words of a verse are represented, of which fragments have been published by Dr. Dietrich and later by myself (see <title level="j">Textus VII</title>). This is probably equally the purpose of the Tiberian examples, which have not yet been subject to detailed study.</p>
+      <p>It seems, then, that the "shorthand" MS was a quite widely used method of presenting the accent system. No other example uses defective accentuation of the type used in MdW II MS M, but it is interesting to see that similar accentuation is used in some other Palestinian MSS, even though the text is written in full. The known MSS of this type can be briefly described as follows:</p>
+      <list rend="bulleted">
+        <item><label>TS A19:11.</label> Daniel, with Palestinian accentuation in selected verses. As a rule only the accentuation of zaqef clauses is marked. In simple clauses, no accent is marked. In more complex ones pashta is regularly marked, and in long clauses the disjunctives before pashta are marked as well. The only other accent marked is legarmeh at the beginning of an uncommonly complex tifha clause.</item>
+        <item><label>TS H14:63.</label> Lamentations with Palestinian accentuation. The first disjunctive in any silluq or atnah clause is marked.</item>
+      </list>
+      <fw type="footer" place="bottom">152</fw>
+
+      <pb n="153"/>
+      <p>The text covers only part of chapter three, where most verses are very short, so these clauses are never complex.</p>
+      <list rend="bulleted">
+        <item><label>TS Misc. 29:19.</label> A scroll of Micah of which one section is marked with Palestinian accents. The initial disjunctive accents of verses are marked. In longer verses the initial accents of clauses ending with zaqef, atnah, or silluq, are also marked, but without much consistency. JTS MS 504 f. 11, a Tibero-Palestinian MS of Judges, uses a similar system.</item>
+        <item><label>JTS L 10A f2 + L 550 f2.</label> Deuteronomy with Tibero-Palestinian accentuation. In the original accentuation, as a general rule, silluq, atnah, segolta, zaqef preceded by pashta, and also tifha are not marked. Other disjunctives are marked.</item>
+      </list>
+      <p>In this last example it is quite clear that the accents are marked according to a system. The system is, in fact, very similar to that used for the disjunctive accents in MdW II MS M. In the other examples one cannot really speak of a system, but one can certainly describe the general guidelines which governed the marking of the accents. Two approaches can be distinguished. In the first, the penultimate disjunctive of a clause is marked, and so pashta in zaqef clauses (cf. dehi in a few verses of TS 20:53+). In the second, the initial accents of major clauses are marked.</p>
+      <p>It should be noted that there is no reason to suppose that all accents could not have been marked, had the scribe so wished. These are not MSS with "primitive" accent systems, but MSS in which, probably from motives of economy of money or time, only a few accents were inserted. These few accents were, however, chosen so as to provide a reliable guide to the accentuation of the whole verse.</p>
+      <p>It so happens that all the examples of MSS of this type known to me have Palestinian, or closely related, pointing, but a search would certainly uncover similar Tiberian examples. I have, in fact, noticed a Tiberian fragment in the Library of the Jewish Theological Seminary (JTS ENA 2752, f. 27-28, covering parts of Exodus), in which, in general, only the initial words of a verse are given, with their accents. Occasionally, where some unusual feature of the accentuation required it, a word from the body of the verse is given. The words are usually given in full, but occasionally abbreviation is used. This text thus provides information similar to that given in some of the Palestinian MSS noted. The MS itself seems a compromise between the clarity of the MSS in which the defective accentuation is given in a full</p>
+      <fw type="footer" place="bottom">153</fw>
+
+      <pb n="154"/>
+      <p>text, and the compactness of the shorthand type.</p>
+      <p>The existence of a number of MSS with defective accentuation of this sort suggests that the system employed in MdW II MS M is simply to be regarded as one of a number of recognized methods of representing accentuation by its bare essentials, and that these methods were widely used, probably from motives of economy. The "shorthand" text represents the ultimate in such economy.</p>
+      <p>Another feature of the "shorthand" MSS which also seems, at first glance, unique to them, can equally be placed in a wider context. In all the shorthand MSS I have seen, including Tiberian examples, the abbreviation of a word always contains the first consonant of its stress syllable, and need consist only of that consonant. In the text published by Yeivin, other consonants are only rarely given for any word other than the first, in a verse, even though the Babylonian accent signs were not, at least originally, used to mark stress position. This contrasts with the commoner type of abbreviation using "rashe tevot". There are indications, however, that the custom of using the stress syllable to represent a word was once widely recognized.</p>
+      <p>Examples can be found scattered among the Massoretic mnemonics; e.g. those for the lists of foreign nations as given in BHK at Jos. 24:11 and Ezra 9:1:-</p>
+      
+      <p rend="center">Jos. 24:11<lb/>
+      <foreign xml:lang="heb">מפלתגוס הָאֱמֹרִי וְהַפְּרִזִּי וְהַכְּנַעֲנִי וְהַחִתִּי וְהַגִּרְגָּשִׁי הַחִוִּי וְהַיְבוּסִי</foreign></p>
+      
+      <p rend="center">Ezra 9:1<lb/>
+      <foreign xml:lang="heb">כ ת פ י ע פ א א הַכְּנַעֲנִי הַחִתִּי הַפְּרִזִּי הַיְבוּסִי הָעַמֹּנִי הַמֹּאָבִי הַמִּצְרִי וְהָאֱמֹרִי</foreign></p>
+      
+      <p>Some names in these lists are identified by their first letter, others are not. Sometimes the letter chosen for this latter group seems to have been chosen as particularly characteristic, as with gade for Egypt, or to avoid confusion, as with tav and vav for the Hittites and the Hivites. However samek for the Jebusites can only be explained as identifying the word by the first consonant of its stress syllable. It does not seem, moreover, that any great effort was made to avoid confusion by standardizing, these identifications. Thus at Jos. 24:11 mem stands for the Amorites, but at Ezra 9:1 for the Moabites, and one can similarly find alef serving for either name. The reason for this particular confusion is obscure until one remembers that the accent position on such words is commonly penultimate in Palestinian texts, e.g. <foreign xml:lang="heb">הָאֱמֹרִי</foreign> in TS 20:53 (Ez. 16:3). It seems to me that in many cases these mnemonics made use of the technique of identifying a word by the first consonant of its stress syllable, a technique which must have been perfectly</p>
+      <fw type="footer" place="bottom">154</fw>
+
+      <pb n="155"/>
+      <p>familiar to the authors of these lists. In some cases this was done according to the penultimate stress patterns used in non-Biblical Hebrew—patterns which also had considerable influence on the position of the accent signs in Palestinian Biblical texts.</p>
+      <p>It seems, then, that the scribe of MdW II MS M, in using defective accentuation and abbreviations based on the stress syllable, was merely adopting techniques in common use. What is unusual, of course, is the combination of these features in one text, and this leads to the question of the purpose for which the text was written.</p>
+      <p>It is worth noting, before considering this, that this is no mere personal collection of notes. It was probably copied from another text of a similar type; a number of cases in which the abbreviations do not conform to the received text can most easily be explained as copyist's errors on this assumption, e.g. <foreign xml:lang="heb">לל</foreign> corresponding to BHK <foreign xml:lang="heb">בִּירוּשָׁלַםִ</foreign> (Ez. 33:21) as an example of dittography. It seems certain, furthermore, that it was copied from a number of exemplars, as the marking of certain features—e.g. qere-ketiv, the consonant sin (see below), and initial shewa vowels—is done by different methods in different parts of the text. This was, moreover, a very carefully written MS, and probably covered the whole Bible. The extant portions cover two chapters of Leviticus and (with lacunae) Is. 5:8-Ez. 36:37. At Is. 53:4, the upper right hand corner of the sheet bears the figure yod-he. Rough calculation suggests that if all the fascicles had eight folios (as does this one), the fifteenth fascicle of a complete Bible would begin at about this point. The writing of the MS was clearly based on immense experience and careful planning. The marking of conjunctive phrases before tifha (described above) is one example of this. Another is the vocalization of the second person masculine singular pronominal suffix. Where BHK has shewa before the kaf, our text marks the following qames, not the shewa. Where BHK has the pausal form, with segol before the kaf, our text marks the segol (and sometimes the qames as well). Thus, despite the fact that the same sign was used for both shewa and segol, these two situations were distinguished.</p>
+      <fw type="footer" place="bottom">155</fw>
+
+      <pb n="156"/>
+      <p>the other cases noted above. It was not, however, an aide-memoire, designed to stimulate the recollection of one who had the text by heart. The system of abbreviation is much too complex for this. Furthermore qere-ketiv situations are marked, but the ketiv form would be of no significance to one reciting from memory. Apart from these, moreover, the scribe makes no attempt to supply information on the consonantal form of words. As a general rule, no consonant is given unless it is intended to carry a vowel or accent sign, and so consonants closing syllables are never shown. The few exceptions to this have a clear purpose. Final he is occasionally given when marked with mappiq (e.g. Is. 45:18). The last consonant of the word is given before the paseq sign, which is otherwise identical to that for zarqa (e.g. Is. 6:2, 3—quoted above—10:14). In part of the text samek is used (instead of a diacritical point) to distinguish sin from shin (e.g. <foreign xml:lang="heb">חרש</foreign> for <foreign xml:lang="heb">חֶרֶשׂ</foreign> Is. 45:9, <foreign xml:lang="heb">מרמס</foreign> for <foreign xml:lang="heb">מִרְמַס</foreign> Ez. 34:19, and, contrariwise, <foreign xml:lang="heb">רפש</foreign> for <foreign xml:lang="heb">רֶפֶשׁ</foreign> Is. 57:20). A related phenomenon is the fact that the sign marking a qere-ketiv situation is often given in the text after the word in question—a phenomenon which never occurs in any fully written Palestinian text. This occurs in various ways. The consonants of the ketiv form may be given (e.g. <foreign xml:lang="heb">חתיתו</foreign> Ez. 32:32, BHK <foreign xml:lang="heb">חתיתי</foreign>) or they may not (e.g. <foreign xml:lang="heb">בת</foreign> Is. 10:32, BHK <foreign xml:lang="heb">בית</foreign>). In two cases both qere and ketiv are given (e.g. <foreign xml:lang="heb">הן</foreign> Is. 54:16, BHK <foreign xml:lang="heb">הנה</foreign>). This last example only emphasizes what the other features clearly show. This MS is in no sense an attempt to present the text of the Bible. What it does present is information to be applied to the consonantal text. It must, therefore, be classified as a form of Massora MS.</p>
+      <p>It is possible that the purpose of this text was to help a reader prepare his lesson with the use of the consonantal text, but it seems more likely to me that it was intended as a handbook or guide for a naqdan or a cantor (The Hirmologion, Psaltikon, etc., which served this latter purpose in the Greek Church might be adduced as a parallel). Since all the "shorthand" MSS seem to have had the same intention—to present the accent system and a small amount of other information along with it—it seems probable that they were all designed for this purpose. The other texts described, which give a full text with defective accentuation, are presumably not to be included here. The information they provide is not systematic and accurate, and is often confined to a brief passage. They were probably intended for the aid of a reader, to refresh his recollection of</p>
+      <fw type="footer" place="bottom">156</fw>
+
+      <pb n="157"/>
+      <p>a particular passage. They are interesting, however, in that they show that such a reader would understand the types of defective accentuation used in them, and in the "shorthand" MSS.</p>
+      <fw type="footer" place="bottom">157</fw>
+    </body>
+  </text>
+</TEI>

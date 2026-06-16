@@ -1,6 +1,6 @@
 ---
 name: pdf_to_tei
-description: Transcribes PDF documents into TEI P5 XML format using a vision model (Gemini 3 Flash via OpenRouter).
+description: Transcribes PDF documents into TEI P5 XML format using a vision model (Qwen 3.6 Flash via OpenRouter).
 ---
 
 # PDF to TEI Transcription Skill
@@ -23,7 +23,7 @@ This skill allows you to transcribe PDF documents (scans of articles, etc.) into
 ### transcribe_pdf.py
 The main transcription engine. It performs the following steps:
 1.  Converts PDF pages to high-resolution images.
-2.  Sends each image to Gemini 3 Flash via OpenRouter with a specialized prompt for TEI P5 XML.
+2.  Sends each image to Qwen 3.6 Flash via OpenRouter with a specialized prompt for TEI P5 XML.
 3.  Assembles the resulting XML fragments into a valid TEI P5 document.
 
 ## Resources
