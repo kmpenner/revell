@@ -1,324 +1,587 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>The Placing of the Accent Signs in Biblical Texts with Palestinian Pointing</title>
-      <author>E. J. Revell</author>
-    </titleStmt>
-    <publicationStmt>
-      <p>Toronto, 1972</p>
-      <seriesStmt>
-        <title>Studies on the Ancient Palestinian Worlds</title>
-        <editor>Wevers and Redford</editor>
-      </seriesStmt>
-    </publicationStmt>
-    <sourceDesc>
-      <zbdb>
-        <ref target="unknown"/>
-      </zbdb>
-    </sourceDesc>
-    <listBibl>
-      <bibl><title>Studies on the Ancient Palestinian Worlds</title> <publisher>Toronto</publisher> <date>1972</date> <pages>34-45</pages> <author>Wevers and Redford</author></bibl>
-    </listBibl>
-  </fileDesc>
-</teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Placing of the Accent Signs in Biblical Texts with Palestinian Pointing</title>
+        <author>E. J. Revell</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Toronto Press</publisher>
+        <pubPlace>Toronto</pubPlace>
+        <date>1972</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title level="a">The Placing of the Accent Signs in Biblical Texts with Palestinian
+              Pointing</title>
+            <author>
+              <persName>
+                <forename>E.</forename>
+                <forename>J.</forename>
+                <surname>Revell</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Studies on the Ancient Palestinian Worlds</title>
+            <editor>J. W. Wevers</editor>
+            <editor>D. B. Redford</editor>
+            <imprint>
+              <pubPlace>Toronto</pubPlace>
+              <publisher>University of Toronto Press</publisher>
+              <date>1972</date>
+              <biblScope unit="page">34-45</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change>
+        <desc>Digital version created from file SBH-C368-NT21010614360.pdf</desc>
+      </change>
+    </revisionDesc>
+  </teiHeader>
   <text>
     <body>
-      ```xml
-<text>
-  <pb n="32"/>
-  <head type="sub">
-    <headrendition>roman</headrendition>
-    <level n="1"/>
-    <title>The Placing of the Accent Signs in Biblical Texts</title>
-  </head>
-  <note type="editorial" place="bottom">
-    <headrendition>roman</headrendition>
-    <level n="1"/>
-    <p>with Palestinian Pointing</p>
-  </note>
-  <p>E. J. REVELL</p>
-  <div type="introduction">
-    <head type="sub">
-      <headrendition>roman</headrendition>
-      <level n="1"/>
-      <title>I INTRODUCTION</title>
-    </head>
-    <p>
-      It is currently the common opinion among scholars that 32. MS misc. 2:31, has several that 32. MS misc. 1:12, 2:31, NS 45:42-43; NS 58:2, and NS 173:1, are described in the appendix.
-    </p>
-    <p>
-     A considerable variety of accent signs occurs in Palestinian texts. Apart from this grouping, more than three texts are found with the same set of signs.
-    </p>
-    <p>
-      The asterisk on TS 58:2 indicates a false number. See note 58, TS misc. 2171 is published in M. Dietrich, <title>Neue palästinische punktierte Bibelfragmente</title> (Leiden,
-    </p>
-  </div>
-</text>
-```
-      ```xml
-<text>
-  <pb n="33"/>
-  <head type="subheading">Accent Signs in Biblical Texts with</head>
-  <head type="subheading">Line.</head>
-  <head type="subheading">None give the date of death, or any information about the</head>
-  <head type="subheading">junctive absence denying that certain of these features are to be found in</head>
-  <head type="subheading">the gravestones of the Kerek region;³ differences definitely exist. By</head>
-  <head type="subheading">far the most common grave formula in the Kerek district is ENTHADE</head>
-  <head type="subheading">KEITAI, the Greek equivalent of ḥic iacet, followed in most cases by</head>
-  <head type="subheading">words such as ‘having lived’ so many years (expressed usually with</head>
-  <head type="subheading">TEUTEUSAS (or TELETUESAS), ‘sometimes died’ ETÖN and by</head>
-  <head type="subheading">TELETES (or TELETEUSA); however, the genitive ETÖN by the date.</head>
-  <head type="subheading">This formula does not occur on the three stones known from Dibhan,</head>
-  <head type="subheading">although the age at death is given. </head>
-  <head type="subheading">The conclusion to be drawn – if these gravestones are to be considered typical – is that in the Ibn Arab area, just as in southern</head>
-  <head type="subheading">Palestine⁶ and the Kerek district,⁷ there were local peculiarities</head>
-  <head type="subheading">which are probably the result of divergent tastes and traditions. As</head>
-  <head type="subheading">all the tombstones appear to be Christian, whether or not the per-</head>
-  <head type="subheading">sonal names reflect a Greco-Roman or Semitic background, such di-</head>
-  <head type="subheading">versages may reflect the practices of different Dioceses or, perhaps,</head>
-  <note>
-    <p>Table Corresponding to the Text</p>
-    <table>
-      <tr>
-        <td>Atnaḥ</td>
-        <td>Tifha</td>
-        <td>Zarqa</td>
-        <td>Paķta</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Segolta</td>
-        <td>Zaqef</td>
-        <td></td>
-        <td>Rebia</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Tebir</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-    </table>
-  </note>
-  <head type="subheading">1968; hereafter (‘Dietrich’), as ms CD 7, I am v</head>
-  <head type="subheading">dicating of the Cambridge University Library. The information given is taken, in all cases, from</head>
-  <head type="subheading">manuscripts with published texts. Signs of a</head>
-  <head type="subheading">quotation are lacking, as found in ‘Geldoze. Misc. 1</head>
-  <head type="subheading">par. 183. 1113. NS114: grebos. MISC. 183.</head>
-  <head type="subheading">See also Jacobson, “An Ancient Palestinian</head>
-  <head type="subheading">burial rite”, 1977, pp. 121-145. </head>
-  <head type="subheading">Acknowledgements: The author is grateful to Dr.</head>
-  <head type="subheading">Simon Davis for his assistance with scannin</head>
-  <head type="subheading">g and providing photographs of the material.</head>
-</text>
-```
-      ```xml
-<text>
-  <pb n="36"/>
-  <head>E. J. Revell — Accent Signs in Biblical Texts</head>
-  <list>
-    <head>II The Placing of the Accent Signs</head>
-    <li n="1">Which two (&lt;2 ks&gt;) see above) are s ms. —&lt;ks&gt; (see above); 2 &lt;s ks&gt; (the noun <hi>yís&apos;rel</hi>. The accent sign culminates syllable, <hi>yís&apos;rel</hi> (2 cases)); 1 it coincides with the <hi>bík</hi> stress position.</li>
-    <li n="2">That if the signs are placed according to some convention, it must be connected (as in <hi>bík</hi>) with the structure of the word. Accordingly, in the following survey, the position of the accent signs is catalogued according to structure, both morphological and phonological. (2 cases). The later sphere, syllabic structure and stress position is represented in <hi>bík</hi> are taken into consideration.</li>
-    <li n="3">In many situations, accent signs are example in a non- <hi>bík</hi> position with reasonable consistency. For example: 
-      <list>
-        <li n="1">(i) The 2 ms. suffix —&lt;ks&gt;. The accent is never placed on the syllable before the <hi>kaf</hi> —&lt;k&lt;&lt;&gt;ks&gt;. (12 cases). Where the base to which the suffix is bound ends in two different consonants, the accent is placed on the last syllable of the base —&lt;C&lt;C&lt;&gt;ks&gt;</li>
-        <li n="2">(ii) The 2 fs. suffix —&lt;y&apos;šík&gt;. The accent &lt;yís&apos;rel&gt; (2 cases).</li>
-        <li n="3">(iii) Feminine singular forms. The accent is placed according to the usual pattern for this suffix, —&lt;št&lt;&gt;k&gt; (see (iii) below) and once among, obviously. In contrast to this clear divergence from <hi>bík</hi>, in words con-taining other bound forms of this pronunciation, but, in voices (on the case-eyes), the accent is usually placed on the last syllable. (8 cases); (iii) Masculine plural nouns —&lt;els&gt; (in the penultimate in 28 cases); in the nominative in 28 cases; (iv) Masculine singular nouns —&lt;ka&gt; (in the nominative in 28 cases); (v) Feminine singular forms. In nouns, the accent is placed on the final syllable (28 cases).</li>
-      </list>
-    </li>
-    <li n="4">Other cases of consistent placing of the accent could be adduced, but in most sit- uities the placing of the sign; in most sit- uities a occasionally further non—&lt;bík&gt; position. Very small proportion of the <hi>bík</hi> cases; on the penultimate in 28 cases; in the nominative in 28 cases; in the accusative in 28 cases.</li>
-    <li n="5">It is understood that this includes the dou- ble accent, [/I]</li>
-  </list>
-</text>
-```
-      ```xml
-<text>
-  <pb n="38"/>
-  <head unit="page">38</head>
-  <body>
-    <p>E. J. Revel1 Accent Signs in Biblical Texts with <name n=" (1) on the final syllable or (2) on the penultimate." form="penultimate">, 3 fs. - <emph>ennh;</emph> 1 <emph>cppl - <emph>ennh;</emph>, 2 fs. - <emph>hennh;</emph>, 1 <emph>ekpl - <emph>ennh;</emph>, 3 fs. - <emph>hennh;</emph>.</p>
-    <list>
-      <item>
-        <p>Total words ending -<var>cv</var> (<textit>in all</textit>) 47% 53% 59%</p>
-      </item>
-      <item>
-        <p>words of three syllables (<textit>in all</textit>) 48% 58% 32%</p>
-      </item>
-      <item>
-        <p>words of four or more syllables (<textit>in all</textit>) 47% 38% 34%</p>
-      </item>
-    </list>
-    <p>This tendency towards penultimate accent position is, however, by no means consistent. The following shows the position of accent sign in groups of words. Similar syllabic structure as (<textit>on the final syllable</textit>) or (2) on the penultimate:</p>
-    <list>
-      <item>
-        <p>(i) Feminine singular nouns: <select n=" (1)"> 32 28 11</select></p>
-      </item>
-      <item>
-        <p>(ii) Nouns ending in (<textit>bh</textit>) -<textit>y</textit> 'gentilic': <select n=" (1)"> 3 7 5</select></p>
-      </item>
-      <item>
-        <p>(iii) Nouns from 'final weak' roots ending -<textit>iv</textit> 24 30 7</p>
-      </item>
-      <item>
-        <p>(iv) 'Strong' verb forms ending -<textit>cv</textit> <select n=" (1)"> 14 1</select></p>
-      </item>
-      <item>
-        <p>(v) 'Weak' verb forms ending -<textit>dh, -eh</textit> 34 36</p>
-      </item>
-    </list>
-    <p>Compare Also</p>
-    <list>
-      <item>
-        <p>1. Repositions with 'light' suffixes: 3 <select n=" (1)"> 4 4</select></p>
-      </item>
-      <item>
-        <p>2. Accent sign is on the suffix in 6: <select n=" (1)"> 3 8 2</select></p>
-      </item>
-      <item>
-        <p>3. General tendency. The placing of accent signs on 'segolate' nouns shallow and apparently insignificant. <textit>on segolate</textit> 'mute' nouns generally a transposition.</p>
-      </item>
-      <item>
-        <p>4. Similar differences Hebrew, not explore, <textit>and Palestinian</textit> between this explore?</p>
-      </item>
-      <item>
-        <p>5 <select n=" (1)"> 3 3 1</select></p>
-      </item>
-    </list>
-    <p>It has always been agreed that the position of accent signs is determined as above maider is not haphazard error. They. Tions, on one of the last three syllables acc cent position in words. The informatic or the placing of the structure is influenced both the morphc element of the sign is word that the factor which determined the po: stress.</p>
-    <p>Currently scholarly opinion holds that there not mark the stress syllable. This opinion was based on the fact that the palestinu always coincide with all of <textit>bhK.</textit> Let failure to mark hair stress position. The observa anxiety point out argument. It is surprising tendency to mark position at all. It is surprising Palestinian Hebrew, it does not explore &amp; similar differences Hebrew, not explore?</p>
-  </body>
-</text>
-```
-      ```xml
-<text>
-  <pb n="4"/>
-  <head rend="center">Accent Signs in Biblical Texts with the exception accents, only</head>
-  <p>40</p>
-  <p>The form and the E.J. Revell theory is untenable, use of the form and the Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable.</p>
-  <p>use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable, use of the form and the E.J. Revell theory is untenable.</p>
-  <p>My opinion, that this nation as chronological development, and s 5. See note 24), there is no basis for 6. The signs for the most accents are consistently post-positive, gert, and legameh occur in these positions, and so that felah is above signs that had no conventional pos 7. Furthermore, if accent position and str the evidence surely warrants, the inform illuminating complements and parad 8. Brody positioning of accent signa 9. In non-Biblical Palestinian texts, th 10. The number of significant accent signs appearing in the buk 11. If the second progression from small figures for mss whose vowel and disjunctive accent systems are not close to the close to large figures where they are close, does not. 12. Thus, although various items from the differing features of Palestinian mss can be grouped and seen as the result of chronolog 13. A single line of development culminating in a close approach to buk. 14. Any such set of items is quite as likely to reflect differences of trad 15. The same conducted progression from small figures of mss whose 16. To large figures where they are close, does not. 17. Conclusion already arrived at from the 18. Palestinian ſtʼdazzan (see note 199). 19. The same probably concurrent in accented syst 20. High proportion, of one consistent situ 21. High proportion, of one consistent situ 22. High proportion, of one consistent situ 23. High proportion, of one consistent situ 24. High proportion, of one consistent situ 25. High proportion, of one consistent situ 26. High proportion, of one consistent situ 27. High proportion, of one consistent situ 28. High proportion, of one consistent situ 29. High proportion, of one consistent situ 30. High proportion, of one consistent situ 31. High proportion, of one consistent situ 32. High proportion, of one consistent situ 33. High proportion, of one consistent situ 34. High proportion, of one consistent situ 35. High proportion, of one consistent situ 36. High proportion, of one consistent situ 37. High proportion, of one consistent situ 38. High proportion, of one consistent situ 39. High proportion, of one consistent situ 40. High proportion, of one consistent situ</p>
-  <p>Hence, the sign for the main accents should be independent of the case stress positions, and the same conducted progression from small figures for mss whose vowel and disjunctive accent systems are not close to the close to large figures where they are close, does not. Thus, although various items from the differing features of Palestinian mss can be grouped and seen as the result of chronological development in the use of the vowel signs there is Palestinian ſtʼdazzan (see note 199). The same probably concurrent in accented systems, they were only represented with a quantity of reduction.</p>
-</text>
-```
-      ```xml
-<text>
-  <pb n="42"/>
-  <head unit="page">
-    42
-  </head>
-  <level n="1">
-    <p>E. J. Revell. Accent Signs in Biblical Texts with
-    <note n="1">
-      (see i.5, v.above) tendency to stress the final syllable of ‘segolate’ forms
-    </note>
-    others could be, however, no doubt, considering the biblical texts, that
-    these two patterns shown here result from a developmental change
-    with a situation similar to that by <bk>. This repeats another
-    stress conclusion from the study of the vowel signs. The Palestinian
-    pointing depicts a stage of the language which has developed further
-    from their common origin than has that represented in <bk>.
-    </p>
-    <p>i.iv) The failure to distinguish ‘wasteful’ perfect forms
-    <note n="2">
-      (see i.2.vi) supports this conclusion. An early feature of the language is
-    </note>
-    here almost completely lost, a trend which has already started in <bk>.
-    </p>
-    <p>The other features noted here as divergent from <bk> can also be
-    stressed, however developments have arisen divergent from <bk> can also be
-    stressed, however developments have arisen divergent from <bk>. To the
-    absence of a reply by <bk>, they do not, of course, require this
-    explanation, but it seems to me to raise fewer problems than the
-    other possibilities.
-    </p>
-    <p>It seems do mark stress position. The fact that, in these texts, the
-    Palestinian accent signs is not stable, but various between <bk> and non-<bk>
-    positions, also parallels the state of affairs indicated by the use of the
-    vowel signs in most Palestinian texts. An older pattern (here the <bk>
-    change) is virtually complete, and change. In some situations, the
-    Palestinian is virtually complete, and stress patterns are almost
-    uniformly, however, no other no change has taken place. At most uni-
-    formity, however, no other no change has taken place. Two stress
-    patterns are shown here result from a developmental change with a
-    situation similar to that by <bk>. This repeats another stress
-    conclusion from the study of the vowel signs. The Palestinian
-    pointing depicts a stage of the language which has developed further
-    from their common origin than has that represented in <bk>.
-    </p>
-    <p>i.v) The failure to distinguish ‘wasteful’ perfect forms
-    <note n="3">
-      (see i.2.vi) supports this conclusion. An early feature of the language is
-    </note>
-    here almost completely lost, a trend which has already started in <bk>.
-    </p>
-    <p>TS MSC. 1:112 Discovered of pages of 229 mm., somewhat damaged. The
-    columns of script are, nearly 80 mm., how?
-    </p>
-    <p>TS MSC. 2:31 Two fragments of a sheet: 185 mm., neat, formal Palestine
-    that of TS MSC. 114. The ink is olive-or
-    </p>
-    <p>that of TS MSC. 114. The ink is olive-or
-    </p>
-    <p>TS MSC. 2:37 Palestinian type in dark brown in text seem to have been recut in a small
-    ink similar to that of Tiberian writes an ink similar closely to that of
-    the reply fairly closely to <bk>.
-    </p>
-    <p>The fairly close, the games and sl the
-    ble, and few Palestinian sign can be seen
-    </p>
-    <p>TS MSC. 2:37 Palestinian type in dark brown in text seem to have been recut in a small
-    ink similar to that of Tiberian writes an ink similar closely to that of
-    the reply fairly closely to <bk>. </p>
-    <p>TS MSC. 2:41 Past, particularly denoting, in use
-    </p>
-    <p>TS MSC. 2:41 Past, particularly denoting, in use
-    </p>
-  </level>
-</text>
-```
-      ```xml
-<text>
-  <pb n="44"/>
-  <head unit="page">
-    <hi rendition="centered">E. J. Revell Texts with special positions in other MSS of the group described here (misc. 2:31, 3:25; NS 45:42-4; Judg. 2:12, 3:15, 4:18, in JTS MS 594, B.12, see note 23, Lamb. 1:12, under the d of drk., clear in the photograph, overlooked in the trans. TS NS 173:1 and also in some Tiberian MSS (e.g. TS 18:16, Ezek. slightly damaged. Two folios of parchment, about 230 by 220, columns of fairly free, 1 and 2r of 2l, the text of 200 by 65 mm, that of 100 mm., with 33 to 36 lines per column. The script is a fairly formal square Palestinian type in dark brown ink. Some parts were retracted in black, particularly obliterating the pointing, particularly on the lower half of fol. 2r. The Palestinian accent signs, were added in the ink varying from dark brown to red brown. Subsequently Tiberian pointing was added in a similar, generally paler ink. The pointing shows considerable divergence from: e.g. qames and segol and rare, approximately written in a position different from that of hkh.</hi>
-  </head>
-  <p>
-    <hi rendition="italic">Fragment of a leaf of parchment, originally about 255 by 230, now fragments of a leaf of parchment. The text is written in Tiberian handwriting in a regular Palestinian type or column. The manuscript is in the library of the British Museum, and is available for inspection in the Reading Room. It is already published in JTS MS 582, see Lamb. 5:22. It may belong to the same system as hkh.</hi>
-  </p>
-  <p>
-    <hi rendition="italic">The fragment contains Isa. 22:26:16. It is similar in script to TS NS 582, and may have belonged from hkh in a generally paler ink, from hkh, has to some extent, har-munized it with the same colour.</hi>
-  </p>
-  <p>
-    <hi rendition="italic">Three fragments of a leaf of parchment, originally about 255 by 230, now fragments of a leaf of parchment. The text is written in Tiberian handwriting in a regular Palestinian type or column. Published in JTS MS 582, see Lamb. 5:22. It may belong to the same system as hkh, has to some extent, har-munized it with the same colour.</hi>
-  </p>
-</text>
-```
-      ```xml
-<text>
-  <pb n="1"/>
-  <head>
-    <title level="1">The Oldest Evidence for The Hebrew Accent System</title>
-    <subheader>By E. J. Revell, M.A., Ph.D.</subheader>
-    <affiliation>Associate Professor in the Department of Near Eastern Studies, Victoria College, Toronto</affiliation>
-  </head>
-  <p>Reprinted from the “Bulletin of the John Rylands Library”, Vol. 54, No. 1, Autumn, 1971</p>
-  <note>
-    <p> © The John Rylands Library 1971</p>
-  </note>
-  <pb n="2"/>
-  <head>
-    <title level="2">The John Rylands Library</title>
-    <place name="Manchester">Manchester, M3 3EH</place>
-    <date>MCMLXXI</date>
-  </head>
-  <p>PRICE TWENTY PENCE NET</p>
-</text>
-```
+      <pb n="34" />
+      <head type="main">The Placing of the Accent Signs in Biblical Texts with Palestinian Pointing</head>
+      <byline>E. J. REVELL</byline>
+
+      <head type="section">I INTRODUCTION</head>
+
+      <p><num value="1">1</num> It is currently the common opinion among scholars that Palestinian
+        accent signs are not used to mark the position of the main word stress, as is true of many
+        Tiberian signs. However, it is difficult to believe, when reading the texts, that the
+        placing of these signs is en- tirely haphazard. The purpose of this paper is to investigate
+        this fea- ture to see whether any motivation for the placing of the accent signs can be
+        discerned.</p>
+
+      <p><num value="2">2</num> The six texts chosen for study are ideal for our purposes. They all
+        use the same set of accent signs, and therefore form a homogeneous group in which it is
+        likely that any conventions regarding the placing of the signs would be used consistently.<note
+          place="foot" n="1">A considerable variety of accent signs occurs in Palestinian texts.
+        Apart from
+          this group, no more than three texts are found with the same set of signs.</note> In
+        addition, they are not pointed with vowel signs, so it is not possible that a vowel sign
+        could have displaced an accent sign from its conventional position. All texts are from the
+        Taylor-Schechter collection of the Cambridge University Library. Only one, <title>T-S Misc.
+        2:71</title>, has been published before. The others, <title>T-S Misc. 1:112</title>, <title>Misc.
+        2:31</title>, <title>NS 45:42+50</title>, <title>NS *58:2</title>, and <title>NS
+          173:1</title>, are described in the appendix.<note place="foot" n="2">The asterisk on <title>T-S
+        NS *58:2</title> indicates a false number. See note 32. <title>T-S Misc. 2:71</title> is
+        published in M. Dietrich, <title level="m">Neue palästinisch punktierte Bibelfragmente</title>
+        (Leiden, 1968; hereafter ‘Dietrich’), as ms Cb 7. I am very grateful to the Library Syn-
+        dicate of the Cambridge University Library for allowing me to use the other texts. The
+        information given is taken, in all cases, from a study of original texts. It occasionally
+        disagrees with published transcriptions.</note></p>
+
+      <pb n="35" />
+      <p><num value="3">3</num> The accent signs used in these texts are shown in table I.<note
+          place="foot" n="3">Not all accents are found in all texts. Signs corresponding to Tiberian
+        accents are lacking as follows: telisha gedola, <title>Misc. 1:112</title>, <title>Misc.
+        2:31</title>, <title>NS *58:2</title>, <title>NS 173:1</title>; pazer <title>Misc. 1:112</title>
+        , <title>NS 45:42+</title>, <title>NS *58:2</title>, <title>NS 173:1</title>; zarqa and
+        segolta, <title>Misc. 1:112</title>, <title>NS *58:2</title>, <title>NS 173:1</title>;
+        legarmeh, <title>Misc. 1:112</title>, <title>NS *58:2</title>; zaqef gadol, <title>NS 173:1</title>;
+        geresh, <title>Misc. 1:112</title>.</note> The dis- junctive accents are shown consistently,
+        and with a few variations from the accentuation of the received tradition as represented by
+        the third edition of <title level="m">Biblia Hebraica</title> (BHK). As is usual in
+        Palestinian manuscripts, no sign is used corresponding to BHK silluq, and the same sign is
+        used where BHK has atnah and segolta, zarqa and le- garmeh, pashta and yetib, and geresh and
+        gershayim. The same is true of zaqef and zaqef gadol, except in <title>T-S NS 45:42+</title>,
+        where two dots are added to the Palestinian sign (producing the Tiberian form) in seven out
+        of eight cases where BHK has zaqef gadol. The dots could have been made by the Palestinian
+        or a Tiberian hand.<note place="foot" n="4"><title>T-S Misc. 2:25</title> is another ms of a
+        type in which zaqef gadol is not normally dis- tinguished, but in which this distinction is
+        made, either by the original accenting hand, or by the later addition of the two-dot
+        Tiberian zaqef sign to a prepositive non-Tiberian zaqef sign. See my paper read at the Fifth
+        World Congress of Jewish Studies.</note> Conjunctive accent signs are not usually used.
+        However, in <title>Misc. 2:31</title> telisha qetana is apparently marked,<note place="foot"
+          n="5">Jer. 3:16. The sign is a prepositive circle, which is not used elsewhere to mark
+          this accent. The Tiberian sign appears on the same word. It is, however, pos-
+          sible that both signs are Tiberian, and one is a correction of the other.</note> and in <title>NS
+        45:42+</title> a post-positive dot is occasionally used as a general conjunctive sign.<note
+          place="foot" n="6">Judg. 4:1, 4 and 5:5. For the sign see, for example, P. Kahle, <title
+            level="m">Masoreten des
+            Westens II</title> (Stuttgart, 1930), ms h.</note></p>
+
+      <table xml:id="table-1">
+        <head>TABLE I: SIGNS CORRESPONDING TO THE TIBERIAN ACCENTS</head>
+        <row>
+          <cell>Atnaḥ</cell>
+          <cell>Tifḥa</cell>
+          <cell>Geresh</cell>
+        </row>
+        <row>
+          <cell>Segolta</cell>
+          <cell>Zarqa</cell>
+          <cell>Legarmeh</cell>
+        </row>
+        <row>
+          <cell>Zaqef</cell>
+          <cell>Pashta</cell>
+          <cell>Pazer</cell>
+        </row>
+        <row>
+          <cell>Rebia</cell>
+          <cell>Tebir</cell>
+          <cell>Telisha</cell>
+        </row>
+      </table>
+
+      <pb n="36" />
+      <head type="section">II THE PLACING OF THE ACCENT SIGNS</head>
+
+      <p><num value="1">1</num> A survey of the texts studied here quickly shows that, although cer-
+        tain accent signs are always prepositive or post-positive (see table I), the majority are
+        not tied to a particular position on the written word (such as the middle). It would seem,
+        then, that if the signs are placed according to some convention, it must be connected (as in
+        BHK) with the structure of the word. Accordingly, in the following survey, the position of
+        the accent signs is catalogued according to word structure, both morphological and
+        phonological. In the latter sphere, syllabic structure and stress position as represented in
+        BHK are taken into consideration.</p>
+
+      <p><num value="2">2</num> In many situations, accent signs are placed in a non-BHK position
+        with reasonable consistency. For example: <list rend="numbered">
+          <item n="i">(i) The 2 ms. suffix <hi rend="italic">-aka</hi>.<note place="foot" n="7">Hebrew
+        forms are given in transliterations of the BHK form (note <hi rend="italic">o</hi> qames, <hi
+                rend="italic">a</hi> patah, <hi rend="italic">ē</hi> sere, <hi rend="italic">ε</hi>
+        segol, <hi rend="italic">ə</hi> shewa, <hi rend="italic">ă</hi> etc. hatefs) or
+        schematically (<hi rend="italic">c</hi> any consonant, <hi rend="italic">v</hi> any vowel).
+        The position of the Palestinian accent sign is marked by an acute accent over this form.
+        Note that this does not imply that the vowels of the Palestinian form were the same as those
+        of BHK. Note also that when suffixes are transliterated the vowels preceding the actual
+        pronominal morph are given for clarity.</note> The accent is never placed on the last sylla-
+        ble of a word containing this suffix, but is generally placed on the syllable before the
+        kaf, <hi rend="italic">-Caka</hi> (12 cases). Where the base to which the suffix is bound
+        ends in two different consonants, the accent is placed on the last syllable of the base, <hi
+              rend="italic">-CVCCaka</hi> (2 cases).<note place="foot" n="8"><hi rend="italic">
+        basāʿădākā</hi>, <hi rend="italic">tipʾartākā</hi>, <title>NS 45:42+</title>, Judg. 4:9,
+        5:4.</note> Where the base is a feminine singular form noun, the accent is placed once
+        according to the usual pattern for this suffix, <hi rend="italic">-Cataka</hi>; twice
+        following the usual pattern for feminine nouns, <hi rend="italic">-Cotaka</hi> (see (ii)
+        below);<note place="foot" n="9"><hi rend="italic">ubitəbunōtākā</hi>, <hi rend="italic">
+        ḥokmōtākā</hi>, <hi rend="italic">birəkullātākā</hi>, <hi rend="italic">bəḥokmōtākā</hi>, <title>Misc.
+        2:71</title>, Ezek. 28:4, 4, 5, 5.</note> and once anom- alously. In contrast to this clear
+        divergence from BHK, in words con- taining other bound forms of this pronoun, <hi
+              rend="italic">-ka</hi> (following a vowel), <hi rend="italic">-ak</hi> and <hi
+              rend="italic">-eka</hi> (pausal), and <hi rend="italic">-eyka</hi> (on plural nouns,
+        etc.), the accent sign is usually placed, as in BHK, on the syllable preceding the kaf (18
+        cases). Exceptions are: <hi rend="italic">ʿāleyka</hi> (<title>Misc. 2:71</title>, Ezek.
+        28:7, 29:3, typi- cal placing for <hi rend="italic">ʿal-</hi> see II.5.iv) and <hi
+              rend="italic">waʾäšaharekka</hi> (<title>NS 173:1</title>, Isa. 26:9, anomalous).</item>
+
+          <pb n="37" />
+          <item n="ii">(ii) Feminine singular form nouns with pronominal suffixes. In this situation
+        the accent sign is usually placed on the feminine marker, <hi rend="italic">-ot-</hi> (19
+        cases). It is placed on the bound pronoun only six times, of which two (2 ms. <hi
+              rend="italic">-eyko</hi>, see above) are special cases. The others are: 2 ms. <hi
+              rend="italic">-eyko</hi>, once (see above);<note place="foot" n="10"><hi rend="italic">
+        ḥokmōteykā</hi>, <hi rend="italic">məsukkōteykā</hi>, <title>Misc. 2:71</title>, Ezek. 28:7,
+        13. Cf. <hi rend="italic">zūlātēk</hi>, <title>NS 173:1</title>, Isa. 26:13.</note> 2 fs. <hi
+              rend="italic">-ek</hi>, twice;<note place="foot" n="11"><hi rend="italic">rōmōtēk</hi>
+        , <hi rend="italic">libbōtēk</hi>, <title>Misc. 2:71</title>, Ezek. 16:25, 30. Cf. <hi
+                rend="italic">rəʿōtēk</hi>, <hi rend="italic">kəlimmōtēk</hi>, ibid., Ezek. 16:23,
+        52, and other forms.</note> and 3 fpl. <hi rend="italic">-on</hi> once.<note place="foot"
+              n="12"><hi rend="italic">ləqadmōtān</hi>, cf. <hi rend="italic">ləqadmōtān</hi>, both <title>Misc.
+        2:71</title>, Ezek. 16:55.</note></item>
+          <item n="iii">(iii) The noun <hi rend="italic">yisrāʾēl</hi>. The accent sign is usually
+        placed on the pe- nultimate syllable, <hi rend="italic">yisrāʾēl</hi> (22 cases). In the
+        three remaining cases it coincides with the BHK stress position.</item>
+          <item n="iv">(iv) First or second person perfect forms with waw ‘consecutive.’ The texts
+        contain nine of these forms stressed in BHK on the last syllable. In one, the Palestinian
+        accent sign occupies the same position. In the remaining eight, it is placed on the
+        penultimate syllable.<note place="foot" n="13"><hi rend="italic">wəhikrattī</hi>, <title>Misc.
+        2:71</title>, Ezek. 30:15. Cf. <hi rend="italic">wəhišbattī</hi>, ibid., Ezek. 30:10, and
+        similar forms, ibid., Ezek. 16:53, 28:22, etc.</note></item>
+        </list></p>
+
+      <p><num value="3">3</num> Other cases of consistent placing of the accent sign in a non-BHK
+        posi- tion could be adduced, but in most situations there are two possi- bilities for the
+        placing of the sign: the BHK position, or one non-BHK position. Occasionally further non-BHK
+        positions are found, but these form a very small proportion of the whole. Examples are: <list
+          rend="numbered">
+          <item n="i">(i) The 3 mpl. suffix <hi rend="italic">-eyhem</hi>. The accent sign is placed
+        on the final syllable of a word containing this suffix (as in BHK) in 6 cases; on the
+        penultimate in 8; elsewhere, once.</item>
+          <item n="ii">(ii) The 2 fs. suffix <hi rend="italic">-ayik</hi>. The accent is placed on
+        the penultimate syllable of a word containing this suffix (as in BHK) in 10 cases, on the
+        antepenultimate in 13.</item>
+          <item n="iii">(iii) Feminine singular form nouns. In the absolute forms of these
+            nouns, the accent is placed on the final syllable (as in BHK) in 32
+            cases; on the penultimate in 28 cases; elsewhere, once.</item>
+          <item n="iv">(iv) Masculine plural form nouns. In the absolute forms of these
+            nouns, the accent is placed on the final syllable (as in BHK) 50 times;
+            on the penultimate 22 times; elsewhere, twice.</item>
+        </list></p>
+
+      <p><num value="4">4</num> As these examples show, the general tendency is to place the accent
+        closer to the beginning of the word than in BHK. This is most marked in words which have (in
+        BHK) a stressed, open, final syllable (com- pare II.2.iii with II.2.iv above). Of these, the
+        tendency is more marked in words where the penultimate syllable is open and has a ‘full’
+        vowel, and in longer words. Table II analyses the position of the accent signs</p>
+
+      <pb n="38" />
+      <p>in a group of words according to these criteria, showing the position as (1) on the final
+        syllable or (2) on the penultimate.<note place="foot" n="14">Forms included are: words with
+        pronominal suffix <hi rend="italic">-iy</hi> or <hi rend="italic">-ow</hi>; verb forms,
+        perfect 3 fs. or 3 mpl., imperfect or imperative; 2 fs. or 3 mpl. feminine singular form
+        nouns, which have, in BHK, stressed open final syllables.</note></p>
+
+      <table xml:id="table-2">
+        <head>TABLE II</head>
+        <row role="label">
+          <cell></cell>
+          <cell>(1)</cell>
+          <cell>(2)</cell>
+        </row>
+        <row>
+          <cell>Total words ending -cv (161 in all)</cell>
+          <cell>47%</cell>
+          <cell>53%</cell>
+        </row>
+        <row>
+          <cell>Of these (a) forms ending -vcv (67)</cell>
+          <cell>41%</cell>
+          <cell>59%</cell>
+        </row>
+        <row>
+          <cell>others (94)</cell>
+          <cell>50%</cell>
+          <cell>50%</cell>
+        </row>
+        <row>
+          <cell>(b) words of two syllables (41)</cell>
+          <cell>68%</cell>
+          <cell>32%</cell>
+        </row>
+        <row>
+          <cell>words of three syllables (76)</cell>
+          <cell>42%</cell>
+          <cell>58%</cell>
+        </row>
+        <row>
+          <cell>words of four or more syllables (44)</cell>
+          <cell>34%</cell>
+          <cell>66%</cell>
+        </row>
+      </table>
+
+      <p><num value="5">5</num> This tendency towards penultimate accent position is, however, by no
+        means consistent. The following shows the position of the accent sign in groups of words of
+        similar syllabic structure as (1) on the final syllable or (2) on the penultimate:<note
+          place="foot" n="15"><hi rend="italic">ʾābiy</hi> <title>Misc. 2:31</title>, Jer. 3:19; <hi
+            rend="italic">pəriy</hi> <title>Misc. 2:71</title>, Ezek. 17:23; <hi rend="italic">
+        nəhī/nəhī</hi>, <title>NS *58:2</title>, Jer. 9:17, 18; <hi rend="italic">libkī</hi>, <title>NS
+        173:1</title>, Isa. 22:12.</note></p>
+
+      <table xml:id="table-3">
+        <row role="label">
+          <cell></cell>
+          <cell>(1)</cell>
+          <cell>(2)</cell>
+        </row>
+        <row>
+          <cell>(i) Feminine singular form nouns</cell>
+          <cell>32</cell>
+          <cell>28</cell>
+        </row>
+        <row>
+          <cell>Nouns ending in (bhk) -eh or -eh</cell>
+          <cell>11</cell>
+          <cell>3</cell>
+        </row>
+        <row>
+          <cell>(ii) Nouns ending in (bhk) -iy ‘gentilic’</cell>
+          <cell>—</cell>
+          <cell>7</cell>
+        </row>
+        <row>
+          <cell>Nouns from ‘final weak’ roots ending -iy</cell>
+          <cell>5</cell>
+          <cell>—</cell>
+        </row>
+        <row>
+          <cell>(iii) ‘Strong’ verb forms ending -cv</cell>
+          <cell>24</cell>
+          <cell>30</cell>
+        </row>
+        <row>
+          <cell>‘Weak’ verb forms ending -oh, -eh, -eh</cell>
+          <cell>14</cell>
+          <cell>1</cell>
+        </row>
+      </table>
+
+      <p>Compare also: <list>
+          <item><hi rend="italic">ʿm-</hi> accent sign is on the suffix in 6, on the base in 4.</item>
+          <item><hi rend="italic">ʿl-</hi> accent sign is on the suffix in 1, on the base in 8.</item>
+        </list></p>
+
+      <p>(v) The above examples merely show cases which do not follow the
+        general tendency. The placing of accent signs on ‘segolate’ nouns
+        shows an opposite tendency. The sign is placed on the penultimate
+        syllable (as in BHK) in 36 cases, and on the final syllable in 30 cases.</p>
+
+      <p><num value="6">6</num> Whereas in most situations some of the accent signs do not appear in
+        the BHK stress position, in a number of cases the signs are consist- ently placed in this
+        position. Examples are given in the preceding paragraph. As a further illustration, words
+        with a two-syllable pro- nominal suffix with (BHK) penultimate stress can be cited. These
+        are: 3 ms. <hi rend="italic">-ehuw</hi>, <hi rend="italic">-ennuw</hi>; 3 fs. <hi
+          rend="italic">-ennoh</hi>; 2 ms. <hi rend="italic">-eko</hi>, <hi rend="italic">-eyko</hi>
+        , <hi rend="italic">-ekko</hi>; 3 fpl. <hi rend="italic">-hennoh</hi>; 1 cpl. <hi
+          rend="italic">-onuw</hi>, <hi rend="italic">-enuw</hi>, <hi rend="italic">-eynuw</hi>. The
+        accent sign is placed on the penultimate syllable, as in BHK, in 32 cases; on the
+        antepenultimate in 4 cases; elsewhere, once.</p>
+
+      <pb n="39" />
+      <head type="section">III CONCLUSIONS</head>
+
+      <p><num value="1">1</num> It has always been agreed that the position of some of the
+        Palestinian accent signs is determined as prepositive or post-positive. It is quite clear
+        from the information given above that the placing of the re- mainder is not haphazard
+        either. They are placed, with rare excep- tions, on one of the last three syllables of a
+        word. Cases of uniform accent position in words of identical or similar structure are too
+        many to be ascribed to chance. The information in II.4-5 above shows that the placing of the
+        sign is influenced both by the syllabic form and by the morphemic structure of the word. It
+        is highly probable, then, that the factor which determined the position of the accent signs
+        was stress.</p>
+
+      <p><num value="2">2</num> Current scholarly opinion holds that the Palestinian accent signs do
+        not mark the stress syllable. This opinion originated with Kahle, and was based on the fact
+        that the Palestinian accent position did not always coincide with that of BHK.<note
+          place="foot" n="16">See H. Bauer and P. Leander, <title level="m">Historische Grammatik
+        der hebräischen Sprache</title> (Hildesheim, 1965), no. 9r, p. 140.</note> Later scholars
+        have repeated it without further argument. The observation is perfectly correct, but failure
+        to mark BHK stress position is not the same as failure to mark any stress position at all.
+        It is surprising that scholars who were con- cerned to point out the differences between the
+        vowel systems of BHK and Palestinian Hebrew did not explore the possibility of there being
+        similar differences between their stress systems.</p>
+
+      <p><num value="3">3</num> Scholars who hold that the Palestinian accent signs do not mark
+        stress position explain the fact that so many of them do appear on the BHK stress syllable
+        as the result of Tiberian influence.<note place="foot" n="17">See Dietrich, p. 110.</note>
+        This as- sumption is an integral part of the theory that Palestinian pointed texts show a
+        unilinear development from a ‘Palestinian’ use of their signs to a ‘Tiberian’ use (i.e. that
+        of BHK). The following features of the form and use of the accent signs show, in my opinion,
+        that this theory is untenable.<note place="foot" n="18">For the same conclusion derived from
+        the use of the vowel signs, see my <title level="m">Hebrew
+            Texts with Palestinian Vocalization</title> (Near and Middle East Series, no. 7; Tor-
+        onto, 1970), sect. v.14ff., and 18.</note>
+            <list rend="numbered">
+          <item n="i">(i) Of the signs used in Palestinian mss for disjunctive accents, only that
+        for pashta appears in a single form. It is impossible to arrange the mss so that the signs
+        for the other accents show a unilinear de- velopment, culminating in each case in the sign
+        form closest to the Tiberian.<note place="foot" n="19">E.g. Dietrich’s mss Cb 7, 9, 10, and
+        11 each mark a different accent as does BHK
+              (atnah, rebia, geresh, zaqef).</note></item>
+
+          <pb n="40" />
+          <item n="ii">(ii) The signs for most accents are consistently prepositive, post- positive,
+        or impositive. However, the signs for segolta, rebia, geresh, and legarmeh occur in two of
+        these positions, and that for telisha in all three. It is impossible to arrange the mss so
+        as to show consistent progress towards the BHK position.<note place="foot" n="20">E.g. in <title>T-S
+        NS 246:22</title> (A. Diez Macho, Studia Papyrologica, vi (1967), 15-25), the only ms with a
+        post-positive segolta, geresh is prepositive. (On the placing of geresh, see Dietrich, p.
+        110.)</note></item>
+          <item n="iii">(iii) In most mss silluq is marked only occasionally, if at all. The only
+        one which uses a corresponding sign with anything approaching the consistency of its use in
+        BHK is <title>Bod. Heb. d29, f. 17-20</title>,<note place="foot" n="21">Dietrich, ms Ob 1.</note>
+        which is not close to BHK in any other respects.</item>
+          <item n="iv">(iv) If the number of significant accent signs<note place="foot" n="22">I.e.
+        signs which are neither prepositive or post-positive, nor on monosyllables,
+              and so could indicate stress position.</note> appearing in the BHK stress position is
+        expressed as a percentage of the total number in each ms, the expected progression from
+        small figures for mss whose vowel and disjunctive accent systems are not close to those of
+        BHK, to large figures where they are close, does not appear.<note place="foot" n="23">E.g. <title>J.T.S.
+        ms 594, box b, env. 12</title> (P. Kahle, <title level="m">The Cairo Geniza</title> [Oxford,
+        1959], ap- pendix II), which uses Tiberian signs for atnah, zarqa (Lam. 1:12?), geresh
+        (Eccles. 11:6, Lam. 1:2, 4), and patah, shows a figure of 62 per cent; <title>T-S 16:383
+                + NS 281:2</title> (Dietrich, ms Cb 10, and A. Diez-Macho, Sefarad, 23 (1963), 236-
+        251), using Tiberian geresh, 73 per cent; and <title>T-S NS 249:10</title> (Dietrich, ms Cb
+        11), using Tiberian zaqef, 78 per cent. This criterion thus places these mss in the opposite
+        order to that suggested by Dietrich (see p. 88*).</note></item>
+          <item n="v">(v) Thus, although various items from the differing features of the
+        Palestinian mss can be grouped and seen as the result of chronolog- ical development, it is
+        impossible to show that all such groups reflect a single line of development culminating in
+        a close approach to BHK.<note place="foot" n="24">The development towards BHK suggested by
+        Dietrich and others is no doubt at least partially correct (when not applied equally to all
+        mss). Other possible de- velopments in the use of the vowel signs are suggested in my <title
+                level="m">Hebrew Texts with
+                Palestinian Vocalization</title> (see note 18), sect. v.28. For the accent signs,
+        develop- ments possibly occurred in the number of distinct signs used for disjunctive
+        accents, the same for conjunctive accents, and the extent to which significant accent signs
+        are placed on the BHK stress syllable. This last item shows sig- nificant groupings when
+        correlated with conjunctive (but not disjunctive) sys- tems. Broadly speaking, in
+        one-conjunctive systems, 50-56 per cent of the ac- cents are placed on the BHK stress
+        syllable; in two-conjunctive, 64-76 per cent; and in systems with more conjunctives, 82-90
+        per cent. Systems with no con- junctives show figures of 47-78 per cent, suggesting (if this
+        feature does reflect chronological development) that in some cases the absence of
+        conjunctive signs marks a ‘simplified’ and not a ‘primitive’ system (as with our group of
+        texts, where these signs are not normally used, but were known - see I.3 above).</note></item>
+        </list></p>
+
+      <pb n="41" />
+      <p>tion as chronological development, and some sets must have arisen in this way.<note
+          place="foot" n="25">The placing of accent signs will probably show differences of
+        tradition similar to those found in the use of the vowel signs. For example, <hi
+            rend="italic">-owh</hi> ‘directional’ is not stressed in the texts discussed here (<title>Misc.
+        1:112</title>, Num. 4:43; <title>Misc. 2:71</title>, Ezek. 16:29, 17:20, 29:5; <title>NS
+        45:42+</title>, Judg. 3:23, 25) but is stressed in, for example, <title>T-S A19:11</title>
+        (unpublished), Dan. 8:4, 7, and <title>T-S NS 249:6+</title> (see my article in Textus VII,
+        no. 6.3), 1 Chron. 4:41, 5:9.</note></p>
+
+      <p><num value="4">4</num> Since Palestinian mss showing features close to BHK do not always
+        show a high proportion of accent signs placed in the BHK stress posi- tion (see note 24),
+        there is no basis for the claim that such high pro- portions are the result of Tiberian
+        influence on a tradition in which the accent signs had no conventional position. The
+        information given above shows that the placing of the accent signs was not haphazard.
+        Furthermore, if accent position and stress position are equated, as the evidence surely
+        warrants, the information collected here shows some illuminating complements and parallels
+        to the information pro- vided by the study of the vowel signs. <list rend="numbered">
+          <item n="i">(i) In non-biblical Palestinian texts, there is usually no vowel sign written
+        after the kaf of the 2 ms. pronominal suffix. As ben Hayyim has shown, the final vowel was
+        lost through the influence of Ara- maic.<note place="foot" n="26">See Z. Ben Hayyim, <title
+                level="m">Studies in the Traditions of the Hebrew Language</title> (Madrid, 1954),
+        pp. 51ff.</note> The information in II.2.i above shows that the same influence is at work in
+        the biblical pronunciation, and has caused the retraction of the stress, but not yet (as we
+        know from texts with vowel signs) the loss of the final vowel. Thus the biblical
+        pronunciation follows the same development as the non-biblical, but follows it more slowly,
+        a conclusion already arrived at from the study of the vowel signs.<note place="foot" n="27">See
+        my ‘Studies in the Palestinian Vocalization of Hebrew,’ in <title level="m">Essays on the
+        Ancient Semitic World</title>, edited by J. W. Wevers and D. B. Redford (Toronto, 1970), pp.
+        51-100, I.42.</note></item>
+
+          <pb n="42" />
+          <item n="ii">(ii) The strong tendency to stress the final syllable of ‘segolate’ forms
+            (see II.5.v above) must be a parallel case of Aramaic influence. Others
+            could be added.</item>
+          <item n="iii">(iii) There can be no doubt, considering the normal vocalization of these
+        two types of structure in Palestinian biblical texts, that the stress patterns shown here
+        result from a development which began with a situation similar to that shown by BHK. This
+        repeats another conclusion drawn from the study of the vowel signs: the Palestinian pointing
+        depicts a stage of the language which has developed further from their common origin than
+        has that represented in BHK.<note place="foot" n="28">See ibid., I.31ff.</note></item>
+          <item n="iv">(iv) The failure to distinguish waw ‘consecutive’ perfect forms (see
+            II.2.iv) supports this conclusion. An early feature of the language is
+            here almost completely lost, a trend which has already started in BHK.</item>
+          <item n="v">(v) The other features noted here as divergent from BHK can also be taken as
+        resulting from developments subsequent to the stage of the language represented by BHK.<note
+              place="foot" n="29">The general tendency to retract the stress can be compared with
+        the penulti- mate stressing general in Samaritan Hebrew; see Z. Ben Hayyim, <title level="m">The
+        Literary
+                and Oral Traditions of Hebrew and Aramaic among the Samaritans</title>, vol. III,
+        pt. 1 (Jerusalem, 1961), p. 26. This dialect has followed a different development from
+        either BHK or Palestinian biblical Hebrew, and retains some ancient features, but is
+        considered by Ben Hayyim to represent a later stage of the language than the Tiberian (see
+        ibid., p. VIII).</note> They do not, of course, require this explanation, but it seems to me
+        to raise fewer problems than the other possibilities.</item>
+        </list></p>
+
+      <p><num value="5">5</num> It seems certain, then, that, in these texts, the Palestinian accent
+        signs do mark stress position. The fact that, in most situations, the stress position is not
+        stable, but varies between BHK and non-BHK positions, also parallels the state of affairs
+        indicated by the use of the vowel signs in most Palestinian texts. An older pattern (here
+        the BHK stress pattern) is in the process of change. In some situations, the change is
+        virtually complete, and stress patterns are almost uni- formly ‘Palestinian,’ but in others
+        no change has taken place. In most situations, however, change is in progress, so that
+        either of two stress positions is used. Thus it can be concluded here, as it was from the
+        study of the use of the vowel signs, that the Palestinian pointing was produced by a group
+        who were less successful in guarding their tradi- tional pronunciation from change than were
+        the massoretes of the ben Asher school.</p>
+
+      <pb n="43" />
+      <head type="section">APPENDIX: THE MANUSCRIPTS</head>
+
+      <p><hi rend="bold">T-S Misc. 1:112</hi> Part of two folios of parchment, now about 210 by 225
+        mm., somewhat damaged. The text is written in two columns of about 185 by 80 mm., with 33 or
+        34 lines per column. The script is a small, neat, formal Palestinian type, similar to that
+        of <title>T-S Misc. 1:44</title>.<note place="foot" n="30">Dietrich, ms Cb 4.</note> The ink
+        is olive-brown, badly faded in parts, for which reason fol. 1 was mostly retraced in black
+        ink. The Palestinian accent signs were added in a dark grey ink. They appear to be almost
+        completely confined to fol. 1, and are very difficult to read because of fading and partial
+        obliteration by the retracing of the text. Folio 1 contains Numbers 3:48 to 4:45.</p>
+
+      <p><hi rend="bold">T-S Misc. 2:31</hi> Two fragments of a sheet of parchment, now ca. 240 by
+        185 mm., badly deteriorated, and with many tears and holes. The text is written in three
+        columns of about 205 by 65 mm., with 36 or 37 lines per column. The script is a fairly free,
+        rather clumsy Palestinian type in dark brown ink. Some parts of the text seem to have been
+        retraced in a similar ink. The Palestinian accent signs, and also Tiberian vowels and
+        accents, were added in an ink similar to that of the script. The Tiberian signs cor- respond
+        fairly closely to BHK usage, but show deviations, such as the interchange of patah/qames and
+        sere/segol. Owing to de- terioration of the materials, the text on the verso is mostly
+        illegi- ble, and few Palestinian signs can be seen. The fragment contains Jer. 2:37 to 5:6.</p>
+
+      <p><hi rend="bold">T-S Misc. 2:71</hi> Discovered by Dr Manfried Dietrich, and de- scribed and
+        partially published in his <title level="m">Neue palästinisch punktierte
+          Bibelfragmente</title> (Leiden, 1968) as ms Cb 7. Dr Dietrich is uncer- tain about the
+        forms of the signs used for zarqa and segolta (see pp. 56f.). In my opinion, he has
+        correctly given the single case of zarqa (Ezek. 17:19, as table I above), but I do not agree
+        with his suggestion that segolta is marked with two dots (:) as I think the dots to which he
+        refers were not made by the Palestinian hand (they are probably part of a Tiberian segolta
+        sign). In Ezek. 28:25, as Dietrich notes, the atnah sign is clearly used where BHK has
+        segolta. The same sign is visible in Ezek. 17:16 (under the final h of yhwh, displaced by
+        the lamed in the line below), and in Ezek. 17:19 (under the כ of ^ny). It is usual in
+        Palestinian</p>
+
+      <pb n="44" />
+      <p>mss for the same sign to be used where BHK has both atnah and segolta. The atnah sign is
+        used in both positions in other mss of the group described here (<title>Misc. 2:31</title>,
+        Jer. 3:25; <title>NS 45:42+</title>, Judg. 2:12, 3:15, 4:18), in <title>J.T.S. ms 594, B.12</title>,
+        see note 23 (Lam. 1:12, under the d of drk, clear in the photograph, but overlooked in the
+        tran- scription), and also in some Tiberian mss (e.g. <title>T-S 28:16</title>, Ezek. 23:10,
+        22, and cf. Dietrich, p. 26).</p>
+
+      <p><hi rend="bold">T-S NS 45:42+50</hi> Two folios of parchment, about 230 by 220 mm.,
+        slightly damaged. The text of fols. 1 and 2r is written in three columns of about 200 by 65
+        mm., that of fol. 2v (the song of Debora) in two columns about 200 by 100 mm., with 33 to 36
+        lines per column. The script is a fairly formal square Palestinian type in dark brown ink.
+        Some parts were retraced in black, partially obliterating the pointing, particularly on the
+        lower half of fol. 2r. The Palestinian accent signs were added in an ink varying from dark
+        brown to red brown. Subsequently Tiberian pointing was added in a similar, but generally
+        paler ink. The pointing shows considerable divergence from BHK: e.g. qames and segol are
+        rare,<note place="foot" n="31">It is possible that they were not used at all by the first
+        Tiberian hand, but this
+          seems unlikely.</note> and are frequently replaced by patah and sere. Occasionally ac-
+        cent signs are written in a position different from that of BHK. A later hand, with ink of
+        the same colour, has, to some extent, har- monized this pointing with that of BHK. This
+        fragment contains Judg. 2:2 to 5:26.</p>
+
+      <p><hi rend="bold">T-S NS *58:2</hi><note place="foot" n="32">When I first found this text, I
+        provisionally assigned this number to it, and in
+          fact obtained a photograph of it under this number. When the fragments in the
+          box were prepared for binding, however, this text evidently became separated
+          from its folder, and was given a new number, which I have not so far been able
+          to trace.</note> Three fragments of a leaf of parchment, originally about 255 by 230 mm.,
+        now badly torn and deteriorated. The text is written in three columns about 210 by 65 mm.,
+        with 35 to 37 lines per column. The script is a fairly free, rather clumsy Palestinian
+        square type in dark brown ink. The Palestinian ac- cent signs were added in an ink somewhat
+        paler than that of the script. Tiberian vowel and accent signs were added in a somewhat
+        darker ink. These show some deviation from the BHK system especially in interchange of segol
+        and sere. Interchange of patah and qames occurs more rarely. Occasional accent signs differ
+        in position from those of BHK. A later hand, with similar ink, has</p>
+
+      <pb n="45" />
+      <p>harmonized some features of this pointing with the BHK tradition, particularly deviations
+        in accent position. The legible part of the text covers Jer. 8:10 to 11:6. This fragment is
+        very similar to <title>T-S
+          Misc. 2:31</title> in script and layout, and it is possible (but I think un- likely) that
+        they belong to the same ms.</p>
+
+      <p><hi rend="bold">T-S NS 173:1</hi> A fragment of a leaf of parchment, now 115 by 150 mm.,
+        with tears and holes. The text was written in three columns about 65 mm. wide. Part of recto
+        col. 1 and 2 (verso col. 2 and 3) is pre- served. The script is a fairly free, rather clumsy
+        Palestinian square type in a dark brown ink. Some parts, particularly on the recto, have
+        been retraced in a similar ink. The Palestinian accent signs were added in an ink similar to
+        that of the script. Tiberian point- ing was added in a generally paler ink. This shows some
+        deviations from BHK in the interchange of sere/segol and (rarely) patah/ qames, and also
+        occasionally in the accent system. A later hand, in similar ink, has harmonized some of
+        these features with the BHK system. The fragment contains Isa. 22:9 to 23:4 and 25:5 to
+        26:16. The fragment is similar in script, and (presumed) layout to <title>T-S NS *58:2</title>,
+        and might have belonged to the same ms.</p>
     </body>
   </text>
 </TEI>

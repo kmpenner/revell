@@ -376,6 +376,7 @@ def convert_tei_to_html(xml_path):
             self.date_captured = False
             
             # States
+            self.in_header = False
             self.in_title_stmt = False
             self.in_title = False
             self.in_publication_stmt = False
@@ -405,19 +406,22 @@ def convert_tei_to_html(xml_path):
                 self.in_imprint = True
             elif tag == 'date' and (self.in_publication_stmt or self.in_imprint) and not self.date_captured:
                 self.in_date = True
-                
-            # If inside a footnote note tag, buffer the raw content
-            if self.in_note:
-                self.note_depth += 1
-                attr_str = "".join([f' {k}="{v}"' for k, v in attrs])
-                self.current_note_buffer.append(f"<{tag}{attr_str}>")
-                return
+            elif tag == 'teiheader':
+                self.in_header = True
 
+            if self.in_header:
+                return
+                
             if tag == 'note':
                 self.in_note = True
-                self.note_depth = 1
                 self.current_note_id = attr_dict.get('n') or attr_dict.get('xml:id') or str(len(self.footnotes) + 1)
                 self.current_note_buffer = []
+                return
+
+            # If inside a footnote note tag, buffer the raw content
+            if self.in_note:
+                attr_str = "".join([f' {k}="{v}"' for k, v in attrs])
+                self.current_note_buffer.append(f"<{tag}{attr_str}>")
                 return
 
             # Main content tag translation
@@ -426,12 +430,16 @@ def convert_tei_to_html(xml_path):
                 html_start = "<p>"
             elif tag == 'head':
                 html_start = "<h2>"
-            elif tag in ['hi', 'i', 'emphasis', 'emph']:
+            elif tag in ['hi', 'i', 'emphasis', 'emph', 'term']:
                 rend = attr_dict.get('rend') or attr_dict.get('rendition')
                 if rend == 'bold':
                     html_start = "<b>"
                 elif rend == 'typewriter':
                     html_start = "<code>"
+                elif rend in ['sup', 'superscript']:
+                    html_start = "<sup>"
+                elif rend == 'underline':
+                    html_start = "<u>"
                 else:
                     html_start = "<i>"
             elif tag == 'foreign':
@@ -460,6 +468,8 @@ def convert_tei_to_html(xml_path):
                 html_start = '<span class="item-label">'
             elif tag == 'unclear':
                 html_start = '<span class="unclear" title="Unclear text">'
+            elif tag == 'fw':
+                html_start = '<span class="fw">'
             elif tag == 'space':
                 qty = attr_dict.get('quantity') or "1"
                 try:
@@ -485,16 +495,22 @@ def convert_tei_to_html(xml_path):
             elif tag == 'date' and self.in_date:
                 self.in_date = False
                 self.date_captured = True
+            elif tag == 'teiheader':
+                self.in_header = False
+                return
+
+            if self.in_header:
+                return
+
+            if tag == 'note' and self.in_note:
+                self.in_note = False
+                note_content = "".join(self.current_note_buffer).strip()
+                self.footnotes.append((self.current_note_id, note_content))
+                self.output_parts.append(f'<sup class="footnote-ref"><a href="#fn-{self.current_note_id}" id="fnref-{self.current_note_id}">{self.current_note_id}</a></sup>')
+                return
 
             if self.in_note:
-                self.note_depth -= 1
-                if self.note_depth == 0:
-                    self.in_note = False
-                    note_content = "".join(self.current_note_buffer).strip()
-                    self.footnotes.append((self.current_note_id, note_content))
-                    self.output_parts.append(f'<sup class="footnote-ref"><a href="#fn-{self.current_note_id}" id="fnref-{self.current_note_id}">{self.current_note_id}</a></sup>')
-                else:
-                    self.current_note_buffer.append(f"</{tag}>")
+                self.current_note_buffer.append(f"</{tag}>")
                 return
 
             # Pop tags from stack to close them
@@ -506,12 +522,15 @@ def convert_tei_to_html(xml_path):
                     elif html_start.startswith("<h2>"): html_close = "</h2>\n"
                     elif html_start.startswith("<b>"): html_close = "</b>"
                     elif html_start.startswith("<code>"): html_close = "</code>"
+                    elif html_start.startswith("<sup>"): html_close = "</sup>"
+                    elif html_start.startswith("<u>"): html_close = "</u>"
                     elif html_start.startswith("<i>"): html_close = "</i>"
                     elif html_start.startswith('<span dir="rtl" class="hebrew">'): html_close = "</span>"
                     elif html_start.startswith("<ul>"): html_close = "</ul>\n"
                     elif html_start.startswith("<li>"): html_close = "</li>\n"
                     elif html_start.startswith('<span class="item-label">'): html_close = "</span>"
                     elif html_start.startswith('<span class="unclear"'): html_close = "</span>"
+                    elif html_start.startswith('<span class="fw">'): html_close = "</span>"
                     
                     del self.tag_stack[i:]
                     break
@@ -527,21 +546,21 @@ def convert_tei_to_html(xml_path):
             
             if self.in_note:
                 self.current_note_buffer.append(data)
-            else:
+            elif not self.in_header:
                 self.output_parts.append(data)
 
         def handle_entityref(self, name):
             ref = f"&{name};"
             if self.in_note:
                 self.current_note_buffer.append(ref)
-            else:
+            elif not self.in_header:
                 self.output_parts.append(ref)
 
         def handle_charref(self, name):
             ref = f"&#{name};"
             if self.in_note:
                 self.current_note_buffer.append(ref)
-            else:
+            elif not self.in_header:
                 self.output_parts.append(ref)
 
     try:

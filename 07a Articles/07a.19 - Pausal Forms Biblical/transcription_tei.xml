@@ -68,15 +68,15 @@ IN PROSE TEXTS</head>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>forms mostly occur with <hi rend="italic">segolta</hi>, <hi rend="italic">zaqef</hi>, or <hi rend="italic">tifha</hi>; however, 9 occur with <hi rend="italic">revia</hi>, 5 with <hi rend="italic">pashta</hi>, 3 with <hi rend="italic">telisha</hi>, and one with each of <hi rend="italic">zarqa</hi>, <hi rend="italic">tevir</hi>, <hi rend="italic">geresh</hi>, and the conjunctive <hi rend="italic">munah</hi>. Thus 21 pausal forms, or nearly 5%, occur with accents of distinctly minor pausal value.</p>
 <p>2.2. About 75% of the pausal forms occur at the ends of clauses. Those which occur within clauses can be grouped in two basic categories: those marking the ends of equivalent units used in parallel function, and those which simply divide a clause into two parts. Equivalent units in parallel function can range from a long series of nouns in a list, to two or three prepositional phrases. In such cases a pausal form is not used after every item unless the items are unusually long or significant. As far as can be determined, the usual practice is to group the items in twos or threes, and use a pausal form at the end of each group. Examples are: for a list, Deut. v. 14 (cf. vii. 13 etc.)
-<lb/><hi rend="hebrew">לֹא תַעֲשֶׂה כָל מְלָאכָה אַתָּה וּבִנְךָ וּבִתֶּךָ וְעַבְדְּךָ וַאֲמָתֶךָ</hi>
-<lb/><hi rend="hebrew">... וְשׁוֹרְךָ וַחֲמֹרְךָ וְכָל בְּהֶמְתֶּךָ</hi>
-<lb/>and for parallel phrases Deut. xxviii. 67 (cf. xxii. 9, xxxiii. 13 etc.) <hi rend="hebrew">בַּבֹּקֶר תֹּאמַר ... וּבָעֶרֶב תֹּאמַר ... מִפַּחַד לְבָבְךָ אֲשֶׁר תִּפְחָד</hi>
-<lb/><hi rend="hebrew">וּמִמַּרְאֵה עֵינֶיךָ אֲשֶׁר תִּרְאֶה׃</hi></p>
+<lb/><hi rend="hebrew"><foreign xml:lang="he">לֹא תַעֲשֶׂה כָל מְלָאכָה אַתָּה וּבִנְךָ וּבִתֶּךָ וְעַבְדְּךָ וַאֲמָתֶךָ</foreign></hi>
+<lb/><hi rend="hebrew">... <foreign xml:lang="he">וְשׁוֹרְךָ וַחֲמֹרְךָ וְכָל בְּהֶמְתֶּךָ</foreign></hi>
+<lb/>and for parallel phrases Deut. xxviii. 67 (cf. xxii. 9, xxxiii. 13 etc.) <hi rend="hebrew"><foreign xml:lang="he">בַּבֹּקֶר תֹּאמַר</foreign> ... <foreign xml:lang="he">וּבָעֶרֶב תֹּאמַר</foreign> ... <foreign xml:lang="he">מִפַּחַד לְבָבְךָ אֲשֶׁר תִּפְחָד</foreign></hi>
+<lb/><hi rend="hebrew"><foreign xml:lang="he">וּמִמַּרְאֵה עֵינֶיךָ אֲשֶׁר תִּרְאֶה׃</foreign></hi></p>
 <p>It is noteworthy that the items in lists are often grouped in a similar way by the accents, as in Deut. viii. 8 and also by verse divisions, as in Neh. xii. 1 ff. (separating items in a list) or in Deut. ix. 1 f. (separating parallel phrases).</p>
 <p>2.3. Where pausal forms are used between phrases which are not syntactically equivalent, they seem generally to occur at the end of the most significant part or "core" of the clause, and to divide it from less important phrases, often explanatory modifiers, which follow.<note n="1">The purpose would seem to be to emphasise the basic statement in the core of the clause. Examples are: Deut. xiii. 18</note>
-<lb/><hi rend="hebrew">וְרִחַמְךָ וְהִרְבֶּךָ כַּאֲשֶׁר נִשְׁבַּע לַאֲבֹתֶיךָ׃</hi>
+<lb/><hi rend="hebrew"><foreign xml:lang="he">וְרִחַמְךָ וְהִרְבֶּךָ כַּאֲשֶׁר נִשְׁבַּע לַאֲבֹתֶיךָ׃</foreign></hi>
 <lb/>where the pausal form is followed by an explanatory modifier (cf. xxv. 13, xxviii. 27 etc.), and Deut. v. 27
-<lb/><hi rend="hebrew">קְרַב אַתָּה וּשְׁמָע אֵת כָּל אֲשֶׁר יֹאמַר יהוה אֱלֹהֵינוּ</hi></p>
+<lb/><hi rend="hebrew"><foreign xml:lang="he">קְרַב אַתָּה וּשְׁמָע אֵת כָּל אֲשֶׁר יֹאמַר יהוה אֱלֹהֵינוּ</foreign></hi></p>
 <note n="1">Cf. the similar phenomena in the accentuation called "Supplemental clause" and "<hi rend="italic">Zusatz</hi>" in W. Wickes, <hi rend="italic">A treatise on the accentuation of the twenty-one ... books</hi>, Oxford 1887, 32, 45, 47, 48, 57, cf. 3 on pp. 53-4.</note>
       <pb n="167"/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
@@ -98,7 +98,7 @@ following clause, and they are usually short, often only a verb
 form, as in Deut. xiii. 18, v. 27 quoted above (2.3). Deut. xiv. 25
 provides a longer example (with no pause at <mentioned>bydk</mentioned>), and Deut.
 iv. 19 an exceptionally long one
-<q xml:lang="heb">ופן תשא ... השׁמימה וראית ... השׁמים ונדחת והשׁתחוית ... ועבדתם</q>
+<q xml:lang="he">ופן תשא ... השׁמימה וראית ... השׁמים ונדחת והשׁתחוית ... ועבדתם</q>
 It is in this area, where two or more clauses are joined into one
 unit, that the semantic element governing the use of pausal
 forms is most apparent. The perception of a semantic relation-
@@ -191,74 +191,74 @@ EVIDENCE FROM BIBLICAL LITERATURE</head>
       <pb n="172"/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>but before the <quote>“core”</quote> of the clause in which the main idea is expressed. The adverbial introduction consists of one or two prepositional phrases, or of an adverb (often <mentioned>‘th</mentioned>), and is usually concerned with time, as in 1 Sam. ii. 30, Isa. xxii. 25, Jer. v. 18, viii. 1, xxi. 7, xxxi. 1, l. 4, 20, Joel ii. 12, Mic. iv. 6, Hag. ii. 23, Zech. iii. 10, xii. 4. The adverbial introduction may also be concerned with space, as in Ezek. xx. 40, or with manner, as in Jer. l. 40.
-<lb/>כמהפכת אלהים את סדם . . . נאם יהוה לא ישב שם איש׃</p>
+<lb/><foreign xml:lang="he">כמהפכת אלהים את סדם</foreign> . . . <foreign xml:lang="he">נאם יהוה לא ישב שם איש׃</foreign></p>
 <p>In a similar way <mentioned>n’m yhwh</mentioned> is used after <mentioned>lkn</mentioned> introducing a consequence in 1 Sam. ii. 30 and in Isa. i. 24. Group I is the most common situation in which <mentioned>n’m yhwh</mentioned> is used within clauses. Parallels in the use of pausal forms are not common.<note n="1">See, however, Num. xi. 9 and Esth. i. 10 for the use of pausal forms after an introductory phrase referring to time, and Num. xxxv. 8 for the use of one after a phrase expressing manner:
-<lb/>איש כפי נחלתו אשר ינחלו יתן מעריו ללוים׃</note>
+<lb/><foreign xml:lang="he">איש כפי נחלתו אשר ינחלו יתן מעריו ללוים׃</foreign></note>
 One can also compare the use of pausal forms after invocations in 1 Kings xvii. 20, 21, complex subjects in Num. xviii. 1, 1, xix. 16, and <quote>“casus pendens”</quote> in Num. xxx. 14, 1 Kings v. 19, etc.</p>
 <p>4.3.2. <mentioned>n’m yhwh</mentioned> used after the <quote>“core”</quote> of the clause, which expresses the main idea, but before some <quote>“explanatory modifiers”</quote>.<note n="2">Such explanatory modifiers may modify the verb of the clause, as in Jer. xiii. 11, xvii. 24, xxv. 7, Ezek. xxxvi. 23, cf. the pausal form in Num. xxii. 18. The phrase may similarly modify the <quote>“headword”</quote> of the predicate of a non-verbal clause, as the infinitive phrase in Jer. i. 19
-<lb/>כי אתך אני נאם יהוה להצילך׃
+<lb/><foreign xml:lang="he">כי אתך אני נאם יהוה להצילך׃</foreign>
 <lb/>(So also Jer. xxx. 11, xlix. 5, Ezek. xliii. 19.) Cf. the pausal form in 2 Sam. iii. 12
-<lb/>והנה ידי עמך להסב אליך את כל ישראל׃</note>
+<lb/><foreign xml:lang="he">והנה ידי עמך להסב אליך את כל ישראל׃</foreign></note>
 Phrases following <mentioned>n’m yhwh</mentioned> may also modify other parts of the preceding core of the clause. In this case they typically expand an</p>
 <note n="1">It is also, of course, true that <mentioned>‘th</mentioned> does not appear in pausal form in parallel cases where <mentioned>n’m yhwh</mentioned> is not used, although it often does have a relatively strong pausal accent, as in Gen. iv. 11, xii. 19, xx.7. This use of <mentioned>n’m yhwh</mentioned> does, however, correspond to usage typical of the accent system, see Wickes, <title>Twenty-one books</title>, p. 47.</note>
 <note n="2">The accents often divide clauses in a similar way, see p. 166, note 1.</note>
       <pb n="173"/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>idea given in the core of the clause.<note n="1">In Jer. l. 35 and Zeph. iii. 8 this occurs in a prepositional phrase, cf. the pausal form in Isa. xiv. 15 or Deut. xxx. 9. In Jer. xv. 3 a noun phrase is expanded in this way.</note></p>
-<p xml:lang="heb" dir="rtl">... ופקדתי עליהם ארבע משפחות נאם יהוה את החרב להרג ואת</p>
+<p xml:lang="he" dir="rtl">... ופקדתי עליהם ארבע משפחות נאם יהוה את החרב להרג ואת</p>
 <p>(so also Jer. xvi. 5, xxix. 11), cf. the pausal form in 1 Kings iii. 13</p>
-<p xml:lang="heb" dir="rtl">וגם אשר לא שאלת נתתי לָךְ גם עשר גם כבוד</p>
+<p xml:lang="he" dir="rtl">וגם אשר לא שאלת נתתי לָךְ גם עשר גם כבוד</p>
 <p>The element expanded may even be the pronominal morph in the verb form, as in Amos iii. 10 (cf. the pausal form in Lev. xxv. 41), and similar usage occurs in non-verbal clauses, as Isa. xxx. 1, Jer. xxi. 13, xxiii. 30, 31, li. 25, Ezek. xvi. 30 (cf. the pausal form in 2 Sam. xii. 1). In some cases the phrases following <foreign>nʾm yhwh</foreign> express an addition to some item in the core of the clause rather than an expansion of it; that is, <foreign>nʾm yhwh</foreign> stands between equivalent units in parallel syntactic function (see 2.2 above). This occurs in a verbal clause in Jer. xix. 12</p>
-<p xml:lang="heb" dir="rtl">כן אעשה למקום הזה נאם יהוה וליושביו</p>
+<p xml:lang="he" dir="rtl">כן אעשה למקום הזה נאם יהוה וליושביו</p>
 <p>Cf. the pausal form in Deut. xxviii. 67 quoted in 2.2 above. There is a similar situation in a non-verbal clause in Isa. xliii. 10 (cf. the pausal form in Gen. xxix. 19).</p>
 <p>4.3.3. <foreign>nʾm yhwh</foreign> may occur within the “core” of the clause; that is, in cases where the basic idea of the clause is not intelligible (as it is in 4.3.1 and 4.3.2) without the phrases which either precede or follow <foreign>nʾm yhwh</foreign>. For instance, <foreign>nʾm yhwh</foreign> occurs between the verb and its object in Jer. xlviii. 35</p>
-<p xml:lang="heb" dir="rtl">והשבתי למואב נאם יהוה מעלה במה ומקטיר לאלהיו׃</p>
+<p xml:lang="he" dir="rtl">והשבתי למואב נאם יהוה מעלה במה ומקטיר לאלהיו׃</p>
 <p>Also Jer. xlviii. 30, and compare the pausal form in Deut. v. 27 (2.3 above), also Isa. lxiv. 3. It occurs in various other positions within verbal clauses in Jer. xxxiv. 17, Zeph. i. 10, Zech. ii. 9. Similarly it occurs before the object of a participle in a non-verbal clause in Amos vi. 14</p>
-<p xml:lang="heb" dir="rtl">כי הנני מקים עליכם בית ישראל נאם יהוה אלהי הצבאות גוי</p>
+<p xml:lang="he" dir="rtl">כי הנני מקים עליכם בית ישראל נאם יהוה אלהי הצבאות גוי</p>
 <p>This isolation of a single word at the end of a clause has a striking</p>
 <note n="1">The accents divide clauses in a similar way in Gen. xxiv. 24, and in several examples listed by Wickes, <title>Twenty-one books</title>, on p. 40 under vi.</note>
       <pb n="172"/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>but before the “core” of the clause in which the main idea is expressed. The adverbial introduction consists of one or two prepositional phrases, or of an adverb (often <mentioned>‘th</mentioned>), and is usually concerned with time, as in 1 Sam. ii. 30, Isa. xxii. 25, Jer. v. 18, viii. 1, xxi. 7, xxxi. 1, l. 4, 20, Joel ii. 12, Mic. iv. 6, Hag. ii. 23, Zech. iii. 10, xii. 4. The adverbial introduction may also be concerned with space, as in Ezek. xx. 40, or with manner, as in Jer. l. 40.</p>
-<p rendition="align-center">כמהפכת אלהים את סדם . . . נאם יהוה לא ישב שם איש</p>
+<p rendition="align-center"><foreign xml:lang="he">כמהפכת אלהים את סדם</foreign> . . . <foreign xml:lang="he">נאם יהוה לא ישב שם איש</foreign></p>
 <p>In a similar way <mentioned>n’m yhwh</mentioned> is used after <mentioned>lkn</mentioned> introducing a consequence in 1 Sam. ii. 30 and in Isa. i. 24. Group I is the most common situation in which <mentioned>n’m yhwh</mentioned> is used within clauses. Parallels in the use of pausal forms are not common.<note n="1">See, however, Num. xi. 9 and Esth. i. 10 for the use of pausal forms after an introductory phrase referring to time, and Num. xxxv. 8 for the use of one after a phrase expressing manner:</note></p>
-<p rendition="align-center">איש כפי נחלתו אשר ינחָלו יתן מעריו ללוים׃</p>
+<p rendition="align-center"><foreign xml:lang="he">איש כפי נחלתו אשר ינחָלו יתן מעריו ללוים׃</foreign></p>
 <p>One can also compare the use of pausal forms after invocations in 1 Kings xvii. 20, 21, complex subjects in Num. xviii. 1, 1, xix. 16, and “casus pendens” in Num. xxx. 14, 1 Kings v. 19, etc.</p>
 <p>4.3.2. <mentioned>n’m yhwh</mentioned> used after the “core” of the clause, which expresses the main idea, but before some “explanatory modifiers”.<note n="2">Such explanatory modifiers may modify the verb of the clause, as in Jer. xiii. 11, xvii. 24, xxv. 7, Ezek. xxxvi. 23, cf. the pausal form in Num. xxii. 18. The phrase may similarly modify the “headword” of the predicate of a non-verbal clause, as the infinitive phrase in Jer. i. 19</note></p>
-<p rendition="align-center">כי אתך אני נאם יהוה להצילֶך׃</p>
+<p rendition="align-center"><foreign xml:lang="he">כי אתך אני נאם יהוה להצילֶך׃</foreign></p>
 <p>(So also Jer. xxx. 11, xlix. 5, Ezek. xliii. 19.) Cf. the pausal form in 2 Sam. iii. 12</p>
-<p rendition="align-center">והנה ידי עמָךְ להסב אליך את כל ישראל׃</p>
+<p rendition="align-center"><foreign xml:lang="he">והנה ידי עמָךְ להסב אליך את כל ישראל׃</foreign></p>
 <p>Phrases following <mentioned>n’m yhwh</mentioned> may also modify other parts of the preceding core of the clause. In this case they typically expand an</p>
 <note n="1" place="foot">It is also, of course, true that <mentioned>‘th</mentioned> does not appear in pausal form in parallel cases where <mentioned>n’m yhwh</mentioned> is not used, although it often does have a relatively strong pausal accent, as in Gen. iv. 11, xii. 19, xx. 7. This use of <mentioned>n’m yhwh</mentioned> does, however, correspond to usage typical of the accent system, see Wickes, <title>Twenty-one books</title>, p. 47.</note>
 <note n="2" place="foot">The accents often divide clauses in a similar way, see p. 166, note 1.</note>
       <pb n="173"/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>idea given in the core of the clause.<note n="1">The accents divide clauses in a similar way in Gen. xxiv. 24, and in several examples listed by Wickes, <hi rend="italic">Twenty-one books</hi>, on p. 40 under vi.</note> In Jer. l. 35 and Zeph. iii. 8 this occurs in a prepositional phrase, cf. the pausal form in Isa. xiv. 15 or Deut. xxx. 9. In Jer. xv. 3 a noun phrase is expanded in this way.</p>
-<p rend="center">... ופקדתי עליהם ארבע משפחות נאם יהוה את החרב להרג ואת</p>
+<p rend="center">... <foreign xml:lang="he">ופקדתי עליהם ארבע משפחות נאם יהוה את החרב להרג ואת</foreign></p>
 <p>(so also Jer. xvi. 5, xxix. 11), cf. the pausal form in 1 Kings iii. 13</p>
-<p rend="center">וגם אשר לא שאלת נתתי לָךְ גם עשר גם כבוד</p>
+<p rend="center"><foreign xml:lang="he">וגם אשר לא שאלת נתתי לָךְ גם עשר גם כבוד</foreign></p>
 <p>The element expanded may even be the pronominal morph in the verb form, as in Amos iii. 10 (cf. the pausal form in Lev. xxv. 41), and similar usage occurs in non-verbal clauses, as Isa. xxx. 1, Jer. xxi. 13, xxiii. 30, 31, li. 25, Ezek. xvi. 30 (cf. the pausal form in 2 Sam. xii. 1). In some cases the phrases following <hi rend="italic">n’m yhwh</hi> express an addition to some item in the core of the clause rather than an expansion of it; that is, <hi rend="italic">n’m yhwh</hi> stands between equivalent units in parallel syntactic function (see 2.2 above). This occurs in a verbal clause in Jer. xix. 12</p>
-<p rend="center">כּן אעשה למקום הזה נאם יהוה וליושביו</p>
+<p rend="center"><foreign xml:lang="he">כּן אעשה למקום הזה נאם יהוה וליושביו</foreign></p>
 <p>Cf. the pausal form in Deut. xxviii. 67 quoted in 2.2 above. There is a similar situation in a non-verbal clause in Isa. xliii. 10 (cf. the pausal form in Gen. xxix. 19).</p>
 <p>4.3.3. <hi rend="italic">n’m yhwh</hi> may occur within the “core” of the clause; that is, in cases where the basic idea of the clause is not intelligible (as it is in 4.3.1 and 4.3.2) without the phrases which either precede or follow <hi rend="italic">n’m yhwh</hi>. For instance, <hi rend="italic">n’m yhwh</hi> occurs between the verb and its object in Jer. xlviii. 35</p>
-<p rend="center">והשבתי למואב נאם יהוה מעלה במה ומקטיר לאלהיו׃</p>
+<p rend="center"><foreign xml:lang="he">והשבתי למואב נאם יהוה מעלה במה ומקטיר לאלהיו׃</foreign></p>
 <p>Also Jer. xlviii. 30, and compare the pausal form in Deut. v. 27 (2.3 above), also Isa. lxiv. 3. It occurs in various other positions within verbal clauses in Jer. xxxiv. 17, Zeph. i. 10, Zech. ii. 9. Similarly it occurs before the object of a participle in a non-verbal clause in Amos vi. 14</p>
-<p rend="center">כי הנני מקים עליכם בית ישראל נאם יהוה אלהי הצבאות גּוֹי</p>
+<p rend="center"><foreign xml:lang="he">כי הנני מקים עליכם בית ישראל נאם יהוה אלהי הצבאות גּוֹי</foreign></p>
 <p>This isolation of a single word at the end of a clause has a striking</p>
 <note n="1">The accents divide clauses in a similar way in Gen. xxiv. 24, and in several examples listed by Wickes, <hi rend="italic">Twenty-one books</hi>, on p. 40 under vi.</note>
       <pb/>
 <head>PAUSAL FORMS IN BIBLICAL HEBREW</head>
 <p>parallel in the use of the pausal form in Jer. xiii. 13 (also Jer. viii. 1).</p>
-<p rend="align(center)" xml:lang="heb">כה אמר יהוה הנני ממלא את כל ישבי הארץ הזּאת ואת . . .</p>
-<p rend="align(center)" xml:lang="heb">ואת . . . ואת . . . ואת כל ישבי ירושלם שִׁכָּרוֹן׃</p>
+<p rend="align(center)" xml:lang="he">כה אמר יהוה הנני ממלא את כל ישבי הארץ הזּאת ואת . . .</p>
+<p rend="align(center)" xml:lang="he">ואת . . . ואת . . . ואת כל ישבי ירושלם שִׁכָּרוֹן׃</p>
 <p>4.4. Clauses are similarly interrupted by other word groups – most obviously <hi rend="italic">'mr yhwh</hi> which appears, at least in some cases, to function as a free variant of <hi rend="italic">n’m yhwh</hi> (e.g. Hag. ii. 9, and cf. Jer. xlix. 18 with Jer. l. 40). <hi rend="italic">'mr yhwh</hi> is used after an adverbial introduction (cf. group I of <hi rend="italic">n’m yhwh</hi>) in Isa. xlix. 5, and Jer. xlix. 18. It stands before an explanatory modifier in Isa. lix. 21 (cf. group II) and in the same verse it stands after the title to a list</p>
-<p rend="align(center)" xml:lang="heb">ואני זאת בריתי אותם אמר יהוה רוחי . . . ודברי . . .</p>
+<p rend="align(center)" xml:lang="he">ואני זאת בריתי אותם אמר יהוה רוחי . . . ודברי . . .</p>
 <p>Cf. 4.3.2 above, and the pausal form in Deut. xiv. 4</p>
-<p rend="align(center)" xml:lang="heb">זאת הבהמה אשר תֹּאכֵל֫וּ שור שה כשבים ושה עזים׃</p>
+<p rend="align(center)" xml:lang="he">זאת הבהמה אשר תֹּאכֵל֫וּ שור שה כשבים ושה עזים׃</p>
 <p>Finally, <hi rend="italic">'mr yhwh</hi> is used between the parts of a non-verbal clause (cf. 4.3.3), in Isa. xlviii. 22 (cf. lvii. 21), as is another interjection, <hi rend="italic">ly 'mr</hi>, in Isa. xlv. 24</p>
-<p rend="align(center)" xml:lang="heb">אך ביהוה לי אמר צדקות וָעֹז</p>
+<p rend="align(center)" xml:lang="he">אך ביהוה לי אמר צדקות וָעֹז</p>
 <p>Cf. 4.3.3 above, and the pausal form in Isa. xxiv. 17 (also Jer. xlviii. 43)</p>
-<p rend="align(center)" xml:lang="heb">פחד ופחת וָפָח עליך יושב הָאָרֶץ׃</p>
+<p rend="align(center)" xml:lang="he">פחד ופחת וָפָח עליך יושב הָאָרֶץ׃</p>
 <p>(or, in a prose context, Num. iii. 34).</p>
 <p>4.5. In groups 4.3.2 and 4.3.3, then, the similarity of the positions in which <hi rend="italic">n’m yhwh</hi> and similar interjections are used to those in which the pausal forms are used is very striking. This seems clear evidence that the authors of these passages found it logical to break their clauses in the same positions as did the readers who produced the pausal forms. The interjections are represented in translations, and their positions have become familiar. However, the punctuation of translations (ancient or modern) offers no support for the idea that the parallel uses of the pausal forms represent any natural or universal logic. It is, therefore, reasonable to suggest an organic connection between</p>
 <fw type="pagenum">174</fw>

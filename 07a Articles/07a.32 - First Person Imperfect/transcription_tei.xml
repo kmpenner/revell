@@ -86,7 +86,7 @@
             The National Association of Professors of Hebrew<lb/>
             in American Institutions of Higher Learning
         </p>
-        <p xml:lang="heb" dir="rtl">איגוד הפרופסורים לעברית בארצות־הברית</p>
+        <p xml:lang="he" dir="rtl">איגוד הפרופסורים לעברית בארצות־הברית</p>
     </div>
 </div>
       <pb/>
@@ -284,7 +284,7 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 </list>
 
 <p>
-    The earlier framework was preserved and problems occasioned by loss of final short vowels were offset by reworking the system through sequencing and word order. In narrative a form <hi rend="italic">wayyiqtol</hi>, produced by the conjunction plus a different vowel, doubling of the prefix consonant, retraction of stress in certain classes of forms, and apocopation in final ה roots, preserved the distinction between short prefix and long prefix. Similarly, the conjunction plus <hi rend="italic">qatal</hi> resulted in a form functionally distinct from <hi rend="italic">qatal</hi>.<hi rend="superscript">21</hi> Leaving aside for the moment the question of mood,
+    The earlier framework was preserved and problems occasioned by loss of final short vowels were offset by reworking the system through sequencing and word order. In narrative a form <hi rend="italic">wayyiqtol</hi>, produced by the conjunction plus a different vowel, doubling of the prefix consonant, retraction of stress in certain classes of forms, and apocopation in final <foreign xml:lang="he">ה</foreign> roots, preserved the distinction between short prefix and long prefix. Similarly, the conjunction plus <hi rend="italic">qatal</hi> resulted in a form functionally distinct from <hi rend="italic">qatal</hi>.<hi rend="superscript">21</hi> Leaving aside for the moment the question of mood,
 </p>
 
 <note n="18">J. Huehnergard, “Early Hebrew Prefix-Conjugations,” p. 22.</note>
@@ -318,8 +318,8 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
     </row>
     <row>
         <cell>Negative</cell>
-        <cell>לא + <hi rend="italic">qatal</hi></cell>
-        <cell>לא + <hi rend="italic">yiqtol</hi></cell>
+        <cell><foreign xml:lang="he">לא</foreign> + <hi rend="italic">qatal</hi></cell>
+        <cell><foreign xml:lang="he">לא</foreign> + <hi rend="italic">yiqtol</hi></cell>
     </row>
     <row>
         <cell cols="2">Sequential</cell>
@@ -381,22 +381,22 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 <list type="gloss">
     <item>
         <label>Gen 2:6</label>
-        <p rend="rtl" xml:lang="heb">ואד יַעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי־הָאֲדָמָה׃</p>
+        <p rend="rtl" xml:lang="he">ואד יַעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי־הָאֲדָמָה׃</p>
         <p>Now a subterranean stream <hi rend="italic">used to come up</hi> from the earth and it would water all the ground.</p>
     </item>
     <item>
         <label>Num 9:16</label>
-        <p rend="rtl" xml:lang="heb">כֵּן יִהְיֶה תָמִיד הֶעָנָן יְכַסֶּנּוּ וּמַרְאֵה־אֵשׁ לָיְלָה׃</p>
+        <p rend="rtl" xml:lang="he">כֵּן יִהְיֶה תָמִיד הֶעָנָן יְכַסֶּנּוּ וּמַרְאֵה־אֵשׁ לָיְלָה׃</p>
         <p>It <hi rend="italic">would</hi> continually <hi rend="italic">happen</hi> this way; the cloud <hi rend="italic">would cover</hi> it [by day] and an appearance of fire at night.</p>
     </item>
 </list>
 
-<p>The N-suffix marks יְכַסֶּנּוּ as a long prefix, that is imperfective; non-initial position signals assertive modality.</p>
+<p>The N-suffix marks <foreign xml:lang="he">יְכַסֶּנּוּ</foreign> as a long prefix, that is imperfective; non-initial position signals assertive modality.</p>
 
 <list type="gloss">
     <item>
         <label>Judg 11:40</label>
-        <p rend="rtl" xml:lang="heb">מִיָּמִים ׀ יָמִימָה תֵּלַכְנָה בְּנוֹת יִשְׂרָאֵל לְתַנּוֹת לְבַת־יִפְתָּח הַגִּלְעָדִי אַרְבַּעַת יָמִים בַּשָּׁנָה׃</p>
+        <p rend="rtl" xml:lang="he">מִיָּמִים ׀ יָמִימָה תֵּלַכְנָה בְּנוֹת יִשְׂרָאֵל לְתַנּוֹת לְבַת־יִפְתָּח הַגִּלְעָדִי אַרְבַּעַת יָמִים בַּשָּׁנָה׃</p>
         <p>Every year, the daughters of Israel <hi rend="italic">used to go</hi> to mourn the daughter of Jephthah, the Gileadite, four days in the year.</p>
     </item>
 </list>
@@ -408,26 +408,26 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 <p>Examples of <hi rend="italic">wəqatal</hi>:</p>
 
 <p>Gen 2:6
-<lb/><foreign xml:lang="heb">וְאֵד יַיעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי־הָאֲדָמָה׃</foreign>
+<lb/><foreign xml:lang="he">וְאֵד יַיעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי־הָאֲדָמָה׃</foreign>
 <lb/>Now a subterranean stream used to come up from the earth and it <hi rend="italic">would water</hi> all the ground.</p>
 
 <p>1 Sam 2:22
-<lb/><foreign xml:lang="heb">וְעֵלִי זָקֵן מְאֹד וְשָׁמַע אֵת כָּל־אֲשֶׁר יַעֲשׂוּן בָּנָיו לְכָל־יִשְׂרָאֵל וְאֵת אֲשֶׁר־יִשְׁכְּבוּן אֶת־הַנָּשִׁים הַצֹּבְאוֹת פֶּתַח אֹהֶל מוֹעֵד׃</foreign>
+<lb/><foreign xml:lang="he">וְעֵלִי זָקֵן מְאֹד וְשָׁמַע אֵת כָּל־אֲשֶׁר יַעֲשׂוּן בָּנָיו לְכָל־יִשְׂרָאֵל וְאֵת אֲשֶׁר־יִשְׁכְּבוּן אֶת־הַנָּשִׁים הַצֹּבְאוֹת פֶּתַח אֹהֶל מוֹעֵד׃</foreign>
 <lb/>Now Eli was very old and he <hi rend="italic">kept hearing</hi> all that his sons were doing to all Israel and that they were having intercourse with the women serving at the door of the tent of meeting.</p>
 
 <p>1 Kgs 18:4
-<lb/><foreign xml:lang="heb">וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִיאִם וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְכִלְכְּלָם לֶחֶם וָמָיִם׃</foreign>
+<lb/><foreign xml:lang="he">וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִיאִם וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְכִלְכְּלָם לֶחֶם וָמָיִם׃</foreign>
 <lb/>When Jezebel cut off the prophets of Yahweh, Obadiah took a hundred prophets and hid them, fifty men in a cave, and <hi rend="italic">was sustaining</hi> them with bread and water.</p>
 
 <p>CONTRAST:</p>
 <p>1 Kgs 18:13
-<lb/><foreign xml:lang="heb">הַלֹא־הֻגַּד לַאדֹנִי אֵת אֲשֶׁר־עָשִׂיתִי בַּהֲרֹג אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וָאַחְבִּא מִנְּבִיאֵי יְהוָה מֵאָה אִישׁ חֲמִשִּׁים חֲמִשִּׁים אִישׁ בַּמְּעָרָה וָאֲכַלְכְּלֵם לֶחֶם וָמָיִם׃</foreign>
+<lb/><foreign xml:lang="he">הַלֹא־הֻגַּד לַאדֹנִי אֵת אֲשֶׁר־עָשִׂיתִי בַּהֲרֹג אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וָאַחְבִּא מִנְּבִיאֵי יְהוָה מֵאָה אִישׁ חֲמִשִּׁים חֲמִשִּׁים אִישׁ בַּמְּעָרָה וָאֲכַלְכְּלֵם לֶחֶם וָמָיִם׃</foreign>
 <lb/>Was not my lord told what I did when Jezebel slew the prophets of Yahweh, that I hid some of the prophets of Yahweh, a hundred men, by groups of fifty in a cave, and <hi rend="italic">I sustained</hi> them with bread and water.</p>
 
 <p>1 Kgs 18:4 and 18:13 constitute a minimal pair. Obadiah gives a global perspective of his efforts without emphasizing, as does the narrator, their durative nature.</p>
 
 <p>Judg 3:23–24
-<lb/><foreign xml:lang="heb">[23] וַיֵצֵא אֵהוּד הַמִּסְדְּרוֹנָה וַיִּסְגֹּר דַּלְתוֹת הָעֲלִיָּה בַּעֲדוֹ וְנָעָל׃
+<lb/><foreign xml:lang="he">[23] וַיֵצֵא אֵהוּד הַמִּסְדְּרוֹנָה וַיִּסְגֹּר דַּלְתוֹת הָעֲלִיָּה בַּעֲדוֹ וְנָעָל׃
 <lb/>[24] וְהוּא יָצָא וַעֲבָדָיו בָּאוּ וַיִּרְאוּ וְהִנֵּה דַּלְתוֹת הָעֲלִיָּה נְעֻלוֹת</foreign>
 <lb/>And Ehud exited to the porch and he closed the doors of the upper room behind him and <hi rend="italic">was locking up</hi>. While he went out, [the king’s servants] arrived.</p>
       <pb n="17"/>
@@ -466,7 +466,7 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 
 <head>Gen 17:5–8</head>
 
-<p xml:lang="heb" dir="rtl">
+<p xml:lang="he" dir="rtl">
     [5] וְלֹא־יִקָּרֵא עוֹד אֶת־שִׁמְךָ אַבְרָם וְהָיָה שִׁמְךָ אַבְרָהָם כִּי אַב־הֲמוֹן גּוֹיִם נְתַתִּֽיךָ׃<br/>
     [6] וְהִפְרֵתִי אֹתְךָ בִּמְאֹד מְאֹד וּנְתַתִּיךָ לְגוֹיִם וּמְלָכִים מִמְּךָ יֵצֵֽאוּ׃<br/>
     [7] וַהֲקִמֹתִי אֶת־בְּרִיתִי בֵּינִי וּבֵינֶיךָ וּבֵין זַרְעֲךָ אַחֲרֶיךָ לְדֹרֹתָם לִבְרִית עוֹלָם לִהְיוֹת לְךָ לֵאלֹהִים וּלְזַרְעֲךָ אַחֲרֶֽיךָ׃<br/>
@@ -487,7 +487,7 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 
 <head>Gen 1:29</head>
 
-<p xml:lang="heb" dir="rtl">
+<p xml:lang="he" dir="rtl">
     וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת־כָּל־עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ וְאֶת־כָּל־הָעֵץ אֲשֶׁר־בּוֹ פְרִי־עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָֽה׃
 </p>
 
@@ -496,25 +496,25 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 <head><title>Hebrew Studies 39 (1998)</title> 19 Gentry: <hi rend="italic">System of the Finite Verb</hi></head>
 
 <p>Gen 14:22
-<lb/>ויאמר אברם אל־מלך סדם הרמתי ידי אל־יהוה אל עליון קנה שמים וארץ׃
+<lb/><foreign xml:lang="he">ויאמר אברם אל־מלך סדם הרמתי ידי אל־יהוה אל עליון קנה שמים וארץ׃</foreign>
 <lb/>Abram said to the King of Sodom, “<hi rend="italic">I (now) raise</hi> my hand to Yahweh, El Elyon...”</p>
 
 <p><hi rend="italic">Perfective Future</hi><note n="37" place="foot">See also Gen 17:16, 40:14; 2 Kgs 5:20; Jer 31:5; Zech 8:3. Use continues into Transitional Biblical Hebrew (TBH) and Late Biblical Hebrew (LBH). (D. M. Gropp, “Function of the Finite Verb,” p. 46 delimits TBH mainly as the prose of Jeremiah and Ezekiel and LBH as Chronicles, Ezra, Nehemiah, Esther, and the prose of Haggai, Zechariah 1–8, and Job.)</note>
 <lb/>1 Sam 2:16
-<lb/>...כי עתה תתן ואם־לא לקחתי בחזקה׃
+<lb/>...<foreign xml:lang="he">כי עתה תתן ואם־לא לקחתי בחזקה׃</foreign>
 <lb/>“No, you must give it now; if not, <hi rend="italic">I will take</hi> it by force.”</p>
 
 <p>Num 24:17
-<lb/>...דרך כוכב מיעקב וקם שבט מישראל...
+<lb/>...<foreign xml:lang="he">דרך כוכב מיעקב וקם שבט מישראל</foreign>...
 <lb/>A star <hi rend="italic">will appear</hi> from Jacob and a scepter will arise from Israel.</p>
 
 <p><hi rend="italic">Qatal</hi> may also be in initial position in narrative and (less rarely) in conversation. (Shortly, we will note why this restriction of word order cannot be relaxed for [x] <hi rend="italic">yiqtol</hi>.) The use of <hi rend="italic">qatal</hi> in initial position in narrative occurs in asyndetic clauses which are epexegetical to the previous sentence or sentence sequence.<note n="38" place="foot">S. Dempster, “Linguistic Features of Hebrew Narrative,” p. 47.</note></p>
 
 <p>1 Kgs 1:1
-<lb/>והמלך דוד זקן בא בימים
+<lb/><foreign xml:lang="he">והמלך דוד זקן בא בימים</foreign>
 <lb/>Now King David was old. He <hi rend="italic">was advanced</hi> in years.<note n="39" place="foot">See also Josh 13:1.</note></p>
 
-<p>In such sentence types the four-way opposition of verb forms breaks down, and <hi rend="italic">qatal</hi> is employed as it is in clauses introduced by אשר and כי where <hi rend="italic">qatal</hi> marks perfective/past and <hi rend="italic">yiqtol</hi> imperfective/non-past.<note n="40" place="foot">E. J. Revell, “The System of the Verb,” p. 20. Admittedly, preterites are also found (extremely rarely) in clauses introduced by אשר. Dempster (private communication) pointed out an example in 2 Kgs 9:15 אשר הכהו (cf. 2 Chr 22:6 אשר הכהו). The H-suffix, however, clearly marks the form in 2 Kgs 9:15 as a short prefix and hence preterite (see below), so no confusion is possible. To disprove the claim that only <hi rend="italic">qatal</hi> = past and <hi rend="italic">yiqtol</hi> = non-past are used in אשר clauses, an example must be brought forward involving a neutral <hi rend="italic">yiqtol</hi>.</note></p>
+<p>In such sentence types the four-way opposition of verb forms breaks down, and <hi rend="italic">qatal</hi> is employed as it is in clauses introduced by <foreign xml:lang="he">אשר</foreign> and <foreign xml:lang="he">כי</foreign> where <hi rend="italic">qatal</hi> marks perfective/past and <hi rend="italic">yiqtol</hi> imperfective/non-past.<note n="40" place="foot">E. J. Revell, “The System of the Verb,” p. 20. Admittedly, preterites are also found (extremely rarely) in clauses introduced by <foreign xml:lang="he">אשר</foreign>. Dempster (private communication) pointed out an example in 2 Kgs 9:15 <foreign xml:lang="he">אשר הכהו</foreign> (cf. 2 Chr 22:6 <foreign xml:lang="he">אשר הכהו</foreign>). The H-suffix, however, clearly marks the form in 2 Kgs 9:15 as a short prefix and hence preterite (see below), so no confusion is possible. To disprove the claim that only <hi rend="italic">qatal</hi> = past and <hi rend="italic">yiqtol</hi> = non-past are used in <foreign xml:lang="he">אשר</foreign> clauses, an example must be brought forward involving a neutral <hi rend="italic">yiqtol</hi>.</note></p>
 
 <p>This model handles both categories of aspect and tense well. Other models proposed recently in reaction to the past century and a half of as-</p>
       <pb n="20"/>
@@ -625,8 +625,8 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
     <row>
         <cell/>
         <cell rend="border-bottom">Negative</cell>
-        <cell rend="border-bottom">אל + <hi rend="italic">yiqtol-S</hi></cell>
-        <cell rend="border-bottom">אל + <hi rend="italic">yiqtol-L</hi></cell>
+        <cell rend="border-bottom"><foreign xml:lang="he">אל</foreign> + <hi rend="italic">yiqtol-S</hi></cell>
+        <cell rend="border-bottom"><foreign xml:lang="he">אל</foreign> + <hi rend="italic">yiqtol-L</hi></cell>
     </row>
     <row>
         <cell cols="2">Sequential</cell>
@@ -682,16 +682,16 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
     <title type="sub">24 Gentry: System of the Finite Verb</title>
 </fw>
 
-<p>different sort of function.<note n="61">Possibly a deictic or de-transitive function; see below.</note> Such a conclusion is backed up by the fact that it can occur on <hi rend="italic">wayyiqtol</hi> forms (usually first person).<note n="62">The only instances of <hi rend="italic">wayyiqtol</hi> forms bearing the ָה- suffix which are not first person are Ezek 23:16 and 23:20.</note> When one also notes that forms must be recognized as cohortative which do not have the ָה- suffix, the proper conclusion is that deontic modality in first person verbs is a function of position rather than of morphology, just as in the jussive. Outside of the imperative, then, there is no distinct form of the verb which marks it as projective. Projective modality is indicated by initial position.</p>
+<p>different sort of function.<note n="61">Possibly a deictic or de-transitive function; see below.</note> Such a conclusion is backed up by the fact that it can occur on <hi rend="italic">wayyiqtol</hi> forms (usually first person).<note n="62">The only instances of <hi rend="italic">wayyiqtol</hi> forms bearing the <foreign xml:lang="he">ָה</foreign>- suffix which are not first person are Ezek 23:16 and 23:20.</note> When one also notes that forms must be recognized as cohortative which do not have the <foreign xml:lang="he">ָה</foreign>- suffix, the proper conclusion is that deontic modality in first person verbs is a function of position rather than of morphology, just as in the jussive. Outside of the imperative, then, there is no distinct form of the verb which marks it as projective. Projective modality is indicated by initial position.</p>
 
-<p>Further consideration of forms bearing the suffix ָה- is necessary. The distribution of the suffix may be briefly reviewed. First, almost all first person commands, requests, wishes (known traditionally as cohortatives), whether singular or plural have the suffix. There are, however, clear examples of first person projectives without it.<note n="63">E. J. Revell, “The System of the Verb,” pp. 17–19.</note> Secondly, the suffix is found infrequently attached to the imperative m.s., a projective distinctly marked by form.<note n="64">Shulman noted approximately 1515 occurrences of imperative in her corpus of Torah and Former Prophets; 116, that is, less than 8% were affixed forms (A. Shulman “Use of Modal Verb Forms,” pp. 66, 241).</note> Rarely, the suffix is also attached to prefix forms which are not first person.<note n="65">Using Hebrew Gramcord, Professor Dale M. Wheeler (Multnomah Bible College) provided results from a search for all prefix forms bearing the ָה- suffix. The following forms are not first person: Deut 33:16; Isa 5:19 (two occurances); Ezek 23:16; 23:20, Ps 20:4? and Job 11:17—so W. Gesenius and E. Kautzsch, <hi rend="italic">Gesenius’ Hebrew Grammar</hi>, (Twenty-eighth edition, trans. A. E. Cowley; Oxford: Clarendon Press, 1910), §48d. I am grateful to Professor Wheeler for his excellent help. Possibly Prov 1:20 and 8:30 should be included here as well.</note> What is disconcerting, however, is that the ָה- suffix is found (less frequently in classical biblical Hebrew than in late biblical Hebrew<note n="66">On first person consecutive prefix forms with ָה- suffix as a characteristic of late biblical Hebrew and Qumran Literature, see E. Qimron, <hi rend="italic">The Hebrew of the Dead Sea Scrolls</hi> (Atlanta: Scholars Press, 1986), pp. 44–45 and E. J. Revell, “First Person Imperfect Forms with Waw Consecutive,” <hi rend="italic">VT</hi> 88 (1988) 422–423.</note> but in disturbing numbers nonetheless) attached to <hi rend="italic">wayyiqtol</hi> forms as well as to short <hi rend="italic">yiqtol</hi> forms in poetry clearly functioning as preterites.<note n="67">The following is a list of 99 instances of all <hi rend="italic">wayyiqtol</hi> forms in MT bearing the ָה- suffix. The list in McFall does not match his totals in a number of places (see L. McFall, <hi rend="italic">Enigma</hi>, pp. 211–214). Even by using Hebrew Gramcord, I am not certain that all instances are included: Gen 32:6; 41:11; 43:21; Num 8:19; Josh 24:8K; Judg 6:9; 6:10; 10:12; 12:3; 12:3; 1 Sam 2:28; 28:15; 2 Sam 4:10; 7:9; 12:8; 12:8; 22:24; Jer 11:18; 32:9; Ezek 3:3; 9:8; 16:11; Zech 11:13; Ps 3:6; 7:5; 69:12; 69:21; 90:10; 119:55; 119:59; 119:106; 119:131; 119:147; 119:158; 119:163?; Job 1:15; 1:16; 1:17; 1:19; 19:20; 29:17; 30:26; Qoh 1:17; Dan 8:13; 8:15; 8:17; 9:3; 9:4; 9:4; 10:16; 10:16; 10:19; 12:8; Ezra 7:28; 8:15; 8:16; 8:17K; 8:23; 8:23; 8:24; 8:25; 8:26; 8:28; 8:31; 9:3; 9:3; 9:5; 9:5; 9:6; Neh 1:4; 2:1; 2:6; 2:9; 2:13; 5:7; 5:7; 5:8; 5:13; 6:3; 6:8; 6:11; 6:12; 7:5; 12:31; 13:7; 13:8; 13:9; 13:9; 13:10; 13:11; 13:11; 13:13; 13:17;</note></p>
+<p>Further consideration of forms bearing the suffix <foreign xml:lang="he">ָה</foreign>- is necessary. The distribution of the suffix may be briefly reviewed. First, almost all first person commands, requests, wishes (known traditionally as cohortatives), whether singular or plural have the suffix. There are, however, clear examples of first person projectives without it.<note n="63">E. J. Revell, “The System of the Verb,” pp. 17–19.</note> Secondly, the suffix is found infrequently attached to the imperative m.s., a projective distinctly marked by form.<note n="64">Shulman noted approximately 1515 occurrences of imperative in her corpus of Torah and Former Prophets; 116, that is, less than 8% were affixed forms (A. Shulman “Use of Modal Verb Forms,” pp. 66, 241).</note> Rarely, the suffix is also attached to prefix forms which are not first person.<note n="65">Using Hebrew Gramcord, Professor Dale M. Wheeler (Multnomah Bible College) provided results from a search for all prefix forms bearing the <foreign xml:lang="he">ָה</foreign>- suffix. The following forms are not first person: Deut 33:16; Isa 5:19 (two occurances); Ezek 23:16; 23:20, Ps 20:4? and Job 11:17—so W. Gesenius and E. Kautzsch, <hi rend="italic">Gesenius’ Hebrew Grammar</hi>, (Twenty-eighth edition, trans. A. E. Cowley; Oxford: Clarendon Press, 1910), §48d. I am grateful to Professor Wheeler for his excellent help. Possibly Prov 1:20 and 8:30 should be included here as well.</note> What is disconcerting, however, is that the <foreign xml:lang="he">ָה</foreign>- suffix is found (less frequently in classical biblical Hebrew than in late biblical Hebrew<note n="66">On first person consecutive prefix forms with <foreign xml:lang="he">ָה</foreign>- suffix as a characteristic of late biblical Hebrew and Qumran Literature, see E. Qimron, <hi rend="italic">The Hebrew of the Dead Sea Scrolls</hi> (Atlanta: Scholars Press, 1986), pp. 44–45 and E. J. Revell, “First Person Imperfect Forms with Waw Consecutive,” <hi rend="italic">VT</hi> 88 (1988) 422–423.</note> but in disturbing numbers nonetheless) attached to <hi rend="italic">wayyiqtol</hi> forms as well as to short <hi rend="italic">yiqtol</hi> forms in poetry clearly functioning as preterites.<note n="67">The following is a list of 99 instances of all <hi rend="italic">wayyiqtol</hi> forms in MT bearing the <foreign xml:lang="he">ָה</foreign>- suffix. The list in McFall does not match his totals in a number of places (see L. McFall, <hi rend="italic">Enigma</hi>, pp. 211–214). Even by using Hebrew Gramcord, I am not certain that all instances are included: Gen 32:6; 41:11; 43:21; Num 8:19; Josh 24:8K; Judg 6:9; 6:10; 10:12; 12:3; 12:3; 1 Sam 2:28; 28:15; 2 Sam 4:10; 7:9; 12:8; 12:8; 22:24; Jer 11:18; 32:9; Ezek 3:3; 9:8; 16:11; Zech 11:13; Ps 3:6; 7:5; 69:12; 69:21; 90:10; 119:55; 119:59; 119:106; 119:131; 119:147; 119:158; 119:163?; Job 1:15; 1:16; 1:17; 1:19; 19:20; 29:17; 30:26; Qoh 1:17; Dan 8:13; 8:15; 8:17; 9:3; 9:4; 9:4; 10:16; 10:16; 10:19; 12:8; Ezra 7:28; 8:15; 8:16; 8:17K; 8:23; 8:23; 8:24; 8:25; 8:26; 8:28; 8:31; 9:3; 9:3; 9:5; 9:5; 9:6; Neh 1:4; 2:1; 2:6; 2:9; 2:13; 5:7; 5:7; 5:8; 5:13; 6:3; 6:8; 6:11; 6:12; 7:5; 12:31; 13:7; 13:8; 13:9; 13:9; 13:10; 13:11; 13:11; 13:13; 13:17;</note></p>
       <pb n="25"/>
 <head>Hebrew Studies 39 (1998) 25 Gentry: System of the Finite Verb</head>
-<p>The consensus that the ה-ָ suffix is a marker of projective modality, a volitive, identifying especially the cohortative, has been strengthened since 1960 largely by the brilliant research of both W. L. Moran and A. F. Rainey.  The Hebrew volitive is correlated with a Canaanite <term xml:lang="sem-can">yaqtula</term> form which is considered a volitive.<note n="68" place="foot">See especially W. L. Moran, "Early Canaanite <hi rend="italic">yaqtula</hi>," <hi rend="italic">Orientalia</hi> N. S. 29 (1960) 1–19.</note> It is necessary to evaluate the argument of Moran briefly. He carefully examined 74 instances of <term xml:lang="sem-can">yaqtula</term> in Byblian Amarna texts. Thirty-six function as volitives, and another thirteen stand in purpose / result clauses following modals. This evidence corresponds so well with Hebrew that he felt sure that <term xml:lang="sem-can">yaqtula</term> was both the Amarna volitive and the precursor to the ה-ָ forms in Hebrew, which could now be clearly identified as volitives. Twenty-five instances, he admitted, could not be explained this way, including ten cases clearly preterite.</p>
-<p>One possibility he did consider for the meaning of the ה-ָ suffix was the Akkadian ventive:</p>
+<p>The consensus that the <foreign xml:lang="he">ה</foreign>-<foreign xml:lang="he">ָ</foreign> suffix is a marker of projective modality, a volitive, identifying especially the cohortative, has been strengthened since 1960 largely by the brilliant research of both W. L. Moran and A. F. Rainey.  The Hebrew volitive is correlated with a Canaanite <term xml:lang="sem-can">yaqtula</term> form which is considered a volitive.<note n="68" place="foot">See especially W. L. Moran, "Early Canaanite <hi rend="italic">yaqtula</hi>," <hi rend="italic">Orientalia</hi> N. S. 29 (1960) 1–19.</note> It is necessary to evaluate the argument of Moran briefly. He carefully examined 74 instances of <term xml:lang="sem-can">yaqtula</term> in Byblian Amarna texts. Thirty-six function as volitives, and another thirteen stand in purpose / result clauses following modals. This evidence corresponds so well with Hebrew that he felt sure that <term xml:lang="sem-can">yaqtula</term> was both the Amarna volitive and the precursor to the <foreign xml:lang="he">ה</foreign>-<foreign xml:lang="he">ָ</foreign> forms in Hebrew, which could now be clearly identified as volitives. Twenty-five instances, he admitted, could not be explained this way, including ten cases clearly preterite.</p>
+<p>One possibility he did consider for the meaning of the <foreign xml:lang="he">ה</foreign>-<foreign xml:lang="he">ָ</foreign> suffix was the Akkadian ventive:</p>
 <quote rend="blockquote">Now the pattern itself is important, for as such it is without foundation in Akkadian. However, as we have already admitted, most of the occurrences can at first sight be explained as ventives, and it could therefore be argued that the pattern is fortuitous and results from the peculiar circumstances in which these letters with their never ending requests for troops, food, etc. were written.<note n="69" place="foot">W. L. Moran, "Early Canaanite <hi rend="italic">yaqtula</hi>," p. 7.</note></quote>
 <p>Moran went on to say that this was not the correct explanation for two reasons. First, based on a scheme of the Amarna verb where <term xml:lang="sem-can">qatala</term> = perfect, <term xml:lang="sem-can">yaqtul</term> = jussive and <term xml:lang="sem-can">yaqtulu</term> = indicative, he showed that <term xml:lang="sem-can">yaqtula</term> contrasted in minimal pairs with <term xml:lang="sem-can">yaqtulu</term>: <term xml:lang="sem-can">yaqtula</term> expresses a wish, <term xml:lang="sem-can">yaqtulu</term> states a simple fact. Secondly, usage in purpose clauses showed that, if the first verb was indicative, so was the verb in the following purpose clause; whereas if the first verb was volitive, the second was <term xml:lang="sem-can">yaqtula</term>. This argument appeared watertight for demonstrating that the <hi rend="italic">-a</hi> suffix was projective and not equivalent to the Akkadian ventive. Moran did not observe, however, that in the cases with <term xml:lang="sem-can">yaqtula</term> the verb was in initial position, and</p>
-<note place="foot">13:17; 13:19; 13:21; 13:21; 13:22; 13:30. Final א and final ה roots may require separate treatment. The ה-ָ suffix attached to final א roots occurs less frequently than in forms from other roots except those with final ה. Revell explains that "this is to be expected, since this use of the affix is late...and the differences between the two types of final weak root had been lost by the end of the biblical period" (E. J. Revell, "First Person Imperfect Forms," p. 419). Concerning final ה roots, Revell argues that "the use of the long form of the 1st person imperfect with waw consecutive in roots <hi rend="italic">IIIh</hi> can reasonably be regarded as representing the same development as does the use of the affixed form in other roots" (E. J. Revell, "First Person Imperfect Forms," p. 423). This last supposition may well be right, but further investigation is necessary to prove it. For prefix forms without <hi rend="italic">waw</hi> and which are not projective but have the ה-ָ suffix, see B. K. Waltke and M. O'Connor, <hi rend="italic">An Introduction</hi>, pp. 576–577 (cautiously labeled there Pseudo-Cohortatives).</note>
+<note place="foot">13:17; 13:19; 13:21; 13:21; 13:22; 13:30. Final <foreign xml:lang="he">א</foreign> and final <foreign xml:lang="he">ה</foreign> roots may require separate treatment. The <foreign xml:lang="he">ה</foreign>-<foreign xml:lang="he">ָ</foreign> suffix attached to final <foreign xml:lang="he">א</foreign> roots occurs less frequently than in forms from other roots except those with final <foreign xml:lang="he">ה</foreign>. Revell explains that "this is to be expected, since this use of the affix is late...and the differences between the two types of final weak root had been lost by the end of the biblical period" (E. J. Revell, "First Person Imperfect Forms," p. 419). Concerning final <foreign xml:lang="he">ה</foreign> roots, Revell argues that "the use of the long form of the 1st person imperfect with waw consecutive in roots <hi rend="italic">IIIh</hi> can reasonably be regarded as representing the same development as does the use of the affixed form in other roots" (E. J. Revell, "First Person Imperfect Forms," p. 423). This last supposition may well be right, but further investigation is necessary to prove it. For prefix forms without <hi rend="italic">waw</hi> and which are not projective but have the <foreign xml:lang="he">ה</foreign>-<foreign xml:lang="he">ָ</foreign> suffix, see B. K. Waltke and M. O'Connor, <hi rend="italic">An Introduction</hi>, pp. 576–577 (cautiously labeled there Pseudo-Cohortatives).</note>
       <pb n="26"/>
 <head>Hebrew Studies 39 (1998) 26 Gentry: System of the Finite Verb</head>
 
@@ -767,15 +767,15 @@ Further proof lies in the following consideration. When final short vowels were 
 
 <p>of early <hi rend="italic">yaqtula</hi> in the Hebrew cohortative <hi rend="italic">'ektbā</hi> and the uniquely Hebrew particle <hi rend="italic">nā'</hi>, which often occurs with a <hi rend="italic">dagesh conjunctivum</hi> after cohortatives, as in '<hi rend="italic">ektbā nnā'</hi>.<note n="82"/></p>
 
-<p>If, however, the idea of a <hi rend="italic">yaqtula</hi> form is given up, no explanation is necessary to derive a long <hi rend="italic">a</hi> in Hebrew from a short <hi rend="italic">a</hi> in Canaanite. The development from <hi rend="italic">yaqtula</hi> to the Hebrew cohortative, like that of <hi rend="italic">yaqtulu</hi> to <hi rend="italic">yiqtol</hi>, is based on a false parallel. The origin of the <hi rend="hebrew">ָה-</hi> suffix in Hebrew is different from the kind of situation regarding the short <hi rend="italic">u</hi> suffix on Canaanite <hi rend="italic">yaqtulu</hi>. However obscure its origin may be,<note n="83"/> it is a morpheme functioning like the Akkadian ventive. The essential difference, then, between <hi rend="italic">yaqtula</hi> (that is, <hi rend="italic">yaqtul</hi> plus a morpheme signaling a function equivalent to that of the ventive in Akkadian) and <hi rend="italic">yaqtulu</hi> is one of aspect (perfective versus imperfective), not modality (projective versus assertive). Modality is signaled by position.</p>
+<p>If, however, the idea of a <hi rend="italic">yaqtula</hi> form is given up, no explanation is necessary to derive a long <hi rend="italic">a</hi> in Hebrew from a short <hi rend="italic">a</hi> in Canaanite. The development from <hi rend="italic">yaqtula</hi> to the Hebrew cohortative, like that of <hi rend="italic">yaqtulu</hi> to <hi rend="italic">yiqtol</hi>, is based on a false parallel. The origin of the <hi rend="hebrew"><foreign xml:lang="he">ָה</foreign>-</hi> suffix in Hebrew is different from the kind of situation regarding the short <hi rend="italic">u</hi> suffix on Canaanite <hi rend="italic">yaqtulu</hi>. However obscure its origin may be,<note n="83"/> it is a morpheme functioning like the Akkadian ventive. The essential difference, then, between <hi rend="italic">yaqtula</hi> (that is, <hi rend="italic">yaqtul</hi> plus a morpheme signaling a function equivalent to that of the ventive in Akkadian) and <hi rend="italic">yaqtulu</hi> is one of aspect (perfective versus imperfective), not modality (projective versus assertive). Modality is signaled by position.</p>
 
 <p>An excellent explanation from diachronic study, then, supports the model being proposed. As a suffix marking (1) action here as opposed to there, or (2) action directed towards or for the benefit of the subject,<note n="84"/> one</p>
 
 <note n="82">J. Huehnergard, “Early Hebrew Prefix-Conjugations,” p. 23. His proposal is now unlikely in the light of recent research by Revell, who demonstrates that <hi rend="italic">dehiq</hi> (or <hi rend="italic">dagesh forte conjunctivum</hi>) relates primarily to stress position and not to consonantal structure (E. J. Revell, “<hi rend="italic">Dehiq</hi>: Exceptions to the Standard Pattern,” in <hi rend="italic">Proceedings of the Ninth Congress of the International Organization for Masoretic Studies</hi>, 1989, ed. Aron Dotan, (Masoretic Studies 7; Atlanta: Scholars Press, 1992).</note>
 
-<note n="83">What is the origin of the <hi rend="hebrew">ָה-</hi> suffix on imperatives and prefix forms in Hebrew? Could the <hi rend="hebrew">ָה-</hi> suffix be really the same as the unstressed directive <hi rend="italic">h</hi> suffix on nouns and the adverbial <hi rend="italic">h</hi> suffix in Ugaritic since the basic function is to mark direction towards someone or something? After completing the present paper for publication I discovered the discussion by S. Fassberg who considers possible origins of the <hi rend="italic">ā</hi> suffix on the extended form of the imperative somewhat thoroughly. The most plausible proposal is that the <hi rend="italic">ā</hi> morpheme of the extended form of the imperative in Hebrew (also in Phoenician and Ugaritic?) and the <hi rend="italic">a(m)</hi> suffix of the ventive in Akkadian are a common inheritance from proto-Semitic even though usage is more restricted in Hebrew. Fassberg struggles, however, to derive the two from a common form since Akkadian research generally considers <hi rend="italic">m</hi> and not <hi rend="italic">a</hi> the original form of the ventive <hi rend="italic">a(m)</hi>. Conventional wisdom in Indo-European philology, however, derives <hi rend="italic">-a</hi> in Greek from Proto-Indo-European <hi rend="italic">*-m̥</hi>: see A. L. Sihler, <hi rend="italic">New Comparative Grammar of Greek and Latin</hi> (Oxford: Oxford University Press, 1995), p. 284. So why not correlate the <hi rend="italic">ā</hi> in Hebrew and the <hi rend="italic">m</hi> of the ventive in Akkadian? I wish to express here special thanks to Tirzah Meacham of the University of Toronto for help to read Fassberg’s work, which is in Modern Hebrew (S. Fassberg, <hi rend="italic">Studies in Biblical Syntax</hi>, pp. 32–35).</note>
+<note n="83">What is the origin of the <hi rend="hebrew"><foreign xml:lang="he">ָה</foreign>-</hi> suffix on imperatives and prefix forms in Hebrew? Could the <hi rend="hebrew"><foreign xml:lang="he">ָה</foreign>-</hi> suffix be really the same as the unstressed directive <hi rend="italic">h</hi> suffix on nouns and the adverbial <hi rend="italic">h</hi> suffix in Ugaritic since the basic function is to mark direction towards someone or something? After completing the present paper for publication I discovered the discussion by S. Fassberg who considers possible origins of the <hi rend="italic">ā</hi> suffix on the extended form of the imperative somewhat thoroughly. The most plausible proposal is that the <hi rend="italic">ā</hi> morpheme of the extended form of the imperative in Hebrew (also in Phoenician and Ugaritic?) and the <hi rend="italic">a(m)</hi> suffix of the ventive in Akkadian are a common inheritance from proto-Semitic even though usage is more restricted in Hebrew. Fassberg struggles, however, to derive the two from a common form since Akkadian research generally considers <hi rend="italic">m</hi> and not <hi rend="italic">a</hi> the original form of the ventive <hi rend="italic">a(m)</hi>. Conventional wisdom in Indo-European philology, however, derives <hi rend="italic">-a</hi> in Greek from Proto-Indo-European <hi rend="italic">*-m̥</hi>: see A. L. Sihler, <hi rend="italic">New Comparative Grammar of Greek and Latin</hi> (Oxford: Oxford University Press, 1995), p. 284. So why not correlate the <hi rend="italic">ā</hi> in Hebrew and the <hi rend="italic">m</hi> of the ventive in Akkadian? I wish to express here special thanks to Tirzah Meacham of the University of Toronto for help to read Fassberg’s work, which is in Modern Hebrew (S. Fassberg, <hi rend="italic">Studies in Biblical Syntax</hi>, pp. 32–35).</note>
 
-<note n="84">Precisely the functions of the Akkadian ventive, see especially W. von Soden, <hi rend="italic">Grundriss der akkadischen Grammatik</hi> (Analecta Orientalia 33; Third edition; Rome, 1995), §82 and J. Huehnergard, <hi rend="italic">A Grammar of Akkadian</hi> (Harvard Semitic Museum Studies 45; Atlanta: Scholars Press, 1997), pp. 133–135 as well as B. Kienast, “Gedanken zur Geschichte der Semitischen ‘Tempora’,” in <hi rend="italic">Vom Alten Orient zum Alten Testament: Festschrift für Wolfram Freiherrn von Soden zum 85</hi>, eds. M. Dietrich and 0. Loretz (Kevelaer / Neukirchen-Vluyn: Verlag Butzont Bercker Neukirchener Verlag, 1995), pp. 124–125. The primary function is action directed towards the speaker; a secondary function is action for the benefit or in the interest of the speaker (i.e., dative). The latter may be more common than the former. While Fassberg sees the function of the <hi rend="hebrew">ָה-</hi> suffix on the Hebrew imperative equivalent to that of the ventive in Akkadian, he</note>
+<note n="84">Precisely the functions of the Akkadian ventive, see especially W. von Soden, <hi rend="italic">Grundriss der akkadischen Grammatik</hi> (Analecta Orientalia 33; Third edition; Rome, 1995), §82 and J. Huehnergard, <hi rend="italic">A Grammar of Akkadian</hi> (Harvard Semitic Museum Studies 45; Atlanta: Scholars Press, 1997), pp. 133–135 as well as B. Kienast, “Gedanken zur Geschichte der Semitischen ‘Tempora’,” in <hi rend="italic">Vom Alten Orient zum Alten Testament: Festschrift für Wolfram Freiherrn von Soden zum 85</hi>, eds. M. Dietrich and 0. Loretz (Kevelaer / Neukirchen-Vluyn: Verlag Butzont Bercker Neukirchener Verlag, 1995), pp. 124–125. The primary function is action directed towards the speaker; a secondary function is action for the benefit or in the interest of the speaker (i.e., dative). The latter may be more common than the former. While Fassberg sees the function of the <hi rend="hebrew"><foreign xml:lang="he">ָה</foreign>-</hi> suffix on the Hebrew imperative equivalent to that of the ventive in Akkadian, he</note>
       <pb n="30"/>
 <fw type="header">
     <title level="a">Hebrew Studies 39 (1998)</title>
@@ -829,7 +829,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <div type="section">
     <head>Deut 6:4–5</head>
-    <p xml:lang="heb" rend="align(right)">
+    <p xml:lang="he" rend="align(right)">
         [4] שְׁמַע יִשְׂרָאֵל יהוה אלהינו יהוה אחד: [5] <seg rend="underline">וְאָהַבְתָּ</seg> את יהוה...
     </p>
     <p rend="indent">
@@ -839,7 +839,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <div type="section">
     <head>Judg 9:33</head>
-    <p xml:lang="heb" rend="align(right)">
+    <p xml:lang="he" rend="align(right)">
         והיה בבקר כזרח השמשׁ <seg rend="underline">תַּשְׁכִּים וּפָשַׁטְתָּ</seg> על-העיר...
     </p>
     <p rend="indent">
@@ -849,7 +849,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <div type="section">
     <head>Gen 22:12</head>
-    <p xml:lang="heb" rend="align(right)">
+    <p xml:lang="he" rend="align(right)">
         ויאמר <seg rend="underline">אַל-תִּשְׁלַח</seg> ידך אל-הנער <seg rend="underline">וְאַל-תַּעַשׂ</seg> לו מאומה...
     </p>
     <p rend="indent">
@@ -859,7 +859,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <div type="section">
     <head>Gen 18:3</head>
-    <p xml:lang="heb" rend="align(right)">
+    <p xml:lang="he" rend="align(right)">
         ויאמר אדני אם-נא מצאתי חן בעיניך <seg rend="underline">אַל-נָא תַעֲבֹר</seg> מעל עבדך:
     </p>
     <p rend="indent">
@@ -869,7 +869,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <div type="section">
     <head>Exod 20:14</head>
-    <p xml:lang="heb" rend="align(right)">
+    <p xml:lang="he" rend="align(right)">
         <seg rend="underline">לֹא תִנְאָף</seg>:
     </p>
     <p rend="indent">
@@ -880,7 +880,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 <div type="section">
     <head rend="italic">First Person Projectives</head>
     <p>
-        First person projectives are indicated by prefix forms in initial position, with or without the <seg xml:lang="heb">הָ-</seg> suffix. This suffix is not a modal morpheme and does not mark the form as projective. As one might expect from the nature of experience and everyday human relations, most contexts require only perfective aspect.<note n="85"/> Moreover, most roots have no means of distinguishing formally short and long prefix forms for first person. Only rarely, then, is it necessary to distinguish long from short prefix forms to mark clearly imperfective aspect. This is accomplished (a) in positive projectives by employing N-suffixes as opposed to H-suffixes, (b) in negative projectives
+        First person projectives are indicated by prefix forms in initial position, with or without the <seg xml:lang="he">הָ-</seg> suffix. This suffix is not a modal morpheme and does not mark the form as projective. As one might expect from the nature of experience and everyday human relations, most contexts require only perfective aspect.<note n="85"/> Moreover, most roots have no means of distinguishing formally short and long prefix forms for first person. Only rarely, then, is it necessary to distinguish long from short prefix forms to mark clearly imperfective aspect. This is accomplished (a) in positive projectives by employing N-suffixes as opposed to H-suffixes, (b) in negative projectives
     </p>
 </div>
 
@@ -890,31 +890,31 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
       <pb n="32"/>
 <head>Hebrew Studies 39 (1998) 32 Gentry: System of the Finite Verb</head>
 
-<p>by using אל for short prefix and לא for long prefix, and (c) in projective sequences by employing <hi rend="italic">wəqatal</hi> for imperfective aspect. In imperfective aspect, the demarcation of modality is fuzzy, since לא plus long prefix may be used for either assertive or projective. In sequences, context is determinative as to which is intended.</p>
+<p>by using <foreign xml:lang="he">אל</foreign> for short prefix and <foreign xml:lang="he">לא</foreign> for long prefix, and (c) in projective sequences by employing <hi rend="italic">wəqatal</hi> for imperfective aspect. In imperfective aspect, the demarcation of modality is fuzzy, since <foreign xml:lang="he">לא</foreign> plus long prefix may be used for either assertive or projective. In sequences, context is determinative as to which is intended.</p>
 
 <p>2 Sam 18:19
-<lb/><foreign xml:lang="heb">ואחימעץ בן־צדוק אמר ארוצה נא ואבשרה את־המלך...</foreign></p>
+<lb/><foreign xml:lang="he">ואחימעץ בן־צדוק אמר ארוצה נא ואבשרה את־המלך...</foreign></p>
 <p rend="indent">Now Ahimaaz, son of Zadok, said, <hi rend="italic">"Let me run, please,</hi> that I may bring good news to the king."</p>
 
 <p>2 Sam. 18:23
-<lb/><foreign xml:lang="heb">ויהי־מה ארוץ ויאמר לו רוץ וירץ...</foreign></p>
+<lb/><foreign xml:lang="he">ויהי־מה ארוץ ויאמר לו רוץ וירץ...</foreign></p>
 <p rend="indent">Come what may, <hi rend="italic">I will run.</hi> And he said to him, "Run!" And he ran.</p>
 
-<p>The form ארוץ (18:23) has no <foreign xml:lang="heb">ָה-</foreign> suffix and is unaccompanied by <foreign xml:lang="heb">נא</foreign>. The absence of the <foreign xml:lang="heb">ָה-</foreign> suffix suits the statement, "Come what may" and the absence of <foreign xml:lang="heb">נא</foreign> makes the projective stronger (that is, it is not mitigated by politeness).</p>
+<p>The form <foreign xml:lang="he">ארוץ</foreign> (18:23) has no <foreign xml:lang="he">ָה-</foreign> suffix and is unaccompanied by <foreign xml:lang="he">נא</foreign>. The absence of the <foreign xml:lang="he">ָה-</foreign> suffix suits the statement, "Come what may" and the absence of <foreign xml:lang="he">נא</foreign> makes the projective stronger (that is, it is not mitigated by politeness).</p>
 
 <p>Gen 37:20
-<lb/><foreign xml:lang="heb">ועתה לכו ונהרגהו ונשלכהו באחד הברות...</foreign></p>
+<lb/><foreign xml:lang="he">ועתה לכו ונהרגהו ונשלכהו באחד הברות...</foreign></p>
 <p rend="indent">"Come, <hi rend="italic">let's kill him and cast him</hi> into one of the pits..."</p>
 
 <p>No prefix forms exist in Genesis–Kings which have H-suffixes and no <hi rend="italic">wə</hi> prefixed.</p>
 
 <p>Gen 19:34
-<lb/><foreign xml:lang="heb">ויהי ממחרת ותאמר הבכירה אל־הצעירה הן־שכבתי אמש את־אבי</foreign>
-<lb/><foreign xml:lang="heb">נשקנו יין גם־הלילה...</foreign></p>
+<lb/><foreign xml:lang="he">ויהי ממחרת ותאמר הבכירה אל־הצעירה הן־שכבתי אמש את־אבי</foreign>
+<lb/><foreign xml:lang="he">נשקנו יין גם־הלילה...</foreign></p>
 <p rend="indent">The day following, the firstborn [girl] said to the younger, "Look, last night I lay with my father. <hi rend="italic">Let's get him drinking</hi> tonight too..."</p>
 
 <p>Gen 45:28
-<lb/><foreign xml:lang="heb">ויאמר ישראל רב עוד־יוסף בני חי אלכה ואראנו בטרם אמות:</foreign></p>
+<lb/><foreign xml:lang="he">ויאמר ישראל רב עוד־יוסף בני חי אלכה ואראנו בטרם אמות:</foreign></p>
 <p rend="indent">And Israel said, "It is enough, Joseph my son still lives. I shall go <hi rend="italic">that I may see him</hi> before I die."</p>
       <pb n="33"/>
 <head>
@@ -925,17 +925,17 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 <p>
     2 Sam 24:14
     <cit>
-        <quote xml:lang="heb">ויאמר דוד אל־גד צר־לי מאד נפלה־נא ביד־יהוה כי־רבים רחמו [רחמיו] וביד־אדם אל־אפלה׃</quote>
+        <quote xml:lang="he">ויאמר דוד אל־גד צר־לי מאד נפלה־נא ביד־יהוה כי־רבים רחמו [רחמיו] וביד־אדם אל־אפלה׃</quote>
         <quote>David said to Gad, “I am in great distress. Let us fall into the hand of the LORD, for his mercy is great; but <hi rend="italic">let me not fall</hi> into the hand of man.”</quote>
     </cit>
 </p>
 
-<p>אל plus a first person projective is extremely rare.<note n="86">Shulman found only one instance in Genesis–Kings (A. Shulman, “Use of Modal Verb Forms,” pp. 216–217).</note></p>
+<p><foreign xml:lang="he">אל</foreign> plus a first person projective is extremely rare.<note n="86">Shulman found only one instance in Genesis–Kings (A. Shulman, “Use of Modal Verb Forms,” pp. 216–217).</note></p>
 
 <p>
     1 Sam 15:25
     <cit>
-        <quote xml:lang="heb">ועתה שא נא את־חטאתי ושוב עמי ואשׁתחוה ליהוה׃</quote>
+        <quote xml:lang="he">ועתה שא נא את־חטאתי ושוב עמי ואשׁתחוה ליהוה׃</quote>
         <quote>“Now forgive my sin and return with me, <hi rend="italic">so that I may worship</hi> Yahweh.”</quote>
     </cit>
 </p>
@@ -944,7 +944,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     CONTRAST:
     <lb/>1 Sam 15:30
     <cit>
-        <quote xml:lang="heb">ויאמר חטאתי עתה כבדני נא נגד זקני־עמי ונגד ישראל ושוב עמי והשׁתחויתי ליהוה אלהיך׃</quote>
+        <quote xml:lang="he">ויאמר חטאתי עתה כבדני נא נגד זקני־עמי ונגד ישראל ושוב עמי והשׁתחויתי ליהוה אלהיך׃</quote>
         <quote>He said, “I have sinned. Now honor me before the elders of my people and before Israel and return with me <hi rend="italic">so that I may worship</hi> Yahweh, your God.”</quote>
     </cit>
 </p>
@@ -957,32 +957,32 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 
 <head>Third Person Projectives</head>
 
-<p>Third person projectives are also marked by initial position, not by a specific form or a modal morpheme attached to the stem of the verb. Where short and long prefix forms can be distinguished, the short prefix forms mark perfective aspect while the long prefix forms mark imperfective aspect. With neutral prefix forms, the use of H-suffixes clearly marks a short prefix.<note place="foot" n="88">No examples of third person prefix forms in first position plus N-suffix occur.</note> With negatives, the distinction is kept straight by using <foreign xml:lang="heb">אל</foreign> only with the short prefix and <foreign xml:lang="heb">לא</foreign> with the long prefix. In projective sequences, <hi rend="italic">wǝyiqtol</hi> (short) is employed for perfective aspect and <hi rend="italic">wəqatal</hi> for imperfective. The latter may also be indicated by <hi rend="italic">wǝyiqtol-L</hi> (long prefix), where the root allows long prefix forms to be clearly distinguished from short.</p>
+<p>Third person projectives are also marked by initial position, not by a specific form or a modal morpheme attached to the stem of the verb. Where short and long prefix forms can be distinguished, the short prefix forms mark perfective aspect while the long prefix forms mark imperfective aspect. With neutral prefix forms, the use of H-suffixes clearly marks a short prefix.<note place="foot" n="88">No examples of third person prefix forms in first position plus N-suffix occur.</note> With negatives, the distinction is kept straight by using <foreign xml:lang="he">אל</foreign> only with the short prefix and <foreign xml:lang="he">לא</foreign> with the long prefix. In projective sequences, <hi rend="italic">wǝyiqtol</hi> (short) is employed for perfective aspect and <hi rend="italic">wəqatal</hi> for imperfective. The latter may also be indicated by <hi rend="italic">wǝyiqtol-L</hi> (long prefix), where the root allows long prefix forms to be clearly distinguished from short.</p>
 
 <list>
     <item>
         <p>Judg 7:3</p>
-        <p rend="right"><foreign xml:lang="heb">...מי־ירא וחרד ישב ויצפר מהר הגלעד...</foreign></p>
+        <p rend="right"><foreign xml:lang="he">...מי־ירא וחרד ישב ויצפר מהר הגלעד...</foreign></p>
         <p rend="indent">Who is afraid and trembling? <hi rend="italic">Let him return</hi> and depart from Mount Gilead!</p>
     </item>
     <item>
         <p>Exod 22:12</p>
-        <p rend="right"><foreign xml:lang="heb">אם־טרף יטרף יבאהו עד הטרפה לא ישלם׃</foreign></p>
+        <p rend="right"><foreign xml:lang="he">אם־טרף יטרף יבאהו עד הטרפה לא ישלם׃</foreign></p>
         <p rend="indent">If it is genuinely torn [by wild animals], <hi rend="italic">let him bring</hi> it as evidence; what is torn he need not repay.</p>
     </item>
     <item>
         <p>Josh 1:17</p>
-        <p rend="right"><foreign xml:lang="heb">ככל אשר־שמענו אל־משה כן נשמע אליך רק יהיה יהוה אלהיך עמך כאשר היה עם־משה׃</foreign></p>
+        <p rend="right"><foreign xml:lang="he">ככל אשר־שמענו אל־משה כן נשמע אליך רק יהיה יהוה אלהיך עמך כאשר היה עם־משה׃</foreign></p>
         <p rend="indent">As we obeyed Moses, so we will obey you, only <hi rend="italic">may Yahweh</hi>, your God, <hi rend="italic">be</hi> with you as he was with Moses.</p>
     </item>
     <item>
         <p>2 Kgs 23:18</p>
-        <p rend="right"><foreign xml:lang="heb">...ויאמר הניחו לו איש אל־ינע עצמתיו...</foreign></p>
+        <p rend="right"><foreign xml:lang="he">...ויאמר הניחו לו איש אל־ינע עצמתיו...</foreign></p>
         <p rend="indent">And he said, “Leave him be. <hi rend="italic">Let no one move</hi> his bones.”</p>
     </item>
     <item>
         <p>Judg 6:30</p>
-        <p rend="right"><foreign xml:lang="heb">...ויאמרו אנשי העיר אל־יואש הוצא את־בנך וימת...</foreign></p>
+        <p rend="right"><foreign xml:lang="he">...ויאמרו אנשי העיר אל־יואש הוצא את־בנך וימת...</foreign></p>
         <p rend="indent">The men of the town said to Joash, “Bring out your son <hi rend="italic">so that he may die...</hi>”</p>
     </item>
 </list>
@@ -1041,31 +1041,31 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 <list>
     <item>
         <p>Gen 1:22</p>
-        <p rend="rtl">ויברך אתם אלהים לאמר פרו ורבו ומלאו את־המים בימים והעוף ירב בארץ׃</p>
+        <p rend="rtl"><foreign xml:lang="he">ויברך אתם אלהים לאמר פרו ורבו ומלאו את־המים בימים והעוף ירב בארץ׃</foreign></p>
         <p rend="indent">God blessed them saying, “Be fruitful, multiply, and fill the waters in the seas, but <emph>let</emph> the birds <emph>multiply</emph> on the earth.”</p>
     </item>
 
     <item>
         <p>Gen 44:33</p>
-        <p rend="rtl">ועתה ישב־נא עבדך תחת הנער עבד לאדני והנער יעל עם־אחיו׃</p>
+        <p rend="rtl"><foreign xml:lang="he">ועתה ישב־נא עבדך תחת הנער עבד לאדני והנער יעל עם־אחיו׃</foreign></p>
         <p rend="indent">Now, please let your servant remain instead of the lad as a slave to my lord, but <emph>let</emph> the lad <emph>return</emph> with his brothers.</p>
     </item>
 
     <item>
         <p>2 Sam 14:17</p>
-        <p rend="rtl">ותאמר שפחתך יהיה־נא דבר־אדני המלך למנוחה כי כמלאך האלהים כן אדני המלך לשמע הטוב והרע ויהוה אלהיך יהי עמך׃</p>
+        <p rend="rtl"><foreign xml:lang="he">ותאמר שפחתך יהיה־נא דבר־אדני המלך למנוחה כי כמלאך האלהים כן אדני המלך לשמע הטוב והרע ויהוה אלהיך יהי עמך׃</foreign></p>
         <p rend="indent">And your servant said, “May the word of my lord, the King, bring rest...and <emph>may</emph> Yahweh your God <emph>be</emph> with you.”</p>
     </item>
 </list>
 
-<p>יְהיה is in initial position and is consequently projective; this is confirmed by the presence of נָא, which is a particle of petition occurring typically when requests are made in circumstances that require deference or politeness.<note n="92" place="foot">A. Shulman “Use of Modal Verb Forms,” p. 170.</note> Thus, even though יְהִי is not in initial position, the sequence makes it clear that it must be projective.</p>
+<p><foreign xml:lang="he">יְהיה</foreign> is in initial position and is consequently projective; this is confirmed by the presence of <foreign xml:lang="he">נָא</foreign>, which is a particle of petition occurring typically when requests are made in circumstances that require deference or politeness.<note n="92" place="foot">A. Shulman “Use of Modal Verb Forms,” p. 170.</note> Thus, even though <foreign xml:lang="he">יְהִי</foreign> is not in initial position, the sequence makes it clear that it must be projective.</p>
 
 <p rend="indent">The remaining instances are more problematic.</p>
 
 <list>
     <item>
         <p>Gen 30:34</p>
-        <p rend="rtl">ויאמר לבן הן לו יהי כדברך׃</p>
+        <p rend="rtl"><foreign xml:lang="he">ויאמר לבן הן לו יהי כדברך׃</foreign></p>
         <p rend="indent">And Laban said, “Fine! <emph>Let it be</emph> as you say.”</p>
     </item>
 </list>
@@ -1074,9 +1074,9 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
 <p><lb/><title level="j">Hebrew Studies</title> 39 (1998)</p>
 
 <p>Muraoka has suggested an Akkadianism, pointing to Laban’s Mesopotamian
-origin, may lie behind the use of לו.<hi rend="sup">93</hi> Both Revell and Shulman argue that
-אך and עתה do not alter the fact that the verb is in initial position. Possibly
-this is true also for לו and for כן in the case which follows.</p>
+origin, may lie behind the use of <foreign xml:lang="he">לו</foreign>.<hi rend="sup">93</hi> Both Revell and Shulman argue that
+<foreign xml:lang="he">אך</foreign> and <foreign xml:lang="he">עתה</foreign> do not alter the fact that the verb is in initial position. Possibly
+this is true also for <foreign xml:lang="he">לו</foreign> and for <foreign xml:lang="he">כן</foreign> in the case which follows.</p>
 
 <p>1 Kgs 1:36
 <lb/><foreign xml:lang="he">ויען בניהו בן־יהוידע את־המלך ויאמר אמן כן יאמר יהוה אלהי אדני המלך:</foreign></p>
@@ -1095,22 +1095,22 @@ assertive as well.</p>
 <quote rend="italic">Yahweh, your God, multiplied you...May Yahweh, your God, add to you as
 you are a thousand times and may he bless you as he promised you.</quote>
 
-<p>The form יסף may be read as assertive and perfective.<hi rend="sup">94</hi> Thus one could
+<p>The form <foreign xml:lang="he">יסף</foreign> may be read as assertive and perfective.<hi rend="sup">94</hi> Thus one could
 alternatively translate:</p>
 
 <quote rend="italic">Yahweh, your God, multiplied you...Yahweh, your God, will add to you as
 you are a thousand times so that may he bless you as he promised you.</quote>
 
-<p>Shulman lists eleven passages where אל + projective is not clause ini-
+<p>Shulman lists eleven passages where <foreign xml:lang="he">אל</foreign> + projective is not clause ini-
 tial.<hi rend="sup">95</hi> There is greater freedom to employ non-initial position for focus in
-these instances, since a prefixed form in conversation following אל could
+these instances, since a prefixed form in conversation following <foreign xml:lang="he">אל</foreign> could
 hardly be read as anything but a projective.
    These cases, then, do not disturb the present proposal. Rarely, in con-
 versation and in a projective series, a projective may be non-initial to mark</p>
 
 <note n="93">T. Muraoka, <title level="m">Emphatic Words and Structures in Biblical Hebrew</title> (Jerusalem and Leiden: Magnes Press
 and E. J. Brill, 1985), p. 117.</note>
-<note n="94">Similarly, תחל in 1 Sam 10:8 may be read as a perfective assertive. Contextually, the prophet Samuel
+<note n="94">Similarly, <foreign xml:lang="he">תחל</foreign> in 1 Sam 10:8 may be read as a perfective assertive. Contextually, the prophet Samuel
 is telling Saul what will happen. Cf. E. J. Revell, “The System of the Verb,” p. 20 and A. Shulman “Use
 of Modal Verb Forms,” p. 247.</note>
 <note n="95">Gen. 19:8; 37:27; 45:20; Exod 16:19; 19:24; 34:3; Lev 10:8–9; Judg 13:14; 19:20; 1 Sam 9:20; 2 Kgs
@@ -1123,26 +1123,26 @@ of Modal Verb Forms,” p. 247.</note>
 <p>In five instances of 197 occurrences of first person projectives in the corpus examined by Shulman, the forms were non-initial.</p>
 
 <p>Gen 22:5</p>
-<p rend="indent">...וַיֹּאמֶר אַבְרָהָם אֶל־נְעָרָיו שְׁבוּ־לָכֶם פֹּה עִם־הַחֲמוֹר וַאֲנִי וְהַנַּעַר נֵלְכָה עַד־כֹּה</p>
+<p rend="indent">...<foreign xml:lang="he">וַיֹּאמֶר אַבְרָהָם אֶל־נְעָרָיו שְׁבוּ־לָכֶם פֹּה עִם־הַחֲמוֹר וַאֲנִי וְהַנַּעַר נֵלְכָה עַד־כֹּה</foreign></p>
 <quote>Abraham said to his servants, “Stay here with the donkey, but <emph>I</emph> and the lad <emph>will go</emph> over there.”</quote>
 
 <p>Exod 32:30</p>
-<p rend="indent">...וְעַתָּה אֶעֱלֶה אֶל־יְהוָה אוּלַי אֲכַפְּרָה בְּעַד חַטַּאתְכֶם:</p>
+<p rend="indent">...<foreign xml:lang="he">וְעַתָּה אֶעֱלֶה אֶל־יְהוָה אוּלַי אֲכַפְּרָה בְּעַד חַטַּאתְכֶם</foreign>:</p>
 <quote>“And now, I will go up to the LORD, perhaps <emph>I can make atonement</emph> for your sin.”</quote>
 
 <p>Num 20:19</p>
-<p rend="indent">...רַק אֵין־דָּבָר בְּרַגְלַי אֶעֱבֹרָה:</p>
+<p rend="indent">...<foreign xml:lang="he">רַק אֵין־דָּבָר בְּרַגְלַי אֶעֱבֹרָה</foreign>:</p>
 <quote>...only on foot <emph>will I pass</emph> through.</quote>
 
 <p>2 Sam 6:22</p>
-<p rend="indent">...וּנְקַלֹּתִי עֹוד מִזֹּאת וְהָיִיתִי שָׁפָל בְּעֵינָי וְעִם־הָאֲמָהוֹת אֲשֶׁר אָמַרְתְּ עִמָּם אִכָּבֵדָה:</p>
+<p rend="indent">...<foreign xml:lang="he">וּנְקַלֹּתִי עֹוד מִזֹּאת וְהָיִיתִי שָׁפָל בְּעֵינָי וְעִם־הָאֲמָהוֹת אֲשֶׁר אָמַרְתְּ עִמָּם אִכָּבֵדָה</foreign>:</p>
 <quote>I will be humiliated in my eyes, but before these slave girls you mentioned, <emph>I will be honored</emph>.</quote>
 
 <p>2 Sam 18:14</p>
-<p rend="indent">...וַיֹּאמֶר יֹואָב לֹא־כֵן אָחִילָה לְפָנֶיךָ</p>
+<p rend="indent">...<foreign xml:lang="he">וַיֹּאמֶר יֹואָב לֹא־כֵן אָחִילָה לְפָנֶיךָ</foreign></p>
 <quote>And Joab said, “Not thus <emph>will I wait</emph> before you.”</quote>
 
-<p>Exod 32:30 and 2 Sam 18:14 may possibly be considered clause initial, if the preceding particles are classed as connectors like <emph>waw</emph>.<note n="96">See 1 Kgs 1:36 above. Note that אולי is always restricted to initial position.</note> Gen 22:5 is in a projective sequence and involves a participant shift. Num 20:19 and 2 Sam 6:22 may be read as assertives.</p>
+<p>Exod 32:30 and 2 Sam 18:14 may possibly be considered clause initial, if the preceding particles are classed as connectors like <emph>waw</emph>.<note n="96">See 1 Kgs 1:36 above. Note that <foreign xml:lang="he">אולי</foreign> is always restricted to initial position.</note> Gen 22:5 is in a projective sequence and involves a participant shift. Num 20:19 and 2 Sam 6:22 may be read as assertives.</p>
       <pb n="39"/>
 <head>Hebrew Studies 39 (1998) 39 Gentry: System of the Finite Verb</head>
 
@@ -1184,10 +1184,10 @@ of Modal Verb Forms,” p. 247.</note>
     </row>
     <row>
         <cell>Negative</cell>
-        <cell><foreign xml:lang="hbo">לא + qatal</foreign></cell>
-        <cell><foreign xml:lang="hbo">לא + yiqtol</foreign></cell>
-        <cell><foreign xml:lang="hbo">אל + yiqtol-S</foreign></cell>
-        <cell><foreign xml:lang="hbo">לא + yiqtol-L</foreign></cell>
+        <cell><foreign xml:lang="hbo"><foreign xml:lang="he">לא</foreign> + qatal</foreign></cell>
+        <cell><foreign xml:lang="hbo"><foreign xml:lang="he">לא</foreign> + yiqtol</foreign></cell>
+        <cell><foreign xml:lang="hbo"><foreign xml:lang="he">אל</foreign> + yiqtol-S</foreign></cell>
+        <cell><foreign xml:lang="hbo"><foreign xml:lang="he">לא</foreign> + yiqtol-L</foreign></cell>
     </row>
     <row>
         <cell>Sequential</cell>
@@ -1485,12 +1485,12 @@ Edinburgh.</item>
     <row>
         <cell>Within clause</cell>
         <cell>perfect</cell>
-        <cell>לא + perfect</cell>
+        <cell><foreign xml:lang="he">לא</foreign> + perfect</cell>
     </row>
     <row>
         <cell>Clause initial</cell>
         <cell><hi rend="italic">waw</hi> consec. imperf.</cell>
-        <cell>לא + perfect</cell>
+        <cell><foreign xml:lang="he">לא</foreign> + perfect</cell>
     </row>
     <row>
         <cell>YQTL</cell>
@@ -1500,12 +1500,12 @@ Edinburgh.</item>
     <row>
         <cell>Within clause</cell>
         <cell>imperfect</cell>
-        <cell>לא + imperfect</cell>
+        <cell><foreign xml:lang="he">לא</foreign> + imperfect</cell>
     </row>
     <row>
         <cell>Clause initial</cell>
         <cell><hi rend="italic">waw</hi> consec. perfect</cell>
-        <cell>לא + imperfect</cell>
+        <cell><foreign xml:lang="he">לא</foreign> + imperfect</cell>
     </row>
     <row>
         <cell>MODAL</cell>
@@ -1515,20 +1515,20 @@ Edinburgh.</item>
     <row>
         <cell>1st person</cell>
         <cell>cohortative</cell>
-        <cell>אל + cohortative<hi rend="superscript">1</hi></cell>
+        <cell><foreign xml:lang="he">אל</foreign> + cohortative<hi rend="superscript">1</hi></cell>
     </row>
     <row>
         <cell>2nd person</cell>
         <cell>imperative</cell>
-        <cell>אל + jussive</cell>
+        <cell><foreign xml:lang="he">אל</foreign> + jussive</cell>
     </row>
     <row>
         <cell>3rd person</cell>
         <cell>jussive</cell>
-        <cell>אל + jussive</cell>
+        <cell><foreign xml:lang="he">אל</foreign> + jussive</cell>
     </row>
 </table>
-<note n="1">(1) The negative אל is followed by a cohortative form in 2 Sam. 24:14; Jer. 17:18, 18, 18:18; Jonah 1:14; Ps 25:2, 31:2, 18, 69:15, 71:1. The form is not cohortative in 2 Sam.</note>
+<note n="1">(1) The negative <foreign xml:lang="he">אל</foreign> is followed by a cohortative form in 2 Sam. 24:14; Jer. 17:18, 18, 18:18; Jonah 1:14; Ps 25:2, 31:2, 18, 69:15, 71:1. The form is not cohortative in 2 Sam.</note>
 <p rend="text-align: center">1</p>
       <pb n="2"/>
 <p rend="center">2 <space extent="30" unit="chars"/> E. J. REVELL <space extent="30" unit="chars"/> [2]</p>
@@ -1645,32 +1645,32 @@ Edinburgh.</item>
 <head>THE SYSTEM OF THE VERB <supplied>5</supplied></head>
 
 <list>
-<item>1 Kgs. 8:47 <foreign xml:lang="heb">והשיבו אל לבם בארץ אשר נשבו שם</foreign> ‘They will bring (it) to mind in the land to which they (will) have been carried.’</item>
-<item>2 Kgs. 4:24 <foreign xml:lang="heb">אל תעצר לי לרכב כי אם אמרתי לך</foreign> ‘Do not cease driving unless I (shall) have told you.’</item>
+<item>1 Kgs. 8:47 <foreign xml:lang="he">והשיבו אל לבם בארץ אשר נשבו שם</foreign> ‘They will bring (it) to mind in the land to which they (will) have been carried.’</item>
+<item>2 Kgs. 4:24 <foreign xml:lang="he">אל תעצר לי לרכב כי אם אמרתי לך</foreign> ‘Do not cease driving unless I (shall) have told you.’</item>
 </list>
 
 <p>3.4 As the translations show, English can use verbal phrases which accurately reflect these different temporal relationships. Where the context is future, however, a simple present form ‘unless I tell you,’ ‘the land to which they are carried’ would be more usual, and a simple past form ‘I did’ would be adequate in most cases where the context is present or past. The difference between the usages possible in English is basically social. The use of more or less precise forms would carry information about the educational background of the speaker, or the social context of the speech. Similar differences are possible in Hebrew. An action which is past in relation to a future event may be represented by a QTL form, as in the examples noted above. It may also be represented by a YQTL form, as</p>
 
-<p>Judg. 6:26 <foreign xml:lang="heb">והעלית עולה בעצי האשרה אשר תכרת</foreign> ‘You will send up an offering with the wood of the Asherah which you will (have) cut down.’ It is at least reasonable to suggest that the verb form is chosen to reflect one of the possible views of the temporal relationship of the event. A YQTL form shows that it is perceived in relation to the speaker, and so as future; a QTL form shows that it is perceived in relation to its context, and so as past. The choice of forms could no doubt be similarly justified if the QTL:YQTL contrast were explained in terms of ‘complete:incomplete,’ or ‘punctual:durative’ action. What is significant for this paper is the fact that the choice of verb forms does not depend wholly on the time or nature of the action. Where the action can be understood as belonging to either of the contrasting categories, either form can be used, according to the impression of the time or of the nature of the action that the speaker wishes to convey.</p>
+<p>Judg. 6:26 <foreign xml:lang="he">והעלית עולה בעצי האשרה אשר תכרת</foreign> ‘You will send up an offering with the wood of the Asherah which you will (have) cut down.’ It is at least reasonable to suggest that the verb form is chosen to reflect one of the possible views of the temporal relationship of the event. A YQTL form shows that it is perceived in relation to the speaker, and so as future; a QTL form shows that it is perceived in relation to its context, and so as past. The choice of forms could no doubt be similarly justified if the QTL:YQTL contrast were explained in terms of ‘complete:incomplete,’ or ‘punctual:durative’ action. What is significant for this paper is the fact that the choice of verb forms does not depend wholly on the time or nature of the action. Where the action can be understood as belonging to either of the contrasting categories, either form can be used, according to the impression of the time or of the nature of the action that the speaker wishes to convey.</p>
 
-<p>4.1 In a present/future context, a QTL form may be used to represent an event which was initiated in the speaker’s past, but continues in the present. This is usual with verbs representing a condition, quality or state, where English would use a present form, as in Judg. 16:15 <foreign xml:lang="heb">אהבתיך</foreign> ‘I love you,’ Judg. 18:23 <foreign xml:lang="heb">נזעקת</foreign> ‘(What is your problem that) you are mustered?,’ and with special cases like <foreign xml:lang="heb">היה</foreign> ‘be,’ <foreign xml:lang="heb">ידע</foreign> ‘know’ and <foreign xml:lang="heb">יכל</foreign> ‘be able.’</p>
+<p>4.1 In a present/future context, a QTL form may be used to represent an event which was initiated in the speaker’s past, but continues in the present. This is usual with verbs representing a condition, quality or state, where English would use a present form, as in Judg. 16:15 <foreign xml:lang="he">אהבתיך</foreign> ‘I love you,’ Judg. 18:23 <foreign xml:lang="he">נזעקת</foreign> ‘(What is your problem that) you are mustered?,’ and with special cases like <foreign xml:lang="he">היה</foreign> ‘be,’ <foreign xml:lang="he">ידע</foreign> ‘know’ and <foreign xml:lang="he">יכל</foreign> ‘be able.’</p>
 
 <p>4.2 This category also includes the so-called ‘Perfect of Certainty.’ A QTL form may be used to present an event which has not occurred</p>
       <pb n="6"/>
 <head>6 E. J. REVELL [6]</head>
 <p>at the time of speaking, but which is known, or believed, to have been initiated by a decision made in the past, as in</p>
 <list>
-<item>Judg. 1:2 <foreign xml:lang="heb">יהודה יעלה הנה נתתי את הארץ בידו</foreign> ‘Judah will attack. I will (!) deliver the land to him.’</item>
-<item>Judg. 7:14 <foreign xml:lang="heb">נתן האלהים בידו את מדין</foreign> ‘God will (!) deliver Midian to him.’</item>
-<item>Judg. 18:10 <foreign xml:lang="heb">כי נתנה אלהים בידכם</foreign> ‘God will (!) deliver it to you.’</item>
-<item>2 Sam. 9:9 <foreign xml:lang="heb">כל אשר היה לשאול ... נתתי לבן אדניך</foreign> I shall (!) give all that belonged to Saul to your master’s son.’</item>
-<item>1 Kgs. 3:12 <foreign xml:lang="heb">הנה נתתי לך לב חכם</foreign> ‘I (hereby) give you a wise heart.’</item>
+<item>Judg. 1:2 <foreign xml:lang="he">יהודה יעלה הנה נתתי את הארץ בידו</foreign> ‘Judah will attack. I will (!) deliver the land to him.’</item>
+<item>Judg. 7:14 <foreign xml:lang="he">נתן האלהים בידו את מדין</foreign> ‘God will (!) deliver Midian to him.’</item>
+<item>Judg. 18:10 <foreign xml:lang="he">כי נתנה אלהים בידכם</foreign> ‘God will (!) deliver it to you.’</item>
+<item>2 Sam. 9:9 <foreign xml:lang="he">כל אשר היה לשאול ... נתתי לבן אדניך</foreign> I shall (!) give all that belonged to Saul to your master’s son.’</item>
+<item>1 Kgs. 3:12 <foreign xml:lang="he">הנה נתתי לך לב חכם</foreign> ‘I (hereby) give you a wise heart.’</item>
 </list>
-<p>QTL forms used in this way are sometimes called ‘performatives’: i.e. “utterances which themselves describe the speech act which they perform” (Leech, 1981, p. 322). Talstra (1982, col. 28), adapting Leech’s definition of the English usage to Hebrew, argues that the ‘perfect tense’ is characteristic of the equivalent usage in Hebrew. The resulting definition of the Hebrew performative is perfectly acceptable, but (like that of Leech for English) is very narrow. The case in 1 Kgs. 3:12 (which is translated as a performative) is the only one in the above set of examples which clearly fits it. In Judg. 1:2, the pronoun in <foreign xml:lang="heb">בידו</foreign> might well be regarded as the indirect object of <foreign xml:lang="heb">נתתי</foreign>. If this is the case, this example must be excluded along with the others. Yet the basis for the use of the perfect form would appear to be the same in all the examples. Consequently, there seems no reason to accept the claim in Talstra, 1982, col. 27, that “performative speech in Hebrew should not be explained as an aspect of any ‘basic function’ of the perfect tense.” The performative use of QTL forms is simply a subclass of the category described in this section, just as performative usage is a subclass of the use of the simple present form in English.</p>
+<p>QTL forms used in this way are sometimes called ‘performatives’: i.e. “utterances which themselves describe the speech act which they perform” (Leech, 1981, p. 322). Talstra (1982, col. 28), adapting Leech’s definition of the English usage to Hebrew, argues that the ‘perfect tense’ is characteristic of the equivalent usage in Hebrew. The resulting definition of the Hebrew performative is perfectly acceptable, but (like that of Leech for English) is very narrow. The case in 1 Kgs. 3:12 (which is translated as a performative) is the only one in the above set of examples which clearly fits it. In Judg. 1:2, the pronoun in <foreign xml:lang="he">בידו</foreign> might well be regarded as the indirect object of <foreign xml:lang="he">נתתי</foreign>. If this is the case, this example must be excluded along with the others. Yet the basis for the use of the perfect form would appear to be the same in all the examples. Consequently, there seems no reason to accept the claim in Talstra, 1982, col. 27, that “performative speech in Hebrew should not be explained as an aspect of any ‘basic function’ of the perfect tense.” The performative use of QTL forms is simply a subclass of the category described in this section, just as performative usage is a subclass of the use of the simple present form in English.</p>
 <p>4.3 The use of a QTL form in these examples to represent an event which has not yet taken place is justified because a decision has been made by the speaker, whether God (Judg. 1:2, 1 Kgs. 3:12), or a human (2 Sam. 9:9), or because the speaker believes that God has made a decision because he has obtained information in a dream (Judg. 7:14), or on a tour of observation (Judg. 18:10). Such events may also be represented by YQTL forms, even where a decision has clearly been made, because the event itself is future relative to the speaker, as in</p>
 <list>
-<item>2 Sam. 5:19 <foreign xml:lang="heb">עלה כי נתן אתן את הפלשתים בידך</foreign> ‘Attack, because I will certainly deliver the Philistines to you.’</item>
-<item>Judg. 1:12 <foreign xml:lang="heb">אשר יכה את קרית ספר ... ונתתי לו את עכסה בתי</foreign> ‘I will give my daughter to the man who attacks and captures Kiriat Sepher.’ A verbless clause, with the predicate headed by a participle, may also be used, as in</item>
+<item>2 Sam. 5:19 <foreign xml:lang="he">עלה כי נתן אתן את הפלשתים בידך</foreign> ‘Attack, because I will certainly deliver the Philistines to you.’</item>
+<item>Judg. 1:12 <foreign xml:lang="he">אשר יכה את קרית ספר ... ונתתי לו את עכסה בתי</foreign> ‘I will give my daughter to the man who attacks and captures Kiriat Sepher.’ A verbless clause, with the predicate headed by a participle, may also be used, as in</item>
 </list>
       <pb n="7"/>
 <list>
@@ -1693,49 +1693,49 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
       <pb n="8"/>
 <head>8 E. J. REVELL [8]</head>
 <p>when in clause-initial position with no conjunction prefixed. It may also have this value, in a past context, where the conjunction is prefixed. Where this occurs, the verb represents an action which accompanies, or forms a facet of, an action by the same subject represented by a preceding verb (see Driver, 1892, p. 159), as in</p>
-<p>Judg. 3:23 ויסגר דלתות העליה בעדו ונעל ‘He closed the doors of the penthouse behind him, locking (them).’ Cf. 2 Sam. 13:18.</p>
-<p>1 Kgs. 20:27 . . . ובני ישראל התפקדו וכלכלו וילכו ‘The Israelites were mustered with provisions, and went to meet them.’ An infinitive absolute following a finite verb carries much the same meaning as the perfect in this usage,<note place="foot">8</note> as in</p>
-<p>2 Sam. 3:16 וילך . . . הלוך ובכה אחריה ‘He went along after her weeping’ (infinitive). Compare</p>
-<p>2 Sam. 13:19 ותלך הלוך וזעקה</p>
+<p>Judg. 3:23 <foreign xml:lang="he">ויסגר דלתות העליה בעדו ונעל</foreign> ‘He closed the doors of the penthouse behind him, locking (them).’ Cf. 2 Sam. 13:18.</p>
+<p>1 Kgs. 20:27 . . . <foreign xml:lang="he">ובני ישראל התפקדו וכלכלו וילכו</foreign> ‘The Israelites were mustered with provisions, and went to meet them.’ An infinitive absolute following a finite verb carries much the same meaning as the perfect in this usage,<note place="foot">8</note> as in</p>
+<p>2 Sam. 3:16 <foreign xml:lang="he">וילך</foreign> . . . <foreign xml:lang="he">הלוך ובכה אחריה</foreign> ‘He went along after her weeping’ (infinitive). Compare</p>
+<p>2 Sam. 13:19 <foreign xml:lang="he">ותלך הלוך וזעקה</foreign></p>
 <p>‘She went along screaming’ (perfect). A <hi rend="italic">waw</hi> consecutive imperfect may be used in the same situation, as in</p>
-<p>1 Sam. 19:23 וילך הלוך ויתנבא ‘He went along, and he prophesied.’ It cannot be demonstrated from examples in this particular context that where the <hi rend="italic">waw</hi> consecutive imperfect is used, the action was perceived as distinct, whereas where the perfect with conjunctive <hi rend="italic">waw</hi> is used, the action was perceived as a facet of that of the preceding verb. However, this use of the perfect is distinguished from the <hi rend="italic">waw</hi> consecutive use by its past context (as well as by the stress pattern in 1.s and 2.ms forms), and from the <hi rend="italic">waw</hi> consecutive imperfect by its form, so it is quite reasonable to suggest that it has a distinct meaning. It shows a QTL verb to represent an action contemporary with a preceding one, contrasting with the <hi rend="italic">waw</hi> consecutive imperfect which presents the two acts as in sequence.</p>
+<p>1 Sam. 19:23 <foreign xml:lang="he">וילך הלוך ויתנבא</foreign> ‘He went along, and he prophesied.’ It cannot be demonstrated from examples in this particular context that where the <hi rend="italic">waw</hi> consecutive imperfect is used, the action was perceived as distinct, whereas where the perfect with conjunctive <hi rend="italic">waw</hi> is used, the action was perceived as a facet of that of the preceding verb. However, this use of the perfect is distinguished from the <hi rend="italic">waw</hi> consecutive use by its past context (as well as by the stress pattern in 1.s and 2.ms forms), and from the <hi rend="italic">waw</hi> consecutive imperfect by its form, so it is quite reasonable to suggest that it has a distinct meaning. It shows a QTL verb to represent an action contemporary with a preceding one, contrasting with the <hi rend="italic">waw</hi> consecutive imperfect which presents the two acts as in sequence.</p>
 <p>7. Some uses of perfect or <hi rend="italic">waw</hi> consecutive imperfect forms do not fit the above categories.</p>
 <p>7.1 Perfect forms with prefixed conjunction represent past acts in some other cases.</p>
-<p>(a) והיה introduces a section of past narrative in place of the expected ויהי ‘and it happened’ in: 1 Sam. 10:9, 13:22, 17:48, 25:20; 2 Sam. 6:16; 2 Kgs. 3:15. In 2 Sam. 16:5, ובא ‘and he came’ evidently represents a similar anomaly, since if the form were a participle heading its predicate, the subject should precede it.</p>
+<p>(a) <foreign xml:lang="he">והיה</foreign> introduces a section of past narrative in place of the expected <foreign xml:lang="he">ויהי</foreign> ‘and it happened’ in: 1 Sam. 10:9, 13:22, 17:48, 25:20; 2 Sam. 6:16; 2 Kgs. 3:15. In 2 Sam. 16:5, <foreign xml:lang="he">ובא</foreign> ‘and he came’ evidently represents a similar anomaly, since if the form were a participle heading its predicate, the subject should precede it.</p>
 <note place="foot">(8) It is suggested in Huesman, 1956, that perfect forms of this sort may have originated as infinitive absolutes, but, since the phenomenon is not restricted to 3m.s forms, this cannot be true for the forms in the text as it stands. See Revell, 1985, #4.</note>
 
 <pb n="9"/>
 <head>[9] THE SYSTEM OF THE VERB 9</head>
 <p>(b) Elsewhere, in a past context, where the verb has a subject different from that of the preceding verb: Judg. 16:18; 1 Sam. 2:16, 17:35, 20:16; 2 Sam. 19:19; 1 Kgs. 18:10; 2 Kgs. 6:10, 8:10, 14:10, 22:17. Also, where the verb (despite the prefixed conjunction) is preceded by a constituent of the clause: 1 Sam. 17:20; 2 Sam. 7:11, 20:12. In addition, where the subject is the same as that of the preceding verb, in 1 Kgs. 11:10, 13:3.</p>
-<p>7.2 A perfect form with no preceding conjunction is used where an imperfect or modal form is expected in: 1 Sam. 9:6 הלכנו; 1 Sam. 27:10 פשטתם; 2 Sam. 3:18 הושע; 2 Kgs. 19:23 עלתי.</p>
-<p>7.3 In 2 Sam. 19:2 the <hi rend="italic">waw</hi> consecutive imperfect form ויתאבל ‘and he mourned’ appears to be in sequence with the preceding participle בכה in quoted speech. It could, in fact, begin the following narrative. (19:2) ‘Joab was told “The King is weeping” — and he (the king) mourned . . . (19:3) so that victory was turned to mourning for all . . . — (19:6) and Joab came to the King . . .’</p>
+<p>7.2 A perfect form with no preceding conjunction is used where an imperfect or modal form is expected in: 1 Sam. 9:6 <foreign xml:lang="he">הלכנו</foreign>; 1 Sam. 27:10 <foreign xml:lang="he">פשטתם</foreign>; 2 Sam. 3:18 <foreign xml:lang="he">הושע</foreign>; 2 Kgs. 19:23 <foreign xml:lang="he">עלתי</foreign>.</p>
+<p>7.3 In 2 Sam. 19:2 the <hi rend="italic">waw</hi> consecutive imperfect form <foreign xml:lang="he">ויתאבל</foreign> ‘and he mourned’ appears to be in sequence with the preceding participle <foreign xml:lang="he">בכה</foreign> in quoted speech. It could, in fact, begin the following narrative. (19:2) ‘Joab was told “The King is weeping” — and he (the king) mourned . . . (19:3) so that victory was turned to mourning for all . . . — (19:6) and Joab came to the King . . .’</p>
 <p>More or less plausible attempts could similarly be made to show that some of the cases listed above are examples of standard usage. Other scholars might well regard as anomalies some cases that I accept as representing standard usage. In any listing, however, the anomalies would form only an insignificant proportion of the total uses of perfect and <hi rend="italic">waw</hi> consecutive imperfect forms which are used consistently in the categories described in ##3-6. The point should also be made that, while some of these anomalies are not easily understood as the result of scribal error affecting the form of the verb, most of them are. This applies particularly to the use of a clause-initial perfect form with prefixed conjunction where a <hi rend="italic">waw</hi> consecutive imperfect is expected. Such usage was typical of some forms of the language from early times (see Mayer [1959], Loretz [1961]) so that its occasional intrusion into standard biblical prose is not surprising.</p>
 <head>THE USE OF INDICATIVE FORMS: YQTL</head>
 <p>8. In terms of tense, YQTL forms refer to the present or future. Thus, in quoted speech, in a present context,</p>
-<p>Judg. 1:1–2 מי יעלה . . . יהודה יעלה ‘Who will go up? . . . Judah will go up.’ Where the context is past, a YQTL form may represent an event which is present or future relative to the past context, as</p>
-<p>Judg. 17:8 וילך האיש . . . לגור באשר ימצא ‘The man went to live where he could find a place.’ The English translation represents the different time reference of the two verbs by the use of the modal ‘could’ for the</p>
+<p>Judg. 1:1–2 <foreign xml:lang="he">מי יעלה</foreign> . . . <foreign xml:lang="he">יהודה יעלה</foreign> ‘Who will go up? . . . Judah will go up.’ Where the context is past, a YQTL form may represent an event which is present or future relative to the past context, as</p>
+<p>Judg. 17:8 <foreign xml:lang="he">וילך האיש</foreign> . . . <foreign xml:lang="he">לגור באשר ימצא</foreign> ‘The man went to live where he could find a place.’ The English translation represents the different time reference of the two verbs by the use of the modal ‘could’ for the</p>
       <pb n="10"/>
 <fw type="header">10 E. J. REVELL [10]</fw>
 <p>second, but it sees both actions from the viewpoint of the speaker, as past. The Hebrew represents the second action from the viewpoint of the first. If the first action were future, the second Hebrew verb would not change in form, because the relationship of the two actions to each other would still be the same. However, the English translation must change to ‘He will go to live where he will/can find a place’ to indicate the different temporal relationship of the second action to the speaker.</p>
 <p>9. YQTL forms, like QTL, are used both for single actions, as in the examples in Judg. 1:1–2, and for actions which are repeated, habitual, or constant. Thus, in a present or future context,</p>
 <list>
-    <item>Judg. 13:14 <foreign xml:lang="heb">כל אשר יצא מגפן היין</foreign> ‘Everything which comes from the grape vine.’</item>
-    <item>2 Kgs. 9:20 <foreign xml:lang="heb">כי בשגעון ינהג</foreign> ‘He drives furiously.’ Other examples occur in Judg. 16:15; 1 Sam. 5:5, 21:12; 2 Sam. 11:20, 17:12; 2 Kgs. 18:32; and elsewhere. In a past context, such verbs present actions as repeated or habitual in the past, as in</item>
-    <item>Judg. 2:18–19 <foreign xml:lang="heb">... וכי הקים יהוה להם שפטים והיה יהוה עם השפט והושיעם ... כי ינחם</foreign> The verbs of an English translation must indicate the fact that the events are past in relation to the speaker. ‘When the Lord had raised up a judge for them, he used to support the judge, and to rescue them, because he was moved by their pleas.’ If the introductory clause provided a present or future context, the following YQTL forms would be translated in English as present or future: ‘When the Lord raises ... he supports ...’ or ‘When the Lord will raise ... he will support ...’ In Hebrew, the future context would be indicated by the change of the initial verb to <foreign xml:lang="heb">יקים</foreign>, but the other verbs would not change, since the YQTL forms used for these verbs reflect the relation of the actions they represent to the context marked by the introductory verb, and this relationship does not change. Other examples occur in Judg. 6:4, 10:4, 11:40, 12:5, 14:10, etc. Where the context is past, QTL forms can be used instead of YQTL to represent these habitual actions (see #4, and cf. e.g. Judg. 2:18–19 with Judg. 3:6). As in the categories described in #4, #5, and #6, the form used is presumably chosen according to the particular implications which the speaker or narrator wishes to convey.</item>
+    <item>Judg. 13:14 <foreign xml:lang="he">כל אשר יצא מגפן היין</foreign> ‘Everything which comes from the grape vine.’</item>
+    <item>2 Kgs. 9:20 <foreign xml:lang="he">כי בשגעון ינהג</foreign> ‘He drives furiously.’ Other examples occur in Judg. 16:15; 1 Sam. 5:5, 21:12; 2 Sam. 11:20, 17:12; 2 Kgs. 18:32; and elsewhere. In a past context, such verbs present actions as repeated or habitual in the past, as in</item>
+    <item>Judg. 2:18–19 <foreign xml:lang="he">... וכי הקים יהוה להם שפטים והיה יהוה עם השפט והושיעם ... כי ינחם</foreign> The verbs of an English translation must indicate the fact that the events are past in relation to the speaker. ‘When the Lord had raised up a judge for them, he used to support the judge, and to rescue them, because he was moved by their pleas.’ If the introductory clause provided a present or future context, the following YQTL forms would be translated in English as present or future: ‘When the Lord raises ... he supports ...’ or ‘When the Lord will raise ... he will support ...’ In Hebrew, the future context would be indicated by the change of the initial verb to <foreign xml:lang="he">יקים</foreign>, but the other verbs would not change, since the YQTL forms used for these verbs reflect the relation of the actions they represent to the context marked by the introductory verb, and this relationship does not change. Other examples occur in Judg. 6:4, 10:4, 11:40, 12:5, 14:10, etc. Where the context is past, QTL forms can be used instead of YQTL to represent these habitual actions (see #4, and cf. e.g. Judg. 2:18–19 with Judg. 3:6). As in the categories described in #4, #5, and #6, the form used is presumably chosen according to the particular implications which the speaker or narrator wishes to convey.</item>
 </list>
 <p>10. In a small group of cases, an imperfect form is used to present an event which has already occurred, as</p>
 <list>
-    <item>2 Kgs. 20:14 <foreign xml:lang="heb">מה אמרו האנשים האלה ומאין יבאו אליך</foreign> ‘What did these men say, and where do they come from.’ Also Jos. 9:8 <foreign xml:lang="heb">תבואו</foreign>; 1 Sam. 8:7 <foreign xml:lang="heb">יאמרו</foreign>, 1 Sam. 21:15 <foreign xml:lang="heb">תביאו, תראו</foreign>; 2 Sam. 1:3 <foreign xml:lang="heb">תבוא</foreign>. QTL forms could equally well</item>
+    <item>2 Kgs. 20:14 <foreign xml:lang="he">מה אמרו האנשים האלה ומאין יבאו אליך</foreign> ‘What did these men say, and where do they come from.’ Also Jos. 9:8 <foreign xml:lang="he">תבואו</foreign>; 1 Sam. 8:7 <foreign xml:lang="he">יאמרו</foreign>, 1 Sam. 21:15 <foreign xml:lang="he">תביאו, תראו</foreign>; 2 Sam. 1:3 <foreign xml:lang="he">תבוא</foreign>. QTL forms could equally well</item>
 </list>
       <pb n="11"/>
 <head>[11] THE SYSTEM OF THE VERB 11</head>
 
-<p>have been used, as: 2 Kgs. 20:14 <foreign xml:lang="heb">אמרו</foreign> and <foreign xml:lang="heb">נמלטתי</foreign>; <foreign xml:lang="heb">באו</foreign> in the replies in Josh. 9:9 and 2 Sam. 1:3, corresponding to the imperfects in the preceding questions. Such actions may be seen as part of the present context ‘Where do you come from?’ or as already past ‘Where have you come from?’ Consequently, in Hebrew, they may be represented either by YQTL forms or by QTL forms.</p>
+<p>have been used, as: 2 Kgs. 20:14 <foreign xml:lang="he">אמרו</foreign> and <foreign xml:lang="he">נמלטתי</foreign>; <foreign xml:lang="he">באו</foreign> in the replies in Josh. 9:9 and 2 Sam. 1:3, corresponding to the imperfects in the preceding questions. Such actions may be seen as part of the present context ‘Where do you come from?’ or as already past ‘Where have you come from?’ Consequently, in Hebrew, they may be represented either by YQTL forms or by QTL forms.</p>
 
-<p>11.1 The use of YQTL forms after <foreign xml:lang="heb">אז</foreign> ‘then’ also appears to be explicable in terms of the relation of the action represented to the preceding context. Where that context is future, the verb forms following <foreign xml:lang="heb">אז</foreign> are used as would be expected from the above description: YQTL for future action and QTL for relative past, as in</p>
-<p>2 Sam. 5:24 <foreign xml:lang="heb">ויהי כשמעך את קול ... אז תחרץ כי אז יצא יהוה</foreign> ‘When you hear the sound of marching ... then you will attend (imperfect), for then the Lord will have gone out (perfect) before you.’ Where the context is past, <foreign xml:lang="heb">אז</foreign> is usually followed by a QTL form, again consistent with the above description, as in</p>
-<p>Judg. 8:2–3 <foreign xml:lang="heb">ויאמר אליהם מה עשיתי ... אז רפתה רוחם</foreign> ‘He said to them “What did I do ...” Then their anger against him softened when he spoke ...’ However, a YQTL form may also be used after <foreign xml:lang="heb">אז</foreign> in a past context, as</p>
-<p>1 Kgs. 16:21 <foreign xml:lang="heb">אז יחלק העם ישראל לחצי</foreign> ‘At that time the people of Israel was divided in two.’ Rabinowitz has shown that the events represented by an imperfect form introduced by <foreign xml:lang="heb">אז</foreign> can be seen in all cases as having occurred during the general period of the events described in the preceding context, and in some cases must be seen so, as in this passage. (Rabinowitz [1984], pp. 54–56, but with a different understanding of the value of the verb form). That is, an imperfect introduced by <foreign xml:lang="heb">אז</foreign> represents an event which is present relative to its past context, just as with the uses of the imperfect form in a past context described as standard in ##8–10.<note n="9">The common opinion that imperfect forms following <foreign xml:lang="heb">אז</foreign> originated as preterites must contend with a variety of difficulties. Some are raised in Rabinowitz (1984), pp. 53–54. It can also be noted that where a short (preterite) imperfect form is possible, it occurs only in <foreign xml:lang="heb">יקהל</foreign>, 1 Kgs. 8:1 (= <foreign xml:lang="heb">יקהיל</foreign>, 2 Chron. 5:2, also vowelled short), but not in: Exod. 15:1; Num. 21:17; Deut. 4:41; Josh. 8:30; 1 Kgs. 11:7; 2 Kgs. 12:18, 15:16, 16:5. The short imperfect form continued in use to the end of the biblical period, in the latter part of which it was a conditioned variant of the long imperfect (see #23.2). It is thus difficult to explain why the expected short forms should have been replaced by long forms, especially since clear indication that the verb had past value would require a perfect form.</note> Where the representation of an event does not require a verb, a verbless clause, which necessarily refers to the present relative to its context, can be used in a similar way, as in</p>
+<p>11.1 The use of YQTL forms after <foreign xml:lang="he">אז</foreign> ‘then’ also appears to be explicable in terms of the relation of the action represented to the preceding context. Where that context is future, the verb forms following <foreign xml:lang="he">אז</foreign> are used as would be expected from the above description: YQTL for future action and QTL for relative past, as in</p>
+<p>2 Sam. 5:24 <foreign xml:lang="he">ויהי כשמעך את קול ... אז תחרץ כי אז יצא יהוה</foreign> ‘When you hear the sound of marching ... then you will attend (imperfect), for then the Lord will have gone out (perfect) before you.’ Where the context is past, <foreign xml:lang="he">אז</foreign> is usually followed by a QTL form, again consistent with the above description, as in</p>
+<p>Judg. 8:2–3 <foreign xml:lang="he">ויאמר אליהם מה עשיתי ... אז רפתה רוחם</foreign> ‘He said to them “What did I do ...” Then their anger against him softened when he spoke ...’ However, a YQTL form may also be used after <foreign xml:lang="he">אז</foreign> in a past context, as</p>
+<p>1 Kgs. 16:21 <foreign xml:lang="he">אז יחלק העם ישראל לחצי</foreign> ‘At that time the people of Israel was divided in two.’ Rabinowitz has shown that the events represented by an imperfect form introduced by <foreign xml:lang="he">אז</foreign> can be seen in all cases as having occurred during the general period of the events described in the preceding context, and in some cases must be seen so, as in this passage. (Rabinowitz [1984], pp. 54–56, but with a different understanding of the value of the verb form). That is, an imperfect introduced by <foreign xml:lang="he">אז</foreign> represents an event which is present relative to its past context, just as with the uses of the imperfect form in a past context described as standard in ##8–10.<note n="9">The common opinion that imperfect forms following <foreign xml:lang="he">אז</foreign> originated as preterites must contend with a variety of difficulties. Some are raised in Rabinowitz (1984), pp. 53–54. It can also be noted that where a short (preterite) imperfect form is possible, it occurs only in <foreign xml:lang="he">יקהל</foreign>, 1 Kgs. 8:1 (= <foreign xml:lang="he">יקהיל</foreign>, 2 Chron. 5:2, also vowelled short), but not in: Exod. 15:1; Num. 21:17; Deut. 4:41; Josh. 8:30; 1 Kgs. 11:7; 2 Kgs. 12:18, 15:16, 16:5. The short imperfect form continued in use to the end of the biblical period, in the latter part of which it was a conditioned variant of the long imperfect (see #23.2). It is thus difficult to explain why the expected short forms should have been replaced by long forms, especially since clear indication that the verb had past value would require a perfect form.</note> Where the representation of an event does not require a verb, a verbless clause, which necessarily refers to the present relative to its context, can be used in a similar way, as in</p>
       <pb n="12"/>
 <p>
     12
@@ -1745,10 +1745,10 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
     [12]
 </p>
 <p>
-    2 Sam. 23:14 וּמַצַּב פְּלִשְׁתִּים אָז בֵּית לָחֶם ‘A Philistine garrison (was) then at Bet Lehem.’
+    2 Sam. 23:14 <foreign xml:lang="he">וּמַצַּב פְּלִשְׁתִּים אָז בֵּית לָחֶם</foreign> ‘A Philistine garrison (was) then at Bet Lehem.’
 </p>
 <p>
-    11.2 Imperfect forms are similarly used after טֶרֶם and בְּטֶרֶם, suggesting that an event which had <emph>not yet</emph> occurred was seen as future in relation to its context. In a past context, a perfect form can be used, giving the time of the potential event relative to the speaker or narrator. The same action is presented from either point of view in Gen. 24:15, 45. Here again, then, either of two forms can be chosen according to the implications which the speaker or narrator wishes to convey.
+    11.2 Imperfect forms are similarly used after <foreign xml:lang="he">טֶרֶם</foreign> and <foreign xml:lang="he">בְּטֶרֶם</foreign>, suggesting that an event which had <emph>not yet</emph> occurred was seen as future in relation to its context. In a past context, a perfect form can be used, giving the time of the potential event relative to the speaker or narrator. The same action is presented from either point of view in Gen. 24:15, 45. Here again, then, either of two forms can be chosen according to the implications which the speaker or narrator wishes to convey.
 </p>
 <p>
     12. An imperfect form presents an act which has occurred in the past in a few other cases.<ptr target="#n10"/>
@@ -1756,19 +1756,19 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
 <p>
     12.1 A clause with a <emph>waw</emph> consecutive imperfect verb is occasionally followed by a co-ordinate clause, presenting a closely related action, which has a non-initial imperfect verb, as in
     <lb/>
-    2 Sam. 2:28 וַיַּעַמְדוּ כָל הָעָם וְלֹא יִרְדְּפוּ עוֹד ‘The whole people stopped, and pursued no further.’ Also, 1 Sam. 1:10 תִּבְכֶּה; 2 Sam. 15:37 יָבוֹא; 1 Kgs. 8:8 וַיֵּרָאוּ. In a few other cases, the clause containing the non-initial imperfect is less closely related to what precedes: 2 Sam. 23:10 יַעֲשֶׂה; 1 Kgs. 7:8; 1 Kgs. 20:33 יְנַחֲשׁוּ. In וְאַעֲלֶה (1 Sam. 12:3), a clause initial imperfect following a perfect presents a somewhat similar phenomenon.
+    2 Sam. 2:28 <foreign xml:lang="he">וַיַּעַמְדוּ כָל הָעָם וְלֹא יִרְדְּפוּ עוֹד</foreign> ‘The whole people stopped, and pursued no further.’ Also, 1 Sam. 1:10 <foreign xml:lang="he">תִּבְכֶּה</foreign>; 2 Sam. 15:37 <foreign xml:lang="he">יָבוֹא</foreign>; 1 Kgs. 8:8 <foreign xml:lang="he">וַיֵּרָאוּ</foreign>. In a few other cases, the clause containing the non-initial imperfect is less closely related to what precedes: 2 Sam. 23:10 <foreign xml:lang="he">יַעֲשֶׂה</foreign>; 1 Kgs. 7:8; 1 Kgs. 20:33 <foreign xml:lang="he">יְנַחֲשׁוּ</foreign>. In <foreign xml:lang="he">וְאַעֲלֶה</foreign> (1 Sam. 12:3), a clause initial imperfect following a perfect presents a somewhat similar phenomenon.
 </p>
 <p>
-    12.2 In two cases an imperfect form begins a speech, but appears to have past reference: Judg. 2:1 אַעֲלֶה; 1 Kgs. 21:6 אֲדַבֵּר.
+    12.2 In two cases an imperfect form begins a speech, but appears to have past reference: Judg. 2:1 <foreign xml:lang="he">אַעֲלֶה</foreign>; 1 Kgs. 21:6 <foreign xml:lang="he">אֲדַבֵּר</foreign>.
 </p>
 <p>
-    12.3 In three cases, an imperfect form is used in a subordinate clause, where the reference appears to be past in a past context (pluperfect). In 1 Kgs. 18:10 יִמְצָאֶךָֹ shows that the kingdom was made to swear that ‘it had not found you’. In 2 Kgs. 8:29 = 9:15 יָנֻחוּ, Joram retires to recuperate from the wounds with which the Aramaeans ‘had wounded him’. (NB 2 Chron. 22:6 הִכּוּהוּ.)
+    12.3 In three cases, an imperfect form is used in a subordinate clause, where the reference appears to be past in a past context (pluperfect). In 1 Kgs. 18:10 <foreign xml:lang="he">יִמְצָאֶךָֹ</foreign> shows that the kingdom was made to swear that ‘it had not found you’. In 2 Kgs. 8:29 = 9:15 <foreign xml:lang="he">יָנֻחוּ</foreign>, Joram retires to recuperate from the wounds with which the Aramaeans ‘had wounded him’. (NB 2 Chron. 22:6 <foreign xml:lang="he">הִכּוּהוּ</foreign>.)
 </p>
 <p>
     12.4 The imperfect forms listed in #12 could possibly be vestiges of a once standard use of the preterite, but this seems unlikely. Several are long form imperfects; none has the expected short form. In any period of Hebrew of which we have direct evidence, a scribe updating the language of his text would be much more likely to use a perfect than an imperfect to replace a preterite, since only the perfect could give the required meaning in the context. Such updating of language
 </p>
 <note xml:id="n10">
-    (10) וָאֶתְפַּלְּלָה (2 Sam. 1:10) is taken as a <emph>waw</emph> consecutive imperfect despite the use of <emph>patah</emph> before the <emph>alef</emph> (see Bergsträsser [1929], #5e). The Leningrad manuscript uses <emph>qames</emph> in the other cases of this phenomenon from the corpus which are listed there.
+    (10) <foreign xml:lang="he">וָאֶתְפַּלְּלָה</foreign> (2 Sam. 1:10) is taken as a <emph>waw</emph> consecutive imperfect despite the use of <emph>patah</emph> before the <emph>alef</emph> (see Bergsträsser [1929], #5e). The Leningrad manuscript uses <emph>qames</emph> in the other cases of this phenomenon from the corpus which are listed there.
 </note>
       <pb n="13"/>
 <fw type="header">[13] THE SYSTEM OF THE VERB 13</fw>
@@ -1777,19 +1777,19 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
 
 <head>THE IDENTIFICATION OF MODAL FORMS</head>
 
-<p>13. The modal system is represented by imperatives, used in affirmative clauses with second person subject, and by the forms of the imperfect known as "jussive" and "cohortative" used where the clause is negative, or where the subject is first or third person. Distinct modal imperfect forms occur only where the subject is first person, 2m.s., or 3m./f.s. Any original difference between the modal and the indicative forms of the imperfect has been lost where the subject is 2f.s., 2.pl, or 3.pl. (On forms with suffixes, see #14.3.) First person modal forms show the affix <foreign xml:lang="heb">הָ—</foreign>; the corresponding imperfect forms do not. Forms from roots III<hi rend="italic">h</hi> show the "long" imperfect form (identical with the indicative imperfect form) where a first person modal is expected. In 2m.s. and 3m./f.s. forms, where the imperfect form shows <hi rend="italic">î</hi> or <hi rend="italic">û</hi> in a final closed syllable, the corresponding modal form shows <hi rend="italic">e</hi> or <hi rend="italic">o</hi> respectively. Where the final syllable of the imperfect form is open, modal imperfect forms from roots III<hi rend="italic">h</hi> omit the final vowel. The same form from roots IIIʼ is used in all situations. These forms from roots IIIʼ, first person forms from roots III<hi rend="italic">h</hi>, and all other forms which show no modal/indicative distinction, are referred to here as "neutral" forms. First person modal imperfect forms are called "affixed". Second and third person forms are called "short" in contrast to the "long" indicative forms. A form is said to have "modal value" if used in a position in which the standard system permits the use of modal forms but not indicative forms, as after the negative <foreign xml:lang="heb">אַל</foreign>.<note n="12"/></p>
+<p>13. The modal system is represented by imperatives, used in affirmative clauses with second person subject, and by the forms of the imperfect known as "jussive" and "cohortative" used where the clause is negative, or where the subject is first or third person. Distinct modal imperfect forms occur only where the subject is first person, 2m.s., or 3m./f.s. Any original difference between the modal and the indicative forms of the imperfect has been lost where the subject is 2f.s., 2.pl, or 3.pl. (On forms with suffixes, see #14.3.) First person modal forms show the affix <foreign xml:lang="he">הָ—</foreign>; the corresponding imperfect forms do not. Forms from roots III<hi rend="italic">h</hi> show the "long" imperfect form (identical with the indicative imperfect form) where a first person modal is expected. In 2m.s. and 3m./f.s. forms, where the imperfect form shows <hi rend="italic">î</hi> or <hi rend="italic">û</hi> in a final closed syllable, the corresponding modal form shows <hi rend="italic">e</hi> or <hi rend="italic">o</hi> respectively. Where the final syllable of the imperfect form is open, modal imperfect forms from roots III<hi rend="italic">h</hi> omit the final vowel. The same form from roots IIIʼ is used in all situations. These forms from roots IIIʼ, first person forms from roots III<hi rend="italic">h</hi>, and all other forms which show no modal/indicative distinction, are referred to here as "neutral" forms. First person modal imperfect forms are called "affixed". Second and third person forms are called "short" in contrast to the "long" indicative forms. A form is said to have "modal value" if used in a position in which the standard system permits the use of modal forms but not indicative forms, as after the negative <foreign xml:lang="he">אַל</foreign>.<note n="12"/></p>
 
-<note n="11">(11) Some have been explained as examples of standard usage, but the explanations do not seem plausible. E.g., Driver (1892, #37β) regards the imperfect <foreign xml:lang="heb">ימצאכה</foreign> in 1 Kgs. 18:10 as corresponding to English ‘He could not find you,’ contrasting it with the perfect which would represent ‘He had not found you.” Johnson (1979:55), who suggests that the imperfect stresses the attempt without implication for its result, presumably has much the same idea as Driver. However, the activity represented by the verb, whatever it may have been, is the subject of an oath, and must have occurred before the time of swearing. If the oath was, in fact ‘I have not been able to find ...,’ one would expect the use of the verb <foreign xml:lang="heb">יכל</foreign>.</note>
+<note n="11">(11) Some have been explained as examples of standard usage, but the explanations do not seem plausible. E.g., Driver (1892, #37β) regards the imperfect <foreign xml:lang="he">ימצאכה</foreign> in 1 Kgs. 18:10 as corresponding to English ‘He could not find you,’ contrasting it with the perfect which would represent ‘He had not found you.” Johnson (1979:55), who suggests that the imperfect stresses the attempt without implication for its result, presumably has much the same idea as Driver. However, the activity represented by the verb, whatever it may have been, is the subject of an oath, and must have occurred before the time of swearing. If the oath was, in fact ‘I have not been able to find ...,’ one would expect the use of the verb <foreign xml:lang="he">יכל</foreign>.</note>
 
 <note n="12">(12) Modal forms can be said to be used to present commands, requests, wishes, or statements of firm intention, but a serious attempt to describe the function of modal forms</note>
       <pb n="14"/>
 <fw type="header">14 E. J. REVELL [14]</fw>
-<p>14. A neutral imperfect form is occasionally shown to have modal value by its co-occurrence with the preceding negative <foreign xml:lang="heb">אל</foreign> or the following particle <foreign xml:lang="heb">נא</foreign>.<hi rend="sup">13</hi> In addition, imperfect forms appear to be marked as having modal or indicative value by their position in the clause. A modal imperfect begins its clause; an indicative imperfect stands within its clause. This contention is supported by the following considerations.</p>
-<p>14.1 Johnson states (1979, p. 56) that the Bible contains only 59 examples of a second person imperfect form with prefixed conjunction, compared to 1,538 cases of a second person <emph>waw</emph> consecutive perfect. All but one of these 59 cases occur in poetic or prophetic materials, or in late prose (see #23.2). The one exception is <foreign xml:lang="heb">ותהי</foreign> in 2 Kgs. 19:25 (= Isa. 37:26. However this form is not certainly second person; cf. the versions.) Clause-initial second person imperfects (with or without prefixed conjunction) are atypical in standard prose because a clause-initial imperfect is typically modal, and the imperative, not the imperfect, provides affirmative second person modal forms, as indicated in #1.</p>
-<p>14.2 In Lambert (1903), p. 183, it is concluded that 3rd person singular pronominal suffixes occur on 2m.s. or 3m./f.s. imperfect forms in "N form" (<foreign xml:lang="heb">נּוָּ ,-נּוּ- ,-נּוּ-</foreign>) where the verb is indicative (except sometimes in poetry), and in "H form" (<foreign xml:lang="heb">הוּ- ,-הוּ- ,-הוּ-</foreign>) where the verb is modal. This view is contested in Blau (1978), under the assumption that modal imperfect forms occur within clauses.<hi rend="sup">14</hi> The use of these suffixes on 1.s/pl.,</p>
+<p>14. A neutral imperfect form is occasionally shown to have modal value by its co-occurrence with the preceding negative <foreign xml:lang="he">אל</foreign> or the following particle <foreign xml:lang="he">נא</foreign>.<hi rend="sup">13</hi> In addition, imperfect forms appear to be marked as having modal or indicative value by their position in the clause. A modal imperfect begins its clause; an indicative imperfect stands within its clause. This contention is supported by the following considerations.</p>
+<p>14.1 Johnson states (1979, p. 56) that the Bible contains only 59 examples of a second person imperfect form with prefixed conjunction, compared to 1,538 cases of a second person <emph>waw</emph> consecutive perfect. All but one of these 59 cases occur in poetic or prophetic materials, or in late prose (see #23.2). The one exception is <foreign xml:lang="he">ותהי</foreign> in 2 Kgs. 19:25 (= Isa. 37:26. However this form is not certainly second person; cf. the versions.) Clause-initial second person imperfects (with or without prefixed conjunction) are atypical in standard prose because a clause-initial imperfect is typically modal, and the imperative, not the imperfect, provides affirmative second person modal forms, as indicated in #1.</p>
+<p>14.2 In Lambert (1903), p. 183, it is concluded that 3rd person singular pronominal suffixes occur on 2m.s. or 3m./f.s. imperfect forms in "N form" (<foreign xml:lang="he">נּוָּ ,-נּוּ- ,-נּוּ-</foreign>) where the verb is indicative (except sometimes in poetry), and in "H form" (<foreign xml:lang="he">הוּ- ,-הוּ- ,-הוּ-</foreign>) where the verb is modal. This view is contested in Blau (1978), under the assumption that modal imperfect forms occur within clauses.<hi rend="sup">14</hi> The use of these suffixes on 1.s/pl.,</p>
 <note place="bottom">
-    based solely on a study of the positions in which modal and indicative forms (excluding neutral forms) are used is a desideratum. The term “modal” as used in Talstra (1982, col. 30–35), refers (if I understand him correctly) to semantic categories regarded as “universal.” The relevance of these for Biblical Hebrew is uncertain. In his #3.1.a (col. 31) three categories are listed under the statement “The <emph>jussive</emph> function of the ipf. depends on certain sequences of verb forms.” In the first of these, an imperfect with prefixed <emph>waw</emph> following an imperative, the imperfect is modal according to the categorization used here (as shown in Orlinsky [1942], see #14.4 below). However long (“indicative”) forms occur among the examples listed for both the other categories (imperfect following an imperfect preceded by <foreign xml:lang="heb">לא</foreign>, and imperfect following a <emph>waw</emph> consecutive perfect; see Exod. 12:5, 49), and other forms difficult to accept as “jussives” fit these categories as described (as <foreign xml:lang="heb">ימותו</foreign> 1 Sam. 2:33, <foreign xml:lang="heb">יבוא</foreign> 2:36).
-    <p>(13) A verb form followed by <foreign xml:lang="heb">נא</foreign> is typically an imperative, or a modal or neutral imperfect. In the corpus, an imperfect indicative form occurs only in 2 Sam. 14:17 (where it is anomalous in clause-initial position, see #14.5).</p>
+    based solely on a study of the positions in which modal and indicative forms (excluding neutral forms) are used is a desideratum. The term “modal” as used in Talstra (1982, col. 30–35), refers (if I understand him correctly) to semantic categories regarded as “universal.” The relevance of these for Biblical Hebrew is uncertain. In his #3.1.a (col. 31) three categories are listed under the statement “The <emph>jussive</emph> function of the ipf. depends on certain sequences of verb forms.” In the first of these, an imperfect with prefixed <emph>waw</emph> following an imperative, the imperfect is modal according to the categorization used here (as shown in Orlinsky [1942], see #14.4 below). However long (“indicative”) forms occur among the examples listed for both the other categories (imperfect following an imperfect preceded by <foreign xml:lang="he">לא</foreign>, and imperfect following a <emph>waw</emph> consecutive perfect; see Exod. 12:5, 49), and other forms difficult to accept as “jussives” fit these categories as described (as <foreign xml:lang="he">ימותו</foreign> 1 Sam. 2:33, <foreign xml:lang="he">יבוא</foreign> 2:36).
+    <p>(13) A verb form followed by <foreign xml:lang="he">נא</foreign> is typically an imperative, or a modal or neutral imperfect. In the corpus, an imperfect indicative form occurs only in 2 Sam. 14:17 (where it is anomalous in clause-initial position, see #14.5).</p>
     <p>(14) The cases listed in Blau (1978, p. 125) as examples of “N form” suffixes on modal imperfects all occur within clauses. (Six cases, if Gen. 23:9, Ezek. 4:9, 5:1, are the references intended.) The information summarized below was obtained by computer search of the Michigan-Claremont BHS as obtained from FCAT. I am most grateful for the opportunity of using this source, but am not certain that I have succeeded in collecting all relevant forms.</p>
 </note>
       <pb n="15"/>
@@ -1807,14 +1807,14 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
    <item>(b) on other imperfect forms (2m.s. or 3m.s.):
       <list>
          <item>H form: Deut. 32:10, 10, 11, 11, 13; 33:8.</item>
-         <item>N form: Deut. 32:10, 10 (both נְהוּ-); 32:12.</item>
+         <item>N form: Deut. 32:10, 10 (both <foreign xml:lang="he">נְהוּ</foreign>-); 32:12.</item>
       </list>
    </item>
 </list>
 
 <head>ON IMPERFECT FORMS WITH PRESENT/FUTURE OR MODAL VALUE.</head>
 <list>
-   <item>(c) On 2m.s. forms which follow the negative אַל:
+   <item>(c) On 2m.s. forms which follow the negative <foreign xml:lang="he">אַל</foreign>:
       <list>
          <item>H form: 1 Sam. 26:9; 1 Kgs. 2:9.</item>
       </list>
@@ -1827,7 +1827,7 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
    <item>(e) On 1.s./pl. forms which stand first in their clause:
       <list>
          <item>H form: 2 Sam. 14:7; 2 Kgs. 6:13 (where the preceding verb is not in the expected affixed form); also, Gen. 37:20, 20; Exod. 15:2.</item>
-         <item>N form: 10 cases in the corpus, 9 in the Hexateuch (including the נְהוּ- form in Exod. 15:2).</item>
+         <item>N form: 10 cases in the corpus, 9 in the Hexateuch (including the <foreign xml:lang="he">נְהוּ</foreign>- form in Exod. 15:2).</item>
       </list>
    </item>
    <item>(f) On forms which do not stand first in their clause (all persons):
@@ -1847,7 +1847,7 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
    </item>
 </list>
 
-<p>The H form of these pronominal suffixes is thus typically used (in prose) with verb forms which originally had no short ‘modal’ vowel following the last root consonant: <hi rend="italic">waw</hi> consecutive imperfects (a); 2m.s. imperfect forms marked as modal by the preceding negative אַל (c); and m.s. imperatives (g). It is also used on 3m.s. imperfect forms which stand first in their clause (d; no examples with 2m.s. or 3f.s. forms occur in this position). If these were modal, they also had no final vowel.</p>
+<p>The H form of these pronominal suffixes is thus typically used (in prose) with verb forms which originally had no short ‘modal’ vowel following the last root consonant: <hi rend="italic">waw</hi> consecutive imperfects (a); 2m.s. imperfect forms marked as modal by the preceding negative <foreign xml:lang="he">אַל</foreign> (c); and m.s. imperatives (g). It is also used on 3m.s. imperfect forms which stand first in their clause (d; no examples with 2m.s. or 3f.s. forms occur in this position). If these were modal, they also had no final vowel.</p>
 <p>The N form of these suffixes is typically used (in prose) with first person imperfect forms which stand first in their clause (e), and with forms of all persons which do not stand first in their clause (f). If the latter were indicative, they would originally have been marked by a short</p>
       <pb n="16"/>
 <fw type="header">16 E. J. REVELL [16]</fw>
@@ -1866,56 +1866,56 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
       <pb n="17"/>
 <head>[17] THE SYSTEM OF THE VERB 17</head>
 <p>jussive) and (you will) be clean (imperative).<note n="16">See also cases where the imperative is parallel to English usage, as in
-<lb/>1 Sam. 25:24: . . . ושמע . . . ותדבר נא אמתך ‘Allow me to speak . . . and listen . . .’ (also Neh. 1:11).</note></p>
-<p>Sequences of cohortatives occur in 2 Sam. 3:21 (quoted in #22.1) and sequences of jussives in 1 Sam. 24:16 (#22.2). These modal imperfect forms begin their clauses. In contrast, an imperfect form which does not begin its clause is marked as indicative even though it follows an imperative in 1 Sam. 17:37 יהיה, 1 Sam. 29:7 לא תעשה, or follows a modal imperfect in Judg. 6:39 יהיה, 1 Kgs. 20:8 ולוא תאבה. It is therefore reasonable to restate Orlinsky’s conclusion as, “Where two clauses stand in sequence, and the first has a modal verb form, if the second clause begins with a verb, it may be a modal form, a neutral imperfect with modal value, or a perfect with <gloss>waw</gloss> consecutive.”</p>
-<p>14.5 The combined force of these considerations seems fully to justify the assertion made above. An imperfect which begins a clause has modal value; an imperfect which stands within a clause (and is not preceded by אל or followed by נא) has indicative value.</p>
+<lb/>1 Sam. 25:24: . . . <foreign xml:lang="he">ושמע</foreign> . . . <foreign xml:lang="he">ותדבר נא אמתך</foreign> ‘Allow me to speak . . . and listen . . .’ (also Neh. 1:11).</note></p>
+<p>Sequences of cohortatives occur in 2 Sam. 3:21 (quoted in #22.1) and sequences of jussives in 1 Sam. 24:16 (#22.2). These modal imperfect forms begin their clauses. In contrast, an imperfect form which does not begin its clause is marked as indicative even though it follows an imperative in 1 Sam. 17:37 <foreign xml:lang="he">יהיה</foreign>, 1 Sam. 29:7 <foreign xml:lang="he">לא תעשה</foreign>, or follows a modal imperfect in Judg. 6:39 <foreign xml:lang="he">יהיה</foreign>, 1 Kgs. 20:8 <foreign xml:lang="he">ולוא תאבה</foreign>. It is therefore reasonable to restate Orlinsky’s conclusion as, “Where two clauses stand in sequence, and the first has a modal verb form, if the second clause begins with a verb, it may be a modal form, a neutral imperfect with modal value, or a perfect with <gloss>waw</gloss> consecutive.”</p>
+<p>14.5 The combined force of these considerations seems fully to justify the assertion made above. An imperfect which begins a clause has modal value; an imperfect which stands within a clause (and is not preceded by <foreign xml:lang="he">אל</foreign> or followed by <foreign xml:lang="he">נא</foreign>) has indicative value.</p>
 <head>NON-STANDARD USE OF MODAL IMPERFECT FORMS.</head>
 <p>15. In a number of cases an imperfect indicative form is used at the beginning of a clause, or elsewhere where a modal is expected.</p>
-<p>15.1 This is most common with first person forms. The affix ־ָה is not used on forms from roots III'<note n="17">A modal form is expected, under the most restrictive interpretation, in sequence with another modal (see #14.4), after אל or before נא. Where a first person form in which the final <gloss>alef</gloss> was originally preceded by short <gloss>*a</gloss> occurs in one of these positions, an affixed form occurs in ונסבאה (Isa. 56:12), but not in five other cases from the roots נשא and קרא; the ambiguous ארפה in Jer. 3:22 is not included. Where the vowel was original short <gloss>*i</gloss>, the affix occurs in ואצאה (2 Chron. 1:10) and in אמלאה (<gloss>nifʿal</gloss>, Ezek. 26:2), but not in three other forms from יצא, nor in one <gloss>nifʿal</gloss> form from רפא. The affix occurs in eight of twelve forms from the <gloss>qal</gloss> of בוא. The use of the affix with forms from these roots was evidently progressively lost under phonological conditioning. The point would be made more forcefully if all clause-initial forms were included. It is also true, however, that an expected affixed form from other roots is also replaced by an indicative more often than is an expected jussive (see n.1, #15.1, 2).</note> אצא Judg. 16:20, 1 Kgs. 22:22; אקרא 1 Sam. 12:17; ונצא 1 Sam. 20:11, 1 Kgs. 20:31; אמצא 2 Sam. 16:4; ואבוא.</p>
-<note n="16">(16) Johnson (1979, p. 56) wrongly identifies the second verb as a perfect. Unexpected though this use of the imperative is from the point of view of English, it is consistent with the fact that jussive, cohortative, and imperative forms make up a single system of modals. It occurs in early materials, as היה ‘(you will) be a blessing’ in Gen. 12:2 (and commonly in cases where the verb of the first clause is אל with a jussive, that of the second an imperative, as Exod. 3:5).</note>
+<p>15.1 This is most common with first person forms. The affix <foreign xml:lang="he">־ָה</foreign> is not used on forms from roots III'<note n="17">A modal form is expected, under the most restrictive interpretation, in sequence with another modal (see #14.4), after <foreign xml:lang="he">אל</foreign> or before <foreign xml:lang="he">נא</foreign>. Where a first person form in which the final <gloss>alef</gloss> was originally preceded by short <gloss>*a</gloss> occurs in one of these positions, an affixed form occurs in <foreign xml:lang="he">ונסבאה</foreign> (Isa. 56:12), but not in five other cases from the roots <foreign xml:lang="he">נשא</foreign> and <foreign xml:lang="he">קרא</foreign>; the ambiguous <foreign xml:lang="he">ארפה</foreign> in Jer. 3:22 is not included. Where the vowel was original short <gloss>*i</gloss>, the affix occurs in <foreign xml:lang="he">ואצאה</foreign> (2 Chron. 1:10) and in <foreign xml:lang="he">אמלאה</foreign> (<gloss>nifʿal</gloss>, Ezek. 26:2), but not in three other forms from <foreign xml:lang="he">יצא</foreign>, nor in one <gloss>nifʿal</gloss> form from <foreign xml:lang="he">רפא</foreign>. The affix occurs in eight of twelve forms from the <gloss>qal</gloss> of <foreign xml:lang="he">בוא</foreign>. The use of the affix with forms from these roots was evidently progressively lost under phonological conditioning. The point would be made more forcefully if all clause-initial forms were included. It is also true, however, that an expected affixed form from other roots is also replaced by an indicative more often than is an expected jussive (see n.1, #15.1, 2).</note> <foreign xml:lang="he">אצא</foreign> Judg. 16:20, 1 Kgs. 22:22; <foreign xml:lang="he">אקרא</foreign> 1 Sam. 12:17; <foreign xml:lang="he">ונצא</foreign> 1 Sam. 20:11, 1 Kgs. 20:31; <foreign xml:lang="he">אמצא</foreign> 2 Sam. 16:4; <foreign xml:lang="he">ואבוא</foreign>.</p>
+<note n="16">(16) Johnson (1979, p. 56) wrongly identifies the second verb as a perfect. Unexpected though this use of the imperative is from the point of view of English, it is consistent with the fact that jussive, cohortative, and imperative forms make up a single system of modals. It occurs in early materials, as <foreign xml:lang="he">היה</foreign> ‘(you will) be a blessing’ in Gen. 12:2 (and commonly in cases where the verb of the first clause is <foreign xml:lang="he">אל</foreign> with a jussive, that of the second an imperative, as Exod. 3:5).</note>
       <pb n="18"/>
 <fw type="header">18 E. J. REVELL [18]</fw>
-<p>2 Sam. 17:2; <foreign xml:lang="heb">נבוא</foreign> 2 Kgs. 7:4; in forms from other roots: <foreign xml:lang="heb">ואנער</foreign> Judg. 16:20; <foreign xml:lang="heb">ואשען</foreign> Judg. 16:26; <foreign xml:lang="heb">ונלין</foreign> Judg. 19:11; <foreign xml:lang="heb">ואתפלל</foreign> 1 Sam. 7:5; <foreign xml:lang="heb">ונחדש</foreign> 1 Sam. 11:14; <foreign xml:lang="heb">ואשיב</foreign> 1 Sam. 12:3; (also the preceding <foreign xml:lang="heb">ואעלים</foreign>, in a clause with other problems, see #12.1); <foreign xml:lang="heb">ואל נמות</foreign> 1 Sam. 12:19; <foreign xml:lang="heb">וארדף</foreign> 1 Sam. 30:8 (but this verb is semantically interrogative or conditional, and a preceding particle is expected); <foreign xml:lang="heb">ונחזוק</foreign> 2 Sam. 10:12; <foreign xml:lang="heb">אל נא נלך</foreign> 2 Sam. 13:25; <foreign xml:lang="heb">ואשלם</foreign> 2 Sam. 15:7; <foreign xml:lang="heb">ארוץ</foreign> 2 Sam. 18:23; <foreign xml:lang="heb">וארכב, ואלך</foreign> 2 Sam. 19:27; <foreign xml:lang="heb">ואמות</foreign> 2 Sam. 19:38, <foreign xml:lang="heb">ואלך</foreign> 1 Kgs. 11:21; <foreign xml:lang="heb">ונשיב</foreign> 1 Kgs. 12:9 (unless it begins a subordinate clause); <foreign xml:lang="heb">ונשים</foreign> 2 Kgs. 4:10; <foreign xml:lang="heb">ואשלח</foreign> 2 Kgs. 6:13; <foreign xml:lang="heb">ואכרת</foreign> 2 Kgs. 19:23; <foreign xml:lang="heb">וארתב</foreign> 2 Kgs. 19:24. In <foreign xml:lang="heb">הנני אמות</foreign> 1 Sam. 14:43, the two words might be held to form two clauses, in which case <foreign xml:lang="heb">אמות</foreign> belongs in this group.</p>
-<p>15.2 A third person indicative form is used where a jussive form is expected: <foreign xml:lang="heb">יהיה</foreign> Judg. 10:18; <foreign xml:lang="heb">יעשה</foreign> Judg. 11:37; <foreign xml:lang="heb">אל נא ישים</foreign> 1 Sam. 25:25; <foreign xml:lang="heb">יהיה נא</foreign> 2 Sam. 14:17; <foreign xml:lang="heb">יהיה</foreign> 1 Kgs. 8:29; <foreign xml:lang="heb">ויעלה</foreign> 1 Kgs. 15:19; <foreign xml:lang="heb">ויראה</foreign> 2 Kgs. 6:17. In <foreign xml:lang="heb">הנני יעשה לי</foreign> 2 Sam. 15:26, the first word could be considered as forming a separate clause, in which case <foreign xml:lang="heb">יעשה</foreign> belongs in this group.</p>
+<p>2 Sam. 17:2; <foreign xml:lang="he">נבוא</foreign> 2 Kgs. 7:4; in forms from other roots: <foreign xml:lang="he">ואנער</foreign> Judg. 16:20; <foreign xml:lang="he">ואשען</foreign> Judg. 16:26; <foreign xml:lang="he">ונלין</foreign> Judg. 19:11; <foreign xml:lang="he">ואתפלל</foreign> 1 Sam. 7:5; <foreign xml:lang="he">ונחדש</foreign> 1 Sam. 11:14; <foreign xml:lang="he">ואשיב</foreign> 1 Sam. 12:3; (also the preceding <foreign xml:lang="he">ואעלים</foreign>, in a clause with other problems, see #12.1); <foreign xml:lang="he">ואל נמות</foreign> 1 Sam. 12:19; <foreign xml:lang="he">וארדף</foreign> 1 Sam. 30:8 (but this verb is semantically interrogative or conditional, and a preceding particle is expected); <foreign xml:lang="he">ונחזוק</foreign> 2 Sam. 10:12; <foreign xml:lang="he">אל נא נלך</foreign> 2 Sam. 13:25; <foreign xml:lang="he">ואשלם</foreign> 2 Sam. 15:7; <foreign xml:lang="he">ארוץ</foreign> 2 Sam. 18:23; <foreign xml:lang="he">וארכב, ואלך</foreign> 2 Sam. 19:27; <foreign xml:lang="he">ואמות</foreign> 2 Sam. 19:38, <foreign xml:lang="he">ואלך</foreign> 1 Kgs. 11:21; <foreign xml:lang="he">ונשיב</foreign> 1 Kgs. 12:9 (unless it begins a subordinate clause); <foreign xml:lang="he">ונשים</foreign> 2 Kgs. 4:10; <foreign xml:lang="he">ואשלח</foreign> 2 Kgs. 6:13; <foreign xml:lang="he">ואכרת</foreign> 2 Kgs. 19:23; <foreign xml:lang="he">וארתב</foreign> 2 Kgs. 19:24. In <foreign xml:lang="he">הנני אמות</foreign> 1 Sam. 14:43, the two words might be held to form two clauses, in which case <foreign xml:lang="he">אמות</foreign> belongs in this group.</p>
+<p>15.2 A third person indicative form is used where a jussive form is expected: <foreign xml:lang="he">יהיה</foreign> Judg. 10:18; <foreign xml:lang="he">יעשה</foreign> Judg. 11:37; <foreign xml:lang="he">אל נא ישים</foreign> 1 Sam. 25:25; <foreign xml:lang="he">יהיה נא</foreign> 2 Sam. 14:17; <foreign xml:lang="he">יהיה</foreign> 1 Kgs. 8:29; <foreign xml:lang="he">ויעלה</foreign> 1 Kgs. 15:19; <foreign xml:lang="he">ויראה</foreign> 2 Kgs. 6:17. In <foreign xml:lang="he">הנני יעשה לי</foreign> 2 Sam. 15:26, the first word could be considered as forming a separate clause, in which case <foreign xml:lang="he">יעשה</foreign> belongs in this group.</p>
 <p>15.3 A second person form marked as indicative appears to begin a clause in
 <list>
-<item>Judg. 9:33 <foreign xml:lang="heb">והיה בבקר כזרח השמש תשכים ופשטת על העיר</foreign> ‘In the morning, when the sun rises, you must rise and charge on the city.’</item>
-<item>1 Kgs. 22:22 <foreign xml:lang="heb">ויאמר תפתה וגם תוכל</foreign> ‘He said “You will trick (him), and do it successfully”.’ In Judg. 9:33, the temporal phrases may modify <foreign xml:lang="heb">תשכים</foreign>, not <foreign xml:lang="heb">והיה</foreign>. If so, <foreign xml:lang="heb">תשכים</foreign> does not begin its clause, and an indicative form is expected. If this form does begin its clause, then both it and <foreign xml:lang="heb">תפתה</foreign> in 1 Kgs. 22:22 form one-word clauses. While it would always be possible to use some particle or a pronominal subject before such a verb to mark it as indicative, it is reasonable to suggest that this could not be necessary where the verb was marked as non-modal both by its long form and by its second person subject (see #14.1). Consequently it is questionable whether or not these cases should be considered as examples of non-standard usage.</item>
+<item>Judg. 9:33 <foreign xml:lang="he">והיה בבקר כזרח השמש תשכים ופשטת על העיר</foreign> ‘In the morning, when the sun rises, you must rise and charge on the city.’</item>
+<item>1 Kgs. 22:22 <foreign xml:lang="he">ויאמר תפתה וגם תוכל</foreign> ‘He said “You will trick (him), and do it successfully”.’ In Judg. 9:33, the temporal phrases may modify <foreign xml:lang="he">תשכים</foreign>, not <foreign xml:lang="he">והיה</foreign>. If so, <foreign xml:lang="he">תשכים</foreign> does not begin its clause, and an indicative form is expected. If this form does begin its clause, then both it and <foreign xml:lang="he">תפתה</foreign> in 1 Kgs. 22:22 form one-word clauses. While it would always be possible to use some particle or a pronominal subject before such a verb to mark it as indicative, it is reasonable to suggest that this could not be necessary where the verb was marked as non-modal both by its long form and by its second person subject (see #14.1). Consequently it is questionable whether or not these cases should be considered as examples of non-standard usage.</item>
 </list></p>
-<p>15.4. In the other one-word verbal clauses, such as <foreign xml:lang="heb">ויקץ</foreign> in 1 Kgs. 18:27, the close semantic relationship of the verb to the preceding clause suggests that it is indicative. It seems reasonable to assume that this relationship, which was possibly marked by intonation contours, was sufficient to show that the verb was not modal, even though it was clause-initial. (So also <foreign xml:lang="heb">ויראו</foreign> Deut. 21:21.) Modal value does not seem to be required in a number of other cases where a modal imperfect form begins a clause — as in <foreign xml:lang="heb">ויהי</foreign> in 1 Sam. 10:5, 2 Sam. 5:24, 1 Kgs. 14:5 — where</p>
+<p>15.4. In the other one-word verbal clauses, such as <foreign xml:lang="he">ויקץ</foreign> in 1 Kgs. 18:27, the close semantic relationship of the verb to the preceding clause suggests that it is indicative. It seems reasonable to assume that this relationship, which was possibly marked by intonation contours, was sufficient to show that the verb was not modal, even though it was clause-initial. (So also <foreign xml:lang="he">ויראו</foreign> Deut. 21:21.) Modal value does not seem to be required in a number of other cases where a modal imperfect form begins a clause — as in <foreign xml:lang="he">ויהי</foreign> in 1 Sam. 10:5, 2 Sam. 5:24, 1 Kgs. 14:5 — where</p>
       <pb n="19"/>
 <head>THE SYSTEM OF THE VERB [19]</head>
 
-<p>the <hi rend="italic">waw</hi> consecutive perfect והיה might be expected, and in 1 Kgs. 13:33 where והיו might be expected; also, 1 Sam. 28:19; 1 Kgs. 14:16 ויתן; 2 Kgs. 2:10 יהי (cf. לא יהיה in this verse); 2 Kgs. 19:25 ותהי. Other scholars might add other forms. However most such cases can be explained as consistent with standard usage (see Driver 1892 #50<hi rend="italic">a</hi>, 63, 121 Obs. 3); so here, too, the extent to which these cases must be regarded as exceptional is uncertain.</p>
+<p>the <hi rend="italic">waw</hi> consecutive perfect <foreign xml:lang="he">והיה</foreign> might be expected, and in 1 Kgs. 13:33 where <foreign xml:lang="he">והיו</foreign> might be expected; also, 1 Sam. 28:19; 1 Kgs. 14:16 <foreign xml:lang="he">ויתן</foreign>; 2 Kgs. 2:10 <foreign xml:lang="he">יהי</foreign> (cf. <foreign xml:lang="he">לא יהיה</foreign> in this verse); 2 Kgs. 19:25 <foreign xml:lang="he">ותהי</foreign>. Other scholars might add other forms. However most such cases can be explained as consistent with standard usage (see Driver 1892 #50<hi rend="italic">a</hi>, 63, 121 Obs. 3); so here, too, the extent to which these cases must be regarded as exceptional is uncertain.</p>
 
-<p>16. Modal forms in negative clauses never begin their clause, being preceded by the negative אל. These forms, and also imperfects marked as modal by following נא, and imperatives, are sometimes preceded by a constituent of the clause, as in<lb/>
-2 Kgs. 10:19 כל נביאי הבעל . . . קראו אלי איש אל יפקד ‘All the prophets of Baal call to me. One must not be missing.’ Obviously in these cases position at the beginning of the clause is not needed to mark the verb as modal, since its imperative form, on the particle אל or נא does this. In a few cases other modal imperfect forms stand within their clauses.</p>
+<p>16. Modal forms in negative clauses never begin their clause, being preceded by the negative <foreign xml:lang="he">אל</foreign>. These forms, and also imperfects marked as modal by following <foreign xml:lang="he">נא</foreign>, and imperatives, are sometimes preceded by a constituent of the clause, as in<lb/>
+2 Kgs. 10:19 <foreign xml:lang="he">כל נביאי הבעל</foreign> . . . <foreign xml:lang="he">קראו אלי איש אל יפקד</foreign> ‘All the prophets of Baal call to me. One must not be missing.’ Obviously in these cases position at the beginning of the clause is not needed to mark the verb as modal, since its imperative form, on the particle <foreign xml:lang="he">אל</foreign> or <foreign xml:lang="he">נא</foreign> does this. In a few cases other modal imperfect forms stand within their clauses.</p>
 
-<p>16.1 Where עתה ‘now’ begins a clause, and is followed by an imperfect form, the verb is marked as modal by its form in: 1 נלכה Sam. 9:6 יעש 2 Sam. 2:6; (also, in the Hexateuch, Gen. 41:33, Exod. 3:18). The verb is marked as modal by following נא in 1 אכנו נא Sam. 26:8; 1 ישמע נא Sam. 26:19; (also Gen. 44:33, 50:5, Num. 14:17). In these cases, עתה introduces a new topic in a line of thought, as in<lb/>
-1 Sam. 9:6 . . . עתה נלכה שם . . . איש אלהים בעיר הזאת ‘There is a man of God in this city . . . Let us, then, go there . . .’ Here, then, עתה is a connecting particle, marking logical transition, and can be considered as standing outside the clause, of which the verb is the first word. The verb is marked as indicative by its form in: 1 אמות Judg. 15:18; תשוב 1 Kgs. 12:26, (also Gen. 19:9, Exod. 6:1, Num. 11:23). In these cases, the significant function of עתה is to mark the time of the action, as in the beginning of a quoted speech in<lb/>
-1 Kgs. 12:26 עתה תשוב הממלכה לבית דוד ‘Sovereignty will now revert to David’s family.’ Here, then, עתה can be considered to be an adverb standing before the verb it modifies.<note n="18"/></p>
+<p>16.1 Where <foreign xml:lang="he">עתה</foreign> ‘now’ begins a clause, and is followed by an imperfect form, the verb is marked as modal by its form in: 1 <foreign xml:lang="he">נלכה</foreign> Sam. 9:6 <foreign xml:lang="he">יעש</foreign> 2 Sam. 2:6; (also, in the Hexateuch, Gen. 41:33, Exod. 3:18). The verb is marked as modal by following <foreign xml:lang="he">נא</foreign> in 1 <foreign xml:lang="he">אכנו נא</foreign> Sam. 26:8; 1 <foreign xml:lang="he">ישמע נא</foreign> Sam. 26:19; (also Gen. 44:33, 50:5, Num. 14:17). In these cases, <foreign xml:lang="he">עתה</foreign> introduces a new topic in a line of thought, as in<lb/>
+1 Sam. 9:6 . . . <foreign xml:lang="he">עתה נלכה שם</foreign> . . . <foreign xml:lang="he">איש אלהים בעיר הזאת</foreign> ‘There is a man of God in this city . . . Let us, then, go there . . .’ Here, then, <foreign xml:lang="he">עתה</foreign> is a connecting particle, marking logical transition, and can be considered as standing outside the clause, of which the verb is the first word. The verb is marked as indicative by its form in: 1 <foreign xml:lang="he">אמות</foreign> Judg. 15:18; <foreign xml:lang="he">תשוב</foreign> 1 Kgs. 12:26, (also Gen. 19:9, Exod. 6:1, Num. 11:23). In these cases, the significant function of <foreign xml:lang="he">עתה</foreign> is to mark the time of the action, as in the beginning of a quoted speech in<lb/>
+1 Kgs. 12:26 <foreign xml:lang="he">עתה תשוב הממלכה לבית דוד</foreign> ‘Sovereignty will now revert to David’s family.’ Here, then, <foreign xml:lang="he">עתה</foreign> can be considered to be an adverb standing before the verb it modifies.<note n="18"/></p>
 
-<note n="18">(18) The same distinction of function is made in the standard lexicons and similar works of reference, but they regularly list the mark of logical transition as ועתה, with the conjunction, cf. Even-Shoshan, 1982, <hi rend="italic">s.v.</hi> The conjunction is certainly usually present where the particle has this function, but there seems no good reason to suppose that the two functions are distinguished by its presence or absence. It is absent in 1 Sam. 9:6 (quoted above) where the particle seems to mark logical transition, but present in Judg. 15:18, where ועתה seems to be an adverb of time ‘I am now to die of thirst’ (or possibly “Am I now to die?”).</note>
+<note n="18">(18) The same distinction of function is made in the standard lexicons and similar works of reference, but they regularly list the mark of logical transition as <foreign xml:lang="he">ועתה</foreign>, with the conjunction, cf. Even-Shoshan, 1982, <hi rend="italic">s.v.</hi> The conjunction is certainly usually present where the particle has this function, but there seems no good reason to suppose that the two functions are distinguished by its presence or absence. It is absent in 1 Sam. 9:6 (quoted above) where the particle seems to mark logical transition, but present in Judg. 15:18, where <foreign xml:lang="he">ועתה</foreign> seems to be an adverb of time ‘I am now to die of thirst’ (or possibly “Am I now to die?”).</note>
       <pb n="20"/>
 <fw type="header">20 E. J. REVELL [20]</fw>
 
-<p>16.2 A modal imperfect form follows the particle <foreign xml:lang="heb">אך</foreign> in the corpus in 1 Sam 1:23 <foreign xml:lang="heb">אך יקם</foreign>. The same occurs in Gen. 34:23. Otherwise a verb directly following <foreign xml:lang="heb">אך</foreign> in the Hexateuch and the corpus is imperative (six cases) or perfect (one case). Where the verb is modal, <foreign xml:lang="heb">אך</foreign> marks the same kind of logical transition as does <foreign xml:lang="heb">עתה</foreign>, save that while <foreign xml:lang="heb">עתה</foreign> presents the following clause as a logical outcome of what precedes, <foreign xml:lang="heb">אך</foreign> presents it as an exception to the logical expectation, as in
+<p>16.2 A modal imperfect form follows the particle <foreign xml:lang="he">אך</foreign> in the corpus in 1 Sam 1:23 <foreign xml:lang="he">אך יקם</foreign>. The same occurs in Gen. 34:23. Otherwise a verb directly following <foreign xml:lang="he">אך</foreign> in the Hexateuch and the corpus is imperative (six cases) or perfect (one case). Where the verb is modal, <foreign xml:lang="he">אך</foreign> marks the same kind of logical transition as does <foreign xml:lang="he">עתה</foreign>, save that while <foreign xml:lang="he">עתה</foreign> presents the following clause as a logical outcome of what precedes, <foreign xml:lang="he">אך</foreign> presents it as an exception to the logical expectation, as in
 <list rend="unnumbered">
-    <item>Judg. 10:15 <foreign xml:lang="heb">חטאנו עשה אתה לנו ככל הטוב בעיניך אך הצילנו</foreign> ‘We have sinned. Do whatever you want to us. Just save us this time.’</item>
-    <item>1 Kgs. 17:13 <foreign xml:lang="heb">אל תיראי באי עשי כדברך אך עשי לי משם עגה קטנה</foreign> ‘Don’t worry. Go and do as you said. Just make me a small cake from it first.’</item>
-    <item>Gen. 34:23 <foreign xml:lang="heb">מקנהם ... הלוא לנו הם אך נאותה להם</foreign> ‘Are not all their possessions ours? Let us just agree to their condition.’</item>
-    <item>1 Sam. 1:23 <foreign xml:lang="heb">עשי הטוב בעיניך שבי ... אך יקם יהוה את דברו</foreign> ‘Do as you like. Stay here until you have weaned him. May the Lord just keep his promise.’</item>
+    <item>Judg. 10:15 <foreign xml:lang="he">חטאנו עשה אתה לנו ככל הטוב בעיניך אך הצילנו</foreign> ‘We have sinned. Do whatever you want to us. Just save us this time.’</item>
+    <item>1 Kgs. 17:13 <foreign xml:lang="he">אל תיראי באי עשי כדברך אך עשי לי משם עגה קטנה</foreign> ‘Don’t worry. Go and do as you said. Just make me a small cake from it first.’</item>
+    <item>Gen. 34:23 <foreign xml:lang="he">מקנהם ... הלוא לנו הם אך נאותה להם</foreign> ‘Are not all their possessions ours? Let us just agree to their condition.’</item>
+    <item>1 Sam. 1:23 <foreign xml:lang="he">עשי הטוב בעיניך שבי ... אך יקם יהוה את דברו</foreign> ‘Do as you like. Stay here until you have weaned him. May the Lord just keep his promise.’</item>
 </list></p>
 
-<p>16.3 A modal imperfect form follows the negative <foreign xml:lang="heb">לא</foreign> in the corpus in: 1 Sam. 14:36 <foreign xml:lang="heb">נשאר</foreign>; 2 Sam. 17:12 <foreign xml:lang="heb">נותר</foreign>; 1 Kgs. 2:6 <foreign xml:lang="heb">תורד</foreign>. This may be influenced by the use of modal forms following <foreign xml:lang="heb">אל</foreign>, which is itself occasionally followed by a long form, as in 2 Sam. 13:12.</p>
+<p>16.3 A modal imperfect form follows the negative <foreign xml:lang="he">לא</foreign> in the corpus in: 1 Sam. 14:36 <foreign xml:lang="he">נשאר</foreign>; 2 Sam. 17:12 <foreign xml:lang="he">נותר</foreign>; 1 Kgs. 2:6 <foreign xml:lang="he">תורד</foreign>. This may be influenced by the use of modal forms following <foreign xml:lang="he">אל</foreign>, which is itself occasionally followed by a long form, as in 2 Sam. 13:12.</p>
 
-<p>16.4 A modal form follows a constituent of its clause in 1 Sam. 10:8 <foreign xml:lang="heb">שבעת ימים תוחל</foreign> ‘Seven days you must wait.’
+<p>16.4 A modal form follows a constituent of its clause in 1 Sam. 10:8 <foreign xml:lang="he">שבעת ימים תוחל</foreign> ‘Seven days you must wait.’
 <list rend="unnumbered">
-    <item>2 Sam. 14:17 <foreign xml:lang="heb">יהיה אלהיך יהי עמך</foreign> ‘May the Lord your God be with you.’ (Note the anomalous clause-initial long form <foreign xml:lang="heb">יהיה נא</foreign> at the beginning of this speech.)</item>
-    <item>2 Sam. 18:14 <foreign xml:lang="heb">לא כן אחילה</foreign> ‘Not thus will I wait.’</item>
+    <item>2 Sam. 14:17 <foreign xml:lang="he">יהיה אלהיך יהי עמך</foreign> ‘May the Lord your God be with you.’ (Note the anomalous clause-initial long form <foreign xml:lang="he">יהיה נא</foreign> at the beginning of this speech.)</item>
+    <item>2 Sam. 18:14 <foreign xml:lang="he">לא כן אחילה</foreign> ‘Not thus will I wait.’</item>
 </list></p>
 
-<p>16.5 It may be concluded, then, that <foreign xml:lang="heb">עתה</foreign> and <foreign xml:lang="heb">אך</foreign> marking logical transition belong to a group of what may be called, generically, conjunctive particles, to which conjunctive <hi rend="italic">waw</hi> also belongs. In clauses introduced by these particles, imperfect verbs follow the same pattern as they do in clauses with no introductory particle; an imperfect following a particle from this group has modal value. In clauses which are marked as hypothetical by introductory interrogative or conditional particles (also <foreign xml:lang="heb">אולי</foreign> ‘perhaps’ 1 Sam. 9:6), and in clauses introduced by <foreign xml:lang="heb">כי</foreign> and <foreign xml:lang="heb">אשר</foreign>, whether in nominalizing or in other function, modal forms are not used. An imperfect following one of these particles is indicative. Where <foreign xml:lang="heb">עתה</foreign> functions as a preposed constituent of a clause, a following imperfect does not begin its clause, and so is indicative, according to the standard pattern. The few cases of modal imperfect forms which do follow pre-</p>
+<p>16.5 It may be concluded, then, that <foreign xml:lang="he">עתה</foreign> and <foreign xml:lang="he">אך</foreign> marking logical transition belong to a group of what may be called, generically, conjunctive particles, to which conjunctive <hi rend="italic">waw</hi> also belongs. In clauses introduced by these particles, imperfect verbs follow the same pattern as they do in clauses with no introductory particle; an imperfect following a particle from this group has modal value. In clauses which are marked as hypothetical by introductory interrogative or conditional particles (also <foreign xml:lang="he">אולי</foreign> ‘perhaps’ 1 Sam. 9:6), and in clauses introduced by <foreign xml:lang="he">כי</foreign> and <foreign xml:lang="he">אשר</foreign>, whether in nominalizing or in other function, modal forms are not used. An imperfect following one of these particles is indicative. Where <foreign xml:lang="he">עתה</foreign> functions as a preposed constituent of a clause, a following imperfect does not begin its clause, and so is indicative, according to the standard pattern. The few cases of modal imperfect forms which do follow pre-</p>
       <pb n="21"/>
 <p>[21] THE SYSTEM OF THE VERB 21</p>
 <p>posed constituents listed in #16.4 must be regarded as anomalies,<note n="19" place="foot">This appears to be true for the corpus, but it seems probable that modal imperfects, like imperatives, were not originally restricted to initial position in the clause, and genuine traces of this earlier situation may occur in the Pentateuch. The early extrabiblical materials are inconclusive. Neutral imperfect forms occur within clauses where a jussive might be expected, as in the greeting in Arad letter #18:2-3 <foreign xml:lang="he">יהוה ישאל לשלמך</foreign> (Aharoni, 1975, p. 37), also ... <foreign xml:lang="he">ולקרסי תתן ... תן לשמריהו</foreign> (<hi rend="italic">ibid.</hi>, l. 4-6). However, these have biblical parallels (see #20.1 — with the first case cf. 1 Sam. 17:37 quoted there), so it is not clear that modal forms would have been used.</note> as must the cases listed in #16.3.</p>
@@ -1929,10 +1929,10 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
 <fw type="header">22 E. J. REVELL [22]</fw>
 <p>the perfect form as ‘consecutive’. An apodosis which does not begin with a <hi rend="italic">waw</hi> consecutive perfect is typically not introduced by a conjunction.<hi rend="sup">21</hi></p>
 <p>17.2 A <hi rend="italic">waw</hi> consecutive perfect form follows an imperative in only about a quarter of the possible cases in the corpus, and follows a modal imperfect in little more than a tenth.<hi rend="sup">22</hi> In sharp contrast, clause initial verbs which carry on a sequence of indicatives are regularly <hi rend="italic">waw</hi> consecutive in form. A <hi rend="italic">waw</hi> consecutive perfect following a modal verb cannot, then, stand in the same sort of relationship to it as it does to a preceding indicative. Consequently it is reasonable to argue that the <hi rend="italic">waw</hi> consecutive perfect represents the YQTL indicative as a conditioned variant of the imperfect, as suggested in #1. If this view is correct, a <hi rend="italic">waw</hi> consecutive perfect following a modal verb must have connotations different from those of a modal verb in the same position. A survey of the use of the <hi rend="italic">waw</hi> consecutive perfect suggests that this is indeed the case.</p>
-<p>18. Where two imperatives are used in sequence, they often effectively represent a single command, which is expressed by the second of the two verbs, as where the first is a form of <foreign xml:lang="heb">שוב</foreign>, <foreign xml:lang="heb">הלך</foreign>, or <foreign xml:lang="heb">קום</foreign>, with merely hortatory value. Thus in 1 Kgs. 19:7 <foreign xml:lang="heb">קום אכל</foreign> ‘Rise, eat', the main point of the command is that Elijah should eat to gain strength for his journey. Even where the first of two imperatives is not merely hortatory, the second can often be understood as carrying the more significant component of the command. In contrast, a <hi rend="italic">waw</hi> consecutive perfect used in sequence with an imperative typically represents an action to be taken as a consequence of carrying out the initial command represented by the imperative, as in 1 Sam. 9:19 <foreign xml:lang="heb">עלה... ואכלתם</foreign> ‘Go up ... and (then) you will eat’. The contrast can be illustrated from the use, in the corpus, of the forms of <foreign xml:lang="heb">ישב</foreign> and <foreign xml:lang="heb">שוב</foreign> following imperatives.</p>
-<p>18.1 A form of <foreign xml:lang="heb">ישב</foreign> is the second of two imperatives in<lb/>
-1 Sam. 1:23 ... <foreign xml:lang="heb">עשי הטוב בעיניך שבי</foreign> ‘Do what you think best. Stay here</p>
-<note n="21">(21) An apodosis which follows the protasis is occasionally introduced by a conjunction, as in 1 Sam. 20:9, 2 Sam. 12:8, but this is exceptional. The contrast is well illustrated in the paired conditional sentences in Judg. 4:8, where one apodosis begins with <foreign xml:lang="heb">והלכתי</foreign>, the other with <foreign xml:lang="heb">לא אלך</foreign>, in sentences identical except for the negative. See also 1 Sam. 2:25. Where the apodosis precedes the protasis, an initial verb may have a prefixed conjunction which joins the sentence to what precedes, as in 2 Kgs. 18:23.</note>
+<p>18. Where two imperatives are used in sequence, they often effectively represent a single command, which is expressed by the second of the two verbs, as where the first is a form of <foreign xml:lang="he">שוב</foreign>, <foreign xml:lang="he">הלך</foreign>, or <foreign xml:lang="he">קום</foreign>, with merely hortatory value. Thus in 1 Kgs. 19:7 <foreign xml:lang="he">קום אכל</foreign> ‘Rise, eat', the main point of the command is that Elijah should eat to gain strength for his journey. Even where the first of two imperatives is not merely hortatory, the second can often be understood as carrying the more significant component of the command. In contrast, a <hi rend="italic">waw</hi> consecutive perfect used in sequence with an imperative typically represents an action to be taken as a consequence of carrying out the initial command represented by the imperative, as in 1 Sam. 9:19 <foreign xml:lang="he">עלה... ואכלתם</foreign> ‘Go up ... and (then) you will eat’. The contrast can be illustrated from the use, in the corpus, of the forms of <foreign xml:lang="he">ישב</foreign> and <foreign xml:lang="he">שוב</foreign> following imperatives.</p>
+<p>18.1 A form of <foreign xml:lang="he">ישב</foreign> is the second of two imperatives in<lb/>
+1 Sam. 1:23 ... <foreign xml:lang="he">עשי הטוב בעיניך שבי</foreign> ‘Do what you think best. Stay here</p>
+<note n="21">(21) An apodosis which follows the protasis is occasionally introduced by a conjunction, as in 1 Sam. 20:9, 2 Sam. 12:8, but this is exceptional. The contrast is well illustrated in the paired conditional sentences in Judg. 4:8, where one apodosis begins with <foreign xml:lang="he">והלכתי</foreign>, the other with <foreign xml:lang="he">לא אלך</foreign>, in sentences identical except for the negative. See also 1 Sam. 2:25. Where the apodosis precedes the protasis, an initial verb may have a prefixed conjunction which joins the sentence to what precedes, as in 2 Kgs. 18:23.</note>
 <note n="22">(22) This contrasts with the statement in Driver, 1892, #112, that the use of the perfect with <hi rend="italic">waw</hi> consecutive “is by far the most common construction after an imperative.” Driver’s view is probably derived from the legal materials of the Pentateuch. This appears to be a second area in which the usage of the corpus differs significantly from that of these legal materials (see n. 7).</note>
       <pb n="23" />
 <p>[23] <space dim="horizontal" /> THE SYSTEM OF THE VERB <space dim="horizontal" /> 23</p>
@@ -1948,17 +1948,17 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
 <p>19. An imperative from one root may be followed by a verb from a second root which is imperative in form in some cases, perfect with <hi rend="italic">waw</hi> consecutive in others. Where this occurs, the use of verb forms often cannot reasonably be explained by the argument in #18. Nevertheless, the two forms do seem to carry different connotations here as well. One</p>
       <pb n="24"/>
 <head>24 E. J. REVELL [24]</head>
-<p>imperative is followed by another where the command is urgent, or is addressed to someone who is inferior in status, or is despised.<note n="23">Cf. the relation between the use of אל and לא in negative commands and the status of the person addressed suggested in Qimron, 1986, #400.13*.</note> Where an imperative is followed by a perfect with <hi rend="italic">waw</hi> consecutive, the situation is not urgent, and the command is given to someone who is esteemed. The examples from the corpus in which such use of forms from the same roots can be compared are:
+<p>imperative is followed by another where the command is urgent, or is addressed to someone who is inferior in status, or is despised.<note n="23">Cf. the relation between the use of <foreign xml:lang="he">אל</foreign> and <foreign xml:lang="he">לא</foreign> in negative commands and the status of the person addressed suggested in Qimron, 1986, #400.13*.</note> Where an imperative is followed by a perfect with <hi rend="italic">waw</hi> consecutive, the situation is not urgent, and the command is given to someone who is esteemed. The examples from the corpus in which such use of forms from the same roots can be compared are:
 </p>
-<p>19.1 הלך ... אמר (go, say). An imperative form from אמר is used where the command is from a prophet to the wife of Jeroboam (1 Kgs. 14:7), to Obadiah (1 Kgs. 18:8, 11, 14), or to Hazael (2 Kgs. 8:10). Cf. Elisha’s command רוץ ... אמר ‘run and say . . .’ to his servant Gehazi (2 Kgs. 4:26). A perfect with <hi rend="italic">waw</hi> consecutive is used where God commands a prophet to carry a (sympathetic) message to David (2 Sam. 7:5). Cf. שוב ואמרת ... ‘Go back and say . . .’ in a similar situation in 2 Kgs. 20:5.
+<p>19.1 <foreign xml:lang="he">הלך</foreign> ... <foreign xml:lang="he">אמר</foreign> (go, say). An imperative form from <foreign xml:lang="he">אמר</foreign> is used where the command is from a prophet to the wife of Jeroboam (1 Kgs. 14:7), to Obadiah (1 Kgs. 18:8, 11, 14), or to Hazael (2 Kgs. 8:10). Cf. Elisha’s command <foreign xml:lang="he">רוץ</foreign> ... <foreign xml:lang="he">אמר</foreign> ‘run and say . . .’ to his servant Gehazi (2 Kgs. 4:26). A perfect with <hi rend="italic">waw</hi> consecutive is used where God commands a prophet to carry a (sympathetic) message to David (2 Sam. 7:5). Cf. <foreign xml:lang="he">שוב ואמרת</foreign> ... ‘Go back and say . . .’ in a similar situation in 2 Kgs. 20:5.
 </p>
-<p>19.2 עלה ... אכל (go up, eat). The imperative of אכל in 1 Kgs. 18:41 shows that the prophet despises Ahab, and/or that ‘eat’ is the main command; in 1 Sam. 9:19 the <hi rend="italic">waw</hi> consecutive perfect shows that ‘go up’ is the main command (cf. #18).
+<p>19.2 <foreign xml:lang="he">עלה</foreign> ... <foreign xml:lang="he">אכל</foreign> (go up, eat). The imperative of <foreign xml:lang="he">אכל</foreign> in 1 Kgs. 18:41 shows that the prophet despises Ahab, and/or that ‘eat’ is the main command; in 1 Sam. 9:19 the <hi rend="italic">waw</hi> consecutive perfect shows that ‘go up’ is the main command (cf. #18).
 </p>
 <p>19.3 The same phenomenon can be suggested where the second verb is jussive. Compare
-1 Kgs. 22:6 עלה ויתן אדני ביד המלך ‘Go up. May the Lord give (it) to the King’ with
-1 Kgs. 22:15 עלה הצלח ונתן יהוה ביד המלך ‘Go up and be successful. The Lord will give (it) to the King’ (cf. 1 Kgs. 22:12). In both cases the second verb, which carries on the modal sequence, gives encouragement for success. In the second example a confirming statement is added with a <hi rend="italic">waw</hi> consecutive perfect. Another example with a jussive form is discussed in #24.1.
+1 Kgs. 22:6 <foreign xml:lang="he">עלה ויתן אדני ביד המלך</foreign> ‘Go up. May the Lord give (it) to the King’ with
+1 Kgs. 22:15 <foreign xml:lang="he">עלה הצלח ונתן יהוה ביד המלך</foreign> ‘Go up and be successful. The Lord will give (it) to the King’ (cf. 1 Kgs. 22:12). In both cases the second verb, which carries on the modal sequence, gives encouragement for success. In the second example a confirming statement is added with a <hi rend="italic">waw</hi> consecutive perfect. Another example with a jussive form is discussed in #24.1.
 </p>
-<p>19.4 A final example with an imperative can be offered where different roots are used, but the actions they represent are similar. In 1 Kgs. 22:26 the imperatives קח את מיכיהו והשיבהו ... present a command delivered by the King to unnamed officials. The main component of the command is carried by the second verb ‘Take Mikayah and return him ... to the city governor (to prison)’. In 1 Kgs. 1:33 קחו... והרכבתם... present a request by David to his senior officials to ‘Take with you your masters’ servants, and place my son on a mule (to be annointed as heir designate)’.
+<p>19.4 A final example with an imperative can be offered where different roots are used, but the actions they represent are similar. In 1 Kgs. 22:26 the imperatives <foreign xml:lang="he">קח את מיכיהו והשיבהו</foreign> ... present a command delivered by the King to unnamed officials. The main component of the command is carried by the second verb ‘Take Mikayah and return him ... to the city governor (to prison)’. In 1 Kgs. 1:33 <foreign xml:lang="he">קחו</foreign>... <foreign xml:lang="he">והרכבתם</foreign>... present a request by David to his senior officials to ‘Take with you your masters’ servants, and place my son on a mule (to be annointed as heir designate)’.
 </p>
       <pb n="25"/>
 <head>[25] THE SYSTEM OF THE VERB 25</head>
@@ -1967,34 +1967,34 @@ Gen. 44:32 . . . <foreign xml:lang="he">אם לא אביאנו</foreign> ‘If I
 
 <p>20.1 Where the verb does not begin the clause, the YQTL category must be represented by an imperfect form. This is used after an imperative with the same connotations as a clause-initial <hi rend="italic">waw</hi> consecutive perfect; that is, it presents a continuation of the command in a less forceful register. Examples of imperfect forms used in this way are:
 <list>
-<item>Judg. 6:25 קח את פר השור. . . והרסת את מזבח הבעל. . . ואת האשרה אשר עליו תכרת ‘Take the bullock . . . Then you must tear down the Baal altar . . . and cut down the Asherah which is beside it.’</item>
+<item>Judg. 6:25 <foreign xml:lang="he">קח את פר השור</foreign>. . . <foreign xml:lang="he">והרסת את מזבח הבעל</foreign>. . . <foreign xml:lang="he">ואת האשרה אשר עליו תכרת</foreign> ‘Take the bullock . . . Then you must tear down the Baal altar . . . and cut down the Asherah which is beside it.’</item>
 </list>
 </p>
       <pb n="26"/>
 <fw type="header">26 E. J. REVELL [26]</fw>
 
-<p>1 Sam. 17:17–18 קח נא לאחיך איפת הקלי הזה... והרץ המחנה... ואת עשרת חריצי החלב האלה תביא לשר האלף ‘Take this measure of grain for your brothers . . . and rush it to the camp . . . Then you must take these ten cheeses (?) to the company commander.’</p>
-<p>2 Kgs. 4:7 לכי מכרי את השמן ושלמי את נשיך ואת ובניך תהיי ‘Go and sell the oil and pay your debts. You and your children can live on the rest.’ Finally the imperfect form in</p>
-<p>1 Sam. 17:37 לך ויהוה יהיה עמך ‘Go. The Lord will be with you!’ presents a statement intended to increase confidence, as is יהוה עמך ‘The Lord is with you’ (Judg. 6:12). It contrasts with the jussive form in</p>
-<p>1 Sam. 20:13 ויהי יהוה עמך ‘May the Lord be with you (as he was with my father)’, which expresses a wish (also 1 Kgs. 8:57). These uses of the YQTL indicative after an imperative are no different in kind from the uses of the <hi rend="italic">waw</hi> consecutive perfect described above.</p>
+<p>1 Sam. 17:17–18 <foreign xml:lang="he">קח נא לאחיך איפת הקלי הזה</foreign>... <foreign xml:lang="he">והרץ המחנה</foreign>... <foreign xml:lang="he">ואת עשרת חריצי החלב האלה תביא לשר האלף</foreign> ‘Take this measure of grain for your brothers . . . and rush it to the camp . . . Then you must take these ten cheeses (?) to the company commander.’</p>
+<p>2 Kgs. 4:7 <foreign xml:lang="he">לכי מכרי את השמן ושלמי את נשיך ואת ובניך תהיי</foreign> ‘Go and sell the oil and pay your debts. You and your children can live on the rest.’ Finally the imperfect form in</p>
+<p>1 Sam. 17:37 <foreign xml:lang="he">לך ויהוה יהיה עמך</foreign> ‘Go. The Lord will be with you!’ presents a statement intended to increase confidence, as is <foreign xml:lang="he">יהוה עמך</foreign> ‘The Lord is with you’ (Judg. 6:12). It contrasts with the jussive form in</p>
+<p>1 Sam. 20:13 <foreign xml:lang="he">ויהי יהוה עמך</foreign> ‘May the Lord be with you (as he was with my father)’, which expresses a wish (also 1 Kgs. 8:57). These uses of the YQTL indicative after an imperative are no different in kind from the uses of the <hi rend="italic">waw</hi> consecutive perfect described above.</p>
 
 <p>20.2 YQTL indicative forms are similarly used with no preceding imperative where English would use a command or request. An imperfect is used in this way in</p>
-<p>Judg. 7:5 כל אשר ילק... תציג אותו לבש ‘Any who laps . . . you must set him aside.’</p>
-<p>1 Sam. 10:19 מלך תשים עלינו ‘You must set a king over us.’</p>
+<p>Judg. 7:5 <foreign xml:lang="he">כל אשר ילק</foreign>... <foreign xml:lang="he">תציג אותו לבש</foreign> ‘Any who laps . . . you must set him aside.’</p>
+<p>1 Sam. 10:19 <foreign xml:lang="he">מלך תשים עלינו</foreign> ‘You must set a king over us.’</p>
 <p>A <hi rend="italic">waw</hi> consecutive perfect may also be used in this way, as</p>
-<p>2 Sam. 14:10 המדבר אליך והבאתו אלי ‘Anyone who speaks to you, you must bring to me.’</p>
-<p>1 Kgs. 13:31 במותי וקברתם אתי . . . ‘When I die, you must bury me . . .’</p>
+<p>2 Sam. 14:10 <foreign xml:lang="he">המדבר אליך והבאתו אלי</foreign> ‘Anyone who speaks to you, you must bring to me.’</p>
+<p>1 Kgs. 13:31 <foreign xml:lang="he">במותי וקברתם אתי</foreign> . . . ‘When I die, you must bury me . . .’</p>
 <p>The essential syntax in this last example is the same as that of</p>
-<p>1 Sam. 10:2 בלכתך היום מעמדי ומצאת ‘When you leave me today, you will meet . . .’ The fact that English would use a command or request in the first example, but a statement in the second, is indicated by the content of the words and their context. It is not indicated either by their forms or by their syntax. That is, Hebrew and English use of imperative (jussive) and indicative is not the same. The conventions of English (or other European languages) must, of course, be respected in translation, but cannot be used to determine the significance of the Hebrew forms. This point may be emphasized by a final example</p>
-<p>Judg. 6:17 אם נא מצאתי חן בעיניך ועשית לי אות . . . ‘If (please) I have found favor in your sight (you will) give me a sign . . .’ English would typically translate the <hi rend="italic">waw</hi> consecutive perfect by an imperative. However an imperative form would be perfectly acceptable in that position in Hebrew. Consequently it seems highly probable that the use of the <hi rend="italic">waw</hi> consecutive perfect in the apodosis, rather than an imperative, signals humility</p>
+<p>1 Sam. 10:2 <foreign xml:lang="he">בלכתך היום מעמדי ומצאת</foreign> ‘When you leave me today, you will meet . . .’ The fact that English would use a command or request in the first example, but a statement in the second, is indicated by the content of the words and their context. It is not indicated either by their forms or by their syntax. That is, Hebrew and English use of imperative (jussive) and indicative is not the same. The conventions of English (or other European languages) must, of course, be respected in translation, but cannot be used to determine the significance of the Hebrew forms. This point may be emphasized by a final example</p>
+<p>Judg. 6:17 <foreign xml:lang="he">אם נא מצאתי חן בעיניך ועשית לי אות</foreign> . . . ‘If (please) I have found favor in your sight (you will) give me a sign . . .’ English would typically translate the <hi rend="italic">waw</hi> consecutive perfect by an imperative. However an imperative form would be perfectly acceptable in that position in Hebrew. Consequently it seems highly probable that the use of the <hi rend="italic">waw</hi> consecutive perfect in the apodosis, rather than an imperative, signals humility</p>
       <pb n="27"/>
 <head>[27] THE SYSTEM OF THE VERB 27</head>
 
-<p>just as effectively as does the insertion of <foreign xml:lang="heb">נא</foreign> in the (already submissive) formula for making a request from a superior.<note n="24">This formula is also followed by an apodosis beginning with a <hi rend="italic">waw</hi> consecutive perfect in Gen. 33:10, where Jacob is expressing great humility before Esau (cf. 33:3). Elsewhere the apodosis begins with a modal followed by <foreign xml:lang="heb">נא</foreign> save in Gen. 30:27 (a perfect), and Esth. 5:8, 7:3 (a jussive alone). Cf. the more forceful form of request put by Gideon to his men in Judg. 8:24 (quoted in #14.4).</note></p>
+<p>just as effectively as does the insertion of <foreign xml:lang="he">נא</foreign> in the (already submissive) formula for making a request from a superior.<note n="24">This formula is also followed by an apodosis beginning with a <hi rend="italic">waw</hi> consecutive perfect in Gen. 33:10, where Jacob is expressing great humility before Esau (cf. 33:3). Elsewhere the apodosis begins with a modal followed by <foreign xml:lang="he">נא</foreign> save in Gen. 30:27 (a perfect), and Esth. 5:8, 7:3 (a jussive alone). Cf. the more forceful form of request put by Gideon to his men in Judg. 8:24 (quoted in #14.4).</note></p>
 
-<p>21. As is well known, <foreign xml:lang="heb">לא</foreign> with the imperfect is used in early materials to present a particularly forceful prohibition.<note n="25">This usage does not seem to be current in the corpus. <foreign xml:lang="heb">לא</foreign> and <foreign xml:lang="heb">אל</foreign> appear equivalent in 1 Kgs. 20:8 <foreign xml:lang="heb">אל תשמע ולוא תאבה</foreign> ‘Do not listen and do not agree.’ Similarly in 2 Sam. 5:23 <foreign xml:lang="heb">לא תעלה</foreign> ‘do not go up (to attack)’ is not a particularly forceful command. A modal verb is not used in the same context in <foreign xml:lang="heb">יהודה יעלה</foreign> ‘Judah will go up’ (Judg. 1:2). The negatives <foreign xml:lang="heb">אל</foreign> and <foreign xml:lang="heb">לא</foreign> appear to vary freely in prohibitions at Qumran. (See Qimron, 1986:400.13*)</note> However it is obvious that, both in early materials and in the corpus, <foreign xml:lang="heb">לא</foreign> with an imperfect can present a statement, as well as a command. In
+<p>21. As is well known, <foreign xml:lang="he">לא</foreign> with the imperfect is used in early materials to present a particularly forceful prohibition.<note n="25">This usage does not seem to be current in the corpus. <foreign xml:lang="he">לא</foreign> and <foreign xml:lang="he">אל</foreign> appear equivalent in 1 Kgs. 20:8 <foreign xml:lang="he">אל תשמע ולוא תאבה</foreign> ‘Do not listen and do not agree.’ Similarly in 2 Sam. 5:23 <foreign xml:lang="he">לא תעלה</foreign> ‘do not go up (to attack)’ is not a particularly forceful command. A modal verb is not used in the same context in <foreign xml:lang="he">יהודה יעלה</foreign> ‘Judah will go up’ (Judg. 1:2). The negatives <foreign xml:lang="he">אל</foreign> and <foreign xml:lang="he">לא</foreign> appear to vary freely in prohibitions at Qumran. (See Qimron, 1986:400.13*)</note> However it is obvious that, both in early materials and in the corpus, <foreign xml:lang="he">לא</foreign> with an imperfect can present a statement, as well as a command. In
 <list>
-<item>2 Sam. 21:17 <foreign xml:lang="heb">...לא תצא... ולא תכבה</foreign> ‘Do not go out to battle with us any more, and you will not quench the lamp of Israel’.</item>
+<item>2 Sam. 21:17 <foreign xml:lang="he">...לא תצא... ולא תכבה</foreign> ‘Do not go out to battle with us any more, and you will not quench the lamp of Israel’.</item>
 </list>
 The translation of one verb as a command and the other as a statement is a matter of English usage, reflecting an understanding of the content of the clauses and their context. There is nothing in the form of the verbs or their syntax which requires translation in either way. Similar usage is found in Akkadian, where <hi rend="italic">lā taparras</hi> can present either a command or a prediction. The same is true of ‘you will not do’ in English. In the latter case, the two values are distinguished by intonation patterns, as well as by the context in which they are used. In written texts, only the latter criterion is available. As for the relative forcefulness of the indicative and imperative patterns, this depends on the conventions of the users. My own impression is that in English, as in Hebrew, the statement ‘You will not do’ typically presents a more forceful prohibition than the imperative ‘do not’, whereas the imperative ‘do’ presents a more urgent command than the statement ‘you will do’.</p>
 
@@ -2014,14 +2014,14 @@ Judg. 1:3 <foreign xml:lang="he">עלה אתי בגורלי ונלחמה בכנ�
 <head>[29] THE SYSTEM OF THE VERB 29</head>
 <p>22.3 The passages in the list which do not fit these two patterns can be grouped as follows.
 <list>
-<item>(a) The <hi rend="italic">waw</hi> consecutive perfect forms part of a standard sequence of indicatives in: והקמתי Gen. 26:3 ‘I shall establish’; וכליתיך Exod. 33:5 ‘I shall exterminate you’; והגדתי Num. 23:3 ‘I shall inform you’. This is also the case for the verbs in Deut. 21:21 (on ויראו see #15.4), and in 1 Kgs. 18:10 (but on ימצאכה, see n. 11). In Exod. 12:4, ולקח ‘He will take’ begins the apodosis in the common form of future condition.</item>
-<item>(b) The imperfect forms part of a standard sequence of modals in: ואהיה, ואברכך Gen. 26:3 ‘I intend to be with you and bless you’; ואדעה Exod. 33:5 ‘I intend to learn’; ואלכה Num. 23:3 ‘I intend to go away’. In Gen. 41:35, ויקבצו ‘Let them gather’ begins such a sequence (assuming that the subject is פקידים ‘officials’ in the preceding verse, so that the verb is not in sequence with the immediately preceding וחמש, which has a singular subject. See #22.1). In I Kgs. 21:13, ויסקלהו ‘and they stoned him’ is a <hi rend="italic">qal</hi> form, so most probably וסקלהו in 21:10 is a <hi rend="italic">qal</hi> imperative, so that והוציאהו וסקלהו וימת is a standard modal sequence ‘Take him out and stone him and let him die’ (against Johnson’s suggestion that the first two verbs are <hi rend="italic">waw</hi> consecutive perfects). On וטהר (2 Kgs. 5:10), see #14.4.</item>
-<item>(c) In Num. 23:19, ודבר ‘(can he) speak?’ is a perfect with prefixed conjunction used with past value in synonymous parallelism, and so belongs in the category described in #6. In 2 Kgs. 19:24 ושתיתי ‘I drank’ belongs in the same category. However it is doubtful if either passage can be considered as an example of “standard narrative prose”.</item>
+<item>(a) The <hi rend="italic">waw</hi> consecutive perfect forms part of a standard sequence of indicatives in: <foreign xml:lang="he">והקמתי</foreign> Gen. 26:3 ‘I shall establish’; <foreign xml:lang="he">וכליתיך</foreign> Exod. 33:5 ‘I shall exterminate you’; <foreign xml:lang="he">והגדתי</foreign> Num. 23:3 ‘I shall inform you’. This is also the case for the verbs in Deut. 21:21 (on <foreign xml:lang="he">ויראו</foreign> see #15.4), and in 1 Kgs. 18:10 (but on <foreign xml:lang="he">ימצאכה</foreign>, see n. 11). In Exod. 12:4, <foreign xml:lang="he">ולקח</foreign> ‘He will take’ begins the apodosis in the common form of future condition.</item>
+<item>(b) The imperfect forms part of a standard sequence of modals in: <foreign xml:lang="he">ואהיה</foreign>, <foreign xml:lang="he">ואברכך</foreign> Gen. 26:3 ‘I intend to be with you and bless you’; <foreign xml:lang="he">ואדעה</foreign> Exod. 33:5 ‘I intend to learn’; <foreign xml:lang="he">ואלכה</foreign> Num. 23:3 ‘I intend to go away’. In Gen. 41:35, <foreign xml:lang="he">ויקבצו</foreign> ‘Let them gather’ begins such a sequence (assuming that the subject is <foreign xml:lang="he">פקידים</foreign> ‘officials’ in the preceding verse, so that the verb is not in sequence with the immediately preceding <foreign xml:lang="he">וחמש</foreign>, which has a singular subject. See #22.1). In I Kgs. 21:13, <foreign xml:lang="he">ויסקלהו</foreign> ‘and they stoned him’ is a <hi rend="italic">qal</hi> form, so most probably <foreign xml:lang="he">וסקלהו</foreign> in 21:10 is a <hi rend="italic">qal</hi> imperative, so that <foreign xml:lang="he">והוציאהו וסקלהו וימת</foreign> is a standard modal sequence ‘Take him out and stone him and let him die’ (against Johnson’s suggestion that the first two verbs are <hi rend="italic">waw</hi> consecutive perfects). On <foreign xml:lang="he">וטהר</foreign> (2 Kgs. 5:10), see #14.4.</item>
+<item>(c) In Num. 23:19, <foreign xml:lang="he">ודבר</foreign> ‘(can he) speak?’ is a perfect with prefixed conjunction used with past value in synonymous parallelism, and so belongs in the category described in #6. In 2 Kgs. 19:24 <foreign xml:lang="he">ושתיתי</foreign> ‘I drank’ belongs in the same category. However it is doubtful if either passage can be considered as an example of “standard narrative prose”.</item>
 </list></p>
 
 <head>HISTORICAL CONSIDERATIONS</head>
 <p>23.  The above survey shows that a plausible case can be made in support of the contention that <hi rend="italic">waw</hi> consecutive perfect forms represent clause-initial YQTL verbs, and that indicative verbs carry a meaning distinct from that of modals. That this case is valid, and not merely plausible, can be argued from the changes which occurred in the verb system of later Biblical Hebrew, as shown in the books of Daniel, Ezra, and Nehemiah. The use of verbs in these books can be briefly described as follows.</p>
-<p>23.1 The use of QTL forms does not differ significantly from that of standard prose, but there is a morphological innovation. First person imperfect forms with <hi rend="italic">waw</hi> consecutive commonly show affixed <hi rend="hebrew">ָה-</hi>. This is a late usage which became standard in the Hebrew of Qumran (see Qimron, 1986, #310.122, and Revell, 1988).</p>
+<p>23.1 The use of QTL forms does not differ significantly from that of standard prose, but there is a morphological innovation. First person imperfect forms with <hi rend="italic">waw</hi> consecutive commonly show affixed <hi rend="hebrew"><foreign xml:lang="he">ָה</foreign>-</hi>. This is a late usage which became standard in the Hebrew of Qumran (see Qimron, 1986, #310.122, and Revell, 1988).</p>
       <pb n="30"/>
 <fw type="header">30 E. J. REVELL [30]</fw>
 
@@ -2111,11 +2111,11 @@ Judg. 1:3 <foreign xml:lang="he">עלה אתי בגורלי ונלחמה בכנ�
 <head>E. J. REVELL</head>
 <head>BIBLIOGRAPHY</head>
 <list>
-    <item>Aharoni, Y. 1975. <foreign xml:lang="heb">כתובות ערד, ירושלים</foreign>.</item>
+    <item>Aharoni, Y. 1975. <foreign xml:lang="he">כתובות ערד, ירושלים</foreign>.</item>
     <item>Bergsträsser, G. 1929. <title>Hebräische Grammatik, II Teil: Verbum</title>, Leipzig.</item>
-    <item>Blau, J. 1970. "<foreign xml:lang="heb">האם מערכת הפועל בפרוזה המקראית היא מערכת של זמנים או של אספקטים?</foreign>", <foreign xml:lang="heb">בעיות בהיסטוריה של הלשון העברית</foreign> = <title>Essays in Jewish History and Philology in Memory of Gedaliahu Alon</title>, pp. 17–18. Eds. M. Dorman et al. Tel Aviv.</item>
+    <item>Blau, J. 1970. "<foreign xml:lang="he">האם מערכת הפועל בפרוזה המקראית היא מערכת של זמנים או של אספקטים?</foreign>", <foreign xml:lang="he">בעיות בהיסטוריה של הלשון העברית</foreign> = <title>Essays in Jewish History and Philology in Memory of Gedaliahu Alon</title>, pp. 17–18. Eds. M. Dorman et al. Tel Aviv.</item>
     <item>——— 1976. <title>A Grammar of Biblical Hebrew</title> (= <title>Porta Lingua Orientalium NS XII</title>), Wiesbaden.</item>
-    <item>——— 1978. "<foreign xml:lang="heb">כינויי נסתר ונסתרת ב־נ׳ ובלעדיה בעברית המקרא</foreign>", <title>Eretz Israel 14 (H.L. Ginsberg Volume)</title>, pp. 125–131.</item>
+    <item>——— 1978. "<foreign xml:lang="he">כינויי נסתר ונסתרת ב־נ׳ ובלעדיה בעברית המקרא</foreign>", <title>Eretz Israel 14 (H.L. Ginsberg Volume)</title>, pp. 125–131.</item>
     <item>Driver, S.R. 1892. <title>A Treatise on the Use of the Tenses in Hebrew³</title>, Oxford.</item>
     <item>Even-Shoshan, A. 1982. <title>A New Concordance of the Bible</title>. Jerusalem.</item>
     <item>Gesenius-Kautzsch, 1910. <title>Gesenius' Hebrew Grammar</title>, ed. E. Kautzsch, tr. A.E. Cowley, Oxford.</item>
