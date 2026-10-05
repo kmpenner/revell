@@ -1,0 +1,91 @@
+# TEI validation (TEI P5 tei_all)
+
+5 of 43 files valid.
+
+- INVALID: 07a.01 - Order Elements Verbal
+    - line 75: Did not expect element i there
+    - line 79: Did not expect element head there
+    - line 104: Did not expect element i there
+    - line 104: Element note has extra content: i
+    - line 114: Did not expect element head there
+- INVALID: 07a.02 - Clause Structure Prose
+    - not well-formed: Opening and ending tag mismatch: hi line 1172 and note, line 1179, column 92 (transcription_tei.xml, line 1179)
+- valid: 07a.03 - Sign Sound Study
+- INVALID: 07a.04 - New Biblical Fragment
+    - not well-formed: Opening and ending tag mismatch: note line 51 and lb, line 58, column 59 (transcription_tei.xml, line 58)
+- INVALID: 07a.05 - Studies Palestinian Vocalization
+    - not well-formed: StartTag: invalid element name, line 384, column 37 (transcription_tei.xml, line 384)
+- INVALID: 07a.06 - Placing Accent Signs
+    - line 117: Did not expect element head there
+- INVALID: 07a.07 - Oldest Evidence Hebrew
+    - line 47: Did not expect element head there
+- INVALID: 07a.08 - Oldest Accent List
+    - not well-formed: Opening and ending tag mismatch: note line 218 and p, line 225, column 85 (transcription_tei.xml, line 225)
+- INVALID: 07a.09 - Grammar Jacob Edessa
+    - line 33: Did not expect element head there
+- INVALID: 07a.10 - New Subsystem Tibero
+    - not well-formed: Opening and ending tag mismatch: emph line 80 and hi, line 80, column 517 (transcription_tei.xml, line 80)
+- valid: 07a.11 - Relation Palestinian Massora
+- INVALID: 07a.13 - Mdw Ii Ms
+    - line 42: Did not expect element head there
+- INVALID: 07a.14 - Aristotle Accents Journal
+    - not well-formed: Opening and ending tag mismatch: note line 60 and p, line 60, column 921 (transcription_tei.xml, line 60)
+- INVALID: 07a.15 - Diacritical Dots Development
+    - line 44: Did not expect element head there
+- INVALID: 07a.16 - Note Papyrus 967
+    - line 33: Did not expect element head there
+- INVALID: 07a.17 - Biblical Punctuation Chant
+    - not well-formed: Opening and ending tag mismatch: note line 51 and p, line 51, column 918 (transcription_tei.xml, line 51)
+- INVALID: 07a.18 - Hebrew Accents Greek
+    - not well-formed: Entity 'mdash' not defined, line 335, column 28 (transcription_tei.xml, line 335)
+- INVALID: 07a.19 - Pausal Forms Biblical
+    - not well-formed: Opening and ending tag mismatch: note line 272 and p, line 272, column 1038 (transcription_tei.xml, line 272)
+- INVALID: 07a.20 - Pausal Forms Structure
+    - not well-formed: ID n31 already defined, line 558, column 19 (transcription_tei.xml, line 558)
+- INVALID: 07a.21 - Nature Resh Tiberian
+    - line 37: Did not expect element head there
+    - line 37: Element div has extra content: head
+    - line 54: Did not expect element p there
+- INVALID: 07a.22 - Syntactic Semantic Structure
+    - not well-formed: Opening and ending tag mismatch: foreign line 170 and emph, line 170, column 1610 (transcription_tei.xml, line 170)
+- INVALID: 07a.23 - Nesigah History Masorah
+    - line 34: Did not expect element docTitle there
+- INVALID: 07a.24 - Battle Benjamin Jud
+    - line 33: Did not expect element head there
+- valid: 07a.25 - Stress Waw Consecutive
+- valid: 07a.27 - Lxx Mt Aspects
+- INVALID: 07a.29 - Vowelling I Type
+    - not well-formed: Entity 'sect' not defined, line 119, column 169 (transcription_tei.xml, line 119)
+- INVALID: 07a.31 - Stress Position Hebrew
+    - line 49: Did not expect element head there
+- INVALID: 07a.34 - Obed Deut 26
+    - line 34: Did not expect element head there
+- INVALID: 07a.38 - Dehiq Exceptions Masoretic
+    - line 90: Did not expect element head there
+- INVALID: 07a.39 - Articles Emendations Scribes
+    - not well-formed: EntityRef: expecting ';', line 137, column 16 (transcription_tei.xml, line 137)
+- valid: 07a.41 - Language Interpretation 1
+- INVALID: 07a.42 - Development Segol Open
+    - line 74: Did not expect element head there
+- INVALID: 07a.43 - Conditional Particles Biblical
+    - line 43: Did not expect element head there
+- INVALID: 07a.44 - Concord Collectives Biblical
+    - not well-formed: error parsing attribute name, line 90, column 412 (transcription_tei.xml, line 90)
+- INVALID: 07a.45 - Concord Compound Subjects
+    - not well-formed: error parsing attribute name, line 47, column 95 (transcription_tei.xml, line 47)
+- INVALID: 07a.46 - Gentilics Geography Studies
+    - line 31: Did not expect element head there
+- INVALID: 07a.47 - Reading Tradition Basis
+    - not well-formed: Opening and ending tag mismatch: and line 57 and p, line 57, column 111 (transcription_tei.xml, line 57)
+- INVALID: 07a.48 - Ny Nky Redundancy
+    - line 33: Did not expect element head there
+- INVALID: 07a.49 - Interpretative Significance Masoretic
+    - not well-formed: xmlParseEntityRef: no name, line 37, column 35 (transcription_tei.xml, line 37)
+- INVALID: 07a.50 - Leningrad Codex Representative
+    - not well-formed: StartTag: invalid element name, line 78, column 46 (transcription_tei.xml, line 78)
+- INVALID: 07a.51 - Repetition Introductions Speech
+    - line 42: Did not expect element head there
+- INVALID: 07a.52 - Thematic Continuity Conditioning
+    - line 33: Did not expect element head there
+- INVALID: 07a.53 - Midian and Ishmael
+    - line 286: Did not expect element head there

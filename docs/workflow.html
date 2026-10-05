@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workflow | Revell Digital Corpus</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --font-heading: 'Merriweather', serif;
+            --font-body: 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1><a href="index.html">Revell Digital Corpus</a></h1>
+            <p>A TEI Edition of Ernest John Revell’s Collected Essays</p>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="catalogue.html">Catalogue</a></li>
+                    <li><a href="articles.html">Articles</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="biography.html">Biography</a></li>
+                    <li><a href="search.html">Search</a></li>
+                    <li><a href="workflow.html">Workflow</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+<h2>Project workflow</h2>
+<p>The Revell Digital Corpus is produced by student research assistants, following the pipeline set out in the
+Fr. Ed Gatto Chair proposal (2026). This page documents it so that future students can continue and reuse the work.
+The scripts live in the project repository's <code>scripts/</code> folder.</p>
+<ol>
+<li><strong>Inventory and metadata.</strong> Each item has an ID from Revell's own bibliography (07a = articles,
+07b = books, 08 = book reviews), recorded in <code>metadata/bibliography.json</code>. <code>build_records.py</code>
+turns it into <code>metadata/records.json</code>, the item-level record shown on the <a href="catalogue.html">catalogue</a>.</li>
+<li><strong>Rights review.</strong> For each item, record the publisher or rights holder, its policy, and any
+permission request in the item's <code>rights_*</code> fields of <code>records.json</code>. Status values:
+<em>pending</em>, <em>open</em>, <em>permission granted</em>, <em>restricted</em>. A restricted item needs a
+<code>summary</code>. The site then shows the record and summary instead of the text, and the scans stay internal.</li>
+<li><strong>Archival scanning.</strong> Offprints are scanned at 400 dpi into <code>scans/</code>, then split and cropped
+per article into <code>07a Articles/&lt;ID&gt; - &lt;short title&gt;/</code>.</li>
+<li><strong>OCR and correction.</strong> AI-assisted OCR produces <code>transcription.md</code>. The student proofreads it
+against the facsimile, with particular care for Hebrew vowel points and Masoretic accents.</li>
+<li><strong>TEI encoding.</strong> <code>md_to_tei.py</code> wraps the corrected text in TEI P5: page breaks
+(<code>&lt;pb/&gt;</code>), headings, notes, italics, and Hebrew marked as <code>&lt;foreign xml:lang="he"&gt;</code>.
+<code>build_records.py</code> writes the bibliographic and rights record into the <code>teiHeader</code>.</li>
+<li><strong>Validation.</strong> <code>validate_tei.py</code> checks every file against the TEI P5 schema
+(<code>tei_all.rng</code>) and writes <code>reports/tei_validation.md</code>. Fix every error before publishing.</li>
+<li><strong>Publication.</strong> Run <code>generate_site.py</code>, then <code>build_records.py</code>, then
+<code>build_search.py</code>. Commit <code>docs/</code>, which GitHub Pages serves.</li>
+</ol>
+</section>
+        <footer>
+            <p><small>Generated on 2026-10-05 &mdash; Static Site</small></p>
+        </footer>
+    </div>
+</body>
+</html>

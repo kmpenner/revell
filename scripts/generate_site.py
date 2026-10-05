@@ -1,5 +1,10 @@
 import os
+import sys as _sys, os as _os
+# scripts/markdown.py shadows the Python-Markdown library; import the real one.
+_here = _os.path.dirname(_os.path.abspath(__file__))
+_sys.path = [p for p in _sys.path if _os.path.abspath(p or '.') != _here]
 import markdown
+_sys.path.insert(0, _here)
 import shutil
 import glob
 import re
@@ -267,6 +272,7 @@ BASE_TEMPLATE = """<!DOCTYPE html>
                     <li><a href="{root_path}articles.html">Articles</a></li>
                     <li><a href="{root_path}books.html">Books</a></li>
                     <li><a href="{root_path}biography.html">Biography</a></li>
+                    <li><a href="{root_path}search.html">Search</a></li>
                 </ul>
             </nav>
         </header>
@@ -349,6 +355,14 @@ def convert_md_to_html(md_path):
     with open(md_path, 'r', encoding='utf-8') as f:
         text = f.read()
 
+    # Strip Jekyll-style front matter (the meta extension misses it after a leading blank line)
+    front = {}
+    m = re.match(r'\s*---\s*\n(.*?)\n---\s*\n', text, re.S)
+    if m:
+        front = dict(l.split(':', 1) for l in m.group(1).splitlines() if ':' in l)
+        front = {k.strip(): v.strip() for k, v in front.items()}
+        text = text[m.end():]
+
     md = markdown.Markdown(extensions=['meta', 'fenced_code', 'tables'])
     html_content = md.convert(text)
 
@@ -357,6 +371,7 @@ def convert_md_to_html(md_path):
 
     meta = md.Meta if hasattr(md, 'Meta') else {}
     flattened_meta = {k: v[0] if isinstance(v, list) and v else "" for k, v in meta.items()}
+    flattened_meta.update(front)
 
     return html_content, flattened_meta
 
