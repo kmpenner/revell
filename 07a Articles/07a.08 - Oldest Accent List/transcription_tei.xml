@@ -3,7 +3,7 @@
       <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p</title>
+        <title>The Oldest Accent List in the Diqduqe ha-Te&#x27;amim</title>
         <author>Ernest John Revell</author>
         <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
       </titleStmt>
@@ -17,8 +17,8 @@
       <sourceDesc>
         <bibl type="original">
           <author>E. J. Revell</author>
-          <title level="a">&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p</title>
-          <title level="j">&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p. 138-159.</title>
+          <title level="a">The Oldest Accent List in the Diqduqe ha-Te&#x27;amim</title>
+          <title level="j">Textus 8 (1973), p. 138-159.</title>
           <date>1973</date>
           <biblScope unit="page">138-159</biblScope>
         </bibl>
