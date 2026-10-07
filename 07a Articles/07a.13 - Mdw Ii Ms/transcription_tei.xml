@@ -3,46 +3,27 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>MdW II, MS M, and other Palestinian MSS with defective Accentuation</title>
-        <author>
-          <persName>
-            <forename>E.</forename>
-            <forename>J.</forename>
-            <surname>Revell</surname>
-          </persName>
-        </author>
+        <title>Mdw II, MS M, and other Palestinian MSS with Defective Accentuation</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>Society of Biblical Literature</publisher>
-        <date when="1974">1974</date>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.13</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <biblStruct>
-          <analytic>
-            <title level="a">MdW II, MS M, and other Palestinian MSS with defective Accentuation</title>
-            <author>
-              <persName>
-                <forename>E.</forename>
-                <forename>J.</forename>
-                <surname>Revell</surname>
-              </persName>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Masoretic Studies</title>
-            <imprint>
-              <publisher>Society of Biblical Literature</publisher>
-              <date>1974</date>
-              <biblScope unit="volume">I</biblScope>
-              <biblScope unit="page" from="149" to="157">149-157</biblScope>
-            </imprint>
-          </monogr>
-        </biblStruct>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Mdw II, MS M, and other Palestinian MSS with Defective Accentuation</title>
+          <title level="j">Masoretic Studies I (1974), p. 149-157.</title>
+          <date>1974</date>
+          <biblScope unit="page">149-157</biblScope>
+        </bibl>
       </sourceDesc>
     </fileDesc>
-    <notesStmt>
-      <note type="filename">65220426660005163.pdf</note>
-    </notesStmt>
   </teiHeader>
   <text>
     <body>

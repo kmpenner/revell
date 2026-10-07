@@ -1,44 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>A Note on Papyrus 967</title>
-      <author>
-        <forename>E.</forename>
-        <forename>J.</forename>
-        <surname>Revell</surname>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Unspecified</publisher>
-      <date when="1976">1976</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>A Note on Papyrus 967</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.16</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">A Note on Papyrus 967</title>
-          <author>
-            <forename>E.</forename>
-            <forename>J.</forename>
-            <surname>Revell</surname>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Studia Papyrologica</title>
-          <imprint>
-            <biblScope unit="volume">15</biblScope>
-            <date when="1976">1976</date>
-            <biblScope unit="page" from="131" to="136">131-136</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <encodingDesc>
-    <p>Encoded based on the file 07a.16_A_Note_on_Papyrus_967.pdf</p>
-  </encodingDesc>
-</teiHeader>
+          <title level="j">Studia Papyrologica 15 (1976), p. 131-136.</title>
+          <date>1976</date>
+          <biblScope unit="page">131-136</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>

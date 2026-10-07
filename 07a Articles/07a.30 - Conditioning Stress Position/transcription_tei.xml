@@ -1,46 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>The Conditioning of Stress Position in Waw Consecutive Perfect Forms in Biblical Hebrew</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>The Ohio State University</publisher>
-      <date when="1985">1985</date>
-      <idno type="filename">07a.30_The_Conditioning_of_Stress_Position_in_Waw_Consecutive_Perfect_Forms_in_Biblical_Hebrew_part1.pdf</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>The Conditioning of Stress Position in Waw Consecutive Perfect Forms in Biblical Hebrew</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.30</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">The Conditioning of Stress Position in Waw Consecutive Perfect Forms in Biblical Hebrew</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Hebrew Annual Review</title>
-          <imprint>
-            <date when="1985">1985</date>
-            <biblScope unit="volume">9</biblScope>
-            <biblScope unit="page" from="277" to="300">277-300</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
+          <title level="j">Hebrew Annual Review 9, 1985, p. 277-300.</title>
+          <date>1985</date>
+          <biblScope unit="page">277-300</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -170,7 +154,7 @@ Stress is PENULTIMATE
 <list>
 <item>(a) in a two-word clause, stress is penultimate in <foreign xml:lang="he">wahănîḥōtî lāk</foreign> (Exod 33:14) where the clause is not closely related to what follows (see #16.1).</item>
 <item>In a clause of three or more constituents which includes an object,
-(b) where the second constituent is the object, stress is FINAL in <foreign xml:lang="he">wahărēmōtā</foreign> (Num 31:28), PENULTIMATE in <foreign xml:lang="he">wehēbētî</foreign> (Lev 26:36), <foreign xml:lang="he">wehitwîtā</foreign> (Ezek 9:4), <foreign xml:lang="he">wezērîtî</foreign> (Mal 2:3). Forms with a closed penultimate generally show penultimate stress in this situation, see #16.2a. Where final stress is shown, the third constituent is a one-word prepositional element which could have been treated as modifying the one-word object, as “the Lord’s due” (<foreign xml:lang="he">mekes laYHWH</foreign> Num 31:28), or a “sheaf not in-gathered” (<foreign xml:lang="he">ʿōmer baśśāde</foreign> Deut 24:19, see #16.2a). <hi rend="italic">Nesîgā</hi> and similar phenomena are unlikely to occur before a two-word phrase of this sort (cf. <foreign xml:lang="he">wenātaatî</hi> Lev 14:34).</item>
+(b) where the second constituent is the object, stress is FINAL in <foreign xml:lang="he">wahărēmōtā</foreign> (Num 31:28), PENULTIMATE in <foreign xml:lang="he">wehēbētî</foreign> (Lev 26:36), <foreign xml:lang="he">wehitwîtā</foreign> (Ezek 9:4), <foreign xml:lang="he">wezērîtî</foreign> (Mal 2:3). Forms with a closed penultimate generally show penultimate stress in this situation, see #16.2a. Where final stress is shown, the third constituent is a one-word prepositional element which could have been treated as modifying the one-word object, as “the Lord’s due” (<foreign xml:lang="he">mekes laYHWH</foreign> Num 31:28), or a “sheaf not in-gathered” (<foreign xml:lang="he">ʿōmer baśśāde</foreign> Deut 24:19, see #16.2a). <hi rend="italic">Nesîgā</hi> and similar phenomena are unlikely to occur before a two-word phrase of this sort (cf. <foreign xml:lang="he">wenātaatî</foreign> Lev 14:34).</item>
 <item>(c) where the third constituent is the object, stress is FINAL in <foreign xml:lang="he">ûmillētā</foreign> (Exod 28:17), <foreign xml:lang="he">wahăqîmōtî</foreign> (1 Sam 2:35, Ezek 16:60). In Ezek 16:60, the clause is short, and closely related to what follows, so that final stress is expected under #16.2b. In the other two cases the clause is long, but in both, the object, or its first element, ends at the main (accentual) division of an <hi rend="italic">atnāḥ</hi> unit. Possibly, then, a division at this point equivalent to that at the end of a short clause was caused by the rhythmic factor (see #10, and the note on Exod 30:26 in #15.4a).</item>
 <item>(d) where the object is the fourth constituent, stress is FINAL in <foreign xml:lang="he">wehēbētā</foreign> (Exod 26:33).</item>
 <item>(e) where no object constituent is present, stress is PENULTIMATE in <foreign xml:lang="he">ûneqallōtî</foreign> (2 Sam 6:22—despite the following <foreign xml:lang="he">ʿayin</foreign>, see #19) and <foreign xml:lang="he">wahănîḥōtî</foreign> (1 Chr 22:9).</item>
@@ -230,7 +214,7 @@ to the conditioning of stress position. The most recent study (Artom, 1958) invo
 
 <p>25.3 The fact that the rhythmic factor appears to condition the stressing of these forms in the same way, whether the penultimate syllable is closed or open, supports the conclusion reached in #18.6, #25.1, that the basic conditioning was the same for all forms. This is the conditioning by the intonation patterns characteristic of the speech units into which the text was divided. The effect of these intonation patterns is, however, modified by the structure of the verb forms, and, in some cases, by other factors.</p>
 
-<p>26.1 The factors conducive to final stressing have less effect where the penultimate syllable is open than where it is closed, and least effect of all
+<p>26.1 The factors conducive to final stressing have less effect where the penultimate syllable is open than where it is closed, and least effect of all</p>
       <pb n="299"/>
 <head>WAW CONSECUTIVE PERFECT FORMS 299</head>
 

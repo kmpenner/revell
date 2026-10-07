@@ -1,52 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>A New subsystem of Tibero-Palestinian Vocalization</title>
-      <author>E. J. Revell</author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>World Union of Jewish Studies</publisher>
-      <date when="1973">1973</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>A New subsystem of Tibero-Palestinian Vocalization</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.10</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">A New subsystem of Tibero-Palestinian Vocalization</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="m">Proceedings of the 5th World Congress of Jewish Studies</title>
-          <imprint>
-            <date>1973</date>
-            <biblScope unit="volume">iv</biblScope>
-            <biblScope unit="page">91-107</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <encodingDesc>
-    <projectDesc>
-      <p>Encoded for scholarly use.</p>
-    </projectDesc>
-  </encodingDesc>
-  <profileDesc>
-    <langUsage>
-      <language ident="en">English</language>
-    </langUsage>
-  </profileDesc>
-  <revisionDesc>
-    <change when="2023-10-27">Initial TEI header creation based on citation.</change>
-  </revisionDesc>
-</teiHeader>
+          <title level="j">Proceedings of the 5th World Congress of Jewish Studies, vol. iv (1973), p. 91-107.</title>
+          <date>1973</date>
+          <biblScope unit="page">91-107</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -99,7 +77,7 @@
 </list>
 <p>the pause before the <emph rend="italic">"zaqef"</emph> sign, and a sign like <emph rend="italic">munah</emph>, but also quite similar in shape to the sign used in the MSS described here for <emph rend="italic">atnah</emph> and <emph rend="italic">tifha</emph>, to mark the last pause before the end of a paragraph. There can be no doubt, I think, that these Rabbinic MSS derive from the same "school of pointing" as the Biblical texts described here. They cannot, therefore, throw any light on the origins of the diagonal stroke as a sign for <emph rend="italic">zaqef</emph>. In <hi rend="smallcaps">Yeivin</hi>'s MS No. 2 (TS E1:107 and E2:76, which have Palestinian vowel signs) this <emph rend="italic">"zaqef"</emph> sign is used with the same value as in No. 4-No. 9, but the other accent signs are different. It is noteworthy that the "Palestinian <emph rend="italic">pashta</emph>" sign is not used in these two <emph rend="italic">mishnaic</emph> texts, although it is used in all Palestinian Biblical texts. This emphasizes the fact that the system of accentuation used in these Rabbinic texts is quite different from that of Biblical texts, so it is probably wrong to equate the musical or interpunctional value of signs used in both types of text. <emph rend="italic">Cf.</emph> the use of different words (<emph rend="italic">ne&lt;imah</emph> and <emph rend="italic">zimrah</emph>) to describe the chanting of the two types of text in Megilla 32a. The prepositive diagonal stroke is used in some of the other texts described by <hi rend="smallcaps">Yeivin</hi>, but with a value different from that described above.</p>
 <list>
-    <item>15. TS NS 287:38 frequently uses a <emph rend="italic">maqqef</emph> sign on the same word as the <emph rend="italic">munah</emph> sign, but apparently only when the word is not contextualized in a quotation, so I assume it is not a normal part of the system. This MS also contains a few examples of accentuation from the "Poetical" books, showing the same mixed relations as those discussed above. The sign for <emph rend="italic">sinnor</emph> is Tiberian, that for <emph rend="italic">rebia mugrash</hi> Palestinian. The Tiberian, that for <emph rend="italic">rebia mugrash</emph> Palestinian. The Tiberian <emph rend="italic">tebir</emph> sign is used for <emph rend="italic">dehi</emph> as in the so-called "ben Naftali" texts (see <hi rend="smallcaps">Díez-Macho</hi> in <emph rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver</emph>, Oxford, 1963, p. 23). (Palestinian texts also use their <emph rend="italic">tebir</emph> sign where BH³ has <emph rend="italic">dehi</emph>.) The signs used for <emph rend="italic">rebia</emph>, <emph rend="italic">azla legarmeh</emph>, and <emph rend="italic">mehuppak legarmeh</emph> are, as far as I know, without parallel in those uses.</item>
+    <item>15. TS NS 287:38 frequently uses a <emph rend="italic">maqqef</emph> sign on the same word as the <emph rend="italic">munah</emph> sign, but apparently only when the word is not contextualized in a quotation, so I assume it is not a normal part of the system. This MS also contains a few examples of accentuation from the "Poetical" books, showing the same mixed relations as those discussed above. The sign for <emph rend="italic">sinnor</emph> is Tiberian, that for <emph rend="italic">rebia mugrash</emph> Palestinian. The Tiberian <emph rend="italic">tebir</emph> sign is used for <emph rend="italic">dehi</emph> as in the so-called "ben Naftali" texts (see <hi rend="smallcaps">Díez-Macho</hi> in <emph rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver</emph>, Oxford, 1963, p. 23). (Palestinian texts also use their <emph rend="italic">tebir</emph> sign where BH³ has <emph rend="italic">dehi</emph>.) The signs used for <emph rend="italic">rebia</emph>, <emph rend="italic">azla legarmeh</emph>, and <emph rend="italic">mehuppak legarmeh</emph> are, as far as I know, without parallel in those uses.</item>
     <item>16. This is apparent from the fact that the original variants have often been corrected by the pointing hand. Given the pointing system used, this cannot be "harmonization" with bA against the tradition from which the texts derive. This lack of control shows even in the massoretic list of NS 287:38 v11, where, above the entry listing two occurrences of <emph rend="italic">whqrwb</emph>, is a note, again apparently by the pointing hand, that one is spelled defectively (Est. 1:14). The most interesting of the variants is the writing of "Nebuchadnezzar" as two words in Misc. 22:304 (Ezra 1:7, 2:1), and also "Sheshbazzar" (Ezra 1:8), but this is accented (with the prepositive <emph rend="italic">zaqef</emph> sign on the first <emph rend="italic">shin</emph>) as one word.</item>
 </list>
       <pb n="95"/>
@@ -141,7 +119,7 @@ The marking of accents in our texts is mostly done by signs used either in the T
       <pb n="100"/>
 <head>100 ELIZABETH REVELL</head>
 <p>influence,” than is found in the fragments discussed here.<note n="33">These fragments, then, would appear to stand in a line of development between the “ben Naftali” texts as described by Diez Macho, and the sources of the peculiarities which distinguish them from other Tiberian texts. They can therefore be described as examples of the earliest stage yet known of the so-called “ben Naftali” tradition.</note></p>
-<p>14. If this identification is correct, the date of these MSS is of considerable interest. Various features of the Fragments suggest great age. Their generally poor physical condition and badly faded ink make them look older than most of the Palestinian fragments. However the accidents of preservation, and the composition of the ink must be allowed for.<note n="34">The shapes of the pages are rather surprising, as the width is usually equal to, or greater than, the height, whereas in both Palestinian and Tiberian MSS, the height is usually greater. With this format, it is even more surprising that the text of the fragments is not normally divided into columns.</note><note n="35">The script of the fragments, where clearly visible, seems fairly homogeneous.</note><note n="36">It is a freely written, neat, small, non-ornate square script of a Palestinian type. It is quite similar to that of TS D1:12, (dated by Weil c. 700,<note n="37">but in my opinion somewhat later), and somewhat similar to that of MS ENA 2118 of the Jewish Theological Seminary of America (dated by Murtonen c. 900).</note><note n="38">The fragments are possibly to be dated, then, to the beginning of the ninth century.</note></p>
+<p>14. If this identification is correct, the date of these MSS is of considerable interest. Various features of the Fragments suggest great age. Their generally poor physical condition and badly faded ink make them look older than most of the Palestinian fragments. However the accidents of preservation, and the composition of the ink must be allowed for.<note n="34">The shapes of the pages are rather surprising, as the width is usually equal to, or greater than, the height, whereas in both Palestinian and Tiberian MSS, the height is usually greater. With this format, it is even more surprising that the text of the fragments is not normally divided into columns.</note><note n="35">The script of the fragments, where clearly visible, seems fairly homogeneous.</note><note n="36">It is a freely written, neat, small, non-ornate square script of a Palestinian type. It is quite similar to that of TS D1:12, (dated by Weil c. 700,<note n="37">but in my opinion somewhat later), and somewhat similar to that of MS ENA 2118 of the Jewish Theological Seminary of America (dated by Murtonen c. 900).</note></note><note n="38">The fragments are possibly to be dated, then, to the beginning of the ninth century.</note></p>
 <note n="33">The main features present here, but not in the “ben Naftali” texts are (i) Palestinian: the extra “o” sign, the <hi rend="italic">pashṭa</hi> sign, and the very simple system of accentuation. (ii) “Third influence”: the signs for <hi rend="italic">zaqef, rebia, tifḥa</hi>, and <hi rend="italic">geresh</hi>, and the use of the <hi rend="italic">shewa</hi> sign. All features but this last are assimilated to ben Asher in the texts listed by DÍEZ-MACHO (<hi rend="italic">op. cit.</hi> see note 15). However features deriving from the “third influence” are retained, at least in some “ben Naftali” MSS. These are the marking of <hi rend="italic">shin</hi> by an internal dot, the use of <hi rend="italic">tebir</hi> for <hi rend="italic">deḥi</hi> in the accentuation of the “poetic” books (Palestinian texts also use the same sign — 2 dots below the word — in both positions), and the extensive use of <hi rend="italic">dagesh</hi> and <hi rend="italic">rafe</hi> on all consonants. This last feature (the distinctive characteristic of “ben Naftali” texts, see MORAG, <hi rend="italic">Leshonenu</hi> 29, 1965, p. 208), is much more marked in later texts than in the fragments discussed here, but, the development of the usage can be observed in the later texts, which shows that the chronology suggested here is correct. See DÍEZ-MACHO (<hi rend="italic">op. cit.</hi> see note 15) p. 18–19,</note>
 <note n="34">The inks of Geniza MSS which now appear red-brown or olive-brown seem, in general, to have faded much more than those which appear dark brown or black.</note>
 <note n="35">NS 53:1 was certainly written in two or three columns, but is unique in this respect. Palestinian Biblical codices were usually written in two or three columns.</note>

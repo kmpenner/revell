@@ -4,13 +4,25 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcription of 07a.11.pdf</title>
+        <title>The Relation of the Palestinian Massora to the Tiberian</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
       </titleStmt>
       <publicationStmt>
-        <p>Digitized as part of the Revell Digital Corpus Project.</p>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.11</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Original PDF: 07a.11.pdf</p>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Relation of the Palestinian Massora to the Tiberian</title>
+          <title level="j">Masoretic Studies 1 (1974), p. 87-97.</title>
+          <date>1974</date>
+          <biblScope unit="page">87-97</biblScope>
+        </bibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>

@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Stress and the Waw 'Consecutive' in Biblical Hebrew</title>
-                <author>
-                    <persName>
-                        <forename>E.</forename>
-                        <forename>J.</forename>
-                        <surname>Revell</surname>
-                    </persName>
-                </author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>American Oriental Society</publisher>
-                <date when="1984">1984</date>
-            </publicationStmt>
-            <notesStmt>
-                <note type="filename">07a.25_Stress_and_the_Waw_Consecutive_in_Biblical_Hebrew.pdf</note>
-            </notesStmt>
-            <sourceDesc>
-                <biblStruct>
-                    <analytic>
-                        <title level="a">Stress and the Waw 'Consecutive' in Biblical Hebrew</title>
-                        <author>
-                            <persName>
-                                <forename>E.</forename>
-                                <forename>J.</forename>
-                                <surname>Revell</surname>
-                            </persName>
-                        </author>
-                    </analytic>
-                    <monogr>
-                        <title level="j">Journal of the American Oriental Society</title>
-                        <imprint>
-                            <biblScope unit="volume">104</biblScope>
-                            <biblScope unit="page" from="437" to="444">437-444</biblScope>
-                            <date when="1984">1984</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stress and the Waw &#x27;Consecutive&#x27; in Biblical Hebrew</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.25</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Stress and the Waw &#x27;Consecutive&#x27; in Biblical Hebrew</title>
+          <title level="j">Journal of the American Oriental Society 104 (1984), p. 437-444.</title>
+          <date>1984</date>
+          <biblScope unit="page">437-444</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <front>
             <titlePage>

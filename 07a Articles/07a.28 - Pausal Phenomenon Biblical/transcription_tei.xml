@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Pausal Phenomenon and the Biblical Tradition in Texts with Palestinian Pointing</title>
-      <author>
-        <persName>E. J. Revell</persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Ediciones Cristiandad</publisher>
-      <pubPlace>Madrid</pubPlace>
-      <date when="1986">1986</date>
-      <idno type="filename">07a.28.pdf</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Pausal Phenomenon and the Biblical Tradition in Texts with Palestinian Pointing</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.28</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Pausal Phenomenon and the Biblical Tradition in Texts with Palestinian Pointing</title>
-          <author>
-            <persName>E. J. Revell</persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="m">Targum, Derash, Berith: In Memoriam del Prof. Alejandro Diez Macho</title>
-          <editor>
-            <persName>D. Muñoz León</persName>
-          </editor>
-          <imprint>
-            <pubPlace>Madrid</pubPlace>
-            <publisher>Ediciones Cristiandad</publisher>
-            <date>1986</date>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
+          <title level="j">Targum, Derash, Berith&quot;: In Memoriam del Prof. Alejandro Diez Macho, ed. D. Munoz Leon. Madrid 1986.</title>
+          <date>1986</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb n="16"/>
@@ -316,7 +303,7 @@
 
 <p>Here the <hi rend="italic">yaqtula</hi> form <hi rend="italic">yu-wa-ši-ra</hi> is preceded by <hi rend="italic">ša-ni-tam</hi>. According to Rainey, however, <hi rend="italic">ša-ni-tam</hi> is an adverb which stands “outside the normal sentence structure of the text. It forms a sort of heading for any new paragraph or subject.”<note n="71">A. F. Rainey, “Canaanite in the Amarna Tablets,” 3:181.</note> An example used by both Moran and Rainey to demonstrate the use of <hi rend="italic">yaqtulu</hi> is EA 104:17–36:</p>
 
-<p rend="indent"><hi rend="italic">mi-ia-mi</hi> / DUMU.MEŠ ÌR-A-ši-ir-ta / ÌR UR.GI<sub rend="subscript">7</sub> LUGAL/ KUR<hi rend="italic">Ka-aš-ši ù</hi> LUGAL KUR<hi rend="italic">Mi-ta-ni šu-nu</hi> / <hi rend="italic">ù ti-ìl-qú-na</hi> / KUR <hi rend="italic">šàr-ri a-na</hi> / <hi rend="italic">ša-šu-nu pa-na-nu / ti-ì[l-q]ú[-n]a</hi> URU.MEŠ / <hi rend="italic">ḫa-za-ni-ka ù qa-la-ta</hi> / <hi rend="italic">an-nu-ú i-na-na du-bi-r[u]</hi> / LÚ.MAŠKÍM-<hi rend="italic">ka ù la-qú</hi> / URU.MEŠ-<hi rend="italic">šu a-na ša-šu-nu a-nu-ma la-qú</hi> URU<hi rend="italic">Ul-la-sà</hi> / <hi rend="italic">šum-ma ki-a-ma qa-la-ta</hi> / <hi rend="italic">adi ti-ìl-qú-na</hi> / URU<hi rend="italic">Ṣu-mu-ra ù</hi> / ><hi rend="italic">ù</hi>< <hi rend="italic">ti-du-ku-na</hi> LÚ.MAŠKÍM / <hi rend="italic">ù</hi> ERÍN.MEŠ <hi rend="italic">til</hi>!(BI)-<hi rend="italic">la-ti</hi> / <hi rend="italic">ša i-na Ṣu-mu-ra</hi></p>
+<p rend="indent"><hi rend="italic">mi-ia-mi</hi> / DUMU.MEŠ ÌR-A-ši-ir-ta / ÌR UR.GI&lt;sub rend="subscript"&gt;7&lt;/sub&gt; LUGAL/ KUR<hi rend="italic">Ka-aš-ši ù</hi> LUGAL KUR<hi rend="italic">Mi-ta-ni šu-nu</hi> / <hi rend="italic">ù ti-ìl-qú-na</hi> / KUR <hi rend="italic">šàr-ri a-na</hi> / <hi rend="italic">ša-šu-nu pa-na-nu / ti-ì[l-q]ú[-n]a</hi> URU.MEŠ / <hi rend="italic">ḫa-za-ni-ka ù qa-la-ta</hi> / <hi rend="italic">an-nu-ú i-na-na du-bi-r[u]</hi> / LÚ.MAŠKÍM-<hi rend="italic">ka ù la-qú</hi> / URU.MEŠ-<hi rend="italic">šu a-na ša-šu-nu a-nu-ma la-qú</hi> URU<hi rend="italic">Ul-la-sà</hi> / <hi rend="italic">šum-ma ki-a-ma qa-la-ta</hi> / <hi rend="italic">adi ti-ìl-qú-na</hi> / URU<hi rend="italic">Ṣu-mu-ra ù</hi> / &gt;<hi rend="italic">ù</hi>&lt; <hi rend="italic">ti-du-ku-na</hi> LÚ.MAŠKÍM / <hi rend="italic">ù</hi> ERÍN.MEŠ <hi rend="italic">til</hi>!(BI)-<hi rend="italic">la-ti</hi> / <hi rend="italic">ša i-na Ṣu-mu-ra</hi></p>
 
 <p rend="indent">Who are the sons of ‘Abdi-Ashirta, the slave, the dog? Are they the king of the Cassites and the king of Mitanni that they take the land of the king for themselves? Previously, they were taking over the towns of the city rulers, and you kept silent. Behold, now they have expelled your commissioner and have taken your towns for themselves. Behold, they have taken Ullasa. If you thus remain silent, they will take Ṣumur in addition and they will kill the commissioner and the auxiliary troops who are in Ṣumur.<note n="72">Text and translation from A. F. Rainey, “Canaanite in the Amarna Tablets,” vol. 2, p. 33.</note></p>
 

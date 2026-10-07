@@ -1,56 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>The Nature of Resh in Tiberian Hebrew</title>
-      <author>
-        <forename>E.</forename>
-        <forename>J.</forename>
-        <surname>Revell</surname>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Association for Jewish Studies</publisher>
-      <date when="1981">1981</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>The Nature of Resh in Tiberian Hebrew</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.21</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">The Nature of Resh in Tiberian Hebrew</title>
-          <author>
-            <forename>E.</forename>
-            <forename>J.</forename>
-            <surname>Revell</surname>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Association of Jewish Studies Review</title>
-          <imprint>
-            <biblScope unit="volume">VI</biblScope>
-            <date when="1981">1981</date>
-            <biblScope unit="page" from="125" to="136">125-136</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note type="filename">07a.21_The_Nature_of_Resh_in_Tiberian_Hebrew.pdf</note>
-  </notesStmt>
-</teiHeader>
+          <title level="j">Association of Jewish Studies Review VI (1981), p. 125-136.</title>
+          <date>1981</date>
+          <biblScope unit="page">125-136</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
 
-<div type="titlePage">
+
   <p rend="align(center)">
     <hi rend="underline">AN OFFPRINT FROM</hi>
   </p>
   
-  <head rend="align(center) size(large)">
+  <p rend="align(center) size(large)">
     <hi rend="bold">AJSreview</hi>
-  </head>
+  </p>
   
   <p rend="align(center)">
     VOLUME SIX
@@ -63,7 +49,6 @@
     <lb/>
     CAMBRIDGE, MASSACHUSETTS
   </p>
-</div>
       <pb n="Cover"/>
 <p>
   <!-- The image provided is almost entirely black and appears to be a scan of a dark book cover or a blank page. No legible text is visible to transcribe. -->

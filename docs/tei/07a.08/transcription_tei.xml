@@ -1,56 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader>
-            <fileDesc>
-                  <titleStmt>
-                        <title>The Oldest Accent List in the Diqduqe ha-Te'amim</title>
-                        <author>
-                              <persName>E. J. Revell</persName>
-                        </author>
-                  </titleStmt>
-                  <publicationStmt>
-                        <publisher>The Magnes Press, The Hebrew University of Jerusalem</publisher>
-                        <date when="1973">1973</date>
-                  </publicationStmt>
-                  <sourceDesc>
-                        <biblStruct>
-                              <analytic>
-                                    <title level="a">The Oldest Accent List in the Diqduqe
-                                          ha-Te'amim</title>
-                                    <author>
-                                          <persName>E. J. Revell</persName>
-                                    </author>
-                              </analytic>
-                              <monogr>
-                                    <title level="j">Textus</title>
-                                    <imprint>
-                                          <biblScope unit="volume">8</biblScope>
-                                          <date when="1973">1973</date>
-                                          <biblScope unit="page" from="138" to="159">138-159</biblScope>
-                                    </imprint>
-                              </monogr>
-                        </biblStruct>
-                  </sourceDesc>
-            </fileDesc>
-            <notesStmt>
-                  <note type="filename">07a.08_The_Oldest_Accent_List_in_the_Diqduqe_ha-Te'amim.pdf</note>
-            </notesStmt>
-      </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.08</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p</title>
+          <title level="j">&quot;The Oldest Accent List in the Diqduqe ha-Te&#x27;amim, Textus 8 (1973), p. 138-159.</title>
+          <date>1973</date>
+          <biblScope unit="page">138-159</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
       <text>
             <body>
                   <pb />
-                  <div type="titlePage">
+                  
                         <note place="top-right" resp="hand">Bib ⑧</note>
                         <p rend="italic">Reprint from</p>
-                        <head>TEXTUS</head>
+                        <p rend="bold">TEXTUS</p>
                         <p>ANNUAL OF THE HEBREW UNIVERSITY BIBLE PROJECT</p>
                         <p>VOLUME VIII</p>
-                        <docDate>1973</docDate>
-                        <docImprint>
-                              <pubPlace>JERUSALEM</pubPlace>
-                              <publisher>AT THE MAGNES PRESS, THE HEBREW UNIVERSITY</publisher>
-                        </docImprint>
-                  </div>
+                        <p rend="date">1973</p>
+                        <p rend="imprint">JERUSALEM: AT THE MAGNES PRESS, THE HEBREW UNIVERSITY</p>
                   <pb />
                   <figure rend="all-black">
                         <figDesc>An entirely black or obscured page, likely representing a blank
@@ -220,13 +205,13 @@
                         system of abbreviated writing ingeniously designed to present the maximum
                         information in the minimum space. Its main purpose was clearly to indicate
                         the accent system of the text, but, in spite of this, many accents are not
-                        marked.<note n="11">Similarly, the writing system was gradually refined by
+                        marked.<note n="11"/>Similarly, the writing system was gradually refined by
                         the addition of new accent signs, even though it is certain that no major
                         changes in the melodies occurred. The new signs were simply intended to give
                         a more exact indication of the relation between words and music than had
                         been possible before. Thus the sign zaqef gadol merely designates a variant
                         form of the zaqef motif which some accent systems do not bother to
-                        distinguish in writing.<note n="12">In the <hi rend="italic">Sha‘ar
+                        distinguish in writing.<note n="12"/>In the <hi rend="italic">Sha‘ar
                         haṬe‘amim</hi>, however, the two forms of zaqef are separated: <hi
                               rend="italic">zaqef</hi> is listed in line 8 among the <hi
                               rend="italic">ṭe‘amim</hi>, and <hi rend="italic">zaqef
@@ -240,10 +225,10 @@
                         accents in the <hi rend="italic">Sha‘ar haṬe‘amim</hi> as having a general
                         meaning. The term <hi rend="italic">ṭa‘am</hi> as applied to the list of
                         twelve accents must mean simply “accent” — either disjunctive or
-                        conjunctive,<note n="13">and the term <hi rend="italic">mesharet</hi>, as
+                        conjunctive,<note n="13"/>and the term <hi rend="italic">mesharet</hi>, as
                         applied to the list of seven accents, simply “helpers”; i.e. accents which
                         serve, in addition to those already listed, to indicate the correct
-                        articula- tion of the words of the text.<note n="14">The use of the two
+                        articula- tion of the words of the text.<note n="14"/>The use of the two
                         terms with a general meaning in the titles, and with technical meanings in
                         the lists themselves (as noted above) is confusing, and strongly suggests
                         that the <hi rend="italic">Sha‘ar haṬe‘amim</hi> was not composed as a unit,
@@ -448,7 +433,7 @@
                   <foreign xml:lang="he">ובשני פעמים פשוטה</foreign> “stretched
                   <pb n="145" />
                   <head>THE OLDEST ACCENT LIST 145</head>
-                  <p>out<ref target="#n23">23</ref> in two positions", as referring to the two
+                  out<ref target="#n23">23</ref> in two positions", as referring to the two
                         possibilities for the placing of this sign, postpositive (pashṭa) or
                         impositive (azla).<ref target="#n24">24</ref></p>
                   <p>If these identifications are correct, the list describes an accent system

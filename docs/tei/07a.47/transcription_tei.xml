@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Reading Tradition as a Basis for Masoretic Notes</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.47</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Reading Tradition as a Basis for Masoretic Notes</title>
+          <title level="j">. Masoretic Studies 8, (1994), pp. 99-109.</title>
+          <date>1994</date>
+          <biblScope unit="page">99-109</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb/>
+      <head>ESTUDIOS MASORETICOS</head>
+      <p>(X Congreso de la IOMS)</p>
+      <p>En memoria de Harry Μ. ORLINSKY</p>
+      <p>Editados</p>
+      <p>por</p>
+      <p>Emilia FERNANDEZ TEJERO</p>
+      <p>y</p>
+      <p>Maria Teresa ORTEGA MONASTERIO</p>
+      <p>INSTITUTO DE FILOLOGIA DEL CSIC Departamento de Rlologia BIblica y de Oriente Antiguo</p>
+      <head>MADRID</head>
+      <pb/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <head>E. J. REVELL</head>
+      <head>University of Toronto</head>
+      <p>1.  The main contention of this paper is that the notes of the masorah are often based on the</p>
+      <p>reading tradition, that is, on the spoken form of the word in question, not on its written form.</p>
+      <p>This is most clearly shown by the use of the term <foreign xml:lang="he">רסח</foreign> to describe words in which no vowel</p>
+      <p>letter is ever used, as1</p>
+      <p>Ps 138:2 /3imrät’ekä/ occurs 12 times and is not written with <foreign xml:lang="he">י</foreign> .</p>
+      <p>Clearly the note provides information about the spelling of a particular spoken form. The term</p>
+      <p><foreign xml:lang="he">רסח</foreign> refers to the vowel segol, which is often written with yod before the kaf of the 2ms</p>
+      <p>suffix, but is never so spelled in this word. Many other examples occur, as</p>
+      <p><foreign xml:lang="he">בי סחו</foreign></p>
+      <p><foreign xml:lang="he">ךתרמא</foreign></p>
+      <p>MM 605 /deräk’ekä/ occurs 3 times with no <foreign xml:lang="he">י</foreign></p>
+      <p>MP at Ps 119:18 /torät’ekä/ occurs nine times</p>
+      <p>MP at Ps 119:41 /hasd’ekä/ is unique &lt;and&gt; is not written with <foreign xml:lang="he">י</foreign></p>
+      <p><foreign xml:lang="he">ךכרד צ סח</foreign></p>
+      <p>b</p>
+      <p><foreign xml:lang="he">ךתרות</foreign></p>
+      <p><foreign xml:lang="he">ךדסח ל</foreign> bn</p>
+      <p>2.  Notes also often refer to a particular one of two or more words spelled with the same</p>
+      <p>letters where the second person suffix is not involved, as</p>
+      <p>1 Information is taken from L unless otherwise stated. MM followed by a reference number refers to the lists in G.E. WEIL, Massorah gedolah iuxta codicem lenin grade ns em B19a, Rome 1971. Notes from the MP are quoted by reference to the verse in which the form occurs.</p>
+      <pb n="100"/>
+      <head>E. J. REVELL</head>
+      <p>Gen 46:4 /cäl’o/ is three times spelled with <foreign xml:lang="he">ה</foreign></p>
+      <p>The letters can also represent the common form /cäl’ä/.</p>
+      <p>Ps 27:2 /biqr’ov/ is unique and is not spelled with <foreign xml:lang="he">ו</foreign></p>
+      <p>The form /beq’ereb/, spelled with the same letters, is common.</p>
+      <p><foreign xml:lang="he">הלע צ אתכ</foreign></p>
+      <p><foreign xml:lang="he">ברקב ל</foreign> bm</p>
+      <p>·<foreign xml:lang="he">ד צ</foreign> p to</p>
+      <p><foreign xml:lang="he">תוארהל</foreign></p>
+      <head>2 Sam 17:17 /hera3’ot/ occurs 4 times, 3 written thus (with <foreign xml:lang="he">ל</foreign>)</head>
+      <p>The letters could also represent /har°’ot/, which is about equally common. Such notes are</p>
+      <p>simply nonsense if they are taken as referring to the letters of the written form. They are</p>
+      <p>obviously based on the spoken form.</p>
+      <p>3.  Masoretic notes are more often thought of as based on a written form or on a grammatical</p>
+      <p>form than on the spoken form. A survey shows that the spoken form is just as important a</p>
+      <p>basis for classification as these others. The above examples show words which have the same</p>
+      <p>spelling, but represent different grammatical forms and have different spoken forms, and so</p>
+      <p>are treated as different. Words may also be treated as different where different spoken forms</p>
+      <p>differ in spelling, but represent the same grammatical form, as</p>
+      <head>1 Sam 1:17 /Selät’ek/ is unique (but cf. <foreign xml:lang="he">ךחלמ</foreign>?)</head>
+      <head>2 Sam 22:40 /wat:az:er’eni/ is unique (but cf. <foreign xml:lang="he">יכדץאתו</foreign>)</head>
+      <p><foreign xml:lang="he">ךתלש ל</foreign></p>
+      <p><foreign xml:lang="he">ל</foreign></p>
+      <p><foreign xml:lang="he">ינרזתר</foreign></p>
+      <p><foreign xml:lang="he">ל</foreign></p>
+      <p><foreign xml:lang="he">יתרבה</foreign></p>
+      <head>1 Chr 11:39 /hab:erot’i/ is unique (but cf. <foreign xml:lang="he">יתראוה</foreign> )</head>
+      <p>Different spoken forms may also be treated as representing different words when they have</p>
+      <p>the same spelling, and represent the same grammatical form, as</p>
+      <p><foreign xml:lang="he">ןארק ל</foreign></p>
+      <p>Exod 2:20 /qer’en/ is unique</p>
+      <pb n="101"/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <p>Ruth 1:20 /qer’ena/ is unique &lt;and&gt; has no <foreign xml:lang="he">ה</foreign></p>
+      <p><foreign xml:lang="he">ןארק ל סח</foreign></p>
+      <p>4.  Conversely, words which have the same spoken form may be treated as the same where</p>
+      <p>they have the same spelling, but represent different grammatical forms, as</p>
+      <p>Exod 16:7 /wen’ahnu/ occurs three times</p>
+      <p>The Targum takes the cases in Exod 16:7, 8, as pronouns, and that in 2 Sam 17:12 as a verb,</p>
+      <p><foreign xml:lang="he">ונחנו צ</foreign></p>
+      <p>as would modem scholars.</p>
+      <p>Lev 10:19 /wat:iqr’enä/ occurs four times.</p>
+      <p>·<foreign xml:lang="he">ד</foreign></p>
+      <p><foreign xml:lang="he">ןארקתו</foreign></p>
+      <p>The Targum again agrees with modem scholars in assigning these forms both to the verb «to</p>
+      <p>call», and to the verb *to meet».</p>
+      <p>Words which have the same spoken form may also be treated as the same where they differ</p>
+      <p>in spelling, but represent the same grammatical form, as</p>
+      <p>Num 11:11 Zmäsät’i/is unique with no <foreign xml:lang="he">א</foreign> (cf. <foreign xml:lang="he">יתאצמ</foreign>)</p>
+      <p><foreign xml:lang="he">יתצמ ל סח</foreign></p>
+      <p><foreign xml:lang="he">שאר צ למ</foreign></p>
+      <head>2 Sam 12:1 /rä§/ is three times spelled with <foreign xml:lang="he">א</foreign> (cf. <foreign xml:lang="he">שר</foreign>)</head>
+      <p>Words which have the same spoken form may also be treated as the same where they differ</p>
+      <p>in spelling, and represent different grammatical forms, as</p>
+      <p><foreign xml:lang="he">ללמ צ דח למ דחו סח</foreign></p>
+      <p>Gen 21:7 /mil:’el/ occurs twice, once with <foreign xml:lang="he">י</foreign> , once without</p>
+      <p>The case in Gen 21:7 is a verb, that in Isa 21:11 is a noun with prefixed preposition.</p>
+      <p>5.  These illustrations do not represent a fixed practice, but they do show the importance of</p>
+      <p>the spoken form as a basis for categorization. Anyone used to reading masoretic notes will</p>
+      <p>be well aware that the spoken form is used in this way, but the fact is worth emphasis for two</p>
+      <pb n="102"/>
+      <head>E. J. REVELL</head>
+      <p>reasons. Biblical scholars tend to regard the stabilization of the reading tradition as the final</p>
+      <p>stage in the development of the masoretic text. This is no doubt true for some details, but the</p>
+      <p>extensive use of the spoken form as a basis for notes on spelling shows that the reading</p>
+      <p>tradition played a major part in the effort to maintain a stable text. The stabilization of the</p>
+      <p>reading tradition must, then, have occurred at an early period, as I have argued elsewhere2.</p>
+      <p>The second reason for emphasizing the importance of the spoken form as a basis for masoretic</p>
+      <p>notes is that this function is sometimes overlooked by masoretic scholars. The remainder of</p>
+      <p>the paper attempts to show how the concept may help to further the understanding of the</p>
+      <p>methods of the Masoretes, and so help to elucidate obscure notes.</p>
+      <p>6.  Where a list in the MM covers the different spellings of a single spoken form, the notes</p>
+      <p>of the MP on the individual examples of that form may refer either to the spoken form or to</p>
+      <p>the written. Both are often used in such a way as to provide the fullest possible informa-</p>
+      <p>tion. E.g.</p>
+      <p><foreign xml:lang="he">תכ א</foreign></p>
+      <p>*<foreign xml:lang="he">רתב</foreign></p>
+      <p>]</p>
+      <p>list of</p>
+      <p>MM 706 /yemak’e/ occurs 7 times, the last spelled with <foreign xml:lang="he">ה</foreign></p>
+      <p>MP Lev 8:33, 16:32, 1 Kgs 13:33, Isa 65:20, Ps 20:5</p>
+      <p>Job</p>
+      <p>8:21</p>
+      <p>(Ps 20:6 has no note)</p>
+      <p><foreign xml:lang="he">םינמיס</foreign>[</p>
+      <p><foreign xml:lang="he">אלמי</foreign> t</p>
+      <p>t</p>
+      <p><foreign xml:lang="he">ל תכ א</foreign></p>
+      <p><foreign xml:lang="he">׳</foreign>The basic information —the number of occurrences of the spoken form— is presented in most</p>
+      <p>of the notes of the MP. The uncommon spelling is noted at the appropriate place. The number</p>
+      <p>of occurrences of the common spelling is thus indicated by implication, so that full</p>
+      <p>information on the form is given. Another example is</p>
+      <p>MM 1048 /3aleh’en/ occurs 5 times</p>
+      <p>MP Exod</p>
+      <p>1:17</p>
+      <p><foreign xml:lang="he">ןהילא א</foreign></p>
+      <p><foreign xml:lang="he">ןהילא א א למ דחו סח</foreign></p>
+      <p>2 See De Septuaginta: Studies in Honour of John William We vers, ed.by A. PIETERSMA and C. COX, Toronto</p>
+      <p>1984, 43-44, E. J. REVELL, Nesiga in Biblical Hebrew, Madrid 1987, #9.14-18.</p>
+      <pb n="103"/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <p>/3aleh’en/ occurs 5 times, 4 with <foreign xml:lang="he">י</foreign> , one without</p>
+      <p>Exod</p>
+      <p>1:19</p>
+      <p>/3aleh’en/ unique with no vowel letter</p>
+      <p>Deut 1:22, Ezek 41:25, Ruth 1:20</p>
+      <p><foreign xml:lang="he">ןהלא ל סח</foreign></p>
+      <p><foreign xml:lang="he">ןהילא ה</foreign></p>
+      <p>7.  When organized in this way, the notes of the MP provide a maximum of information with</p>
+      <p>a minimum of writing. This method is used to the full in the description of the feminine plural</p>
+      <p>imperfect forms of the qal of <foreign xml:lang="he">אוב</foreign> . These forms are spelled in four different ways, and</p>
+      <p>pronounced in two, and the pronounciation does not correlate fully with the spelling.</p>
+      <p>Moreover, the conjunction (in one of three possible pronounciations) may or may not be</p>
+      <p>prefixed to the form. The concordance of Even Shoshan  lists these forms in seven different</p>
+      <p>categories.</p>
+      <p>8.  The first example of a feminine plural imperfect qal form of <foreign xml:lang="he">אוב</foreign> occurs in Gen 41:21.</p>
+      <p>MM 301, given at this point, deals with the spelling of this spoken form /wat:äb’onä/. ,The</p>
+      <p>list is repeated at Isa 48:3, the first case in the list outside the Torah.</p>
+      <p>Esth 4:4</p>
+      <p><foreign xml:lang="he">דחו למ</foreign></p>
+      <p>Gen 41:21, Exod 2:16, 18, Isa 48:3</p>
+      <head><foreign xml:lang="he">ד סח</foreign>  Λ 1] <foreign xml:lang="he">הנאבתו</foreign>]</head>
+      <p>[1] /wat:äb’onä/ 5 cases: 4 without <foreign xml:lang="he">ו</foreign> , one with. This note clearly deals with spelling of holem</p>
+      <p>in the spoken form Zwat:äb’onä/. The fact that the note deals with the spoken form shows that</p>
+      <p>the yod in the form in Esth 4:4 is superfluous. The Mp note against this form</p>
+      <p><foreign xml:lang="he">ל למ</foreign>  , has the</p>
+      <p>same viewpoint. It is not correct as a reference to the spelling as such, only to the spelling</p>
+      <p>of this particular spoken form.</p>
+      <head>3 A. EVEN SHOSHAN, A New Concordance of the Bible, Jerusalem 1982.</head>
+      <pb n="104"/>
+      <head>E. J. REVELL</head>
+      <p>9.  <foreign xml:lang="he">׳</foreign>The first example of a different spoken form in this group occurs in 1 Sam 10:7. A set of</p>
+      <p>lists (MM 1579) given here describe the spelling of the grammatical form : 3f.pl imperf. qal</p>
+      <p>of <foreign xml:lang="he">ארב</foreign> . There are four categories in all.</p>
+      <p>[2] Twice thus (with <foreign xml:lang="he">י</foreign> not ( <foreign xml:lang="he">ר</foreign></p>
+      <p>[3] Fully (with <foreign xml:lang="he">י</foreign> and <foreign xml:lang="he">ר</foreign>) Jer 9:16a, Esth 4:4</p>
+      <p>(1 Sam 10:7, Ps 45:16) p to 2]</p>
+      <p><foreign xml:lang="he">ב</foreign></p>
+      <p><foreign xml:lang="he">הניאבת</foreign></p>
+      <p>]</p>
+      <p><foreign xml:lang="he">סלש</foreign> Jer 9:16a, Esth 4:4 ( 3] (<foreign xml:lang="he">הניאובת</foreign>]</p>
+      <p>{<supplied reason="lost">[ <foreign xml:lang="he">ר</foreign> [4]</supplied> With <foreign xml:lang="he">ו</foreign> and not <foreign xml:lang="he">י</foreign> Jer 9:16b, [2 Chr 9:21]</p>
+      <p><foreign xml:lang="he">הנאובת</foreign>}</p>
+      <p>1 <foreign xml:lang="he">ןרכ</foreign></p>
+      <p><foreign xml:lang="he">הניאבתו</foreign></p>
+      <list>
+      <item>Jer 9:16b, [2 Chr 9:21] (4] (<foreign xml:lang="he">הנאובת</foreign>]</item>
+      </list>
+      <p><foreign xml:lang="he">בתכ</foreign></p>
+      <p><foreign xml:lang="he">הנאבת</foreign></p>
+      <p><foreign xml:lang="he">ראשו</foreign></p>
+      <p>[5]</p>
+      <p>[5]  Otherwise, with neither <foreign xml:lang="he">ו</foreign> nor <foreign xml:lang="he">י</foreign></p>
+      <p>As Cassuto pointed out4, there is a problem in the presentation of category [4]. The</p>
+      <p>restoration seems to me certain. The reference to Jer 9:16b is correct, the spelling of the form</p>
+      <p>is not. The spelling should use waw and not yod, and a reference to 2 Chr 9:21, the second</p>
+      <p>example of this spelling, should have been given. The notes of the MP bear this out; both of</p>
+      <p>these cases have the note</p>
+      <p><foreign xml:lang="he">ב אלמ</foreign>  . Without this restoration, the catchall statement in [5] makes</p>
+      <p>no sense. With this restoration, and the catchall statement, this set of lists not only refers to</p>
+      <p>the four different spellings of the form, as Cassuto notes, its also identifies all examples of</p>
+      <p>the three less common spellings. Another list which acheives the same (with no errors) is that</p>
+      <p>on the form /nesi:”im/ (MM 1367), which does this with two catchall categories, one for the</p>
+      <p>Torah, one for the Prophets and Writings.</p>
+      <p>10.  A further set of lists is given at Jer 9:16.</p>
+      <p>MM of L at Jer 9:16</p>
+      <p>(Esth 4:4)</p>
+      <p><foreign xml:lang="he">רתסא</foreign></p>
+      <p><foreign xml:lang="he">תורענ</foreign></p>
+      <p><foreign xml:lang="he">הנאובתו</foreign></p>
+      <p>, (Jer 9:16a) 6]</p>
+      <p><foreign xml:lang="he">תוננוקמל</foreign></p>
+      <p><foreign xml:lang="he">וארקו</foreign></p>
+      <p><foreign xml:lang="he">וננובתה</foreign></p>
+      <p><foreign xml:lang="he">ב למ</foreign> - -</p>
+      <p><foreign xml:lang="he">הנואבתו</foreign> ]</p>
+      <list>
+      <item>P. CASSUTO, «Qere-Ketiv et Massora Magna dans le manuscrit Bl9a», Textus 15 (1990) 114.</item>
+      </list>
+      <pb n="105"/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <p>(Ps 45:16)</p>
+      <p><foreign xml:lang="he">ךלמ</foreign></p>
+      <p><foreign xml:lang="he">לכיהב</foreign></p>
+      <p>, (Jer 9:16a) 7]</p>
+      <p><foreign xml:lang="he">תוננוקמל</foreign></p>
+      <p><foreign xml:lang="he">ב דח למ דחו סח</foreign> - -</p>
+      <p><foreign xml:lang="he">הניאובתו</foreign></p>
+      <p>]</p>
+      <p>It should be noted that this group of lists differs from the previous one in that it uses the terms</p>
+      <p><foreign xml:lang="he">אלמ</foreign> and <foreign xml:lang="he">דסח</foreign>, not <foreign xml:lang="he">ביתכ</foreign>. This suggests a different origin, or a different viewpoint. List [7]</p>
+      <p>is clearly based on the spoken form. It lists the two different spellings of the spoken form</p>
+      <p>/tebo3’ena/. The information it provides is thus different from that provided by any of the five</p>
+      <p>statements so far considered. List [6] appears to give the same information as list [3], but if</p>
+      <p>that was its intention, it is surprising that the yod, which is a concern of this list, is not</p>
+      <p>indicated in the spelling. The spelling of the form suggests that the list is the same as [4]. If</p>
+      <p>so, both references are wrong. A third possibility is that the spelling of the form, and the</p>
+      <p>reference to Esther, are as intended. If this is so, the purpose of the list is to describe the use</p>
+      <p>of waw in the spoken form /täb’onä/. The title should read</p>
+      <p><foreign xml:lang="he">צ למ</foreign></p>
+      <p><foreign xml:lang="he">הנאובתו</foreign></p>
+      <p>, and reference</p>
+      <p>should be made to the second form in Jer 9:16 (not the first), and to 2 Chr 9:21, as well as</p>
+      <p>to Esther. As in list [1], this list is based on the spoken form and refers to the spelling of</p>
+      <p>holem. Since the note is based on the spoken form, the yod in the form in Esth 4:4 is not</p>
+      <p>considered. It is easy to see how the presence of the Esther reference could lead to the</p>
+      <p>conclusion that the wrong form in Jer 9:16 had been referred to, leading to the «correction»</p>
+      <p>of the list to its present form.</p>
+      <p>11.  If this reconstruction is correct, this pair of lists is not a garbled repetition of MM 1579,</p>
+      <p>as suggested by Weil and Cassuto. It deMs with the spelling of the two spoken forms which</p>
+      <p>represent the f.pl imperfect qal of <foreign xml:lang="he">אוב</foreign>: /tebo^enä/ in list [7], and /täb’onä/ in list [6]. The</p>
+      <p>form of list [6] as reconstructed implies its corollary: that the remaining examples of /täb’onä/</p>
+      <p>have no vowel letter. Consequently this pair of lists gives complete information on the use of</p>
+      <p>vowel letters in the spoken realizations of the grammatical form.</p>
+      <pb n="106"/>
+      <head>E. J. REVELL</head>
+      <p>12.  This completes the information on the f. pl. imperfect qal form of <foreign xml:lang="he">ארב</foreign> given in the MM</p>
+      <p>of L. Some of this information is evoked by the notes of the MP, as is shown in the following</p>
+      <p>table.</p>
+      <p>Category</p>
+      <head>MP</head>
+      <p>Text</p>
+      <p><foreign xml:lang="he">א</foreign> 1</p>
+      <p><foreign xml:lang="he">יאיבתו</foreign></p>
+      <p>Gen</p>
+      <p>41:21</p>
+      <p><foreign xml:lang="he">א</foreign> 1</p>
+      <p><foreign xml:lang="he">אןאיבתו</foreign></p>
+      <p>Exod</p>
+      <p>2:16</p>
+      <p><foreign xml:lang="he">יאיבתו</foreign></p>
+      <p>Exod</p>
+      <p>2:18</p>
+      <p>p</p>
+      <p><foreign xml:lang="he">ןרכב</foreign></p>
+      <p>p</p>
+      <p><foreign xml:lang="he">הנאבת</foreign></p>
+      <p>Sam <foreign xml:lang="he">אןיאבח</foreign></p>
+      <p>10:7</p>
+      <p>-</p>
+      <p>-</p>
+      <p><foreign xml:lang="he">ב</foreign></p>
+      <p><foreign xml:lang="he">הנאיבת</foreign></p>
+      <p><foreign xml:lang="he">הןאכת</foreign></p>
+      <p><foreign xml:lang="he">הןאבתו</foreign></p>
+      <p><foreign xml:lang="he">א</foreign> 1</p>
+      <p><foreign xml:lang="he">אןאבתו</foreign></p>
+      <p><foreign xml:lang="he">ב</foreign></p>
+      <head><foreign xml:lang="he">הניאובתר</foreign> ▼ V 1</head>
+      <p><foreign xml:lang="he">ב למ</foreign></p>
+      <p><foreign xml:lang="he">יאובתו</foreign></p>
+      <p>-</p>
+      <p><foreign xml:lang="he">אןיאבת</foreign></p>
+      <p><foreign xml:lang="he">למל</foreign></p>
+      <p><foreign xml:lang="he">הץאובתו</foreign></p>
+      <head>1 Kgs</head>
+      <p>3:16</p>
+      <p>isa</p>
+      <p>44:7</p>
+      <p>isa</p>
+      <p>47:9</p>
+      <p>isa</p>
+      <p>48:3</p>
+      <p>Jer 9:16a</p>
+      <p>Jer 9:16b</p>
+      <p>Ps</p>
+      <p>45:16</p>
+      <p>4:4 Esth</p>
+      <p><foreign xml:lang="he">צ למ</foreign></p>
+      <p><foreign xml:lang="he">הנאובת</foreign></p>
+      <head>2 Chr</head>
+      <p>9:21</p>
+      <pb n="107"/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <p>13.  The first example in each of categories [1]4]<foreign xml:lang="he">־</foreign>] has a note referring to the description of</p>
+      <p>that category. The first example in category [3] is also first in category [7] and the first in [4]</p>
+      <p>is also the first in [6], so no note referring to categories [6] or [7] is attached to the first</p>
+      <p>example in lists [6] and [7], and none is attached to the second example either. No note in the</p>
+      <p>MP refers to category [5] either, as is usual with the common spelling of a form. The other</p>
+      <p>examples in categories [1-4] are treated as follows: In category #1, the examples in Exod 2:16</p>
+      <p>(the second) and in Isa 48:3 (the first outside the Torah) have the note ή, like the first, giving</p>
+      <p>the total number of examples of the spoken form. The example in Exod 2:18 has no note. The</p>
+      <p>last example, in Esth 4:4, has the note</p>
+      <p><foreign xml:lang="he">ל למ</foreign>  , marking it as the only example of the less</p>
+      <p>common spelling; i.e. this list in treated in the same way as is MM 706. Esth 4:4 is also the</p>
+      <p>second example in categories [3] and [6], and consequently has no note referring to those</p>
+      <p>categories..<foreign xml:lang="he">׳</foreign>The second example in category [2] has no note, the second in category [4] has</p>
+      <p>the same note as the first.</p>
+      <p>14. The only other example which has a note in the MP is that at Isa 47:9, which has the note</p>
+      <p><foreign xml:lang="he">צ</foreign> . It is not obvious, but nonetheless true, that this number applied to this form, must refer</p>
+      <p>to the spoken form /wetab’onä/. (The other example occurs in Jer 9:16b). The MP note in</p>
+      <head>BHS</head>
+      <p><foreign xml:lang="he">ב ידח סח</foreign> ·<foreign xml:lang="he">דחו למ</foreign></p>
+      <p>presents Weil’s correct interpretation of the note <foreign xml:lang="he">צ</foreign> . In the Cairo codex, this note is given at Isa 47:9, and the note <foreign xml:lang="he">צ</foreign> with a reference to Isa 47:9, in Jer 9:16b, <foreign xml:lang="he">צ םר</foreign>  at Jer the second example. In the Aleppo codex, the note <foreign xml:lang="he">צ</foreign> is given at Isa 47:9, and</p>
+      <p>9:16b, where the term rafeh refers to the pronounciation of the conjunction, with shewa \ This</p>
+      <p>clearly defines category #8, which is the counterpart of category #1. Together, the two</p>
+      <p>provide information on two of the three spoken forms in which the 3f.pl impf, qal of <foreign xml:lang="he">ארב</foreign> is</p>
+      <p>combined with the conjunction. This covers seven of the eight examples of such forms, the</p>
+      <p>remaining one being the unique /utebo^enä/ in Jer 9:16a. The MP often fails to note unique</p>
+      <p>members of groups of this sort.</p>
+      <pb n="108"/>
+      <head>E. J. REVELL</head>
+      <head>CONCLUSION</head>
+      <p>15.  If this reconstruction is correct, then, the MM and MP of L were designed to provide</p>
+      <p>complete information on the spelling of this confusing set of forms in abstract, complete</p>
+      <p>information on the use of waw to represent holemy and almost complete information on the</p>
+      <p>spelling of forms with a prefixed conjunction. Similar use of the MP to refer to the basic</p>
+      <p>information on spelling provided in the MM, but not to all the information, can also be seen</p>
+      <p>in the note on <foreign xml:lang="he">םיאישנ</foreign>. MM 1367 (at Josh 22:14) gives a complete description of the spelling.</p>
+      <p>This must be considered to be based on the spoken form, as it includes examples conventional-</p>
+      <p>ly assigned to different words. The MP refers to the two basic categories of spelling, but (as</p>
+      <p>with the notes on the f. pl. imperfect qal forms of <foreign xml:lang="he">אוב</foreign>) not to the catchall groups, nor to</p>
+      <p>unique spellings. Instead, it notes three cases where the word /nesi3’im/ is joined to a</p>
+      <p>preceding word with maqqef, forming a unique combination; it notes the variant spellings of</p>
+      <p>the two cases where /nesi3’im/ has both the article and the conjunction prefixed, and it notes</p>
+      <p>that in four cases the word represents the semantic field of «cloud». Taken together, the MM</p>
+      <p>and MP in such cases provide as much information as possible on the word in question. This</p>
+      <p>seems to me to represent a common practise, and so a further argument for the correctness</p>
+      <p>of my reconstruction of list [6], dealing with /täb’onä/. Whether or no that list did, in origin,</p>
+      <p>refer to the spoken form, however, it is clear that many masoretic notes are based on the</p>
+      <p>reading tradition, not on the written text. The understanding of this is important to the full</p>
+      <p>appreciation of the purpose and methods of the masoretes.</p>
+      <pb n="109"/>
+      <head>THE READING TRADITION AS A BASIS FOR MASORETIC NOTES</head>
+      <head>RESUMEN</head>
+      <p>En la nota de MP de Leningrado sobre <foreign xml:lang="he">ךתרןקא</foreign> de Sal 138,2, bm ±<foreign xml:lang="he">י</foreign> «doce veces,</p>
+      <p>y haser», la expresiön haser es superflua por lo que se refiere a la ortograffa, puesto que la</p>
+      <p>palabra nunca se escribe con mater lectionis. Debe de referirse a una vocal que pudiera estar</p>
+      <p>representada, aunque no lo est6, por una mater lectionis, es decir, al segol que define la forma</p>
+      <p>como pausal. Tales notas indican el importante papel desempenado en la transmisiön del texto</p>
+      <p>por la tradiciön de lectura, antes de la introducciön de los signos vocälicos. En este articulo</p>
+      <p>se dan ejemplos de otras notas que se comprenden mejor a partir de la forma hablada de la</p>
+      <p>palabra y se discuten casos en los que este concepto puede utilizarse para explicar notas que</p>
+      <p>aparecen confusas o inconsistentes.</p>
+      <head>SUMMARY</head>
+      <p>In the note in the MP of Leningrad on <foreign xml:lang="he">ךתר</foreign>^<foreign xml:lang="he">א</foreign> in Ps 138:2,</p>
+      <p><foreign xml:lang="he">צי סחו</foreign></p>
+      <p>«twelve times,</p>
+      <p>and haser», the statement haser is superfluous as a reference to the spelling, as the word never</p>
+      <p>is spelled with a vowel letter. It must refer to a vowel which might be spelled with a vowel</p>
+      <p>letter, but is not, that is, to the segol which marks the form as pausal. Such notes indicate the</p>
+      <p>important part the reading tradition played in the transmission of the text before the</p>
+      <p>introduction of vowel signs. The paper gives examples of other notes which are best</p>
+      <p>understood as based on the spoken form of the word, and discusses cases where this concept</p>
+      <p>can be used to elucidate notes which appear confused or inconsistent.</p>
+    </body>
+  </text>
+</TEI>

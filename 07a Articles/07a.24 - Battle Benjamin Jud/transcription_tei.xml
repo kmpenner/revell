@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>The Battle with Benjamin (Jud. XX 29-48) and Hebrew Narrative Techniques</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Brill</publisher>
-      <date when="1985">1985</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>The Battle with Benjamin (Jud. XX 29-48) and Hebrew Narrative Techniques</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.24</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">The Battle with Benjamin (Jud. XX 29-48) and Hebrew Narrative Techniques</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Vetus Testamentum</title>
-          <imprint>
-            <biblScope unit="volume">XXXV</biblScope>
-            <date when="1985">1985</date>
-            <biblScope unit="page" from="417" to="433">417-433</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <encodingDesc>
-    <p>Encoded from file: 07a.24_The_Battle_with_Benjamin_(Jud._XX_29-48)_and_Hebrew_Narrative_Techniques_part2.pdf</p>
-  </encodingDesc>
-</teiHeader>
+          <title level="j">Vetus Testamentum XXXV, 1985, p. 417-433.</title>
+          <date>1985</date>
+          <biblScope unit="page">417-433</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb n="417"/>

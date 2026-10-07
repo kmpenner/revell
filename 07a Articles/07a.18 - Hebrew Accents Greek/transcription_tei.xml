@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Hebrew Accents and Greek Ekphonetic Neumes</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Studies in Eastern Chant</publisher>
-      <date when="1979">1979</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Hebrew Accents and Greek Ekphonetic Neumes</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.18</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Hebrew Accents and Greek Ekphonetic Neumes</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Studies in Eastern Chant</title>
-          <imprint>
-            <biblScope unit="volume">IV</biblScope>
-            <date when="1979">1979</date>
-            <biblScope unit="page">140-170</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note type="filename">07a.18_Hebrew_Accents_and_Greek_Ekphonetic_Neumes.pdf</note>
-  </notesStmt>
-</teiHeader>
+          <title level="j">Studies in Eastern Chant IV (1979), p. 140-170.</title>
+          <date>1979</date>
+          <biblScope unit="page">140-170</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -350,9 +332,9 @@ happen that several units within a contextual clause require the
 same emphasis. If they are relatively long, they are usually marked
 with accent 7, and, in many cases, a normal extended variation of
 the basic contextual clause is produced. In some cases, however,
-accent 6 is omitted &mdash; a situation frequent in lists where the con-
-textual clause ends with the last item in the list &mdash; so that the clause
-is accented 7 ..... 7 &rarr; 7 &rarr; 5 (as in the original accentuation of Ex.
+accent 6 is omitted — a situation frequent in lists where the con-
+textual clause ends with the last item in the list — so that the clause
+is accented 7 ..... 7 → 7 → 5 (as in the original accentuation of Ex.
 1:3b). If the units requiring equal emphasis are relatively short, as
 with one-word items in a list, a new sign, accent 8 may be used to
 mark them. This sign may be used before accent 5, 6, or 7 (see Exx.

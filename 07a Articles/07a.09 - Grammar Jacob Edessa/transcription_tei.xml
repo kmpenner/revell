@@ -1,51 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>The Grammar of Jacob of Edessa and the Other Near Eastern Grammatical
-                    Traditions</title>
-                <author>
-                    <persName>
-                        <forename>E.</forename>
-                        <forename>J.</forename>
-                        <surname>Revell</surname>
-                    </persName>
-                </author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Parole d'Orient</publisher>
-                <date when="1972">1972</date>
-            </publicationStmt>
-            <sourceDesc>
-                <biblStruct>
-                    <analytic>
-                        <author>Revell, E. J.</author>
-                        <title level="a">The Grammar of Jacob of Edessa and the Other Near Eastern
-                            Grammatical Traditions</title>
-                    </analytic>
-                    <monogr>
-                        <title level="j">Parole d'Orient</title>
-                        <imprint>
-                            <biblScope unit="volume">3</biblScope>
-                            <date when="1972">1972</date>
-                            <biblScope unit="page">365-374</biblScope>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="en">English</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc>
-            <change when="2023-10-27">
-                Digital transformation of
-                07a.09_The_Grammar_of_Jacob_of_Edessa_and_the_Other_Near_Eastern_Grammatical_Traditions.pdf</change>
-        </revisionDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Grammar of Jacob of Edessa and the Other Near Eastern Grammatical Traditions</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.09</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Grammar of Jacob of Edessa and the Other Near Eastern Grammatical Traditions</title>
+          <title level="j">Parole d&#x27;Orient 3 (1972), p. 365-374.</title>
+          <date>1972</date>
+          <biblScope unit="page">365-374</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <body>
             <pb />

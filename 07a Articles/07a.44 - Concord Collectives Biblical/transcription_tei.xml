@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Concord with Collectives in Biblical Narrative.</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.44</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Concord with Collectives in Biblical Narrative.</title>
+          <title level="j">Forthcoming in MAARAV.</title>
+          <date></date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="61"/>
+      <head>MAARAV 9 (2002): 61-91</head>
+      <head>LOGIC OF CONCORD WITH COLLECTIVES IN BIBLICAL NARRATIVE*</head>
+      <head>UNIVERSITY OF TORONTO</head>
+      <p>1. Introduction.</p>
+      <p>1.1  For the purposes of this study, collectives are defined as nouns which are morphologically singular, but which may have singular or plural coreferents.  A coreferent of a collective is commonly described as showing “grammatical” concord when singular, “notional” concord (constructio ad sensum) when plural.  If this is taken as indicating that concord is determined either by linguistic convention (a noun which is singular in form has singular coreferents) or by the speaker’s perception of reality (the plural is used to make reference to a collection of individ­ uals), a difficulty appears. A compound subject should have plural coreferents both according to grammatical convention, and as a reflection of reality, yet a compound subject of which the first component designates</p>
+      <p>*Article originally received October, 1992.</p>
+      <p>1“Coreferents” are morphs which have the same referent as does the collective. In</p>
+      <p>Hebrew, these are pronominal (including the pronominal morph in a verb form, which represents the subject), or nominal attributives (adjectives or participles). Other possibilities, such as nouns in apposition, are disregarded here. Cases in which the conditioning of concord is not certainly based on a collective (as in coreferents of compounds, or of construct phrases which include singular or plural nouns), are not included.</p>
+      <p>2C. Brockelmann, Hebräische Syntax (Neukirchen: Neukirchener, 1956): §28.b ß; B.</p>
+      <p>K. Waltke and Μ. O’Connor, An Introduction to Biblical Hebrew Syntax (Winona Lake: Eisenbrauns, 1990): §§6.6, 14.2c; R. Quirk, et al., A Comprehensive Grammar of the English Language (London: Longman, 1985): §10.35.</p>
+      <pb n="62"/>
+      <head>MAARAV9 (2002)</head>
+      <p>an individual is most commonly treated as singular.3 If the system is “illogical” in this matter, can logic be assumed elsewhere?</p>
+      <p>1.2  There is regularity in the choice of number in the coreferents of collectives in one limited area. An attributive which presents a quality of the group designated by the collective (and not of the individuals which form it) is singular.  As described, the basis of this is semantic, so the value of the term “grammatical” for such concord is questionable. Equally, one would expect that a speaker would be led to think of a group performing particular actions as a number of individuals rather than as a unit, and so to the “notional” use of a plural verb where the subject was a collective. It is true that an active verb with a collective subject is often plural, but there is no group of verbs which are charac­ teristically plural when the subject is collective. This might be held to show that the “notional” plural is a free variant of the “grammatical” singular, were it not that the use of the latter is, in one area at least, clearly conditioned.</p>
+      <p>1.3  This paper is an attempt to determine what the terms “grammatical” and “notional” represent when used in the way indicated. It is based on the books of Judges, Samuel, and Kings, but is limited to collectives which denote humans. This corpus provides some 400 cases in which a collective is subject of a verb, or is modified by an attributive, and so is marked for number, a sample large enough to provide a satisfactory basis for conclusions. The language of these books is homogeneous, and can reasonably be treated synchronically.  The method of study is</p>
+      <p>3M. Moreshet (“The Predicate Preceding a Compound Subject in the Biblical Lan­</p>
+      <p>guage,” LZSonenu 31 [1967]: 253) states that about 85% of such compounds are treated as singular in biblical prose overall. The choice of number in a verb with a compound subject in the corpus is conditioned semantically, as is suggested here for collectives, as is shown in E. J. Revell (“Concord with Compound Subjects and Related Use of Pronouns,” VT43 [1993]: 69-87).</p>
+      <p>4See E. Qimron, The Hebrew of the Dead Sea Scrolls (Atlanta: Scholars, 1986): 83 n. 60, and the comment on examples (1, la) in Quirk (N 2): §10.36. For the usage of the corpus, see §6 below.</p>
+      <p>5The corpus is made up of historical narrative of various types (the poetic passages,</p>
+      <p>Judges 5, 1 Sam 2:1-10, 2 Sam 1:17-27, and 22:1-23:7 are excluded). Since the approach is synchronic, the possibility that the corpus was composed from material from different sources is irrelevant; the language is homogeneous, so it can be assumed that the “narrator” responsible for the present form of the text removed features of his sources which conflicted with his usage. The relationship of the received text to some earlier text form is equally irrelevant, although it is recognized that any particular peculiarity may be due to some accident of compilation or transmission of the text, or to the factors which cause variation</p>
+      <pb n="63"/>
+      <p>REVELL: LOGIC OF CONLk,.</p>
+      <p>simple description: an attempt to find significant correlations usage and context. The paper concludes that such correlation is evide!^ The choice of number in the coreferents of collectives is conditioned; it provides part of the expressive content of the text. Some sociolinguistic studies, which deal with similar topics in other languages, have been used to support the conclusions presented.6</p>
+      <p>2. Number and Transitivity.</p>
+      <p>2.1  When compared in terms of the number of the verb of which they are subject, the collectives denoting humans found in the corpus  fall naturally into three groups in terms of the number of their coreferents.</p>
+      <p>1.  The name Israel, and the names of the constituent tribes (and similar groups), are treated as plural in only two of the 45 possible cases (4%).</p>
+      <p>2.  The majority of collectives, such as <foreign xml:lang="he">שיא</foreign>, ‘man’, <foreign xml:lang="he">םעה</foreign>, ‘the people’, gentilics, such as <foreign xml:lang="he">ינענכה</foreign>, ‘the Canaanite’, names such as , <foreign xml:lang="he">םרא</foreign> ‘Edom, Aram’, and so on, are treated as plural in a range centered on 40%. The lowest, gentilic designations, are plural in 3 of 9 cases (33%), the highest, the collective ‘man’ with a numerical modifier, in 8 of 17 cases (47%).</p>
+      <p><foreign xml:lang="he">םודא</foreign>,</p>
+      <p>3.  Members of groups (1) and (2) preceded by <foreign xml:lang="he">לכ</foreign> ‘all’ are treated as ‘all Israel’ 18 of 29, or</p>
+      <p>plural in more than 60% of the cases. ( 63%;</p>
+      <p><foreign xml:lang="he">לכ</foreign> ‘all the people’ 14 of 19, or 74%.)8</p>
+      <p><foreign xml:lang="he">לכ םעה</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p>in spoken language. No serious attempt has been made to identify these, since the usage which this paper sets out to describe should form part of the basis for such identification.</p>
+      <p>6The only attempt I am aware of to describe the basis of numerical concord with</p>
+      <p>collectives in a limited corpus, G. Nixon (“Corporate-Concord Phenomena in English,” Studia Neophilologica 44 [1972]: 120-126), is restricted to formal description. U. Fries (“Zur Kongruenz bei Kollektiven,” in Europäische Mehrsprachigkeit: Festschrift zum 70, Geburtstag von Mario Wandruszka [ed. Wolfgang Pöckl; Tübingen: Niemeyer, 1981]: 24), suggests that English usage is at least to some extent sociolinguistically conditioned, as is suggested here for Biblical Hebrew. The survey in P. Mühlhäusler and R. Harre (Pronouns and People: The Linguistic Construction of Social and Personal Identity [Oxford: Blackwell, 1990]: 72) of the possible functions of “unnatural” concord in German suggests that these are similar to those seen here for the choice of number in the coreferents of collectives.</p>
+      <p>7<foreign xml:lang="he">׳</foreign></p>
+      <p>The term “collective” is henceforward used in this restricted sense. 8This is probably related to the fact that a collective subject is more likely to be</p>
+      <p>treated as plural if more clearly defined (as by the definite article or descriptive modifiers), a counterpart of the significance of the “highly individuated object” (see P. J. Hopper and S. A. Thompson, “Transitivity in Grammar and Discourse,” Language 56 [1980]: 252 [J]).</p>
+      <pb n="64"/>
+      <head>MAARAV9 (2002)</head>
+      <p><foreign xml:lang="he">ינב</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p>2.2  The names in group (1) represent not only population groups, but also their eponymous ancestors. The groups themselves are often desig- nated as the descendants (<foreign xml:lang="he">םינב</foreign>) of these ancestors, as ‘the descendants of Israel’, etc. The existence of plural designations equivalent to these collectives is no doubt the reason why the latter are usually treated as singular.9 Equivalent collective and plural designations of this sort do not appear to be free variants. The collective forms act as subject of a clause in less than 10% of their occurrences, the equivalent plurals in 50% or more. For instance <foreign xml:lang="he">ןימינב</foreign> ‘Benjamin’ as a collective, acts as subject in the corpus in 4 of 48 possible cases (8%), <foreign xml:lang="he">ינב</foreign> ‘the descendants of Benjamin’ in 12 of 22 cases (55%). There is, then, a relationship between the representation of a group as “actor” (subject) and the choice of plural number.</p>
+      <p><foreign xml:lang="he">ןימינב</foreign></p>
+      <p>2.3  This tendency to treat a group as plural where it appears as “actor” is related to the transitivity of the clause. Verbs can be classified in four groups: (1) passive, stative, or reflexive verbs, (2) verbs of motion, (3) verbs of speech or perception, (4) other active verbs. Where Benjamin, Judah, or Israel, is the subject, the verb falls into group (1) in 10 of 40 cases (25%). Where one of the plural equivalents, ‘descendants of Ben- jamin’, etc., is subject, the verb falls into group (1) in 10 of 72 cases (14%). Six of these ten (Nipc al of <foreign xml:lang="he">ףסא</foreign>, or Hitpa ce70r equivalent of <foreign xml:lang="he">ץבק</foreign> or <foreign xml:lang="he">דקפ</foreign>, Judg 10:17; 20:14,15; 1 Sam 7:7; 2 Sam 2:25; 1 Kgs 20:27) could be seen as having active meanings, as ‘assemble’ rather than passive, as ‘be gathered’. In two other cases the verb forms part of a phrase with active implications: “be willing to hear” (Judg <foreign xml:lang="he">עמשל</foreign> “be able to destroy” (1 Kgs 9:21). The 20:13 qere) and remaining two cases are forms of the Nip(al of <foreign xml:lang="he">םחנ</foreign>, “to be sorry for” Mg 21:6), and the verb <foreign xml:lang="he">היה</foreign> ‘to be’ with a numeral as complement (1</p>
+      <p><foreign xml:lang="he">םירחהל</foreign></p>
+      <p><foreign xml:lang="he">הבא</foreign></p>
+      <p><foreign xml:lang="he">לכי</foreign></p>
+      <p>\e of <foreign xml:lang="he">היה</foreign> with a plural subject in 1 Sam 11:8 has a parallel ^jye subject treated as singular in 2 Sam 24:9.10 Otherwise,</p>
+      <head>V\</head>
+      <head>V</head>
+      <p>60, corpu?</p>
+      <p>5The</p>
+      <p>Judges 5j is synchro sources is i^ « responsible if with his usagk irrelevant, alth$^</p>
+      <p>accident of comp</p>
+      <p>study, this aspect of such pairs is not considered in D. I. A Study in Hebrew eponymic usage,” Studies in Reli- M]: 301-326) or in the former work cited there. If 322<foreign xml:lang="he">־</foreign>) is correct, these pairs provide another example 1<foreign xml:lang="he">׳</foreign> functions during the period in which one is</p>
+      <p>! population groups are occasionally treated as pus and outside it (see A. B. Davidson, Hebrew μ 1901]: §116 rem. 5; also Yohanan Aharoni, Arad</p>
+      <pb n="65"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>the verbs with collective subjects are “be repulsive” (<foreign xml:lang="he">שאב</foreign> Nipcal, 1 Sam 13:4), “be terrified” (<foreign xml:lang="he">להב</foreign> Nip(al, Judg 20:41), “be weak” (<foreign xml:lang="he">ללד</foreign> Judg 6:6), “become a byword” (1 Kgs 9:7), “be strong” (<foreign xml:lang="he">קזח לשמל</foreign> Judg 1:28), “be defeated” (<foreign xml:lang="he">ףגנ</foreign> Nip&lt;al, 1 Sam 4:2,10; 2 Kgs 14:12) and “glorify oneself’ (<foreign xml:lang="he">ראפ</foreign> Hitpa^el, Judg 7:2). Of the two possibilities, the collective treated as singular is clearly preferred as subject for verbs at the low end of the scale of transitivity.</p>
+      <p><foreign xml:lang="he">היה</foreign></p>
+      <p>2.5  The case at the other end of the scale is less clear. The phrase ‘descendants of Benjamin/Judah/Israel’ is subject of an active verb which cannot be classed as one of motion, speech, or perception in 22 of 72 cases (30%—the verb “to fight” in Judg 1:8 is included).  Benjamin or Judah is subject of such a verb in 2 of 16 cases (13%). The proportion for Israel, 10 of 25 cases, is much higher (40%). Five of these cases occur in Judg 11:13-21, in the negotiation between Jephthah and the King of Bene Ammon, a passage which is clearly exceptional in this feature (see §9.4). If this passage is ignored, Israel is subject of a verb of this sort in 5 of 17 cases (29%), and for the group as a whole the figure is 7 of 33 cases, or 21%.</p>
+      <p>3. Number and “Narrative Prominence.”</p>
+      <p>3.1  Clauses with collective subject show a similar correlation of tran- sitivity with plural number. Where a verb or participle acting as predicate is passive, stative or reflexive, it is nearly always singular where the subject is collective. Where the predicate indicates motion, the singular is less common. Where it indicates speech or perception, the predicate is often plural. This can be illustrated by a survey of the roots most commonly used in each group to head predicates with collective subjects. The numbers show the number of plural verbs out of the total used with a collective subject.</p>
+      <p>Inscriptions [Jerusalem: Israel Exploration Society, 1981]: Arad letter #24 1.20). The groups concerned in the corpus are all treated both as masculine singular and as masculine plural as well. The use of the feminine is too rare to allow the suggestion of any function in synchronic terms. Coreferents of feminine collectives are usually masculine, even that of <foreign xml:lang="he">הרענ</foreign> “girl” in the second main clause in Judg 21:12. Such gender shifts are ignored here. Only number is considered.</p>
+      <p>11The form is Nip(al, probably with original reciprocal value in this verb. The opponent</p>
+      <p>fought with is never presented as a direct object. Nevertheless, one of the two parties is subject, not both, so it is difficult to avoid seeing the other (the opponent) as recipient of the action.</p>
+      <pb n="66"/>
+      <head>MÆ4/MV9 (2002)</head>
+      <p>Passive, etc.</p>
+      <p>Motion</p>
+      <p>Speech, etc.</p>
+      <p>Other active</p>
+      <p>nm</p>
+      <p>be</p>
+      <p>3/15 K13 arrive 5/15</p>
+      <p>10<foreign xml:lang="he">־</foreign>X say</p>
+      <p>9/16 np1?</p>
+      <p>take 3/7</p>
+      <p>pyx/r be called 1/6</p>
+      <p>walk</p>
+      <p>7/15</p>
+      <head>HK1</head>
+      <p>see</p>
+      <p>4/8</p>
+      <p>ntyy do</p>
+      <p>5/7</p>
+      <p>pm</p>
+      <p>be strong 0/4 Nr go out 2/12 yw hear</p>
+      <p>5/8</p>
+      <p>send 2/5</p>
+      <p>be struck 1/4</p>
+      <p>OU flee</p>
+      <p>4/12 PT know 3/6</p>
+      <p>place 2/4</p>
+      <p>As with the survey in §2.5, the numbers in the “other active” column do not show the expected progression. Again, this is partly due to the exceptional character of Judg 11:13-21. If this passage were excluded, the figures for ‘take’ would be 2/5, those for ‘send’ 2/3: more in line with expectations. It is a fact, however, that collectives—or even plural nominals denoting groups of humans—are not often used with verbs of this group. If the reason were understood, we might also understand why the proportion of singular verbs with collective subjects is unex­ pectedly high in this group.</p>
+      <p>3.2  The correlation between high transitivity and the treatment of a collective as plural can be investigated more precisely in terms of the parameters of transitivity set up in P. J. Hopper and S. A. Thompson. 12 Such an investigation is, however, confronted with several problems. The limits of our knowledge of Biblical Hebrew would reduce treatment of parameters like “aspect” and “punctuality” largely to guesswork. In addition, the boundaries of semantic categories are typically ill-defined. Some examples are easy to assign to opposing categories, but for a considerable proportion, assignment can only be arbitrary, as would be the case if all humans were to be categorized as “tall” or “short.” Moreover, a variety of factors typically condition the choice between contrasting items which carry a semantic load, just as a number of factors, such as sex and diet, would affect human stature. It is easy enough to select examples to show that a particular factor is significant in some cases, but the conclusion that it is significant in all cases must be derived by argument. It cannot be demonstrated, because no one factor is always dominant.</p>
+      <p>12Hopper and Thompson (N 8).</p>
+      <pb n="67"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>3.3  According to Hopper and Thompson’s study,  a clause with only one participant is low in transitivity. Since low transitivity correlates with use of the singular, such a clause is likely to have a singular verb, as in</p>
+      <p>4:10</p>
+      <p>Sam Israel was driven back.</p>
+      <p>18:24</p>
+      <head>1 Kgs All the people answered.</head>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">ףגניו</foreign></p>
+      <p><foreign xml:lang="he">לכ םעה</foreign></p>
+      <p><foreign xml:lang="he">ןעיו</foreign></p>
+      <p>A clause with more than one participant, and so with higher transitivity, is likely to have a plural verb, as</p>
+      <p>18:7</p>
+      <p>Sam Israel was there driven back before David’s servants.</p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">ידבע</foreign></p>
+      <p><foreign xml:lang="he">ינפל</foreign></p>
+      <p><foreign xml:lang="he">דוד</foreign></p>
+      <p><foreign xml:lang="he">םש םע</foreign></p>
+      <p><foreign xml:lang="he">ופגניו</foreign></p>
+      <p>18:21</p>
+      <head>1 Kgs The people answered him not a word.</head>
+      <p><foreign xml:lang="he">ותא רבד</foreign></p>
+      <p><foreign xml:lang="he">ונע םעה</foreign></p>
+      <p><foreign xml:lang="he">אלו</foreign></p>
+      <p>According to Hopper and Thompson,14 a negative clause is lower in transitivity than an affirmative one. The verb of a negative clause with a collective subject is regularly singular in the corpus, even where the subject is given prominence, as</p>
+      <p>14:3</p>
+      <p>Sam The people did not know that Jonathan had gone.</p>
+      <p><foreign xml:lang="he">ןתנוי</foreign></p>
+      <p><foreign xml:lang="he">ךלה</foreign></p>
+      <p><foreign xml:lang="he">יכ</foreign></p>
+      <p><foreign xml:lang="he">אל עדי</foreign></p>
+      <p><foreign xml:lang="he">םעהו</foreign></p>
+      <p>The clause quoted from 1 Kgs 18:21 presents an exception. This may be because the number of participants gives it a high level of transitivity, but the evidence of the corpus is too limited to demonstrate this. There are too many variables for a detailed illustration of the correlation between plurality and transitivity through Hopper and Thompson’s pa- rameters to carry much weight. A general correlation between a high level of transitivity and the use of the plural is as much as can be established.</p>
+      <p>3.4  The use of the plural appears to be characteristic of clauses which are prominent in terms of narrative function. In some cases prominence</p>
+      <p>13Ibid., 252 (A).</p>
+      <p>14Ibid., 252 (F).</p>
+      <pb n="68"/>
+      <head>MAARAV9 (2002)</head>
+      <p>is marked through syntactic structure.15 In other cases it can only be inferred from the part played in the story by the referent of the structure. The clause quoted from 1 Kgs 18:21 shows the people as unresponsive to Elijah’s appeal, and so heightens suspense by suggesting that he may fail to win them over. Narrative prominence is related to “grounding,” and so to the level of transitivity,16 although the nature of the relationship is uncertain.17 However, a prominent structure can occur in any clause, whether foregrounded or backgrounded.18 The significance of “narrative prominence” is, then, more local than that envisaged for “grounding” as currently understood in Biblical Hebrew.19 Like the level of transitivity, narrative prominence is a somewhat indistinct concept, but it can more easily be related to objective criteria. Narrative prominence is, then, the main concern of this study.</p>
+      <p>15Various terms, such as “theme, topic, focus” may be used to describe an item given prominence in this way, but I am unwilling to use them before some suitable comprehensive study has defined them in terms of Hebrew usage. Beginnings have been made, as in L. Lode, “Postverbal Word Order in Biblical Hebrew,” Semitics 9 (1984): section #3, and C. J. H. van der Merwe, The Old Hebrew Particle gam (Arbeiten zu Text und Sprache im alten Testament 34; St. Ottilien: EOS, 1990): chapter 3.</p>
+      <p>16Hopper and Thompson (N 8): 280-294.</p>
+      <p>17See R. Fasold, The Sociolinguistics of Language (Oxford: Blackwell, 1990): 82.</p>
+      <p>18Clauses without finite verbs are always backgrounded. Items in such clauses are</p>
+      <p>quite often given prominence, as described in E. J. Revell, “The Conditioning of Word Order in Verbless Clauses in Biblical Hebrew,” JSS 34 (1989): 1-24.</p>
+      <p>19Cf. the idea of “local background” used in S. A. Thompson, “Grammar and Discourse:</p>
+      <p>The English Detached Participial Clause,” in Discourse Perspectives on Syntax (ed. Flora Klein-Andreu; New York: Academic, 1983): 44-45. The view of “grounding” in biblical narrative referred to is that of R. E. Longacre {Joseph [Winona Lake: Eisenbrauns, 1989]: chapter 3, schematized on p. 81), where a close correlation between grounding and the type of clause used to present the material is envisaged. While generally valid, this probably needs modification. See Longacre’s own questions on perfect verbs (ibid., 82, n. 6) and on negative clauses (idem., “The Discourse Structure of the Flood Narrative,” JAAR 47, Supplement B [1979]: 97). A negated clause does appear to carry forward the action of the narrative in Judg 8:20 as in 1 Kgs 18:21. A “background format” clause in 1 Kgs 20:1, and one of “foreground format” in 2 Kgs 6:24, present virtually the same information, which has specific relevance for the following narrative in the first case, only general relevance in the second. Temporal sequence is characteristic of “foreground,” but the foreground clause beginning 1 Kgs 18:30 moves the action to a point earlier than the “time of the Minhah” of the previous verse, see v. 36. A “foreground format” clause can continue a relative clause (background) as in 1 Kgs 21:4. It seems probable that “grounding” is a highly complex phenomenon, of which “narrative prominence” may be an aspect, but that cannot be argued here.</p>
+      <pb n="69"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>4. Verbs (i) Singular and Plural where the Subject is Preposed.</p>
+      <p>4.1  Position before the verb of a clause always gives a constituent some prominence, marking it as the “topic” of the clause, or as the “focus” of the narrator’s interest. Clauses in which a collective subject is placed before the verb can, then, provide a suitable test of the possibility that there is a relationship between the treatment of a collective as plural and its prominence in the narrative.  Overall (omitting question- able cases), a verb with a preceding collective subject is singular in 17 cases in the corpus, plural in 32. All these cases are treated in §§4.2-4.7.</p>
+      <p>4.2  A verb following a collective subject is singular where the collective is placed before the verb on account of its intrinsic significance, not on account of its relationship to other items in the context. This occurs where it represents the new information in the answer to a question in</p>
+      <p>1:2</p>
+      <p>Judg Judah will go up.</p>
+      <p><foreign xml:lang="he">הלעי</foreign></p>
+      <p><foreign xml:lang="he">הדוהי</foreign></p>
+      <p>Another case in direct speech terminates a speech of prediction, in 2 Sam 17:3 (<foreign xml:lang="he">היהי</foreign>). The passage is obscure, but the clause appears to give the result of what precedes; it does not contrast with it. Examples occur in narrative where the collective occurs in one of a set of parallel examples which complement each other rather than contrasting, as</p>
+      <p>1:29</p>
+      <p>Judg Ephraim did not drive out. . .</p>
+      <p>also (with the same verb) in Judg 1:30,31,33.21</p>
+      <p>...</p>
+      <p><foreign xml:lang="he">שירוה</foreign></p>
+      <p><foreign xml:lang="he">אל</foreign></p>
+      <p><foreign xml:lang="he">םירפאו</foreign></p>
+      <p>4.3  The verb is also singular where the clause repeats information given before, to provide background for what follows, as</p>
+      <p>20:39</p>
+      <p>... Judg Benjamin began to cause casualties ...</p>
+      <p><foreign xml:lang="he">םיללח</foreign></p>
+      <p><foreign xml:lang="he">תוכהל</foreign></p>
+      <p><foreign xml:lang="he">לחה</foreign></p>
+      <p><foreign xml:lang="he">ןמינבו</foreign></p>
+      <p>20Clauses with participial predicates are not included here, as in these, the subject stands in first place in the unmarked order. See Waltke and O’Connor (N 2): §8.4.2e. On the function of the P-S order, see Revell, “Conditioning” (N 18).</p>
+      <p>21 Possibly also the examples with <foreign xml:lang="he">הנפי</foreign> in 1 Sam 13:17,18, but the subject, <foreign xml:lang="he">שאר</foreign> “division,” is not found with plural coreferents, and may not be properly regarded as a collective. The use of <foreign xml:lang="he">שאר</foreign> as subject of a singular verb in Judg 9:37, which would also fit this category (as complementary, not contrastive), is similarly ignored.</p>
+      <pb n="70"/>
+      <head>MAARAV9 (2002)</head>
+      <p>(cf. Judg 20:31), also Judg 20:41 (<foreign xml:lang="he">ךפה</foreign> cf. 20:39), 2 Sam 19:9 (<foreign xml:lang="he">סונ</foreign> cf. 18:17). The same may occur where the information clearly belongs to the past with reference to the narrative, even though it has not actually been given before, as</p>
+      <p>19:16</p>
+      <p>Sam Judah had come to Gilgal to go . ..</p>
+      <p>...</p>
+      <p><foreign xml:lang="he">תכלל</foreign></p>
+      <p><foreign xml:lang="he">הלגלגה</foreign></p>
+      <p><foreign xml:lang="he">אב</foreign></p>
+      <p><foreign xml:lang="he">הדוהיו</foreign></p>
+      <p>(cf. 2 Sam 19:15), also Judg 21:1 (<foreign xml:lang="he">עבשנ</foreign>), and 2 Kgs 17:19 (<foreign xml:lang="he">רמש</foreign>). In this last example the relevant information is given in two clauses, the second beginning with an imperfect form with wizw-consecutive. Apart from this, the collectives in these clauses are not represented by corefer- ents in following clauses.22</p>
+      <p>4.4  The verb is also singular where the clause is “descriptive” or “incidental” but of no great significance for what follows,  as</p>
+      <p>8:11</p>
+      <p>Judg The camp was secure (confident of its security).</p>
+      <p><foreign xml:lang="he">היה חטב</foreign></p>
+      <p><foreign xml:lang="he">הנחמהו</foreign></p>
+      <p>Also Judg 7:1,8 (1 ,(<foreign xml:lang="he">היה</foreign> Sam 14:3 ( ), and 1 Kgs 16:21 (<foreign xml:lang="he">היה</foreign>, the clause is the first of a contrasting pair which elucidates the preceding statement). All these examples are low in transitivity.</p>
+      <p><foreign xml:lang="he">עדי</foreign>(,</p>
+      <p>)<foreign xml:lang="he">שגנ</foreign></p>
+      <p>Subject followed by plural verb.</p>
+      <p>4.5  A verb following a collective subject is plural where the clause is the second of a contrasting pair, as</p>
+      <p>Sam</p>
+      <p><foreign xml:lang="he">הדוהי</foreign> 20:2</p>
+      <p><foreign xml:lang="he">שיאו</foreign></p>
+      <p>]...</p>
+      <p><foreign xml:lang="he">דוד</foreign></p>
+      <p><foreign xml:lang="he">ירחאמ</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">לכ שיא םכלמב</foreign></p>
+      <p><foreign xml:lang="he">לעיו</foreign>[ <foreign xml:lang="he">וקבד</foreign></p>
+      <p>(All the men of Israel rejected David as leader .. .) but the men of Judah stuck with their king.</p>
+      <p>22Members of this group are called “contextualizing clauses” in E. J. Revell, “The</p>
+      <p>Battle with Benjamin,” VT35 (1985): 421.</p>
+      <p>Descriptive clauses provide further information relevant to the preceding clause. They have a number of features in common with the “detached participial clauses” discussed in Thompson (N 19). Incidental clauses are not closely related to their context. They are used to present isolated events. These clause types are set up in Revell, “Battle” (N 22): 419, 421.</p>
+      <pb n="71"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>20:17</p>
+      <p>)<foreign xml:lang="he">וערכ</foreign>(,</p>
+      <p>6 )<foreign xml:lang="he">ושיחה</foreign>(,</p>
+      <p><foreign xml:lang="he">וראשנ</foreign>(, 37</p>
+      <p>7 )<foreign xml:lang="he">ובש</foreign> 48</p>
+      <p>cf. 20:15), Also Judg 7:3 ( )<foreign xml:lang="he">וכלי</foreign>(, )<foreign xml:lang="he">ודקפתה</foreign> 20:33 (2 ,( Sam 18:4 (1 ,(<foreign xml:lang="he">ואצי</foreign> Kgs 20:27 <foreign xml:lang="he">ומק</foreign>(, (<foreign xml:lang="he">ואלמ</foreign>). Also presumably 1 Sam 13:6 (<foreign xml:lang="he">ואר</foreign>), and 2 Sam 2:31 (<foreign xml:lang="he">ותמ</foreign>), although the syntax there is obscure. In 1 Sam 13:2 (<foreign xml:lang="he">ויה</foreign>), and 25:13 (<foreign xml:lang="he">ובשי</foreign>), the subject is a number (dual in form in the latter) with no accompanying collective. On 2 Sam 24:17, “What have the sheep done?” see N 27.</p>
+      <p><foreign xml:lang="he">המ</foreign></p>
+      <p><foreign xml:lang="he">ןאצה</foreign></p>
+      <p><foreign xml:lang="he">ושע</foreign></p>
+      <p>4.6  The verb is also plural where the clause is “incidental”—presenting some more or less isolated event which nevertheless has some significance for what follows. A clause of this sort is sometimes the first of a pair, presenting the perception of a situation by the collective subject, and is followed by a clause describing an event consequent on this perception, as</p>
+      <p>3:21</p>
+      <p><foreign xml:lang="he">וקעציו</foreign> 2 Kgs All Moab heard .. . and were summoned . . .</p>
+      <p>...</p>
+      <p>...</p>
+      <p><foreign xml:lang="he">ועמש</foreign></p>
+      <p><foreign xml:lang="he">באומ</foreign></p>
+      <p><foreign xml:lang="he">לכו</foreign></p>
+      <p>Also 1 Sam 14:22 (2 ,(<foreign xml:lang="he">ועמש</foreign> Sam 3:36 (<foreign xml:lang="he">וריכה</foreign>), in 1 Sam 13:4 (<foreign xml:lang="he">ועמש</foreign>) the clause which gives the consequence has a nominal subject. In 1 Sam 17:24, an infinitive (<foreign xml:lang="he">םתוארב</foreign> “when they saw”) is used to present the initial perception. In the case in 2 Sam 18:5 (<foreign xml:lang="he">ועמש</foreign>) no action consequent on the perception is described, but the significance of the perception is made clear in 2 Sam 18:12.</p>
+      <p>4.7  Where not initiated by perception, the event may still be presented as an initial action and its consequence, as</p>
+      <p>... 5:2 2 Kgs Aram went out on raids, and captured .. .</p>
+      <p><foreign xml:lang="he">ובשיו</foreign></p>
+      <p><foreign xml:lang="he">םידודג</foreign></p>
+      <p><foreign xml:lang="he">ואצי</foreign></p>
+      <p><foreign xml:lang="he">םראו</foreign></p>
+      <p>Elsewhere, the significance of the event described is made clear in a following clause (although it does not present a consequential action) in Judg 2:10 (<foreign xml:lang="he">ופסאנ</foreign>) or after an interval in 2 Sam 18:17 (<foreign xml:lang="he">וסנ</foreign> cf. 2 Sam 19:9). More usually, the event is presented in a single clause, and its significance becomes clear as the narrative progresses, as</p>
+      <p>17:20</p>
+      <p>Sam The force going out to the battleground, they shouted in the battle.</p>
+      <p><foreign xml:lang="he">הכרעמה</foreign></p>
+      <p><foreign xml:lang="he">המחלמב</foreign></p>
+      <p><foreign xml:lang="he">וערהו</foreign></p>
+      <p><foreign xml:lang="he">ליחהו</foreign></p>
+      <p><foreign xml:lang="he">אציה</foreign></p>
+      <p><foreign xml:lang="he">לא</foreign></p>
+      <p>This clause provides the motivation for David’s going out to the bat- tiefield, where he sees Goliath. In 1 Sam 14:25 (<foreign xml:lang="he">ואב</foreign>) the entering of the</p>
+      <pb n="72"/>
+      <head>MAARAV 9 (2002)</head>
+      <p>forest where honey was plentiful sets the scene for Jonathan’s accidental sin (but the text is widely distrusted here). In 1 Sam 14:41 (<foreign xml:lang="he">ואצי</foreign>) the innocence of the people establishes the fact that either Saul or Jonathan is guilty. In 2 Sam 2:10 (<foreign xml:lang="he">ויה</foreign>), the fact of Judah’s following David provides the motivation for the battle in the following chapter. In 2 Sam 4:1 (<foreign xml:lang="he">ולהבנ</foreign>) the terror of Israel provides motivation for their going over to David. In 2 Kgs 25:5 (<foreign xml:lang="he">וצפנ</foreign>) the scattering of the king’s force explains his uncontested capture. In a few cases a clause of this sort has no specific significance for what follows, but seems to present a partic- ularly striking feature of the situation, as in 1 Sam 13:7 (2 ,(<foreign xml:lang="he">ודרח</foreign> Sam ). This is presumably true of the case in 1 Sam 15:30 ( 2:33 (<foreign xml:lang="he">ותומי</foreign>), but the context is obscure.</p>
+      <p>23:10</p>
+      <p>)<foreign xml:lang="he">ובשי</foreign></p>
+      <p><foreign xml:lang="he">ופח</foreign>(,</p>
+      <p>Other constituents preceding the verb.</p>
+      <p>4.8  Other constituents are occasionally placed before the verb of a clause with a collective subject. Where a direct object marked by the preposition <foreign xml:lang="he">תא</foreign> is so placed, the verb is singular, as in 1 Sam 7:14 (<foreign xml:lang="he">ליצה</foreign>). The clause continues the preceding topic (note the anaphoric pronoun). The verb is plural in 2 Kgs 25:10 (<foreign xml:lang="he">וצתנ</foreign>), where the object introduces a new topic. An adverbial is placed before the singular verb of a clause in Judg 11:16 (2 ,(<foreign xml:lang="he">ךלה</foreign> Sam 1:4 (1 ,( Kgs 12:1 (2 ,(<foreign xml:lang="he">אב</foreign> Kgs 8:20 (<foreign xml:lang="he">עשפ</foreign>). Where the adverbial refers to a participant, the clause is incidental. It has no significance for the ongoing narrative in 2 Kgs 8:20. In Judg 11:16, it occurs in a passage of historical synopsis in which singular coreferents are unusually common (but see §7.3). Where the adverbial refers to an individual participant, the verb is plural, as</p>
+      <p>)<foreign xml:lang="he">הלענ</foreign></p>
+      <p><foreign xml:lang="he">לפנ</foreign>(,</p>
+      <p>2:27</p>
+      <p>2:15</p>
+      <head>1 Kgs All Israel looked to me to rule.</head>
+      <p><foreign xml:lang="he">ךלמל</foreign></p>
+      <p><foreign xml:lang="he">םהינפ</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">ומש לכ</foreign></p>
+      <p><foreign xml:lang="he">ילעו</foreign></p>
+      <p>Here the adverbial refers to the speaker, and the importance of the clause to him (it is a claim for status) appears to be reflected by the choice of the plural verb (cf. §9.3). In 2 Sam 15:11 (<foreign xml:lang="he">וכלה</foreign>), where a plural verb also follows an adverbial, the 200 unsuspecting men who “accompanied” Absalom must represent, at the very least, a significant depletion of the forces available to David in Jerusalem, explaining the fact that he had no resource but flight (2 Sam 15:14), even if their ignorance of the intended rebellion might make them a doubtful asset to Absalom. This is, then, an incidental clause of considerable interest for the narrative.</p>
+      <pb n="73"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>4.9  Grammatical features cannot account for the distribution of singular and plural in these verbs which follow a collective subject. As described, the choice of number does correlate with the relative significance of the structure for the narrative—its relative prominence. “Narrative prom- inence” can also account for the choice of number in the few cases where a constituent other than the subject precedes a verb with a collective subject. The interpretation of “prominence” is, of course, often subjective, but the regularity of the pattern shown where the criterion—whether the structure contrasts with what precedes or no—approaches objectivity is a significant support for the view presented here.</p>
+      <p>5. Verbs (ii) Number Variation in the Same Lexical Context.</p>
+      <p>5.1  The effects of narrative prominence in other situations can be observed through comparison of clauses with the same verb and the same collective subject. (There are no examples of the same collective subject used with singular and plural forms of the same participle heading the predicate. Examples with similar subjects are given.) Some dozen groups of clauses related in this way can be found, of which the following are typical examples. All examples of the verbs or participles used with the collective subject in question are discussed.</p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">םעה שיא</foreign>,</p>
+      <p>, ‘The people, the men of Israel’; <foreign xml:lang="he">רמא</foreign> ‘Say’. 5.2 Where a singular verb with ‘the people’ as subject introduces a direct quotation, the content of the speech is of minor significance to the narrative. In 1 Sam 10:11, the speech is a casual comment.  In 1 Sam 14:45, it opposes Saul’s decision (given in the preceding verse) to kill Jonathan, but this is secondary to the following clause (in which “the people” is repeated as subject) which presents the result of this successful opposition. The situation is similar in 2 Sam 18:3. Where “the people” is subject of a plural verb presenting a direct quotation in 1 Sam 14:40, the speech conveys the people’s assent to the carrying out of the investi- gation which led to Saul’s decision to kill Jonathan. This presents dramatic irony. The reader knows that Saul’s misguided enthusiasm has made Jonathan technically guilty. The same distinction between the use of a singular verb to introduce unimportant material, and a plural verb where what is said is more significant, can be seen where the speech is not</p>
+      <p>24It is evidently related as the origin of a “proverbial” saying, but this saying has no</p>
+      <p>particular significance in its immediate context. See the discussion in P. Kyle McCarter, I Samuel (Anchor Bible 8; Garden City: Doubleday, 1980): 183.</p>
+      <pb n="74"/>
+      <head>MAARAV9 (2002)</head>
+      <p>quoted directly. In 1 Sam 17:27 “The people told (singular) him the same sort of thing” shows that David’s second enquiry elicited the same information as the first (given in 1 Sam 17:25). In 1 Sam 30:6 “The people said (plural) to stone him” has a much more prominent role in the narrative. It indicates the state of mind of David’s men, showing that events have placed him in a very dangerous situation.</p>
+      <p>In 1 Sam 17:25 “The men of Israel said” (singular) introduces the 5.3 quotation of casual gossip. It is true that this catches David’s attention, but it leads only indirectly to his confrontation with Goliath (cf. 1 Sam 17:31). In Judg 8:22, where “the men of Israel” is subject and the verb “say” is plural, it introduces the invitation to Gideon to become king. This would be widely regarded as an impious assault on the foundations of society (cf. the dismay later evoked by a similar request in 1 Sam 8:6-9). It is naturally prominent.</p>
+      <p><foreign xml:lang="he">לכ םעה</foreign></p>
+      <p>, ‘All the people’; <foreign xml:lang="he">ךלה</foreign> ‘walk, go’. In 2 Sam 6:19, “All the 5.4 people went (s.), each to his home” closes the description of the bringing of the ark to Jerusalem. “The people” play no significant role in the context. In 1 Sam 11:15 “All the people went (pl.) to Gilgal” introduces the story of the acclamation of Saul as king. “All the people” play a central role; they are represented by the 3 m.pl. subject pronouns in the two following clauses. In Judg 7:7 “All the people will go, each to his place,” where the subject precedes the verb, the use of the plural is due to the contrast with what precedes (see §4.5).</p>
+      <p><foreign xml:lang="he">תיבו</foreign></p>
+      <p><foreign xml:lang="he">םילדו</foreign></p>
+      <p><foreign xml:lang="he">םיכלה</foreign></p>
+      <p><foreign xml:lang="he">לואש</foreign></p>
+      <p>5.5  The use of the plural in 2 Sam 3:1 “The house of Saul went on (pl.) getting weaker,” contrasts with the use of the singular in 2 Sam 15:12 “The people with Absalom went on (s.) increasing in number.” The significance of the information for the narrative is about the same in the two passages. In 2 Sam 15:12, the clause does not contrast with the preceding, it com- plements it. Moreover, it ends a section of narrative. For these reasons the clause in 2 Sam 15:12 is relatively low in prominence. The clause</p>
+      <p><foreign xml:lang="he">םולשבא</foreign></p>
+      <p><foreign xml:lang="he">םעהו</foreign></p>
+      <p><foreign xml:lang="he">תא</foreign></p>
+      <p><foreign xml:lang="he">ךלוה</foreign></p>
+      <p><foreign xml:lang="he">ברו</foreign></p>
+      <p>25The ancient versions take</p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign></p>
+      <p>as denoting “a man of Israel” here. However</p>
+      <p>such a designation is typically used only where distinction from foreigners is required, as in Judg 7:14, also Num 25:8,14; otherwise, the epithet “of Israel” is superfluous. Collective value is more likely. See the comment in H. W. Hertzberg, Die Samuelbiicher (2nd ed.; Das Alte Testament Deutsch 10; Gottingen: Vandenhoeck &amp; Ruprecht, 1960): 114 n. 4. McCarter ([N 24]: 299) takes the phrase as a vocative, but offers no support for the view. As far as I know, there is no parallel.</p>
+      <pb n="75"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>in 2 Sam 3:1 does contrast with the preceding clause.26 The use of the plural verb is no doubt mainly due to this contrast. The clause stands at the beginning of a section dealing with the fortunes of Saul’s house, which continues, after a digression, in 2 Sam 3:6.</p>
+      <p><foreign xml:lang="he">לכ םעה</foreign></p>
+      <p>‘All the people’; <foreign xml:lang="he">דמע</foreign> ‘Stand (still)’. In 2 Sam 20:12 “All 5.6 the people stopped (s.)” the information is new, but is secondary in comparison with the following clauses, which describe the remedy for the situation. For this reason the clause has low prominence. In 2 Sam 2:28 “All the people stopped (pl.)” marks the end of a fierce battle. Its significance for the narrative is indicated by the two following com<foreign xml:lang="he">־</foreign> plementary clauses with subject coreferent with “all the people”: “They pursued Israel no further and they did not continue to fight.” The full meaning of “All the people stood (s.) in the covenant” (2 Kgs 23:3) is uncertain. The clause ends the description of a ceremony performed by the king as representative of the community, and presumably conveys the people’s assent to his undertakings on their behalf (“the people” plays no other part in the context). It is thus secondary to his actions, as well as terminal, and so low in prominence.</p>
+      <p>In 1 Kgs 22:19 “The whole host of heaven was standing (singular 5.7 participle), beside him” is a descriptive clause, which complements the preceding. It presents part of the background of a narrative within the narrative: a vision used by a prophet to convey a warning. In 1 Sam 17:3 “Israel were standing (plural participle) on the hill on the other side” the use of the plural participle is no doubt mainly due to the fact that this clause contrasts with the preceding. The clause presents part of the background to the mainline narrative.</p>
+      <p>5.8  Grammatical features cannot account for the choice of singular or plural verbs in these examples. Equally, it is impossible to argue that the collective was perceived as denoting a single group when the verb is singular, a collection of individuals when the verb is plural, without supporting the argument by reference to the situation in which the clause stands. The use of the plural in these examples corresponds generally to the categories set up in §4, so that a preliminary description of narrative prominence can be set up.</p>
+      <p>26The participles in that clause,</p>
+      <p><foreign xml:lang="he">קזחו</foreign></p>
+      <p><foreign xml:lang="he">ךלה</foreign></p>
+      <p>“became progressively stronger,” are singular,</p>
+      <p>but the subject, David, is technically an example of synecdoche, not a collective.</p>
+      <pb n="76"/>
+      <head>Prominent:</head>
+      <head>MAARAV 9 (2002)</head>
+      <p>1.  Material which contrasts with what precedes: §§4.5, 5.4 (Judg</p>
+      <p>7:7), 5.5 (2 Sam 3:1), 5.7 (1 Sam 17:3).</p>
+      <p>2.  Material which is not thematic, but which is significant for the progress of the narrative: §§4.6, 7, also the “significant” speech in §§5.2,3.</p>
+      <p>3.  Material at the beginning of, or within, a narrative section dealing with a topic which is mentioned several times, and so can be considered a theme: §§5.4(1 Sam 11:15), 5.5 (2 Sam 3:1), 5.6 (2 Sam 2:28).</p>
+      <head>Non-prominent:</head>
+      <p>4.  Material which complements what precedes: §§4.2, 5.5 (2 Sam</p>
+      <p>15:12), 5.7(1 Kgs 22:19).</p>
+      <p>5.  Material which is not significant for the progress of the narrative because it is (explicitly or implicitly) repeated, and serves only as the context for other events, or because it merely adds descriptive detail to what precedes: §§4.3, 4.4, 5.6 (2 Sam 20:12), 5.7 (1 Kgs 22:19).</p>
+      <p>6.  Material terminating a section of narrative, or occurring within it, but neither thematic, nor otherwise significant for its progress: §§5.4 (2 Sam 6:19), 5.5 (2 Sam 15:12), 5.6 (2 Kgs 23:3), also the unimportant speech in §§5.2, 3.</p>
+      <p>5.9  The survey of number in verbs with collective subjects in sections §4 and §5 demonstrates a strong correlation between the use of the plural and high prominence in terms of narrative function. Overall, the head of the predicate is singular in about 60% of the cases where the subject is collective. Singular can, then, be considered the “unmarked” or “default” usage, the form chosen where there is no need to draw special attention to the clause. Plural, the “marked” usage, carries the information that the collective subject, or the clause as a whole, is of particular significance in the narrative. It is a means of drawing attention to the structure comparable to the use of louder or slower enunciation, or to underlining in a written text.</p>
+      <p>6. Attributives.</p>
+      <p>6.1  An adjective or participle attributive to a collective typically pre­ sents a quality or characteristic of the group represented by the collective, or of the individuals which form it. Such attributives, and also demon­ stratives used as attributives, are typically singular, as</p>
+      <pb n="77"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <head>1 Kgs 20:13,28 All this great crowd.</head>
+      <p><foreign xml:lang="he">הזה</foreign></p>
+      <p><foreign xml:lang="he">לודגה</foreign></p>
+      <p><foreign xml:lang="he">ןומהה</foreign></p>
+      <p><foreign xml:lang="he">לכ</foreign></p>
+      <p>Other attributives with stative or passive value used in this way are <foreign xml:lang="he">בר</foreign> “large” (2 Sam 13:34; 1 Kgs 3:8; 5:21); <foreign xml:lang="he">רחא</foreign> “other” (Judg 2:10); <foreign xml:lang="he">הלותב</foreign> “virgin” (Judg 21:12); <foreign xml:lang="he">חטב</foreign> “secure” (Judg 18:10); “calm and secure” (Judg 18:27; also Judg 18:7, but the syntax there is obscure).27 Participles of active verbs (with or without a nominal object) which present a characteristic of the group designated by the collective are typically singular in the same way, as</p>
+      <p><foreign xml:lang="he">טקש</foreign></p>
+      <p><foreign xml:lang="he">חטבו</foreign></p>
+      <p>22:18</p>
+      <p>Sam 85 men who wore priestly garments (i.e., 85 priests).</p>
+      <p><foreign xml:lang="he">שיא אשנ</foreign></p>
+      <p><foreign xml:lang="he">דופא</foreign></p>
+      <p><foreign xml:lang="he">דב</foreign></p>
+      <p><foreign xml:lang="he">השמחו</foreign></p>
+      <p><foreign xml:lang="he">םינמש</foreign></p>
+      <p><foreign xml:lang="he">השע</foreign></p>
+      <p><foreign xml:lang="he">המחלמ</foreign></p>
+      <p>“makers of war” (1 Kgs 12:21), and</p>
+      <p>So also <foreign xml:lang="he">ףלש ברח</foreign> “sword bearers” (Judg 8:10; 20:2,15,17,46; 2 Sam 24:9; 2 Kgs 3:26).28 The same is true of <foreign xml:lang="he">בשי</foreign> “inhabitant” followed by a noun or prepositional phrase indicating the place inhabited (Judg 1:9,10,17,21,29; 3:3; 11:21; 2 Sam 5:6; 1 Kgs 9:16). The phrase (Judg 18:7) could be added, but the syntax of the passage is obscure.29 The singular may also be used where the characteristic presented is of limited duration, as</p>
+      <p><foreign xml:lang="he">חטבל</foreign></p>
+      <p><foreign xml:lang="he">תבשי</foreign></p>
+      <head>1 Kgs 20:16 32 kings helping him.30</head>
+      <p><foreign xml:lang="he">ותא</foreign></p>
+      <p><foreign xml:lang="he">ךלמ רזע</foreign></p>
+      <p><foreign xml:lang="he">םינשו</foreign></p>
+      <p><foreign xml:lang="he">םישלש</foreign></p>
+      <p><foreign xml:lang="he">רודה</foreign></p>
+      <p><foreign xml:lang="he">אוהה</foreign></p>
+      <p>27Attributive use of a singular demonstrative occurs in</p>
+      <p>“that generation” (Judg 2:10), and often with <foreign xml:lang="he">הזה</foreign> “this.” A plural demonstrative occurs in <foreign xml:lang="he">טעמ</foreign> “those few sheep” (1 Sam 17:28) where it might well draw attention to the initial quantifier. “all these people” (1 Sam 2:23, The same usage (lacking the article) occurs in the only use, in the corpus, of a plural demonstrative with a collective denoting humans), but the text is usually felt to be at fault. In 2) Sam 24:17) the two words are probably in apposition (“These [people], the sheep,” so P. Kyle McCarter, II Samuel [Anchor Bible 9; Garden City: Doubleday, 1984]: 503), or possibly subject and predicate (so Waltke and O’Connor [N 2]: 295 “These are but sheep”). The demonstrative is not attributive.</p>
+      <p><foreign xml:lang="he">לכ םעה הלא</foreign></p>
+      <p><foreign xml:lang="he">הלא</foreign></p>
+      <p><foreign xml:lang="he">הנהה</foreign></p>
+      <p><foreign xml:lang="he">ןאצה</foreign></p>
+      <p><foreign xml:lang="he">ןאצה</foreign></p>
+      <p>28The same phrase is used as predicate in Judg 20:25 (in the plural), and in Judg 20:35</p>
+      <p>(in the singular). I can suggest no reason for the variation in number.</p>
+      <p><foreign xml:lang="he">ץראה</foreign></p>
+      <p>The plural is used in</p>
+      <p>“among the Canaanite, inhabitants of the <foreign xml:lang="he">ברקב</foreign> land” (Judg 1:32,33). This might be due to the influence of the preposition “among,” but the following singular coreferent in 1:32 suggests that the plural form may not be original (see §7.2).</p>
+      <p><foreign xml:lang="he">ינענכה</foreign></p>
+      <p><foreign xml:lang="he">יבשי</foreign></p>
+      <p>30The participial phrase must have roughly the same value as that of the prepositional</p>
+      <p>phrase in 32“</p>
+      <p><foreign xml:lang="he">ותא</foreign></p>
+      <p><foreign xml:lang="he">ךלמ</foreign></p>
+      <p><foreign xml:lang="he">םינשו</foreign></p>
+      <p><foreign xml:lang="he">םישלש</foreign></p>
+      <p>kings with him” (1 Kgs 20:1).</p>
+      <pb n="78"/>
+      <head>MAARAV9 (2002)</head>
+      <p>So also <foreign xml:lang="he">בבס</foreign> “surrounding” (2 Kgs 8:21; also in the compound in 2 Kgs 6:15), and <foreign xml:lang="he">אציה</foreign> “going out” (1 Sam 17:20).</p>
+      <p>6.2  An attributive participle is used in the plural where the noun modified, or the characteristic or action presented by the participle, is of particular significance in the context, as</p>
+      <p>8:10</p>
+      <p><foreign xml:lang="he">ךלמ</foreign> Sam The people who demanded a King from him.</p>
+      <p><foreign xml:lang="he">ותאמ</foreign></p>
+      <p><foreign xml:lang="he">םילאשה</foreign></p>
+      <p><foreign xml:lang="he">םעה</foreign></p>
+      <p><foreign xml:lang="he">לכל</foreign></p>
+      <p><foreign xml:lang="he">םיאבה</foreign></p>
+      <p><foreign xml:lang="he">החנמה</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p>Their demand is the theme of the chapter. The departure of “the people Judg 3:18) terminates Ehud’s who carried the tribute” ( <foreign xml:lang="he">יאשנ</foreign> official mission, and leaves him alone with his knife, providing a sus- penseful transition from the introductory material to the main narrative. 1)  <foreign xml:lang="he">םידעונה</foreign> Kgs 8:5) describes all the people “who had come to join” with Solomon in the inauguration of the temple. The use is similar in “to all Israel who came there” (1 Sam 2:14), <foreign xml:lang="he">םש</foreign> where the use of the plural adds to the effect of <foreign xml:lang="he">לכ</foreign> “all” in showing the comprehensive extent of the misdeeds described. The context of <foreign xml:lang="he">םיאבחתמ</foreign> “hiding” (1 Sam 14:22) shows that even the most timid were encouraged to add themselves to the forces of Israel (see §4.6). In 1 Kgs 22:17, “I saw all Israel scattered” (<foreign xml:lang="he">םיצפנ</foreign>, plural) presents a striking introduction to a prediction of disaster. Other examples of the plural occur in 2 Sam 13:34 (<foreign xml:lang="he">םיכלה</foreign>, see §6.6), 2 Sam 15:11 ( <foreign xml:lang="he">םיארק םמתל</foreign>, see §4.8), 2 Sam 19:4 (<foreign xml:lang="he">םימלכנ</foreign>, see §6.7), and 1 Kgs 16:16 (<foreign xml:lang="he">םינחה</foreign>, see §6.7).</p>
+      <p><foreign xml:lang="he">םיכלהו</foreign></p>
+      <p>6.3  The interpretation of the value of the plural offered can be tested in a few cases in which the same participle is used in both singular and plural as attributive of a collective. The most striking example is:</p>
+      <p>18:11</p>
+      <p>Judg Six hundred men equipped (s.) with weapons.</p>
+      <p><foreign xml:lang="he">המחלמ</foreign></p>
+      <p><foreign xml:lang="he">ילכ</foreign></p>
+      <p><foreign xml:lang="he">רוגח</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign></p>
+      <p><foreign xml:lang="he">תואמ</foreign></p>
+      <p><foreign xml:lang="he">שש</foreign></p>
+      <p>18:16</p>
+      <p>Judg Six hundred men equipped (pl.) with their weapons.</p>
+      <p><foreign xml:lang="he">םתמחלמ</foreign></p>
+      <p><foreign xml:lang="he">םירוגח</foreign></p>
+      <p><foreign xml:lang="he">ילכ</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign></p>
+      <p><foreign xml:lang="he">תואמ</foreign></p>
+      <p>18:17</p>
+      <p>Judg The six hundred men equipped (s.) with weapons.</p>
+      <p><foreign xml:lang="he">המחלמ</foreign></p>
+      <p><foreign xml:lang="he">רוגחה</foreign></p>
+      <p><foreign xml:lang="he">ילכ</foreign></p>
+      <p><foreign xml:lang="he">שיאה</foreign></p>
+      <p><foreign xml:lang="he">תואמ</foreign></p>
+      <p><foreign xml:lang="he">ששו</foreign></p>
+      <p><foreign xml:lang="he">ששו</foreign></p>
+      <p>In Judg 18:11, the information is new, but the significant point of the clause is the origin of the force (it represents the tribe of Dan migrating) not its size or equipment. This is shown by the three adverbials indicating</p>
+      <pb n="79"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>the origin which are placed between the verb and the subject: “There set out from there, from the tribe of Dan, from Sorcah and Eshta^l, 600 men . . ..” In Judg 18:16 the phrase stands in an incidental clause significant for what follows. The size of the force, and its equipment, determines the actions of the main protagonist, the priest. The use of the pronoun in “their weapons” presents the menacing aspect of the force more specifically. The information is presented as new (the article is not used), and so from the viewpoint of the priest, against whom the menace is directed. The use of the plural participle reflects the significance of the phrase in this situation. Judg 18:17 shows the priest standing by while his shrine is plundered. “The 600 men equipped with weapons” (part of the compound subject) are presented as old information (with anaphoric article) as a reminder of the reason for his action. The relatively low prominence is reflected in the use of the singular.</p>
+      <head>6.4  Another contrasting pair used in the same context occurs in</head>
+      <p>9:36</p>
+      <p><foreign xml:lang="he">הנה םע</foreign> Judg Look! people coming down (s.) from the tops of the mountains.</p>
+      <p><foreign xml:lang="he">ישארמ</foreign></p>
+      <p><foreign xml:lang="he">םירהה</foreign></p>
+      <p><foreign xml:lang="he">דרוי</foreign></p>
+      <p>9:37</p>
+      <p>Judg Look! people coming down (pl.) from near the ‘center of the earth’.</p>
+      <p><foreign xml:lang="he">הנה םע</foreign></p>
+      <p><foreign xml:lang="he">םידרוי</foreign></p>
+      <p><foreign xml:lang="he">םעמ</foreign></p>
+      <p><foreign xml:lang="he">ץראה</foreign></p>
+      <p><foreign xml:lang="he">רובט</foreign></p>
+      <p>In 9:36, the speaker makes a casual observation on people at such a distance that his companion can reasonably suggest that what he has seen is only shadows on the mountains. The more specific observation in 9:37 is made when the approach of hostile forces can no longer be doubted. The main concerns of the speaker correspond, in direct speech, to the purposes of the narrator in third person narrative (see §9.3). They determine what is marked as prominent or significant. The use of the plural in Judg 9:37 shows that, in contrast to the situation in the preceding verse, the people in question are now a serious concern of the speaker.</p>
+      <p>6.5  A few other examples also occur. The participles <foreign xml:lang="he">רתונ</foreign> and <foreign xml:lang="he">ראשנ</foreign> “remaining” are used in the singular in 1 Kgs 9:20 and 2 Kgs 25:22, in material extraposed before a clause. The collective modified by the participle is neither the topic of the clause, nor the focus of the narrator’s interest, in either case. The plural is used in 1 Kgs 20:30 in a clause describing the miraculous destruction of those remaining (27,000) from an immense hostile force. The plural is also used in 2 Kgs 25:11 in part of the preposed compound object which is the topic of the last of three</p>
+      <pb n="80"/>
+      <head>MAARAV9 (2002)</head>
+      <p>clauses detailing catastrophes. (Their significance is indicated, in the preceding clause, by the use of a plural verb with the collective subject, see §4.8.) In both cases the clause must be considered of considerable significance in its context, and this narrative prominence has presumably induced the use of the plural. The cases of <foreign xml:lang="he">רוחב</foreign> (singular: Judg 20:15,16; plural: 1 Sam 26:2) and <foreign xml:lang="he">אצמנ</foreign> (singular: 1 Sam 13:16; plural: 1 Sam 13:15; 2 Kgs 25:19) can be explained in similar ways.</p>
+      <p>Variation of number in subject and predicate.</p>
+      <p>6.6  Where a collective with an attributive modifier acts as subject of a clause, the attributive and the head of the predicate may or may not agree in number.  Both are singular in Judg 2:10 (1 ,(<foreign xml:lang="he">רחא</foreign> Kgs 12:27 and 2 Kgs 19:30, where the attributive is not an active participle, and the clause is intransitive, or a prediction (see §9.4). Both attributive and verb are plural in Judg 18:16, 1 Sam 14:22 and 2 Sam 15:11. The clause in these cases is sufficiently significant to be marked as prominent by the plural verb. The subject itself is also prominent. It denotes a menace in Judg 18:16 (see §6.3), a significant group of allies in 1 Sam 14:22 (see §6.2), and a similarly significant group in 2 Sam 15:11 (see §4.8). Where the attributive is singular and the head of the predicate plural, the attributive presents a characteristic: “equipped” (<foreign xml:lang="he">רוגח</foreign> Judg 18:11); “chosen” (<foreign xml:lang="he">רוחב</foreign> Judg 20:34); “large” (2 <foreign xml:lang="he">בר</foreign> Sam 13:34); also the temporary characteristic “going out” (1 <foreign xml:lang="he">אצי</foreign> Sam 17:20). The group designated by these collectives is not significant beyond the function of actor in its immediate context (on Judg 18:11, see §6.3), so that a singular attributive is expected (see §6.1). The verb presents mainline narrative in Judg 18:11 and 20:34. In 1 Sam 17:20, the clause presents a significant incident, consequently the verb is plural (see §4.7). The situation in 2 Sam 13:34 “A large (s.) people travelling (pl.)” is similar. The approach of the group is significant in the narrative context, so the use of the plural is justified (see §5.8.2). In two further cases, the attributive is a demonstrative, and so singular. In Judg 2:20, the collective is thematic, requiring a plural verb (see §5.8.2). On the use of the plural in Judg 2:10, see §4.7.</p>
+      <p>31Variation in the formal marking of number within a structure occurs in other languages</p>
+      <p>(see, e.g., M. M. P. Scherre, “La variation de la règle d’accord du nombre dans le syntagme nominal en Portugais,” in Variation Omnibus [ed. D. Sankoff and H. Cedergren; Edmonton: Linguistic Research, 1981]: 125-133), but the reasons are likely to be language­ specific.</p>
+      <pb n="81"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <head>6.7  The predicate is singular and the attributive plural in</head>
+      <p>...</p>
+      <p>16:15-16</p>
+      <p>1 Kgs The people were camping against Gibbethon . . . and the people camping (pl.) heard (s.)...</p>
+      <p><foreign xml:lang="he">םעה</foreign></p>
+      <p><foreign xml:lang="he">עמשיו</foreign></p>
+      <p><foreign xml:lang="he">םינתה</foreign></p>
+      <p><foreign xml:lang="he">ןותבג</foreign></p>
+      <p><foreign xml:lang="he">םעהו</foreign></p>
+      <p>...</p>
+      <p><foreign xml:lang="he">לע</foreign></p>
+      <p><foreign xml:lang="he">םינת</foreign></p>
+      <p>The initial plural predicate “were camping” presumably highlights the contrast between the relative positions of the king—in the capital—and the people (i.e., the army)—on campaign. The army is thus not under the king’s control, and so is able to set up its commander as a rival to him. The continued use of the plural in the attributive “camping” may simply be due to attraction, but it may be intended to highlight the significance of this group of people for the event described. The use of a singular verb no doubt reflects the fact that the clause is relatively low in transitivity, and presents an event which is effectively background to the more significant crowning of the king described in the next clause (see §7.3). The situation is similar in 2 Sam 19:4, where the plural attributive <foreign xml:lang="he">םימלכנה</foreign> heightens the simile likening David’s victorious troops to “people disgraced by defeat,” carrying on the theme of “victory turned to defeat” begun in 2 Sam 19:3. The singular verb <foreign xml:lang="he">בנגתי</foreign> “steals away” reflects the fact that the clause is of no significance for the ongoing narrative.</p>
+      <p>6.8  As described, then, an adjective, participle, or demonstrative at- tributive to a collective is typically singular. This is the “unmarked” situation. The use of the plural, which contrasts with this, generally correlates with particular significance in the narrative. That is, the “marked” use indicates narrative prominence. It is also true that adjectives and participles which denote an enduring quality or characteristic of the collective modified are almost invariably singular (as are demonstratives), while the participles of active verbs in other uses are more frequently plural. That is, the correlation of singular with stative/passive/reflexive value and plural with action noted in §2.2 is evident here. This shows that the level of transitivity was a significant factor in the choice of number in attributives. This could be considered as a separate factor, or as an aspect of what is called here “narrative prominence,” a question discussed in §9.2. The information given in §§6.6, 6.7, shows that the factors which determine the choice of number in an attributive are independent of those which determine the choice of number in a verb. This conclusion is confirmed in §8.2.</p>
+      <pb n="82"/>
+      <head>MAARAV9 (2002)</head>
+      <p>7. Other Coreferents of Collective Subjects</p>
+      <p>7.1  This section surveys the choice of number in pronouns, other than that in the verb, which are coreferent with a collective subject. The term “verb” is used in this section with the meaning “head of the predicate.” The few cases where a collective subject is marked for number by a participle or other nominal acting as head of the predicate are included. The general rule is that, when the collective is marked as plural, following coreferents are typically also plural. Where the collective is marked as singular, coreferents in the same clause (or in clauses subordinate to it) are usually singular. Otherwise they are plural. Coref­ erent pronouns in other following clauses are typically plural. Usage contrasting with these “unmarked” situations appears to carry a semantic load.</p>
+      <p>The collective is marked as plural.</p>
+      <p>7.2  Where a collective is subject of a plural verb, a coreferent is typically plural. In most of the exceptions noted, the singular coreferent can be understood as distributive in value; there is ellipsis of <foreign xml:lang="he">שיא</foreign> ‘man/each’ which is typically used in the distributive structure,  as</p>
+      <p>2:10</p>
+      <p>Judg All that generation was gathered (pl.) {each} to his fathers.</p>
+      <p><foreign xml:lang="he">ויתובא</foreign></p>
+      <p><foreign xml:lang="he">ופסאנ</foreign></p>
+      <p><foreign xml:lang="he">לא</foreign></p>
+      <p><foreign xml:lang="he">אוהה</foreign></p>
+      <p><foreign xml:lang="he">רודה</foreign></p>
+      <p><foreign xml:lang="he">לכ</foreign></p>
+      <p><foreign xml:lang="he">םגו</foreign></p>
+      <p>The same occurs in Judg 20:33 “All the men of Israel rose (pl.) {each} from his place” (<foreign xml:lang="he">ומוקממ</foreign>); also probably in the subordinate clause in 1 Sam 13:6 “The men of Israel saw (pl.) {each} that he was in distress” <foreign xml:lang="he">יכ רצ ול</foreign> ); and possibly in the descriptive clause in Judg 20:17 “The ( men of Israel gathered (pl.) . . .; {each one} of these ( ) was a warrior.” Further examples of pronouns which may have distributive value are given in §8.4. In Judg 1:34, “he did not allow him,” the subject, “he,” is coreferent with a collective subject treated as plural, the object, “him,” with a plural nominal. It seems likely that the text has been disturbed.</p>
+      <p><foreign xml:lang="he">לכ הז</foreign></p>
+      <p><foreign xml:lang="he">ונתנ</foreign></p>
+      <p><foreign xml:lang="he">אל</foreign></p>
+      <p>32See J. Levi, Die Inkongruenz im biblischen Hebräisch (Wiesbaden: Harrassowitz,</p>
+      <head>1987): 34, D.</head>
+      <pb n="83"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>The collective is marked as singular.</p>
+      <p>7.3  Where a collective is subject of a singular verb, a coreferent pronoun in the same clause, or in a clause subordinate to it, is usually singular.  In such cases, the clause is typically low in narrative prom- inence and transitivity, as</p>
+      <p>10:15</p>
+      <p>Sam Aram saw (s.) that it was driven back before Israel.</p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">ינפל</foreign></p>
+      <p><foreign xml:lang="he">םרא יכ ףגנ</foreign></p>
+      <p><foreign xml:lang="he">אריו</foreign></p>
+      <p>Here the subordinate clause presents the motivation for a new mobilization of the forces of Aram. It is introductory to a description of the activities of their leader, which are of interest only as indicating David’s problems. Thus the clause is low in narrative prominence. In addition, the clause is intransitive. A plural coreferent is used in situations high in narrative prominence or transitivity, as</p>
+      <p>12:16</p>
+      <head>1 Kgs All Israel saw (s.) that the king did not listen to them.</head>
+      <p><foreign xml:lang="he">יכ אל</foreign></p>
+      <p><foreign xml:lang="he">םהילא</foreign></p>
+      <p><foreign xml:lang="he">עמש</foreign></p>
+      <p><foreign xml:lang="he">ךלמה</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">לכ</foreign></p>
+      <p><foreign xml:lang="he">אריו</foreign></p>
+      <p>Here the clause is also introductory, but it presents the immediate cause of the division of the kingdom, and so is central to the narrator’s concerns, and high in narrative prominence. The clause is negative, but transitive. The plural is also used in Judg 2:10 (<foreign xml:lang="he">ועדי</foreign>, presenting a defect in the people which is crucial to the narrative), Judg 7:2 (<foreign xml:lang="he">םדיב</foreign>, in a clause which presents the motivation for the reduction in the strength of Gideon’s force), Judg 20:39 (<foreign xml:lang="he">ורמא</foreign>, presenting the thought which determines Ben- jamin’s disastrous action), 2 Sam 19:4 (<foreign xml:lang="he">םסונב</foreign>, highlighting the theme of victory turned to defeat, as the preceding <foreign xml:lang="he">םימלכנ</foreign>, see §6.7), and 2 Kgs 17:19 (<foreign xml:lang="he">םהיהלא</foreign>, where the plural highlights the fact that the essential obedience to God was abandoned). The final case, <foreign xml:lang="he">םתולעב</foreign> (Judg 11:16), is difficult to evaluate, as it is the only example of a pronoun of this sort preceding the collective and its verb. The use of the plural is possibly anomalous (cf. the singular suffix on the infinitive used in the same context, but following the verb, in Judg 11:13).</p>
+      <p>33Judg 1:3,17,32; 11:13; 18:1; 20:33,40,41 (1 ;(</p>
+      <p><foreign xml:lang="he">וילע</foreign>,</p>
+      <p><foreign xml:lang="he">האר</foreign></p>
+      <p>Sam 14:30 (15:2 ;(</p>
+      <p><foreign xml:lang="he">אצמ</foreign>,</p>
+      <p><foreign xml:lang="he">ויביא</foreign></p>
+      <p><foreign xml:lang="he">םש ול</foreign>,</p>
+      <p><foreign xml:lang="he">ותולעב</foreign>,</p>
+      <p>) Sam 10:15; 1 Kgs 12:16 (2 ;(<foreign xml:lang="he">וילהאל</foreign> Kgs 17:18; 25:21. It is noteworthy 2 ;( that the proportion of cases occurring in passages of historical synopsis (Judges 1, 11:13-21, and 20, see §9.4)—eight singular to two plural—is considerably higher than the proportion occurring elsewhere—ten singular to five plural.</p>
+      <pb n="84"/>
+      <head>MÆ4/MV9 (2002)</head>
+      <head>7.4  This description can be tested against contrasting usage, as in</head>
+      <p><foreign xml:lang="he">םחלשת</foreign> 8:44</p>
+      <p><foreign xml:lang="he">ךרדב</foreign> 1 Kgs When your people goes out to war against its enemy in the way in which you will send them .. .</p>
+      <p><foreign xml:lang="he">המחלמל</foreign></p>
+      <p><foreign xml:lang="he">יכ אצי</foreign></p>
+      <p><foreign xml:lang="he">ךמע</foreign></p>
+      <p><foreign xml:lang="he">לע</foreign></p>
+      <p><foreign xml:lang="he">רשא</foreign></p>
+      <p><foreign xml:lang="he">וביא</foreign></p>
+      <p>The singular is used in “its enemy,” which contributes little (“war” implies an enemy). The plural is used in “you will send them,” which makes the crucial stipulation that the people acts under God’s direction. This can be compared with “the spoil of its enemies which it found” (1 Sam 14:30). The pronouns refer to “the people.” The clause of which this is subject is somewhat obscure, but is clearly introductory to what follows, and so low in narrative prominence, and also irrealis (“past untrue”), and so low in transitivity.34</p>
+      <p>7.5  Where a collective subject of a singular verb has coreferents acting as subject of following coordinate clauses, the coreferents are usually plural (24 cases in all), as</p>
+      <p>1:30</p>
+      <p>Judg The Canaanite lived (s.) in his territory and became (pl.) forced labour.</p>
+      <p><foreign xml:lang="he">ינענכה</foreign></p>
+      <p><foreign xml:lang="he">וברקב</foreign></p>
+      <p><foreign xml:lang="he">בשיו</foreign></p>
+      <p><foreign xml:lang="he">ויהיו</foreign></p>
+      <p><foreign xml:lang="he">סמל</foreign></p>
+      <p>7:16</p>
+      <p><foreign xml:lang="he">אציו</foreign> 2 Kgs The people came out (s.) and plundered (pl.) the camp of Aram.</p>
+      <p><foreign xml:lang="he">םעה</foreign></p>
+      <p><foreign xml:lang="he">הנחמ</foreign></p>
+      <p><foreign xml:lang="he">םרא</foreign></p>
+      <p><foreign xml:lang="he">תא</foreign></p>
+      <p><foreign xml:lang="he">וזביו</foreign></p>
+      <p>The initial clause is typically introductory (as in these examples) and so low in narrative prominence. It is often lower in transitivity than the following clause (as in 2 Kgs 7:16). This is the standard or “unmarked” usage, however, so it may not be a direct reflection of these features. The contrasting use of the singular occurs where two or more closely related verbs are used in introduction, in</p>
+      <p>12:1</p>
+      <p>Judg The men of Ephraim assembled (s.) and travelled (s.) northwards and said (pl.). ..</p>
+      <p><foreign xml:lang="he">ורמאיו</foreign></p>
+      <p><foreign xml:lang="he">םירפא</foreign></p>
+      <p><foreign xml:lang="he">הנופצ</foreign></p>
+      <p><foreign xml:lang="he">קעציו</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign></p>
+      <p><foreign xml:lang="he">רבעיו</foreign></p>
+      <p>...</p>
+      <p>Three singular verbs form an introductory unit of this sort at the start of Judg 11:18. Sets of singular predicates, with no following coreferent plural, occur in passages remarkable for their high proportion of collec- tives treated as singular (Judg 1:28,33; 11:16,17; 20:16,37). The only</p>
+      <p>34See Hopper and Thompson (N 8): 252 (G).</p>
+      <pb n="85"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>other example occurs in 2 Kgs 19:30, probably because such usage is also typical of the “prophetic” register (see §9.4).</p>
+      <p>In a few cases, a non-subjective pronoun is coreferent with the 7.6 collective subject of a preceding clause. The pronoun is plural in Judg 1:4; 9:43; 21:14; singular in Judg 1:2,3,29,30; 9:38; 20:41; 1 Sam 15:2; and 1 Kgs 20:13. Most examples of the singular occur in passages in which collectives are usually treated as singular (see §9.4; that in 1 Kgs 20:13 is a prophecy), so the fact that singular is more common is probably not significant. Singular and plural contrast in</p>
+      <p>1:2</p>
+      <p><foreign xml:lang="he">הנה</foreign> Judg Judah will go first. I have given the land into his hand.</p>
+      <p><foreign xml:lang="he">ץראה</foreign></p>
+      <p><foreign xml:lang="he">תא</foreign></p>
+      <p><foreign xml:lang="he">יתתנ</foreign></p>
+      <p><foreign xml:lang="he">ודיב</foreign></p>
+      <p><foreign xml:lang="he">הלעי</foreign></p>
+      <p><foreign xml:lang="he">הדוהי</foreign></p>
+      <p>1:4</p>
+      <p>Judg Judah went up (s.), and the Lord gave the Canaanite and the Perizzite into their hand.</p>
+      <p><foreign xml:lang="he">ינענכה</foreign></p>
+      <p><foreign xml:lang="he">יזרפהו</foreign></p>
+      <p><foreign xml:lang="he">הדוהי</foreign></p>
+      <p><foreign xml:lang="he">תא</foreign></p>
+      <p><foreign xml:lang="he">םדיב</foreign></p>
+      <p><foreign xml:lang="he">לעיו</foreign></p>
+      <p>!<foreign xml:lang="he">דוהי</foreign></p>
+      <p><foreign xml:lang="he">ןתיו</foreign></p>
+      <p>In Judg 1:2, the clause containing the singular “his hand” is a promise made to support the preceding clause, which, as the answer to a question, has high prominence. In Judg 1:4, the use of the plural “their hand” highlights the fulfillment of this promise; the preceding clause is intro- ductory. It is possible, then, that the plural is a mark of narrative prom- inence in this situation also, but the evidence is too limited for certainty. Both numbers are used in Judg 6:3-4, where the text is commonly felt to be at fault, and in Judg 20:44-45, where the plural subject may possibly reflect the tendency to treat “actors” as plural, noted in §2.2, while the singular object is characteristic of the tendency to use singular coreferents for collectives in this chapter.</p>
+      <p>8. Coreferents of Collectives which Do Not Act as Subject.</p>
+      <p>8.1  A pronoun coreferent with a collective which does not act as subject is usually plural, even where the collective is modified by a singular attributive. Singular pronouns are common only within the same clause as the collective. They usually occur as part of the same phrase  as the collective, as</p>
+      <p>35The term “constituent” cannot be used unless it is defined so as to exclude relative clauses modifying a nominal. Coreferents in such clauses are typically plural, as in 1 Sam 8:7; 1 Kgs 12:9,10; and 2 Kgs 21:8 (14 cases in all). Singular coreferents occur in Judg 20:10; 21:12; 1 Kgs 3:8; and 22:47. See §8.5.</p>
+      <pb n="86"/>
+      <head>MAARAV9 (2002)</head>
+      <head>2 Kgs 2:12; 13:14 The chariotry of Israel and its horsemen.</head>
+      <p><foreign xml:lang="he">וישרפו</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <p><foreign xml:lang="he">בכר</foreign></p>
+      <p><foreign xml:lang="he">אהל</foreign></p>
+      <p>See also 2 Sam 2:9 (<foreign xml:lang="he">הלכ</foreign>) and 1 Kgs 12:20 (<foreign xml:lang="he">ודבל</foreign>). A singular pronoun is used in another constituent in 1 Sam 15:2 ( ) and 2 Kgs 24:2 ) where the context is a historical synopsis (see §9.4). A pronoun <foreign xml:lang="he">דיב ו</foreign> ( in a constituent other than that containing the collective is usually plural, as in Judg 20:10 (2 ,( Sam 2:26 (3:18 ,(<foreign xml:lang="he">םהיחא</foreign> 1 ,(<foreign xml:lang="he">םהיביא</foreign>) Kgs 12:27 ( ), and 16:2 22:11 (<foreign xml:lang="he">םתלכ</foreign>). A plural coreferent occurs in the same constituent as the collective only in</p>
+      <p>)<foreign xml:lang="he">םתולעהל</foreign> )<foreign xml:lang="he">םתאטחב</foreign>(,</p>
+      <p>)<foreign xml:lang="he">םהילבהב</foreign></p>
+      <p><foreign xml:lang="he">םהינדא</foreign>(,</p>
+      <p><foreign xml:lang="he">וילע ול</foreign>,</p>
+      <p><foreign xml:lang="he">םאובל</foreign>(,</p>
+      <p>20:38</p>
+      <p>16:26</p>
+      <p>16:15</p>
+      <p>2 Kgs The whole offering of all the people of the land, and their meal offering and their drink offering.</p>
+      <p>... <foreign xml:lang="he">תלע לכ םע</foreign></p>
+      <p><foreign xml:lang="he">םהיכסנו</foreign></p>
+      <p><foreign xml:lang="he">םתחנמו</foreign></p>
+      <p><foreign xml:lang="he">ץראה</foreign></p>
+      <p>...</p>
+      <p>8.2  The difference between the example in 2 Kgs 16:15 and that in 2 Kgs 2:12 might well be that in 2 Kgs 2:12 the pronoun merely represents the possessor. In 2 Kgs 6:15 it represents the performer of an action, a situation conducive to the use of the plural (see §2.2). Apart from this possibility, the choice of number in this situation appears to be conditioned mainly by the “syntactic domain” of the collective. Where the collective acts as subject, the syntactic domain which governs the choice of number is typically the whole clause, including subordinate clauses (see §7.3). In the situation discussed here, where the collective is not marked for number by the head of the predicate, this syntactic domain is usually limited to the phrase in which the collective occurs, even where it is marked for number by an attributive, as in 1 Kgs 12:27. This confirms the conclusion reached in §6.8, that the factors which condition number in the attributive of a collective and those which condition the choice in the verb of which it is subject, are independent. That is, as argued here, a collective is not categorized in isolation as grammatically singular or plural. The choice of number is conditioned by the situation in which the collective is used.</p>
+      <p>8.3  The special situation of an addressee designated by a collective in an introduction to a speech conforms to the above description in that plural coreferent pronouns are typically used within the speech, as in 1 Sam 7:3, 11:9, 12:1, and 14:40. The singular is used in Judg 1:3, in a passage showing a tendency to use the singular (see §9.4). The use of the singular in 1) Kgs 12:16) “To your (s.) tents, Israel!” may possibly derive (by ellipsis or error) from the typical distributive</p>
+      <p><foreign xml:lang="he">ךילהאל</foreign></p>
+      <p><foreign xml:lang="he">לארשי</foreign></p>
+      <pb n="87"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>structure “Each to your (s.) tents ...”(... 10:16; 1 Kgs 22:36).36</p>
+      <p><foreign xml:lang="he">ךילהאל</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign></p>
+      <p>cf. 2 Chron</p>
+      <p>8.4  The plural is typically used in other cases in which the coreferent pronoun does not stand in the same clause as the collective. This includes 26 cases where the pronoun stands in a relative or other subordinate clause, and some 70 in which it stands in a main clause. Examples are</p>
+      <p>8:5</p>
+      <p>Judg Give ... to the people . .. because they are weary.</p>
+      <p><foreign xml:lang="he">םיפיע</foreign></p>
+      <p><foreign xml:lang="he">םה</foreign></p>
+      <p><foreign xml:lang="he">ונת</foreign> ... <foreign xml:lang="he">םעל</foreign> ... <foreign xml:lang="he">יכ</foreign></p>
+      <p>9:43</p>
+      <p>Judg He took the people and divided them...</p>
+      <p>...</p>
+      <p><foreign xml:lang="he">םצחיו</foreign></p>
+      <p><foreign xml:lang="he">תא םעה</foreign></p>
+      <p><foreign xml:lang="he">חקיו</foreign></p>
+      <p>8:7 1</p>
+      <p><foreign xml:lang="he">רשא</foreign> Sam Listen to the people, to all that they say .. .</p>
+      <p><foreign xml:lang="he">ורמאי</foreign></p>
+      <p>...</p>
+      <p><foreign xml:lang="he">לכל</foreign></p>
+      <p><foreign xml:lang="he">םעה</foreign></p>
+      <p><foreign xml:lang="he">לוקב</foreign></p>
+      <p><foreign xml:lang="he">עמש</foreign></p>
+      <p>8:66</p>
+      <p>... 1 Kgs He dismissed the people, and they blessed ...</p>
+      <p><foreign xml:lang="he">וכרביו</foreign></p>
+      <p><foreign xml:lang="he">חלש תא םעה</foreign></p>
+      <p><foreign xml:lang="he">העדי</foreign></p>
+      <p><foreign xml:lang="he">לכ הז</foreign></p>
+      <p><foreign xml:lang="he">רשא אל</foreign> . . .</p>
+      <p>8.5  Singular pronouns occur sporadically. In some cases, the singular may have distributive value (cf. 1 Kgs 8:38). In Judg 20:16 may mean “each one of these,” describing an active force as opposed to <foreign xml:lang="he">לכ הלא</foreign> (Judg 20:25,35) “all of these,” describing the dead (cf. Judg 20:17 girls, none of whom had in §7.2). Judg 21:12 (400“ known a man”), Judg 7:4 (. . . “Take them (the <foreign xml:lang="he">ונפרצאו םתוא</foreign> people) down . . . and I will test each . . .”), and 1 Kgs 5:28 (<foreign xml:lang="he">ותיבב</foreign> “each to his house”)  could similarly be interpreted as distributive. A few other examples occur in the passages marked by a tendency to treat collectives as singular (Judg 1:28; 11:23; 20:10,39,43). The collective “Israel” similarly has singular coreferents in the passage of prophecy in 2 Sam 7:10 (see §9.4). The other cases I have noted are Judg 6:35 (“Menasseh also was called out [s.]”), Judg 7:9 (“I have given it [the camp] into your power”), 1 Sam 15:3 (“Attack Amalek and destroy all that is his, and do not pity him”), 1 Sam 15:6 (“Depart from among the Amalekite lest I remove you with him”), 1 Sam 15:18 (“Destroy . . .</p>
+      <p><foreign xml:lang="he">דרו</foreign></p>
+      <p>36Shifts in number occasionally occur in first and second person pronouns, as in Judg</p>
+      <p>11:19, 1 Sam 15:3, 30:22, 2 Sam 19:43. Such shifts appear to be features of the use of these pronouns, not of the use of collectives, and so are not considered here. The shift from plural to singular pronouns coreferent with the collective addressee in 1 Sam 15:6 is one of these.</p>
+      <p>37The antecedent <foreign xml:lang="he">שיא</foreign> in verse 27 is complement of a singular verb, but the intervening</p>
+      <p>coreferents are plural.</p>
+      <pb n="88"/>
+      <head>MAARAV9 (2002)</head>
+      <p>Amalek, and fight him until you [!] destroy them”), 1 Kgs 3:8 (“A large people which cannot be numbered nor counted . . 1 Kgs 22:47 (“The rest of the sacred prostitutes which is left. . Several of these cases show low narrative prominence or transitivity. Nevertheless, the situations generally are not clearly distinct from those in which plural pronouns are used, so these cases must be regarded as anomalous.</p>
+      <p>9. Conclusion.</p>
+      <p>9.1  This survey shows that, generally speaking, the choice of number in coreferents of the collectives in the corpus follows regular patterns. Where the collective is subject of a clause, the head of the predicate is generally singular, as are other coreferents within the clause, and in clauses subordinate to it. More distant coreferents, outside the syntactic unit formed by the clause, are generally plural.  Where a collective does not act as subject, coreferents are also usually plural; the singular is common only within the same constituent as the collective. A nominal attributive to a collective is generally singular, but this also has no effect on other relationships within the clause. Where singular is expected, the use of the plural is mainly determined by the prominence of the collective or its clause in the narrative. Other factors, particularly high transitivity, and the fact that the collective is actor, are also conducive to the use of the plural. Certain passages, characterized above as “histor­ ical synopsis” or “prophetic register,” use an unusually high proportion of singular cjoreferents. Outside these passages, the proportion of exam­ ples which must be described as anomalies, in that they clearly conflict with the common pattern, is negligible.</p>
+      <p>“Narrative prominence” is a form of “grounding,” and so related 9.2 to the level of transitivity (see §3.4). The two factors which mainly determine the use of the plural can, then, be seen as aspects of a single factor, for which the term “immediacy” seems appropriate. Material which is prominent in the narrative is “immediate” in the sense that it is central to the narrator’s purpose. Narrative is concerned with a series of</p>
+      <p>38Other languages also show a shift from “unnatural” to “natural” concord as the distance between a pronoun and its antecedent widens. See Miihlhausler and Harrd ([N 6]: 72), also the Shakespearean examples noted in Fries ([N 6]: 21). The same phenomenon is shown in Nixon ([N 6]: 125). (Cf. the examples on p. 123. The exception for S-V concord noted on p. 125 probably reflects the failure to take clause boundaries into consideration. S-V concord is limited to the clause in which the collective stands, or one subordinate to it. Pronominal concord is not.)</p>
+      <pb n="89"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>events—with action. Consequently, clauses which present activity are more likely to be significant for the narrative than clauses which do not. This is no doubt the basis for the correlation between function as sub­ ject—as “actor”—and the use of the plural noted in §2.2. This phenome­ non was associated with transitivity in §2 and §3, but it seems quite probable that the level of transitivity is, in this context, simply a measure of the degree of “action” significant to the narrative.</p>
+      <p>9.3  The use of concord to mark structure as prominent or significant in the narrative has a parallel in direct speech, where concord in person is one of several features used to mark significance in terms of the purpose or concerns of the speaker. Where deference is required, defer­ ential nominals or other third person forms are used to refer to speaker and addressee. First or second person pronouns express “immediacy”; their use reflects the strong concern or emotion of the speaker.  Concord with collectives is, then, part of a network of features used throughout the language to show that a structure is “immediate”—particularly sig­ nificant in its context, or “non-immediate”—distanced, background, and relatively unimportant.</p>
+      <p>9.4  Thus the choice of singular in a verb with a collective subject does correspond to the common conventions of grammar, but this “un­ marked” or “default” form is used because the situation does not require the use of the plural to mark immediacy. The use of the plural may show that the referent of the collective is viewed as a number of individ­ uals, but its use is determined by the need to mark the immediacy of the structure. The increased use of the singular in passages of historical synopsis is consistent with this. The narrative in Judges chapters 1, 11:13-21, and 20, is mainly concerned with political actions. No leaders or rulers are named (save in the Caleb story in Judg 1:12-15 = Josh 15:16-19); the actions are viewed abstractly, as undertaken by population groups seen as “states.” In more vivid narrative passages, such political actions are typically depicted as performed by the leader of the group treated as an individual, whether named alone, as in 2 Sam 8:1, or as head of a compound treated as singular, as in 1 Sam 23:5. In the three passages of historical synopsis, the narrator presents the political struggles as background to the narrative of those aspects of the history of Israel</p>
+      <p>39The expression of immediacy in deferential speech, and some related usage, has been explored at length in E. J. Revell, The Designation of the Individual: Expressive Usages in Biblical Narrative (CBET 14; Kampen: Kok Pharos, 1996). For examples of the speaker’s concerns influencing the choice of number in a collective, see 1 Kgs 2:15 (§4.8), and Judg 9:37 (§6.4).</p>
+      <pb n="90"/>
+      <head>MA4/MV9 (2002)</head>
+      <p>which are his major interest. The predominant designation of population groups as singular (which is not confined to the coreferents of collectives, see §2.5) is one of the marks of this intention.40 Occasional structures are marked by the plural as immediate, but the preponderant choice is the singular, marking the passage as less important, as background. The tendency to use the singular in passages of prophecy (see 2 Kgs 19:30 in §§6.6, 7.5; 1 Kgs 20:13 in §7.6; 2 Sam 7:10 in §8.5) can be seen as the counterpart of this. Just as statements about the future are low in transitivity41 they are also low in immediacy.</p>
+      <p>9.5  By the end of the biblical period, collectives were most commonly treated as plural.  Nevertheless, conditioning similar to that outlined above appears still to have operated. In column 58 of the Temple Scroll, 43 collectives are treated as singular in primary relationship in six of seven cases. A predicate with a collective subject is singular in a conditional clause (irrealis, low in transitivity; see Hopper and Thompson ), in 58:6 (<foreign xml:lang="he">אב</foreign> “arrive”), 58:16 (<foreign xml:lang="he">אצי</foreign> “leave”); plural in 58:11 (<foreign xml:lang="he">ותרכי</foreign> “be cut off’), where the verb is both passive and negated, but presents an important prescription. An attributive is singular in 58:6,7 (<foreign xml:lang="he">בר</foreign>), consistent with §6.1. The attributive 58.3) <foreign xml:lang="he">שקבמ</foreign>) is probably singular because it stands in a conditional clause (irrealis), but might be considered as presenting a temporary characteristic (see §6.1). More remote coreferents are plural in 58:6,17. The text itself presents a prescription for political activity in the ideal future. The other cases of singular collectives quoted It appears, by E. Qimron  occur in similar “non-immediate” situations. then, that the general basis for the choice of a singular or plural coreferent for a collective did not change, although the area in which the use of the plural was felt to be appropriate was expanded. This expansion quite possibly resulted from the desire for more striking forms of ex- pression. The use of the “marked form,” the plural, expressing “immedi­</p>
+      <p>40Possibly the narrator retained usage original in his sources, but the material from the Temple Scroll discussed in §9.5 suggests that there is no reason why he should not have been responsible for the predominant use of the singular in these passages.</p>
+      <p>41See Hopper and Thompson (N 8): 252 (C, D, G).</p>
+      <p>42Qimron (N 4): §400.18.</p>
+      <p>43Y. Yadin, Megillat ha-Miqdash (Jerusalem: Israel Exploration Society et al., 1977);</p>
+      <p>The Temple Scroll (Jerusalem: Israel Exploration Society et al., 1983).</p>
+      <p>44Hopper and Thompson (N 8): 252 (G).</p>
+      <p>45Qimron (N 4): 83 n. 64.</p>
+      <p>464Q160 3 111:2, 6. The same is true for 1Q27 1 1:10-11, which Qimron (N 4) quotes, where □7 and <foreign xml:lang="he">יוג</foreign> would be regarded as collectives in this paper. In the terms used here, both texts use the “prophetic register.” See §9.4.</p>
+      <pb n="91"/>
+      <head>REVELL: LOGIC OF CONCORD</head>
+      <p>acy,” was increased until it became the common “unmarked” form, and speakers had to develop new means of making their language more vivid.47</p>
+      <p>9.6  The language of Qumran represents a late stage in the development of the tendency to treat collectives as plural. The usage of the corpus, where collectives are treated as singular in their primary syntactic rela­ tionships in 60% of the cases, represents an earlier stage. Presumably, in yet earlier stages, the singular was even more frequently used. It is possible that successive generations of the ancients viewed the increasing use of the plural as progressive abandonment of “classical” grammar for “vulgar” usage, as was the tendency among more recent grammarians. From another point of view, however, it represents the increasing ex­ ploitation of a development which made use of spare morphosyntactic capacity. In other words it is an example of one of the ways in which the expressive capabilities of languages are developed.</p>
+      <p>47Desire for a striking expression may also have caused the drift from V-S-0 to S-V-0 order in clauses. See T. Givon, “The Drift from VSO to SVO in Biblical Hebrew: The Pragmatics of Tense-Aspect,” in Mechanisms of Syntactic Change (ed. Charles N. Li; Austin: Univ, of Texas, 1977): #9. Similar motivation (the desire not to use language with undesirable connotations) may account for the general replacement of the singular second person pronoun by the plural in English (K. M. Wales, “Thou and You in Early Modern English: Brown and Gilman Reappraised,” Studia Linguistica 37 [1983]: 107-125).</p>
+      <pb n="92"/>
+      <head>JOURNAL OF SEMITIC STUDIES</head>
+      <p>Extract from</p>
+      <head>JOURNAL OF SEMITIC STUDIES</head>
+      <p>Vol. 40, No. 2, 1995</p>
+      <pb n="93"/>
+      <pb n="94"/>
+      <pb n="199"/>
+      <p>Journal of Semitic Studies XL/2 Autumn 1995</p>
+      <p>THE TWO FORMS OF FIRST PERSON SINGULAR PRONOUN IN BIBLICAL HEBREW: REDUNDANCY OR EXPRESSIVE CONTRAST?</p>
+      <p>E.J. Revell</p>
+      <head>UNIVERSITY OF TORONTO</head>
+      <p>1.  Introduction</p>
+      <p>1.1</p>
+      <p>This paper attempts to assign a value to the use of <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign>, the two forms of free (independent) first person pronoun used in bibli- cal Hebrew. The general opinion is that they are free variants (see Waltke-O’Connor [1990], 16.3). In the discussion of the origin of the two forms in Aartun (1971) it is suggested that the longer form was developed from the shorter by the addition of an enclitic mark- ing emphasis. However, if <foreign xml:lang="he">יכנא</foreign> did have an emphatic function in contrast to <foreign xml:lang="he">ינא</foreign>, it had lost it by the time the biblical text was fixed as we know it. H.B. Rosen (1984) suggested that the two forms differ in some features of usage, but the pattern which he found in the Pentateuch does not fit other books well.1 Consequently there is room for a new attempt to elucidate the question on a wider basis.2</p>
+      <p>1.2</p>
+      <p>The present study sets out to describe the use of <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> in those prose materials in which both forms commonly appear. The Book of Deuteronomy and the parts of the Pentateuch assigned to P are not included, since here the two forms are used in proportions quite differ- ent from those found in the other parts of the Pentateuch.3 The corpus</p>
+      <p>1 E.g. <foreign xml:lang="he">ינא</foreign> follows a nominal predicate (contrary to his description, p. 267) in Judg. 9:2; 15:3; 16:17; 1 Sam. 3:13; 2 Sam. 15:34; 2 Kgs 1:10, 12, 16:7. The pronoun designates God (cf. his p. 268, n. 1) only in 1 Sam. 3:13.</p>
+      <p>2 Research on this topic has been supported by a grant from the Northrop Frye Centre of Victoria University (in the University of Toronto), for which I am most grateful.</p>
+      <p>3 The convenient listing of ‘P’ material in Pfeiffer (1948), 188190<foreign xml:lang="he">־</foreign>, is followed. The use of <foreign xml:lang="he">יכנא</foreign> in P is negligible; in Deuteronomy it is much more common than <foreign xml:lang="he">ינא</foreign>. See 7.1.</p>
+      <pb n="200"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>studied consists of the rest of the Pentateuch, the Former Prophets, and the Book of Ruth. The method of study is descriptive, attempting to relate the use of forms to the context in which they occur.</p>
+      <head>1.3  Syntactic Function and the Choice of Pronoun Form</head>
+      <p>,</p>
+      <p><foreign xml:lang="he">יכנא</foreign></p>
+      <p>163 <foreign xml:lang="he">יבא</foreign></p>
+      <p>Overall, the two forms of free first person singular pronoun are used <foreign xml:lang="he">ינא</foreign> (. in the corpus studied in about equal numbers ( is more common where the free pronoun stands in apposition to a bound pronoun. <foreign xml:lang="he">יכנא</foreign> is more common where the pronoun is subject of a verbless clause, its only other use.4 These statistics can be inter- preted as showing a correlation between the use of <foreign xml:lang="he">ינא</foreign> and the prominence accorded to the pronoun. A free pronoun in apposition to a bound one is superfluous to structure and basic content. It is used to heighten a contrast, or to mark heightened emotion or other forms of emphasis.5 Verbless clauses present material which is Tack- ground’ in terms of the grammatical structure of the narrative.6 The pronominal subject of such a clause is less likely to require promi- nence. However, even if this correlation is significant, grammatical function alone clearly does not determine the choice of pronoun form. A study of the situational contexts in which the forms are used suggests that the factor which has the greatest influence on this choice is the relative status of speaker and addressee. The content and purpose of the speech (its strategy’ in the terms of Brown and Levinson [1987], 68) is important as a secondary factor.</p>
+      <p>2.  The Relative Status of Speaker and Addressee</p>
+      <p>2.1</p>
+      <p>The status of the characters represented in the corpus appears to be ranked as follows:</p>
+      <p>4  A free personal pronoun can occur alone in biblical Hebrew only as subject of a verbless clause (juxtaposed phrases which function as subject and predicate, as their context indicates, despite the absence of a copular verb). Finite verb forms include a pronominal morph representing the subject. In other functions, a per- sonal pronoun is suffixed to a verb, noun, or particle. A free pronoun in apposition to the bound morph may be used in any function, but is common only as subject of a verbal clause.</p>
+      <p>5  Muraoka (1985), 589<foreign xml:lang="he">־</foreign>, on free pronoun subjects in verbal clauses. The first person pronouns in apposition to other bound pronouns have the same range of functions. <foreign xml:lang="he">ינא</foreign> is used in this way in Gen. 27:34, 38; 1 Sam. 25:24; 2 Sam. 19:1; 1 Kgs 1:26; <foreign xml:lang="he">יכנא</foreign> in Gen. 24:27; 1 Sam. 12:23.</p>
+      <p>6  ‘Grounding’ in biblical Hebrew is usually described in terms of clause struc- ture, as in the verb rank system of Longacre (1989); (the usage in narrative is schematized on p. 81). Grounding of this sort is referred to here as ‘grammatical’.</p>
+      <pb n="201"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>1.  God 2.  Those addressed as ‘King (<foreign xml:lang="he">ךלמה</foreign>) or ‘Man of God’ ( 3. (a) Others addressed as Tord’ (7(<foreign xml:lang="he">ןודא</foreign></p>
+      <p>(b) Parents, or those addressed as such8</p>
+      <p><foreign xml:lang="he">םיהלאה</foreign></p>
+      <p><foreign xml:lang="he">שיא</foreign> )</p>
+      <p>4.  Others Those in any rank are ‘status-marked’ in relation to those below (as long as the latter admit the rank implied by the title). This ranking could be derived simply from the information provided by the corpus on the society it reflects. It can be supported by specific linguistic fea- tures. Members of ranks 1, 2, and 3a are addressed with deferential forms on appropriate occasions. The speaker sporadically replaces the first person pronoun with your servant’ ( ), the second person with ‘my lord’ (<foreign xml:lang="he">ינדא</foreign>). A vocative (a free term of address) which precedes the clause with which it is associated (as ‘My Kgs 1:17) or stands after <foreign xml:lang="he">התא</foreign> Lord, you swore...’ ... 1 the first of several words or constituents in a clause (as ‘On me, my Sam. 14:9), desig- lord king, (is) the guilt...’ ...2 nates a status-marked individual in 59 of 70 cases (84%). A vocative Sam. <foreign xml:lang="he">ךלמה</foreign> which follows the clause, as ‘Save (me) O king’ (2 14:4) designates such a person in 26 of 73 cases (36%).9</p>
+      <p><foreign xml:lang="he">ךתחפש</foreign></p>
+      <p><foreign xml:lang="he">תעבשב</foreign></p>
+      <p><foreign xml:lang="he">ךדבע</foreign>,</p>
+      <p><foreign xml:lang="he">העשוה</foreign></p>
+      <p><foreign xml:lang="he">ךתמא</foreign>,</p>
+      <p><foreign xml:lang="he">ךלמה</foreign></p>
+      <p><foreign xml:lang="he">ץעה</foreign></p>
+      <p><foreign xml:lang="he">ילע</foreign></p>
+      <p><foreign xml:lang="he">ינדא</foreign></p>
+      <p><foreign xml:lang="he">ינדא</foreign></p>
+      <p>2.2</p>
+      <p>The percentage figures reflect the fact that both features are used expressively. Generally speaking, deferential forms are abandoned where the speaker’s personal concerns are closely involved.10 Thus in</p>
+      <p>The terms foreground and background are otherwise used in a non-technical way to designate material which is central or peripheral to the purposes of the speaker or narrator. Grammatical structure is only one way in which the relative value of material in the narrative is indicated, and one-to-one relationship between structure and meaning does not exist in this, any more than in any other area. See Revell (1993b), n. 13.</p>
+      <p>7  Typically people to whom a recognized relationship gives the right to com- mand the speaker’s services. The title ‘lord’ may be combined with other terms of address used for members of ranks 1 or 2.</p>
+      <p>8  Besides address to a natural father, <foreign xml:lang="he">בא</foreign> ‘father’ is used as a respectful designa- tion in address to a counsellor where the title ‘lord’ would be inappropriate, as where a king addresses a prophet in 2 Kgs 6:21 (cf. Gen. 45:8). It is also used by subordinates in the rhetoric of persuasion, to appeal to a more intimate relationship than that suggested by the standard deferential form ‘lord’ (1 Sam. 24:11; 2 Kgs 5:13). The deference displayed by Moses to Jethro in Exod. 18:7 suggests that the category ‘parent’ includes parents-in-law.</p>
+      <p>9  Figures represent usage in the books of Judges, Samuel, and Kings only. 10  An example of the ignoring of face wants in the interests of urgent coopera-</p>
+      <p>tion or efficiency noted in Brown and Levinson (1987), 62.</p>
+      <pb n="202"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>1 Kgs 3:1721<foreign xml:lang="he">־</foreign>, the harlot pleading before the king for the life of her child refers to herself with first person pronouns, with the exception of one deferential form, used in a circumstantial clause (1 Kgs 3:20). In 2 Sam. 14:22, Joab’s speech of thanks to the King is much more deferential, even though he is of much higher rank than the harlot. His personal interests are scarcely involved. In the same way, address to a status-marked individual using a terminal vocative shows that the speaker’s personal concern or emotion is overriding the need for def- erence, as in the appeal for help ‘Save (me) O king’ (2 Sam. 14:4; and similarly, 2 Kgs 6:26). The corresponding variation, the use of an ini- tial vocative where the addressee is not status-marked, shows some form of politeness, care, or concern, as in ‘Hannah, why do you cry?’ <foreign xml:lang="he">יכבת</foreign> : Elkanah to his wife in 1 Sam. 1:8). The use of these ( features shows patterns generally similar to those which occur in other languages in which particular features are used to show deference or politeness, as is shown by the references to Brown and Levinson (1987) in n. 10 and below. It is argued here that <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> form part of the same system of features used to show deference or polite- ness, on the one hand, and emotion or urgency on the other. <foreign xml:lang="he">ינא</foreign> is typically used by status-marked human speakers, <foreign xml:lang="he">יכנא</foreign> by others.</p>
+      <p><foreign xml:lang="he">הנח המל</foreign></p>
+      <p>2.3</p>
+      <p>The actual conventions governing the use of status-language were more complex than the table in 2.1 would suggest. Where God is addressed, neither speaker nor addressee is represented by a deferen- tial nominal acting as third person subject of a clause, as occurs in address to humans. Members of rank 2 appear to use status language to each other, as well as to members of lower ranks.11 Members of rank 3 use non-status language to each other, as do members of rank 4. The latter use deferential language to members of division (a) of rank 3, but not of division (b).</p>
+      <p>2.3.1  The table covers the categories commonly represented; the posi- tion of others is often not clear. Divine emissaries (angels’) are</p>
+      <p>11 Thus it is used between kings speaking as equals in 1 Kgs 5:22, 23; 20:34; and even by one king submitting to another in 1 Kgs 20:4; 2 Kgs 16:7 (but the lat- ter could be explained as self-advancement by a non-status speaker, see 3.1 below). Examples of the use of <foreign xml:lang="he">ינא</foreign> in speech by one man of God’ with another occur in 1 Kgs 13:18; with a king, 1 Kgs 22:16; 2 Kgs 3:14. These cases are classed as status- marked’ usage in the statistics given below. On the complexity of the conditioning of similar phenomena in spoken languages see Miilhausler and Harre (1990), 145, and Brown and Levinson (1987), 8.2, 280ff.</p>
+      <pb n="203"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>treated here as members of rank 2, but possibly should be above it (see 4.2). King David is addressed deferentially by his son Absalom (2 Sam. 13:24; 15:8) and his wife Bathsheba (1 Kgs 1:17-21). Princes appear to be status-marked in relation to the king’s officers and people.12 There is no evidence of status difference between Bathsheba and David’s son Adonijah in 1 Kgs 2:14-18. Queens and princes thus rank below the king, but above his officers. There is no evidence that status is affected by gender alone, so Pharaoh’s daugh- ter is held to be status-marked in relation to Moses’ mother (Exod. 2:9), as a prince would be. It is assumed here that Joseph is always status-marked in relation to his brothers because of his position as viceroy in Egypt, but that this does not affect his relationship to his father. Moses is taken to be non-status in relation to Pharaoh, but status-marked in relation to the people of Israel, or to Joshua. Samuel is similarly taken to be status-marked in relation to the peo- pie, but not in relation to the king. Joab may be status-marked in relation to the woman with whom he negotiates in 2 Sam. 20:17, and Boaz may be so in relation to Ruth in Ruth 3:12, but since there is no formal relationship in either case, I have assumed that any recognition of status in the language of these dyads is voluntary, not required by convention.13</p>
+      <p>3.  The Use of <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> by Non-Status Speakers</p>
+      <p>Human speakers who do not belong to the ‘status’ group most com- monly use 110) <foreign xml:lang="he">יכנא</foreign> of 178 cases, 62%). For them, <foreign xml:lang="he">יכנא</foreign> is the unmarked’ form. Its use simply indicates that the speaker is not drawing attention to the pronoun. It occurs in clauses of all sorts, as</p>
+      <p><foreign xml:lang="he">ינחנ</foreign></p>
+      <p><foreign xml:lang="he">יכנא</foreign></p>
+      <p><foreign xml:lang="he">יכנא</foreign></p>
+      <p><foreign xml:lang="he">לע</foreign></p>
+      <p><foreign xml:lang="he">ךרדב</foreign></p>
+      <p><foreign xml:lang="he">ילותב</foreign></p>
+      <p><foreign xml:lang="he">הכבאו</foreign></p>
+      <p><foreign xml:lang="he">הרהי</foreign> The Lord led me on the way (Gen. 24:27) <foreign xml:lang="he">יתיערו</foreign> I and my comrades will bewail my childless state (Judg. 11:37) <foreign xml:lang="he">הארה</foreign> I am the seer (1 Sam. 9:19) <foreign xml:lang="he">יכנא</foreign> Am I not a Benjaminite? (1 Sam. 9:21)</p>
+      <p><foreign xml:lang="he">אולה</foreign></p>
+      <p><foreign xml:lang="he">ינימי</foreign></p>
+      <p><foreign xml:lang="he">יכנא</foreign></p>
+      <p><foreign xml:lang="he">ןב</foreign></p>
+      <p>12 Absalom receives deferential language in 2 Sam. 15:2, and commands Joab in , see 2 Sam. 13:4) appears to be a sta-</p>
+      <p><foreign xml:lang="he">ךלמה</foreign></p>
+      <p><foreign xml:lang="he">ןב</foreign></p>
+      <head>2 Sam. 14:2932<foreign xml:lang="he">־</foreign>. ‘Son of the King’ ( tus title. See Andersen (1969), 39.</head>
+      <p>13 These remarks can be taken as a guide to the treatment, in this article, of sim- ilar cases of uncertainty. Finer gradations of status no doubt existed, e.g. between older and younger brothers. The above outline appears, however, to be sufficiently precise for the present purpose.</p>
+      <pb n="204"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p><foreign xml:lang="he">םשב</foreign></p>
+      <p><foreign xml:lang="he">אב</foreign></p>
+      <p><foreign xml:lang="he">ךילא</foreign></p>
+      <p><foreign xml:lang="he">יכנאו</foreign></p>
+      <p><foreign xml:lang="he">ךלמה</foreign></p>
+      <p><foreign xml:lang="he">הרהי</foreign> I come to you in the name of the Lord (1 Sam. 17:45) <foreign xml:lang="he">יכנאו לוכאל</foreign> I must indeed sit with the king to eat (1 Sam. 20:5) <foreign xml:lang="he">הלקנו</foreign> I am a poor and insignificant man (1 Sam. 18:23)</p>
+      <p><foreign xml:lang="he">שיא שר</foreign></p>
+      <p><foreign xml:lang="he">יכנאו</foreign></p>
+      <p><foreign xml:lang="he">םע</foreign></p>
+      <p><foreign xml:lang="he">בשי</foreign></p>
+      <p><foreign xml:lang="he">בשא</foreign></p>
+      <p><foreign xml:lang="he">ינא</foreign> is the marked’ form for a non-status speaker, used to show that the pronoun carries some meaning additional to its basic content ‘speaker’. The choice of <foreign xml:lang="he">ינא</foreign> draws attention to the use of the pro- noun; it marks the clause in which it is used as particularly impor- tant to the speaker, and so deserving particular attention from the addressee. Its use is categorized in the following paragraphs, which discuss all the examples in the basic corpus of the use of <foreign xml:lang="he">ינא</foreign> by non- status speakers.</p>
+      <head>3.1  Self-Advancement</head>
+      <p><foreign xml:lang="he">ינא</foreign> is often used where the speaker is volunteering for (or requesting, or claiming) a position, as in ‘I will go down with you’ (1 Sam. 26:6), ‘Let me run also’ (2 Sam. 18:22), ‘I will be king’ (1 Kgs 1:5), ‘I will trick him’ (1 Kgs 22:21). <foreign xml:lang="he">ינא</foreign> is similarly used where the pred- icate of the clause represents a condition or quality which gives the speaker some claim, as ‘I being a great people’ (and so deserving a larger share, Jos. 17:14); ‘I am your flesh and blood’ (so your sup- port of me will be mutually profitable, Judg. 9:2); ‘I am a widow woman’ (and so deserve your protection, 2 Sam. 14:5). <foreign xml:lang="he">ינא</foreign> is also used in this way in assertions like ‘I will be your servant’ (2 Sam. 15:34 [three cases]; also 1 Kgs 18:36; 2 Kgs 16:7. Cf. the question in 2 Sam. 16:19). This is a declaration of fealty, but also a claim to the protection and support of the master (see Lindhagen, 1950, 56). Other examples of the use of <foreign xml:lang="he">ינא</foreign> in asserting a claim occur in Judg. 16:17, 2 Sam. 19:44 (possibly with defective wording), and 1 Kgs 13:18, also the boasts in Gen. 14:23, 1 Sam. 17:10, and the claim to knowledge in 2 Kgs 2:3, 5. Probably Joab’s reply to the wise woman of Abel Meholah in 2 Sam. 20:17 (asserting a claim to the identity of Joab, David’s commander in chief) should be included.</p>
+      <p>3.1.1  Where the clause ascribes to the speaker some characteristic or quality which is distasteful or shameful, or is a disqualification for some position, <foreign xml:lang="he">יכנא</foreign> is used, as ‘I was afraid, because I (<foreign xml:lang="he">יכנא</foreign>) was naked’ (Gen. 3:10). Other examples occur in Gen. 15:2 (childless), 18:27 (dust and ashes), 19:19 (unable to do something, also Num.</p>
+      <pb n="205"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>11:14), Gen. 25:30 (tired), 27:11 (smooth), 29:33 (disliked), 38:25 (pregnant out of wedlock, also 2 Sam. 11:5), Exod. 4:10 (no speaker, heavy of speech), Judg. 6:15 (insignificant, also 1 Sam. 9:21; 18:23), 1 Sam. 1:15 (embittered), 22:22 (cause of death), 1 Kgs 3:7 (young), 14:6 (bringer of bad news), 19:4 (not as good as he thought), Ruth 2:10, (stranger), 13 (not one of the addressee’s ser- vants). <foreign xml:lang="he">יכנא</foreign> is also used in the formulaic question ‘Who am I?’ indi- eating self-abasement (Exod. 3:11; 1 Sam. 18:18; 2 Sam. 7:18), and in the formula ‘I am a dog’, even where used, in question form, to argue that the speaker deserves better treatment (1 Sam. 17:43; 2 Sam. 3:8).</p>
+      <head>3.2  Emotion</head>
+      <p>A claim is typically put forward with some emotion, reflecting the speaker’s personal interest. <foreign xml:lang="he">ינא</foreign> is similarly used in other cases in which non-status speakers speak with particular feeling, as in ‘Bless me too, father’ (Esau appealing to his father after Jacob has fore- stalled him, Gen. 27:34, 38); ‘I, where am I to go?’ (Reuben, discov- ering the loss of Joseph, whom he had tried to protect, Gen. 37:30); ‘Have you even brought misfortune on the widow with whom I am staying?’ (Elijah, impatient with the trials of his life, 1 Kgs 17:20); ‘I left prosperous, and the Lord has brought me back destitute’ (Naomi’s bitter reflection on the meaning of her name, Ruth 1:21). In Gen. 41:9 Pharaoh’s butler uses <foreign xml:lang="he">ינא</foreign> in confessing his oversight; Micah also uses <foreign xml:lang="he">ינא</foreign> in his confession in Judg. 17:2, as does Shimei in 2 Sam. 19:21, and Abigail in accepting blame, and excusing herself in 1 Sam. 25:24, 25.14 Other examples of the use of <foreign xml:lang="he">ינא</foreign> by non-sta- tus speakers reflecting emotion occur in 2 Sam. 11:11 (Uriah is astonished at David’s suggestion); 2 Sam. 13:13 (Tamar is horrified by that of her brother); 1 Kgs 1:21, 26 (Bathsheba and Nathan are anxious about the future); 1 Kgs 19:10, 14 (Elijah expresses to God his feeling of isolation); also 1 Kgs 3:17; 18:12 (see 3.3.1). There is in Judg. 19:18, but, if <foreign xml:lang="he">הוהי</foreign> uncertainty over the meaning of it does give the speaker’s final destination, as seems probable, his use of <foreign xml:lang="he">ינא</foreign> may reasonably be regarded as emotional.</p>
+      <p><foreign xml:lang="he">תא תיב</foreign></p>
+      <p>14 Clauses confessing, or accepting blame, (damaging to the speaker’s self esteem or positive face wants, Brown and Levinson [1987], 68) are typically pre- sented with first person pronouns, reflecting emotion, not with deferential forms, where the speech as a whole is deferential, or where deferential speech might be expected (as Jos. 7:20; 1 Sam. 12:19; 2 Sam. 14:9; 24:10). The same is true in the clauses intended to justify the speaker’s conduct, as in the cases 1 Sam. 25:24, 25; also in 1 Sam. 1:1516<foreign xml:lang="he">־</foreign>; and ‘My servant tricked me’ (2 Sam. 19:27).</p>
+      <pb n="206"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>3.2.1  A non-status speaker may use <foreign xml:lang="he">ינא</foreign> or <foreign xml:lang="he">יכנא</foreign> in a clause of self- identification, (a clause with a first person singular pronoun as sub- ject, and a phrase which designates the speaker by name or social position, or by relationship to other individuals, or groups, or even to events, as predicate). <foreign xml:lang="he">ינא</foreign> is used in Gen. 27:24, where Jacob asserts for a second time (in response to his father’s evident suspicion), that he is Esau, and in Gen. 27:32, where Esau responds to his father’s question ‘Who are you?’ — a question which Esau’s preceding speech should have rendered unnecessary. <foreign xml:lang="he">ינא</foreign> is also used by Hannah in 1 Sam. 1:26 where she identifies herself to Eli by recalling their former meeting. In all three cases, the speech is of unusual impor- tance to the speaker. Jacob must prevent discovery of his deception; Esau must prove his identity in the face of unexpected scepticism. Hannah’s strong interest in her speech is evident from her use of two vocatives and a formula of asseveration to introduce it. The use of <foreign xml:lang="he">ינא</foreign> can, then, be seen as reflecting emotion. Where such strong feeling is not reflected, a non-status speaker uses <foreign xml:lang="he">יכנא</foreign> in clauses of this sort, as does Jacob where he first introduces himself with ‘I am Esau your firstborn’ in Gen. 27:19.15</p>
+      <head>3.3  Emphasis</head>
+      <p>In other cases the use of <foreign xml:lang="he">ינא</foreign> seems to have no connotations beyond the desire to draw attention to the pronoun. It is used to emphasize the actions of the speaker in contrast to those of others, as in ‘Give him into my care, and I will bring him back to you’ (Gen. 42:37; other examples occur in Gen. 33:14; Judg. 1:3; 8:23; 1 Sam. 17:9; 2 Sam. 12:28; 17:15; 1 Kgs 1:14; 21:7). <foreign xml:lang="he">ינא</foreign> is similarly used to highlight a shift of the topic to the speaker’s own situation, as in ‘I too was in my dream’ (Gen. 40:16; other examples occur in Gen. 24:45; Judg. 20:4; 1 Sam. 17:28; also ‘And I said..’ Ruth 4:4). The speaker uses <foreign xml:lang="he">ינא</foreign> in the forceful (or emotional) presenta­</p>
+      <p>15 <foreign xml:lang="he">יכנא</foreign> also precedes a personal name acting as predicate in Ruth 3:9, a descrip- tive phrase designating an individual in 1 Sam. 4:16, 9:19, a phrase indicating that the speaker is related to another individual, or is a member of a group in Gen. 24:24, 34; Judg. 17:9; 1 Sam. 30:13; 2 Sam. 1:8, 13. In pragmatic terms, these clauses indicate the place of the speaker in the community, i.e. they identify the speaker. Cf. the form in which identification is requested in Gen. 24:23; 1 Sam. 17:58. The choice of P-S order is more likely to represent a form of self-effacement or distancing than to mark identification of this sort as categorically different from a more specific identification (only meaningful when the speaker is well-known), since S-P order is used for either of the meaning categories recognized by Muraoka (1985), 7-8, and Waltke-O’Connor (1990), 8.4a.</p>
+      <pb n="207"/>
+      <p><foreign xml:lang="he">ן</foreign></p>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>tion of a case. In Gen. 31:44, 52 (Laban making arrangements with Jacob); Exodus 33:16 (twice; Moses pleading with God); Num. 20:19 (Israel making arrangements with Moab); Judg. 12:2 (Jephthah justifying himself to Ephraim). In other examples, the use of <foreign xml:lang="he">יבא</foreign> seems intended to mark the clause in question as crucial to the situation. Pharaoh’s butler uses <foreign xml:lang="he">יבא</foreign> in the clause in which he states that he and the baker had dreams (Gen. 41:11; the speech informs Pharaoh that Joseph, who interpreted those dreams, is the man Pharaoh wants). In 1 Sam. 4:16, the messenger intro- duces himself with <foreign xml:lang="he">יכבא</foreign>, as is expected, ‘I am the one who came from the battle’, but uses <foreign xml:lang="he">יבא</foreign> in pointing out that his news is fresh, and grave, ‘I fled from the battle today’. Similarly, lookouts use <foreign xml:lang="he">יבא</foreign> in reporting significant developments in 2 Sam. 18:27; 2 Kgs 9:17. Samson’s use of <foreign xml:lang="he">יבא</foreign> in Judg. 15:3 is presumably a further example.</p>
+      <p>3.3.1  <foreign xml:lang="he">יכבא</foreign> is used where such emphasis is not required. It is used in clauses which are not central to the main concern of the speech, which provide ‘background’ in various ways. Thus clauses which introduce a speech by providing a context against which what follows is to be understood most commonly show <foreign xml:lang="he">יכבא</foreign>, as Sarah’s statement ‘I gave my servant into your bosom’ (where the topic of the speech is the occurrence described in what follows: Gen. 16:5). Other examples occur in Gen. 24:13; Exod. 7:17; Judg. 7:17; 1 Kgs 2:2, 16, 20. The use of <foreign xml:lang="he">יבא</foreign> in introductory clauses of this sort by the harlot in 1 Kgs 3:17, and by Obadiah in 1 Kgs 18:12, reflects strong emotion, as is shown by their speech.  <foreign xml:lang="he">יכבא</foreign> is similarly used in clauses which add ancillary detail within a section of narrative, as in Gen. 28:16, ‘(Surely God is in this place) and I did not know’. Other examples occur in Judg. 19:18 (also 1 Sam. 18:23; Ruth 2:10; see 3.1.1). The speech of the prophet to the queen (as an equal) in 1 Kgs 14:6 should probably be included here. In contrast, <foreign xml:lang="he">יבא</foreign> is used in such clauses where the detail added is particularly significant, as in Gen. 18:13, ‘I being old’, presented by Sarah as an insuperable obstacle to child-bear- ing, or the claim ‘I being a great people’ put forward in Jos. 17:14 (see 3.1).</p>
+      <p>16 On the harlot’s speech, see 2.2. Obadaiah expresses his anxiety over his fate</p>
+      <p>several times in his long speech.</p>
+      <p>17 The use of <foreign xml:lang="he">ינא</foreign> in clauses which are grammatically subordinate in Judg. 15:3; 2 Sam. 12:28; also Judg. 9:2; 1 Kgs 18:36 (see 3.1) is to be explained in the same way.</p>
+      <pb n="208"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>4.  The Use of <foreign xml:lang="he">יבא</foreign> and <foreign xml:lang="he">יכנא</foreign> by Status-Marked Speakers</p>
+      <p>A status-marked human speaker typically uses 70) <foreign xml:lang="he">יבא</foreign> of 97 cases, 72%). This is the unmarked usage for speakers of this type, and occurs in all types of clauses, as</p>
+      <p><foreign xml:lang="he">ינאו</foreign></p>
+      <p><foreign xml:lang="he">ינא</foreign></p>
+      <p>...</p>
+      <p><foreign xml:lang="he">התמ</foreign></p>
+      <p><foreign xml:lang="he">יתמ</foreign></p>
+      <p><foreign xml:lang="he">ילע</foreign></p>
+      <p><foreign xml:lang="he">ןדפמ</foreign></p>
+      <p><foreign xml:lang="he">רפסמ</foreign></p>
+      <p><foreign xml:lang="he">יתדמשנו</foreign></p>
+      <p><foreign xml:lang="he">יתיבו</foreign> Few men are at my disposal... I and my household will be annihilated (Gen. 34:30) <foreign xml:lang="he">הערפ ינא</foreign> I am Pharaoh (Gen. 41:44)18 <foreign xml:lang="he">לחר ינאו</foreign> Rachel died in my company as I came from Paddan (Gen. 48:7) <foreign xml:lang="he">ךילע</foreign> I will give orders about you (2 Sam. 14:8) <foreign xml:lang="he">ךלוה ךלוה</foreign> I am going wherever I can (2 Sam. 15:20) <foreign xml:lang="he">תויחהלו</foreign> Am I a god who can kill or keep alive? (2 Kgs 5:7)</p>
+      <p><foreign xml:lang="he">םיהלאה</foreign></p>
+      <p><foreign xml:lang="he">תימהל</foreign></p>
+      <p><foreign xml:lang="he">יאבב</foreign></p>
+      <p><foreign xml:lang="he">הוצא</foreign></p>
+      <p><foreign xml:lang="he">לע</foreign></p>
+      <p><foreign xml:lang="he">רשא</foreign></p>
+      <p><foreign xml:lang="he">ינא</foreign></p>
+      <p><foreign xml:lang="he">ינא</foreign></p>
+      <p><foreign xml:lang="he">ינאו</foreign></p>
+      <p><foreign xml:lang="he">ינאו</foreign></p>
+      <p><foreign xml:lang="he">יכנא</foreign> is used by a status-marked speaker where the pronoun is not to be given the prominence provided by <foreign xml:lang="he">ינא</foreign>. The examples are catego- rized in the following paragraphs, which discuss all examples in the corpus of the use of <foreign xml:lang="he">יכנא</foreign> by status-marked speakers.</p>
+      <head>4.1  Status-marked Use of^^ for Self Effacement</head>
+      <p>Where a status-marked speaker, for whom <foreign xml:lang="he">ינא</foreign> is the standard, unmarked form, uses <foreign xml:lang="he">יכנא</foreign>, the clause sometimes indicates the speak- er’s relative lack of importance. This is clearest where Jonathan says to David, his subordinate, ‘I will be second to you (1 Sam. 23:17).19 Another case occurs in 2 Sam. 3:39, ‘Today I am weak’, where David explains his inability to control the Bene Zeruiah. In 2 Sam. 7:2, ‘I am living in a palace of cedar’, David contrasts his luxurious situa­</p>
+      <p>18 Other clauses of self-identification (defined in 3.2.1) occur in Gen. 45:3, 4. <foreign xml:lang="he">ינא</foreign> is also used where the pronoun and name stand in apposition, and act as sub- ject of a clause with participial or verbal predicate in Exod. 18:6 (Jethro speaks to Moses, his son-in-law), and Jos. 5:14 (where the commander of God’s armies addresses Joshua).</p>
+      <p>19 The speaker, Jonathan, is status-marked in relation to David; he is his com- mander (as indicated in 1 Sam. 20:5, 27, cf. 1 Sam. 18:4), and receives deferential language from him in 1 Sam. 20:78<foreign xml:lang="he">־</foreign>. He has previously used <foreign xml:lang="he">ינא</foreign> in addressing David (1 Sam. 19:3, 3; 20:20, 23). Jonathan’s status relative to David is confirmed by the fact that, where the two names form a compound nominal, Jonathan’s name precedes David’s (1 Sam. 18:3; 20:39), marking Jonathan as superior, as shown in Revell (1993a).</p>
+      <pb n="209"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>tion with that of the ark, a contrast heightened by the use of <foreign xml:lang="he">יכנא</foreign> indicating unimportance. Joshua uses <foreign xml:lang="he">יכנא</foreign> with similar effect in Jos. 24:15, ‘I and my people will serve the Lord’. Joshua has rhetorically abandoned his position as leader and has offered the people a free choice between the God of their fathers and the gods of the heathen. His use of <foreign xml:lang="he">יכנא</foreign>, presenting himself as one of the people, heightens the impact of this effective termination to his speech. Samuel (1 Sam. 12:23) and David (2 Sam. 3:28) both use <foreign xml:lang="he">יכנא</foreign> in making asser- tions in which the name of God is used, speaking as without status in invoking God’s authority, as if speaking to God. David’s use of <foreign xml:lang="he">יכנא</foreign> in 2 Sam. 15:28, ‘I will linger...’, probably reflects the feeling that he has lost his kingdom to Absalom, and so is without status.20</p>
+      <p>4.2</p>
+      <p>'Solidarity'</p>
+      <p>A status-marked speaker may use non-status language to suggest inti- macy with a non-status addressee21. In some cases, such usage forms part of the rhetoric of persuasion. In 2 Sam. 13:28, ‘Do not fear. Have not I (<foreign xml:lang="he">יכנא</foreign>) given the order?’, Absalom offers support to his servants to persuade them to murder Amnon. In Judg. 17:10, ‘I will give you...’, and in 2 Sam. 2:6, ‘I too will confer this benefit on you’, <foreign xml:lang="he">יכנא</foreign> is used by a status-marked speaker in persuading others into an agreement.22 In other cases, the abandoning of status language seems to be a form of politeness, quite possibly reflecting genuine intimacy. Moses’ use of <foreign xml:lang="he">יכנא</foreign> in addressing Joshua in Exod. 17:9, 32:18, can be interpreted in this way. In Judg. 11:35, ‘I have opened my mouth to the Lord, and cannot go back’, Jephthah’s use of <foreign xml:lang="he">יכנא</foreign> in explaining his position to his daughter shows care and concern through the use</p>
+      <p>20 David actually refers to Absalom as king in 2 Sam. 15:19, 345<foreign xml:lang="he">־</foreign>, and his speech can be interpreted as reflecting this view elsewhere. The narrator treats David as king throughout Absalom’s rebellion, as do David’s supporters (2 Sam. 15:15), and even Absalom’s supporters (2 Sam. 17:2). (Hushai acting as David’s agent at Absalom’s court, 2 Sam. 15:34; 16:16, is an obvious exception). Titles are used with similar care in 1 Kgs, where David is last referred to as king by his supporters, or by the narrator, in 1 Kgs 1:37, before Solomon is anointed as his successor. He is called king by the supporters of the rebellious Adonijah in 1 Kgs 1:4347<foreign xml:lang="he">־</foreign>, as they still hope that power can be transferred from David to their candidate.</p>
+      <p>21 The term ‘solidarity’ is taken from the classic study of Brown and Gilman (1960). The sort of use which led to the choice of the term in that study differs somewhat from the biblical usage described here. Nevertheless, the term seems the most appropriate available.</p>
+      <head>22 Compare the use of <foreign xml:lang="he">ינא</foreign> in the forceful presentation of a case to an equal or</head>
+      <p>superior (in some cases urging an agreement) described in 3.3.</p>
+      <pb n="210"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>of polite language.23 The use of <foreign xml:lang="he">יכנא</foreign> by an angel to a human in Num. 22:32, Judg. 6:18, could be listed here, but should perhaps be classed with speech by God (see 6.1.1).</p>
+      <head>4.3  Background</head>
+      <p><foreign xml:lang="he">יכנא</foreign> is also used by status-marked speakers in clauses which do not present the main concern of the speech, but are introductory or oth- erwise ancillary to the main concern. In 2 Sam. 3:13, ‘I just want to ask one thing...’ (and similarly in 2 Sam. 14:18), David uses <foreign xml:lang="he">יכנא</foreign> in a clause which introduces a request, but does not make it. Israel uses <foreign xml:lang="he">יכנא</foreign> to Joseph in ‘I am about to die’ (Gen. 48:21), which provides information in the context of which what follows is to be under- stood. Similar usage by others occurs in Gen. 50:5, Jos. 23:14. Pharaoh’s use of <foreign xml:lang="he">יכנא</foreign> in ‘I will send you away’ (Exod. 8:24) similarly appears to mark this concession as unimportant in comparison to the instructions which it introduces. <foreign xml:lang="he">ינא</foreign> is used in an introductory clause of this sort in ‘I and the people with me will approach...’ (Jos. 8:5) where Joshua is issuing instructions for the attack on Ai, so that the content is of greater significance to the speaker. <foreign xml:lang="he">ינא</foreign> is also used in ‘I am old, advanced in years’ in Jos. 23:2, and similarly in 1 Sam. 12:2, where exhortation to the people as a whole is introduced. The situa- tion is thus of greater general significance than those in which <foreign xml:lang="he">יכנא</foreign> is used in introductory statements of impending death.24</p>
+      <p>4.3.1  <foreign xml:lang="he">יכנא</foreign> is used in relative clauses which provide only predictable information about the noun modified, as ‘The daughters of the Canaanites among whom I live’ (Gen. 24:3, and similarly 24:37); ‘the news which I hear’ (1 Sam. 2:24, and similarly, with problematic text, 2:23);  ‘the arrows I shall shoot’ (1 Sam. 20:36), and ‘the mis- sion on which I am sending you’ (1 Sam. 21:3). Here again, the use of <foreign xml:lang="he">יכנא</foreign> shows that the clause is unimportant. <foreign xml:lang="he">ינא</foreign> is used where the clause is more central to the speaker’s concerns, as in ‘wherever I am</p>
+      <p>23 The use of a vocative to introduce this clause also reflects this attitude, see 2.2. Cf. the speech of Elkanah in 1 Sam. 1:8 (referred to there), where, however, the choice of <foreign xml:lang="he">יכנא</foreign> represents standard usage between equals.</p>
+      <head>24 The examples in Gen. 48:21; 50:5 occur in instructions by a father to a son.</head>
+      <p>That in Jos. 23:14 is subsidiary to that in Jos. 23:2.</p>
+      <p>25 The text shows that Eli did not adequately discipline his sons. His use of <foreign xml:lang="he">יכנא</foreign> in 1 Sam. 2:24, rather than <foreign xml:lang="he">ינא</foreign> marking his status as parent, might be seen as reflecting a ‘kindly’ attitude to them (cf. 4.2 on Judg. 11:35) intended to add to the picture of Eli as weak.</p>
+      <pb n="211"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>going (2 Sam. 15:20) where David’s words, no doubt emotional, show his uncertainty over his fate consequent on the loss of his throne. The other examples are ‘the word which we spoke, you and I’ (Jonathan, referring to the pact he has made with David, 1 Sam. 20:23), ‘the men whom I am going to bring into your hands’ (Jehu, of the priests of Baal he intends to annihilate, 2 Kgs 10:24); ‘that monument which I see’ (Josiah, intent on destroying objects of hea- then origin, 2 Kgs 23:17).</p>
+      <p>5.  <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> in Human Speech, Conclusions</p>
+      <p>5.1</p>
+      <p>Where the use of <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> is classified in terms of the status of the speaker relative to the addressee, a regular pattern appears. This is clearest where the speaker is status-marked. Such speakers typically use <foreign xml:lang="he">ינא</foreign>. They use <foreign xml:lang="he">יכנא</foreign> in little more than quarter of the possible cases. They can use it to show that the status difference between the mem- bers of the dyad is being ignored to influence the addressee, to show humility or politeness, or to show that the clause functions as ‘back- ground’. Non-status speakers usually use <foreign xml:lang="he">יכנא</foreign>, but use <foreign xml:lang="he">ינא</foreign> in over one third of the cases. It is used to put forward a claim of some sort, an obvious counterpart to the use of <foreign xml:lang="he">יכנא</foreign> by a status-marked speaker showing humility. The use of <foreign xml:lang="he">ינא</foreign> by a non-status speaker often reflects emotion or strong feeling, a similar usage since this also draws the speaker’s concerns forcefully to the attention of the addressee. The use of <foreign xml:lang="he">ינא</foreign> by non-status speakers to mark a clause as significant is the counterpart to the use of <foreign xml:lang="he">יכנא</foreign> by status-marked speakers to show that a clause is background. The most common situation in which <foreign xml:lang="he">ינא</foreign> is used in this category, to heighten a contrast or other shift in topic, is characteristically marked by other ‘foregrounding’ devices in other situations: the use of a subject placed before the verb, of a free pronominal subject in a verbal clause, etc. Thus, although the recognition of any particular clause as ‘significant’ is, in isolation, arbitrary, comparison of usage can supply considerable support for such recognition. The use of <foreign xml:lang="he">ינא</foreign> and <foreign xml:lang="he">יכנא</foreign> by human speakers can, then, be seen as a self-consistent system which corresponds, on occa- sion, to features of other systems with similar functions.</p>
+      <p>5.2</p>
+      <p>In general, then, the use of <foreign xml:lang="he">ינא</foreign> by humans shows either that the speaker is status-marked, or that the clause is ‘immediate’, is central</p>
+      <pb n="212"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>to the interests of the speaker, or the addressee, or both. The use of <foreign xml:lang="he">יכנא</foreign> marks the speaker as non-status, or shows that the clause is ‘non-immediate’, peripheral to the speaker’s concerns, unimpor- tant. Relative status and degree of personal concern are not really distinct alternatives. The concerns of a status-marked speaker are perforce of interest to an addressee of lower status. The concerns of a non-status speaker can only be presented to a superior as ‘imme- diate’ where the speaker’s emotion, or feeling of urgency, overrides respect for the addressee’s status. Several other features are used in a similar way. The position of the vocative, and the opposition between personal pronouns and deferential forms, have a range of function similar to that suggested for these pronoun forms (see 2.1-2). The treatment of a collective as plural marks the clause of which it is subject as central to the concerns of the speaker or nar- rator; the treatment of it as singular marks it as non-central (see Revell [1993b]). There is, then, a considerable network of features used to mark the relative significance of individual clauses, a network which supplements the information provided by the grammatical marking of foreground and background (see n. 6). The two forms of first person singular pronoun are used as part of this network.</p>
+      <p>6.  Speech Ascribed to God</p>
+      <head>6.1  The Use of <foreign xml:lang="he">יכנא</foreign></head>
+      <p>6.1.1  God is represented as using <foreign xml:lang="he">יכנא</foreign> where the speech concerns the addressee on a personal level. Such speech often offers protection or other support, or expresses kindness, as ‘Do not fear, Abraham, I am a shield for you’ (Gen. 15:1; other uses after the comforting ‘Do not fear’ occur in Gen. 26:24; 46:4 [twice]; Jos. 11:6). Other exam- pies are ‘I will be with your mouth’ (to Moses, Exod. 4:12, and sim- ilarly 4:15); ‘I will let you know what you should do’ (to Samuel, 1 Sam. 16:3); ‘I have heard’ (accepting the repentance of Josiah, 2 Kgs 22:19). ‘Was it not I, the Lord?’ (Exod. 4:11) can be associated with this group, since the clause, which depicts God’s power as creator, begins a speech expressing support for Moses (cf. Exod 4:12). Simi- larly ‘I (<foreign xml:lang="he">יכנא</foreign>) will make a covenant’ (Exod. 34:10) responds to Moses’ request for support in v. 9. Other examples occur in Gen. 28:15; Exod 19:9; 23:20; 34:11; Jos. 13:6; 1 Sam. 24:4. <foreign xml:lang="he">יכנא</foreign> is also used in clauses in which God identifies himself through his relation- ship to the ancestors of the addressee, as ‘I am the God of Abraham your father’ (Gen. 26:24; also Gen. 46:3; Exod. 3:6), or through an</p>
+      <pb n="213"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>event in which the addressee has participated in ‘I am the God of Bethel, where you anointed a monument...’ (Gen. 31:13).</p>
+      <p>6.1.2  <foreign xml:lang="he">יכנא</foreign> is also used in speech by God in clauses which are ‘back- ground’ in that they establish a context in which what follows is to be understood, or are otherwise introductory to a speech, as ‘In yet seven days I will bring rain... (and I will wipe out...)’ (Gen. 7:4); ‘I shall do something in Israel...’ (1 Sam. 3:11); ‘I brought Israel up from Egypt...’ (1 Sam. 10:18; and similarly Judg. 6:8). Other exam- pies occur in Gen. 20:6 (twice); Exod. 3:12; 7:27; Jos. 1:2; 2 Sam. 12:7; 24:12. In ‘I will also judge the nation which they will serve’ (Gen. 15:14), ‘I will kill your firstborn’ (Exod. 4:23, where God tells Moses how to address Pharaoh when he reaches Egypt), <foreign xml:lang="he">יכנא</foreign> is used in a clause presenting an intended future action which is remote. Such usage is possibly to be seen as ‘distancing’ and so marking as unimportant, a parallel to ‘background’ usage.</p>
+      <head>6.2  The Use of <foreign xml:lang="he">ינא</foreign></head>
+      <p><foreign xml:lang="he">יח ינא</foreign></p>
+      <p><foreign xml:lang="he">ינא</foreign> is usually used, in speech ascribed to God, in clauses which do not refer to the addressee, as ‘Am I (<foreign xml:lang="he">ינא</foreign>) going to hide from Abra- ham what I (<foreign xml:lang="he">ינא</foreign>) am going to do?’ (Gen. 18:17, Abraham is not addressed); ‘I have hardened his heart’ (Exod. 10:1); ‘At midnight I will go out through Egypt...;’ (Exod. 11:4), ‘I have rejected him’ (1 Sam. 16:1); ‘I will be a father to him’ (2 Sam. 7:14). Other examples occur in Exod. 4:21; Exod. 9:14 (presented as instruction to Moses, not as speech to Pharaoh); Judg. 2:21; 1 Sam. 3:13; 2 Sam. 7:8 (spoken to Nathan, not to David). The oath formula As I live’ ( Num. 14:21) can be added. Where a second person pronoun is used in the clause, the addressee is scarcely involved, as ‘I know that he will not allow you...’ (Exod. 3:19); ‘For what I am going to do for you is awesome’ (Exod. 34:10, the ‘doing’ is intended as a sign to the people); ‘Your eyes will not see the mis- fortune I am going to bring’ (2 Kgs 22:20). In 2 Sam. 12:12 ‘I (<foreign xml:lang="he">ינא</foreign>) will do this thing before all Israel...’ there is no use of the sec- ond person in the clause, but it does closely concern the addressee, David. <foreign xml:lang="he">ינא</foreign> is possibly used to heighten the contrast with the pre- ceding clause (see 3.3). The cases in Exod. 33:19 and 1 Sam. 23:4 appear to be anomalies (cf. 1 Sam. 24:4). <foreign xml:lang="he">ינא</foreign> is also used in clauses of self-identification in which the name <foreign xml:lang="he">הוהי</foreign> ‘the Lord’ is used, even where reference is made to the addressee, as in Gen. 15:7, ‘I am the Lord who brought you out of Ur of the Chaldees...’ Other examples occur in Gen. 28:13; Exod. 7:17; 10:2; Judg.</p>
+      <pb n="214"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>6:10; 1 Kgs 20:13, 28. The use of <foreign xml:lang="he">יכנא</foreign> with this name in Exod. 20:2, 5 is exceptional.</p>
+      <p>6.3</p>
+      <p>The use of <foreign xml:lang="he">יכנא</foreign> usual in speech directed by God to a human can be interpreted as the sort of condescension shown by a status-marked human who uses <foreign xml:lang="he">יכנא</foreign> as a form of politeness (4.2). The fact that such usage is rare with humans, usual with God, may reflect the fact that God’s status is never in doubt, whereas human status may be questioned, and so is constantly asserted. It seems quite likely that, in this feature, the speech of God may reflect that of human parents, who are unlikely (as usage in other languages, such as French and German, suggests) to use status language to small children. <foreign xml:lang="he">יכנא</foreign> is also used in speech ascribed to God, as in that of status-marked humans, to mark clauses as ‘background’. <foreign xml:lang="he">יבא</foreign> is used where the use of <foreign xml:lang="he">יכנא</foreign> is not required for the purposes described. Thus the use of <foreign xml:lang="he">יבא</foreign> and <foreign xml:lang="he">יכבא</foreign> in speech by God can be explained as based on the same concepts as in speech by humans.26 However, speech ascribed to God does seem to contain more anomalies in the use of these forms than is the case with human speech.</p>
+      <p>7.  The Wider Context</p>
+      <head>7.1  Biblical Hebrew</head>
+      <p>A set of distinguishing features allows the division of biblical Hebrew into an early’ form (EBH) and a ‘late’ form (LBH). In LBH, the only first person singular pronoun form used is <foreign xml:lang="he">יבא</foreign>, as is the case in all later Hebrew (apart from quotation or imitation of the biblical language). The ‘P’ material of the Pentateuch (the characteristics of which are carefully studied in Hurwitz [1982]) represents LBH; the failure to use <foreign xml:lang="he">יכבא</foreign> is characteristic of it. In the Book of Deuteron- omy, which represents EBH, <foreign xml:lang="he">יכבא</foreign> is far more common than <foreign xml:lang="he">יבא</foreign>, but the bulk of the examples occur in speech by God (transmitted through Moses), and so are consistent with the usage of the corpus (6.1), as are other uses of first person singular forms generally. The few anomalies are insufficient to support a claim that the usage in Deuteronomy has a different basis from that of the corpus. The rest of the Bible — those parts of the Latter Prophets and Writings which show the use of both <foreign xml:lang="he">יבא</foreign> and <foreign xml:lang="he">יכבא</foreign> typical of EBH — is written in a</p>
+      <p>26 All examples of free first person pronouns used in speech ascribed to God are</p>
+      <p>referred to in the above discussion. <foreign xml:lang="he">יכנא</foreign> is used in 37 of 62 cases (62%).</p>
+      <pb n="215"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>variety of poetical styles. In some sections, such as Psalm 119, and the Book of Job, usage can be aligned with that of the corpus. Other parts show some similarities. Thus, speakers other than God use <foreign xml:lang="he">יכנא</foreign> for self-identification or description (Isa. 6:5; Jer. 1:6, 7; Amos 7:14; Jonah 1:9; Zech. 13:5), except where the clause represents self-asser- tion (Isa. 19:11; 47:8, 10), or emotion (Isa. 49:21). There are also differences. Thus God often uses <foreign xml:lang="he">יכנא</foreign> in identifying himself as <foreign xml:lang="he">הוהי</foreign> (as in Isa. 44:24; 51:15; Hos. 12:10; 13:4). In general, then, usage in poetical materials differs from that of the corpus.</p>
+      <head>7.2  Other Semitic Languages</head>
+      <p>In so far as we know their languages, the peoples surrounding the earlier biblical Israel used cognates of <foreign xml:lang="he">יכנא</foreign>, not cognates of <foreign xml:lang="he">ינא</foreign> (Garr [1985], 79-80).27 Cognates of both appear in Akkadian and Phoeni- cian (see Aartun [1971]) but their use is marginal. The biblical usage finds its only real parallel in Ugaritic, where a long form, ank, cog- nate with <foreign xml:lang="he">יכנא</foreign>, is used in texts of all kinds, and a short form, an, cog- nate with <foreign xml:lang="he">ינא</foreign>, is limited to poetic texts, in which both forms are used with no evident difference in function (Segert [1984], 58; for the examples see Whitaker [1972]). Ugaritic poetry has well-known affinities of style and vocabulary with biblical poetry, one being the use of pairs of synonyms, one common, the other often uncommon in the language as a whole, in the production of the characteristic parallelism. The two forms of first person pronoun are occasionally used in parallel in this way, as in</p>
+      <p><foreign xml:lang="he">וטנ</foreign></p>
+      <p><foreign xml:lang="he">םימש יכנא</foreign> I made the earth... My hands spread out the heavens (Isa. 45:12).</p>
+      <p><foreign xml:lang="he">ץרא</foreign> ... <foreign xml:lang="he">ינא</foreign></p>
+      <p><foreign xml:lang="he">יתישע</foreign></p>
+      <p><foreign xml:lang="he">ידי</foreign></p>
+      <p>A Ugaritic example occurs in text 4[51] .4, lines 5960<foreign xml:lang="he">־</foreign>.</p>
+      <p>7.3</p>
+      <p>It seems likely that the use of two forms of first person singular pro- noun developed in literary forms of North West Semitic, stimulated, if not instigated, by the requirements of parallelism. The two forms</p>
+      <p>27 Garr’s terminal date is 587 BCE. This is also the terminal date for the events described in the corpus, but the date of the description is uncertain. As with the Icelandic Sagas, material from different periods has no doubt been used. However the language of the corpus is generally homogeneous. Epigraphic material dated c. 600 BCE includes an idiom and an oath formula used in the biblical description of events from the same period, and shows no significant differences from the Ian- guage of the corpus other than orthographic. However the corpus may not have reached what was essentially its present form for several centuries.</p>
+      <pb n="216"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>were evidently brought into general use in Hebrew, where <foreign xml:lang="he">ינא</foreign> Func- tioned as a marked form. Its contrast with <foreign xml:lang="he">יכנא</foreign> achieves a form of what is called ‘responsibility indexing’ by Mühlhäusler and Harre (1990), 92ff.: the marking of the speaker’s position in a moral order or rights and duties of speaking and of acting through speaking. The use of <foreign xml:lang="he">ינא</foreign> shows that the speaker has a right to expect attention from the addressee, either due to status difference, or due to the importance of the speech for the speaker. The fact that <foreign xml:lang="he">ינא</foreign>, the marked form, eventually replaced the unmarked may result from excessive use in the effort to speak expressively (for other possible examples in Hebrew see Revell [1993b], 9.5 and n. 34); or some social development such as that which appears to have led to the use of you’ in place of contrast- ing thou’ and you’ in address to an individual in English. The devel- opment was no doubt hastened by the similarity of <foreign xml:lang="he">ינא</foreign> to the first per- son pronoun of Aramaic, increasingly common as a second language for Hebrew speakers as the biblical period progressed. The fact that <foreign xml:lang="he">יכנא</foreign>, and so the marking of the speaker’s status, was abandoned at such a relatively early date may well reflect the social upheaval brought about by the capture of Jerusalem by the Babylonians in 597 BCE, which resulted in the abolition of the monarchy, and the transporta- tion to Babylonia, or flight elsewhere, of many Hebrew speakers.</p>
+      <head>WORKS CITED</head>
+      <p>Aartun, Kjell (1971). ‘Über die Parallelformen des Selbständigen Personal- pronomens der 1. Person Singular im Semitischen’, Ugarit-Forschungen 3, 17<foreign xml:lang="he">־</foreign>. Andersen, Francis I. (1969). ‘Israelite Kinship Terminology and Social Structure’,</p>
+      <p>The Bible Translator 20, 2939<foreign xml:lang="he">־</foreign>.</p>
+      <p>Brown, Roger and Albert Gilman (1960). ‘The Pronouns of Power and Solidarity’, in Thomas A. Sebeok (ed.), Style in Language (Cambridge, Mass: MIT Press), 253</p>
+      <p>276<foreign xml:lang="he">־</foreign></p>
+      <p>.</p>
+      <p>Brown, Penelope and Stephen Levinson (1987). Politeness: Some Universals in Lan-</p>
+      <p>guage Usage (Cambridge: University Press).</p>
+      <p>Garr, W. Randall (1985). Dialect Geography of Syria Palestine 1000-586 BCE</p>
+      <p>(Philadelphia: University of Pennsylvania Press).</p>
+      <p>Hurvitz, Avi (1982). A Linguistic Study of the Relationship between the Priestly Source and the Book of Ezekiel (Cahiers de la Revue Biblique 20; Paris: Galbada et cie). Lindhagen, Curt (1950). The Servant Motif in the Old Testament (Uppsala:</p>
+      <p>Lundequistska Bokhandeln).</p>
+      <p>Longacre, Robert E. (1989). Joseph (Winona Lake: Eisenbrauns). Mühlhäusler, Peter and Rom Harre (1990). Pronouns and People (Oxford: Black-</p>
+      <p>well).</p>
+      <p>Muraoka, Takamitsu (1985). Emphatic Words and Structures Ln Biblical Hebrew</p>
+      <p>(Jerusalem: Magnes).</p>
+      <p>Pfeiffer, Robert H. (1948). Introduction to the Old Testament (rev. ed.) (New York:</p>
+      <p>Harper).</p>
+      <pb n="217"/>
+      <head>REDUNDANCY OR EXPRESSIVE CONTRAST</head>
+      <p>Revell, E. John (1993a). ‘Concord with Compound Subjects’, Vetus Testamentum</p>
+      <p>43, 69-87.</p>
+      <p>— (1993b). ‘The Logic of Concord with Collectives in Biblical Narrative’, forth­</p>
+      <p>coming in Maarav.</p>
+      <p>Rosen, Haiim B. (1984). ‘,NKY et ’NY: Essai de grammaire, interpretation, et traduction’, in East and West: Selected Writings in Linguistics (Munich: Fink), 262-281.</p>
+      <head>Segert, Stanislav (1984). A Basic Grammar of the Ugaritic Language (Berkeley:</head>
+      <p>University of California Press).</p>
+      <p>Waltke, Bruce K. and Michael P. O’Connor (1990). An Introduction to Biblical</p>
+      <p>Hebrew Syntax (Winona Lake: Eisenbrauns).</p>
+      <p>Whitaker, Richard E. (1972). A Concordance of the Ugaritic Language (Cambridge,</p>
+      <p>Mass: Harvard University Press).</p>
+      <pb n="218"/>
+    </body>
+  </text>
+</TEI>

@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader>
-            <fileDesc>
-                  <titleStmt>
-                        <title>
-                              Transcription of
-                              07a.01_The_Order_of_the_Elements_in_the_Verbal_Statement_Clause_in_1Q_Serek_part1.pdf</title>
-                  </titleStmt>
-                  <publicationStmt>
-                        <p>Digitized as part of the Revell Digital Corpus Project.</p>
-                  </publicationStmt>
-                  <sourceDesc>
-                        <p>
-                              Original PDF:
-                              07a.01_The_Order_of_the_Elements_in_the_Verbal_Statement_Clause_in_1Q_Serek_part1.pdf</p>
-                  </sourceDesc>
-            </fileDesc>
-      </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Order of the Elements in the Verbal Statement Clause in 1Q Serek</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.01</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Order of the Elements in the Verbal Statement Clause in 1Q Serek</title>
+          <title level="j">Review de Qumran 3 (1962), p. 559-569.</title>
+          <date>1962</date>
+          <biblScope unit="page">559-569</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
       <text>
             <body>
                   <pb />
@@ -64,7 +72,7 @@
                         to believe that they formed part of the same scroll.</note>
 <pb n="560" />
 <fw type="head" place="top-centre">E. J. REVELL</fw>
-<p>elements which show concord with it or modify it. <i>Id est</i> a verbal clause is a structure
+<p>elements which show concord with it or modify it. <hi rend="italic">Id est</hi> a verbal clause is a structure
       the headword of which is a verb. A “Sta- tement Clause” is here defined as any verbal clause
       which does not contain either interrogative or relative pronouns, or imperative verb forms
       (4).</p>
@@ -93,8 +101,8 @@
       except by its contrast to the plural (n: :n+s) so the “3 m. s. perfect” verb form in Hebrew is
       marked by the fact that it lacks the markers necessary to place it in any other position in
       the verbal paradigm. Hence the 3 m. s. pronoun is in this case represented by the act of
-      choosing the 3 m. s. perfect verb form from among the other available forms. (See W. HAAS, <i>Zero
-      in Linguistic Description, in Studies in Linguistic Analysis</i> (Special Volume of the
+      choosing the 3 m. s. perfect verb form from among the other available forms. (See W. HAAS, <hi rend="italic">Zero
+      in Linguistic Description, in Studies in Linguistic Analysis</hi> (Special Volume of the
       Philological Society) Oxford, 1957, p. 43). In simplification of this fact, the 3 m. s.
       pronoun can be said to be represented by a “zero morpheme”. (See Z. S. HARRIS, <hi rend="italic">Componential
       Analysis of a Hebrew Paradigm</hi>, in <hi rend="italic">Language</hi> 24, 1948).</note>

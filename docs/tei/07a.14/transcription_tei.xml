@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Aristotle and the Accents</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Oxford University Press</publisher>
-      <date when="1974">1974</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Aristotle and the Accents</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.14</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Aristotle and the Accents</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Journal of Semitic Studies</title>
-          <imprint>
-            <date when="1974">1974</date>
-            <biblScope unit="volume">19</biblScope>
-            <biblScope unit="page" from="19" to="35">19-35</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <encodingDesc>
-    <p>Encoded from the file 07a.14_Aristotle_and_the_Accents.pdf</p>
-  </encodingDesc>
-</teiHeader>
+          <title level="j">Journal of Semitic Studies 19 (1974), p. 19-35.</title>
+          <date>1974</date>
+          <biblScope unit="page">19-35</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -55,11 +37,9 @@
     Vol. 19, No. 1, Spring 1974
 </p>
       <pb/>
-<div type="page">
+
   <p>The image provided is entirely black, containing no legible text or identifiable structural elements. Therefore, a transcription into TEI P5 XML is not possible based on the visual content of this specific file.</p>
-</div>
-      <pb/>
-<p></p>
+<pb/>
       <pb n="19"/>
 <head>ARISTOTLE AND THE ACCENTS<lb/>
 THE CATEGORIES OF SPEECH IN JEWISH<lb/>
@@ -75,7 +55,7 @@ AND OTHER AUTHORS</head>
 <head>ARISTOTLE AND THE ACCENTS</head>
 <p>in the introduction to his <gloss>Egron</gloss>, <quote>“Vocative, question, statement, command, request.”</quote><note n="1">N. Allony, <title>Ha-’Egron . . . by Rav Sĕʽadya Ga’on</title> (Jerusalem, 1969), p. 154, ll. 59 f.</note> In the introduction to his commentary on the book of Psalms, however, he gives <quote>“command and prohibition”</quote> for category four, and <quote>“request and wish”</quote> for category five, thus producing a list equivalent to, although arranged differently from, that of Ibn Janāḥ.<note n="2">See <title>ibid.</title> p. 76.</note></p>
 <p>According to Allony, Saadya took the idea of the categories of speech from the book <title>Qawāʽid al-Shiʽr</title> (The Categories of Poetry) by the Arab grammarian Aḥmad b. Yaḥyā Thaʽlab (died 904).<note n="3"><title>Ibid.</title> pp. 85–6. For Thaʽlab’s work see R. ‘Abd-al-Tawwāb, <title>Qawāʽid al-Shiʽr by Abu-al-’Abbās Aḥmad ibn Yaḥyā Thaʽlab</title> (Cairo, 1966). The passages quoted are on pp. 35 and 37.</note> This author begins his book: <quote>“The categories of poetry are four: command, prohibition, statement, and question.”</quote> He then gives examples of each category from the poets. After this he continues: <quote>“Then these roots branched out into praise, derision, dirge, apology, love poem, comparison, and narrative.”</quote> After giving examples of each of these, he continues with further categories.</p>
-<p>Thaʽlab’s source for his four basic categories was very possibly the Arabic translation of Aristotle’s <title>Poetics</title>.<note n="4">S. M. Ayyār, <title>Kitāb Arisṭūṭālīs fi-al-Shiʽr</title> (Cairo, 1967), p. 109 (= xix. 4 of the Greek text). These categories could go back to other Greek writings. Diogenes Laertius reports that Alkidamas used a four-category division: <gloss>phasis</gloss>, <gloss>apophasis</gloss>, <gloss>erōtēsis</gloss>, <gloss>prosagoreusis</gloss> (affirmation, negation, question, vocative). See A. Gudeman, <title>Aristoteles “Peri Poiētikēs”</title> (Berlin, 1934), pp. 333 f. (I am most grateful to my colleague Professor D. P. de Montmollin for this reference.) These four categories could possibly have been interpreted as “command, prohibition, question and statement”. In view of the apparently firm Syrian tradition of the categories, however, such a source seems unlikely.</p>
+<p>Thaʽlab’s source for his four basic categories was very possibly the Arabic translation of Aristotle’s <title>Poetics</title>.<note n="4">S. M. Ayyār, <title>Kitāb Arisṭūṭālīs fi-al-Shiʽr</title> (Cairo, 1967), p. 109 (= xix. 4 of the Greek text). These categories could go back to other Greek writings. Diogenes Laertius reports that Alkidamas used a four-category division: <gloss>phasis</gloss>, <gloss>apophasis</gloss>, <gloss>erōtēsis</gloss>, <gloss>prosagoreusis</gloss> (affirmation, negation, question, vocative). See A. Gudeman, <title>Aristoteles “Peri Poiētikēs”</title> (Berlin, 1934), pp. 333 f. (I am most grateful to my colleague Professor D. P. de Montmollin for this reference.) These four categories could possibly have been interpreted as “command, prohibition, question and statement”. In view of the apparently firm Syrian tradition of the categories, however, such a source seems unlikely.</note></p>
 <p>The categories given there are: command, prayer, statement, threat, question, answer. Thaʽlab, who was, after all, concerned with poetry (<gloss>shiʽr</gloss>), not speech (<gloss>qawla</gloss>) as was Aristotle, seems to have rejected prayer, threat and answer as unnecessary to him. His division of the category <quote>“command”</quote> into <quote>“command and prohibition”</quote> was possibly based on the formal grammatical difference in Arabic. If this does represent his thought pattern, his categories are in the same order as Aristotle’s. The seven categories into which the basic four are said to have branched out are mostly well-known categories of Arabic poetry, and the remaining categories</p>
       <pb n="21"/>
 <head>ARISTOTLE AND THE ACCENTS</head>
@@ -224,7 +204,7 @@ AND OTHER AUTHORS</head>
       <pb/>
 <head>ARISTOTLE AND THE ACCENTS</head>
 <p>noted by Ben Ḥayyim).<note n="1">Op. cit. p. 340 n. 3.</note> The use of these new signs, however, never became firmly established in scribal practice. It appears probable that, in the same way, the sign for <hi rend="italic">turu</hi> was developed from that for <hi rend="italic">za‘if</hi>, but the use of this new sign never became established at all. Indeed the testimony of the MSS is that the passages given by Ibn Martha as examples of <hi rend="italic">turu</hi> do not require any sense accent.</p>
-<p>This common system, using three sense accents, would have had seven accents in all. It seems probable that we have definite evidence of the widespread use of this system in the statement of Ibrahim al-‘Ayya (eighteenth century), when claiming support for the tradition that the ten-accent system reaches back to Moses, that these accents <quote>“are, among us, ten . . . just as they are seven among others”</quote>. The idea that a system of accents different from that which Ibrahim describes was in common use would explain the somewhat polemical tone of the passage, and the idea given above would explain the number seven, which is otherwise difficult to account for.<note n="2">See Ben Ḥayyim, <hi rend="italic">op. cit.</hi> pp. 383 f. I do not find the suggestion (<hi rend="italic">ibid.</hi> p. 384 n. 2) that the <quote>“others”</quote> who use seven accents were the Muslims – or the suggestion on p. 350 n. 2 that the ten-accent tradition was connected with the Qur’anic division <hi rend="italic">‘ashr</hi> – at all convincing. The addition to the text of Ibn Darṯa’s treatise (<hi rend="italic">ibid.</hi> p. 350 n. 2) contains the same emphasis on <quote>“those who follow the correct reading tradition, according to the ten accents”</quote> who <quote>“know this”</quote>. The knowledge referred to is of features of a Samaritan reading tradition. The opposing group, who do not follow the ten-accent tradition, must also be Samaritans, for who else would have reason for, or interest in, such knowledge?</p></note>
+<p>This common system, using three sense accents, would have had seven accents in all. It seems probable that we have definite evidence of the widespread use of this system in the statement of Ibrahim al-‘Ayya (eighteenth century), when claiming support for the tradition that the ten-accent system reaches back to Moses, that these accents <quote>“are, among us, ten . . . just as they are seven among others”</quote>. The idea that a system of accents different from that which Ibrahim describes was in common use would explain the somewhat polemical tone of the passage, and the idea given above would explain the number seven, which is otherwise difficult to account for.<note n="2">See Ben Ḥayyim, <hi rend="italic">op. cit.</hi> pp. 383 f. I do not find the suggestion (<hi rend="italic">ibid.</hi> p. 384 n. 2) that the <quote>“others”</quote> who use seven accents were the Muslims – or the suggestion on p. 350 n. 2 that the ten-accent tradition was connected with the Qur’anic division <hi rend="italic">‘ashr</hi> – at all convincing. The addition to the text of Ibn Darṯa’s treatise (<hi rend="italic">ibid.</hi> p. 350 n. 2) contains the same emphasis on <quote>“those who follow the correct reading tradition, according to the ten accents”</quote> who <quote>“know this”</quote>. The knowledge referred to is of features of a Samaritan reading tradition. The opposing group, who do not follow the ten-accent tradition, must also be Samaritans, for who else would have reason for, or interest in, such knowledge?</note></p>
 <p>The best answer to the question of why the Samaritans should seek to extend the number of accents beyond those recognized in common practice would seem to be that they were influenced by a theory which they felt their accent system should illustrate: the theory of the five Aristotelian categories. The seven-accent system already covered the categories <quote>“statement”</quote> (covered by the pausal accents, or perhaps specifically by <hi rend="italic">afsaq</hi>, equivalent to Syrian <hi rend="italic">pāsōqā</hi>), <quote>“question”</quote> (<hi rend="italic">šiyyala</hi>), and <quote>“vocative”</quote> (<hi rend="italic">ze‘iqa</hi>). The three new accents added covered the remaining two categories: <quote>“request”</quote> (<hi rend="italic">ba‘u</hi>) and <quote>“command”</quote> (<hi rend="italic">turu</hi>), and also a further category, <quote>“astonishment”</quote> (<hi rend="italic">atma‘u</hi>). Syria, of course, was the source of the connection of the categories with the sense accents, and this addition strongly suggests that Syria was the source of the theory which influenced the Samaritans, since <hi rend="italic">metdammrānā</hi></p>
 <p rend="text-align: center">28</p>
       <pb n="29"/>

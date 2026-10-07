@@ -1,74 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Pausal Forms in Biblical Hebrew: their function, origin, and significance</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Oxford University Press</publisher>
-      <date when="1980">1980</date>
-      <availability>
-        <p>Digitized version of a scholarly article.</p>
-      </availability>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title level="a">Pausal Forms in Biblical Hebrew: their function, origin, and significance</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Journal of Semitic Studies</title>
-          <imprint>
-            <date when="1980">1980</date>
-            <biblScope unit="volume">XXV</biblScope>
-            <biblScope unit="page" from="165" to="179">165-179</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note type="filename">07a.19_Pausal_Forms_in_Biblical_Hebrew_their_function,_origin,_and_significance_part9.pdf</note>
-  </notesStmt>
-</teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nesigah and the History of the Masorah</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.23</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Nesigah and the History of the Masorah</title>
+          <title level="j">in Actas de las I.O.M.S., Salamanca, 1983: Textos y Estudios vol. 33, Madrid, 1983, p. 37-48.</title>
+          <date>1983</date>
+          <biblScope unit="page">37-48</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
 <p>The image provided is entirely black and contains no visible text or legible content to transcribe. As a result, no TEI P5 XML tags for headings, paragraphs, lists, or notes can be applied to the image data.</p>
       <pb n="Cover"/>
 
-<docTitle>
-    <titlePart type="sub">CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS</titlePart>
-    <titlePart type="sub">INSTITUTO DE FILOLOGÍA</titlePart>
-    <titlePart type="main" rend="color:red; letter-spacing: 1em;">S E F A R A D</titlePart>
-    <titlePart type="sub" rend="italic">REVISTA DE ESTUDIOS HEBRAICOS, SEFARDÍES<lb/> Y DE ORIENTE PRÓXIMO</titlePart>
-</docTitle>
+<p rend="title">
+    <hi>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS</hi><lb/>
+    <hi>INSTITUTO DE FILOLOGÍA</hi><lb/>
+    <hi rend="bold">S E F A R A D</hi><lb/>
+    <hi rend="italic">REVISTA DE ESTUDIOS HEBRAICOS, SEFARDÍES<lb/> Y DE ORIENTE PRÓXIMO</hi><lb/>
+</p>
 
 <note type="handwritten" place="top-right" rend="color:red">R</note>
 <note type="handwritten" place="top-right">Bib 34</note>
 
-<docDate rend="align:bottom">
+<p rend="date">
     <list rend="horizontal">
         <item>AÑO XLVIII</item>
         <item>MADRID 1988</item>
         <item>FASC. 1</item>
     </list>
-</docDate>
+</p>
       <pb/>
       <pb/>
 <p rendition="center">CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS

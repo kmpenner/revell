@@ -2,18 +2,30 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Transcription of 07a.02.pdf</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>Digitized as part of the Revell Digital Corpus Project.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Original PDF: 07a.02.pdf</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Clause Structure in the Prose Documents of Qumran Cave I</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.02</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Clause Structure in the Prose Documents of Qumran Cave I</title>
+          <title level="j">Revue de Qumran 5 (1964), p. 3-22.</title>
+          <date>1964</date>
+          <biblScope unit="page">3-22</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <body>
             <pb n="3" />
@@ -177,12 +189,13 @@
                 a
                 tentative classification of the particles used in Qumrani prose.</p>
             <list>
-                <item>1. Particles used at ‘word’ level of structure.</item>
+                <item>1. Particles used at ‘word’ level of structure.
                 <list>
                     <item>a) The article.</item>
                     <item>b) Prepositions (probably including <term xml:lang="hbo-Latn">'T</term>/'WT-)
             (15).</item>
                 </list>
+                </item>
             </list>
             <note
                 place="foot" n="11">The 'clause-builder' level may seem to cover so wide an area as
@@ -254,8 +267,7 @@
                 more negative, but more easily used, guide for difficult cases would point out that,
             if
                 the scheme of</p>
-            <div type="footnotes">
-                <list>
+            <list rend="footnotes">
                     <item>
                         <note place="foot" n="16">For a list of these, below, § 11.</note>
                     </item>
@@ -289,7 +301,6 @@
                             nouns and verbs), some only by use (for example prepositions).</note>
                     </item>
                 </list>
-            </div>
             <fw
                 type="header" place="top">CLAUSE STRUCTURE IN QUMRAN CAVE I</fw>
             <pb n="7" />
@@ -1157,7 +1168,7 @@
             seen in terms of clause-builders, is relatively simple. The first part of the clause is,
             in all the examples here studied, an exponent of <term xml:lang="hbo-Latn">N</term>
             (54). Where</p>
-            <note>ment in <hi rend="italic">"Order"<hi>, note 4, that in some cases <term
+            <note>ment in <hi rend="italic">"Order"</hi>, note 4, that in some cases <term
                     xml:lang="hbo-Latn">'šn</term>, 'does not form part of the clause it precedes'.
             In this study multipartite clauses are treated as single units, just as a verbal clause
             containing an exponent of <term
@@ -1223,7 +1234,7 @@
             compare the nominal tripartite <term xml:lang="hbo-Latn">’ŠR</term> clauses (note 62).</note>
                 <note
                 place="foot" n="56"> Nine of these occur in <hi rend="italic">1 Q S</hi> column VII,
-            where the second part of the clause begins <termxml:lang="hbo-Latn">wN’NŠ</term>. The tenth one
+            where the second part of the clause begins <term xml:lang="hbo-Latn">wN’NŠ</term>. The tenth one
             occurs in <hi rend="italic">1 Q S</hi> VI, 11-13, where the second part begins <term
                     xml:lang="hbo-Latn">w’MD</term>. The final example occurs in <hi
                     rend="italic">1 Q M</hi> VII, 11-12, where the second part begins <term
@@ -1590,8 +1601,7 @@
                     xml:lang="hbo-Latn">'YN</term> is treated simply as a neg-</p>
             <note place="foot"
                 n="74">The word <term xml:lang="hbo-Latn">'ŠR</term> here is not a pronoun. Compare
-            its use to introduce verbal clauses in <hi rend="italic">1 Q S</hi> <term
-                    xml:lang="hbo-Latn">V</term>,</hi> 4.10.14.15.16 and VIII, 25. Its function
+            its use to introduce verbal clauses in <hi rend="italic">1 Q S</hi> <term xml:lang="hbo-Latn">V</term>, 4.10.14.15.16 and VIII, 25. Its function
             seems to be to join a clarifying or explanatory clause to a preceding clause, and is
             thus similar to that of <term xml:lang="hbo-Latn">
                     KY'</term>()).</note>
@@ -1609,8 +1619,7 @@
                 place="foot" n="77">See the classification of particles, § 7 above.</note>
             <note
                 place="foot" n="78">In fact they can be considered as forming part of the
-            clause-builder which they modify. For <term xml:lang="hbo-Latn">V</term>, see <hi
-                    rend="italic"></hi> Order</hi>", § 5.</note>
+            clause-builder which they modify. For <term xml:lang="hbo-Latn">V</term>, see <hi rend="italic">"Order"</hi>, § 5.</note>
             <pb n="21" />
             <fw type="header"
                 place="top">E. J. REVELL</fw>

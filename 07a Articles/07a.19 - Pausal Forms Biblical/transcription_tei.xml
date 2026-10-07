@@ -1,46 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Pausal Forms in Biblical Hebrew: their function, origin, and significance</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Oxford University Press</publisher>
-      <date when="1980">1980</date>
-      <idno type="filename">07a.19_Pausal_Forms_in_Biblical_Hebrew_their_function,_origin,_and_significance_part1.pdf</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Pausal Forms in Biblical Hebrew: their function, origin, and significance</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.19</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Pausal Forms in Biblical Hebrew: their function, origin, and significance</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Journal of Semitic Studies</title>
-          <imprint>
-            <biblScope unit="volume">XXV</biblScope>
-            <date when="1980">1980</date>
-            <biblScope unit="page">165-179</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
+          <title level="j">Journal of Semitic Studies XXV (1980), p. 165-179.</title>
+          <date>1980</date>
+          <biblScope unit="page">165-179</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -285,7 +269,7 @@ EVIDENCE FROM THE STELE OF MESHA</head>
 <note xml:id="n2">² See the study of F. I. Andersen in “Moabite syntax” (<hi rend="italic">Orientalia</hi> N.S. <hi rend="smallcaps">xxxv</hi> (1966), 85–8). The reference numbers refer to the lines of the original text. The diagonal stroke in the transcription represents the punctuation mark.</note>
       <pb n="176"/>
 <p>PAUSAL FORMS IN BIBLICAL HEBREW</p>
-<p>suggest that there may be errors in their use.<note n="1">The main problem is in lines 7–8 where the two clauses <foreign xml:lang="und">/wyśr'l ’bd ’bd</foreign> <foreign xml:lang="und">‘lm wyrš ‘mry ’t ’[r]ṣ mhdb’</foreign> are marked as a single unit, whereas the content appears to require a major break between them. The passage could be understood “(He threatened this in my days, but I triumphed over him and his dynasty.) And Israel suffered a permanent setback, despite Omri’s seizure of MHDB’. (Israel occupied it for forty years, but KMŠ restored it in my day.)” It is questionable whether the translation of <foreign xml:lang="und">wyrš</foreign> as “although he had taken possession of” can be justified, but a translation which ignores the punctuation without comment (as all that I know do) is equally unsatisfactory. A lesser problem is the fact that in two of the cases where a stop is marked within a clause, none is marked at its end, but cf. the biblical verse division in cases like Lev. xiv. 57, Neh. xii. 7.</p> The significance of a Moabite inscription for Biblical Hebrew may also be questioned. However, the language and thought-world represented seem close enough to those of the Book of Kings to warrant the use of the inscription in the present context. Consequently, it seems justifiable to claim that the punctuation of this inscription provides some support for the idea that the pausal forms of the Hebrew Bible reflect patterns of formation of speech units characteristic of the language of the Biblical period.</p>
+<p>suggest that there may be errors in their use.<note n="1">The main problem is in lines 7–8 where the two clauses <foreign xml:lang="und">/wyśr'l ’bd ’bd</foreign> <foreign xml:lang="und">‘lm wyrš ‘mry ’t ’[r]ṣ mhdb’</foreign> are marked as a single unit, whereas the content appears to require a major break between them. The passage could be understood “(He threatened this in my days, but I triumphed over him and his dynasty.) And Israel suffered a permanent setback, despite Omri’s seizure of MHDB’. (Israel occupied it for forty years, but KMŠ restored it in my day.)” It is questionable whether the translation of <foreign xml:lang="und">wyrš</foreign> as “although he had taken possession of” can be justified, but a translation which ignores the punctuation without comment (as all that I know do) is equally unsatisfactory. A lesser problem is the fact that in two of the cases where a stop is marked within a clause, none is marked at its end, but cf. the biblical verse division in cases like Lev. xiv. 57, Neh. xii. 7.</note> The significance of a Moabite inscription for Biblical Hebrew may also be questioned. However, the language and thought-world represented seem close enough to those of the Book of Kings to warrant the use of the inscription in the present context. Consequently, it seems justifiable to claim that the punctuation of this inscription provides some support for the idea that the pausal forms of the Hebrew Bible reflect patterns of formation of speech units characteristic of the language of the Biblical period.</p>
 
 <head>6. THE FUNCTION AND ORIGIN OF PAUSAL FORMS: CONCLUSIONS</head>
 

@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>LXX and MT: Aspects of Relationship</title>
-                <author>E. J. Revell</author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Benben Publications</publisher>
-                <pubPlace>Toronto</pubPlace>
-                <date when="1984">1984</date>
-                <availability status="restricted">
-                    <p>Digital version for scholarly use.</p>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <biblStruct n="07a.27_LXX_and_MT_Aspects_of_Relationship.pdf">
-                    <analytic>
-                        <author>Revell, E. J.</author>
-                        <title level="a">LXX and MT: Aspects of Relationship</title>
-                    </analytic>
-                    <monogr>
-                        <title level="m">De Septuaginta: Studies in Honour of John William Wevers</title>
-                        <editor>Pietersma, A.</editor>
-                        <editor>Cox, C.</editor>
-                        <imprint>
-                            <pubPlace>Toronto</pubPlace>
-                            <publisher>Benben Publications</publisher>
-                            <date>1984</date>
-                            <biblScope unit="page">41-51</biblScope>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <p>Encoded according to TEI P5 guidelines.</p>
-        </encodingDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="en">English</language>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LXX and MT: Aspects of Relationship</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.27</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">LXX and MT: Aspects of Relationship</title>
+          <title level="j">in De Septuaginta: Studies in Honour of John William Wevers, eds. A. Pietersma and C. Cox, Toronto (1984), p. 41-51.</title>
+          <date>1984</date>
+          <biblScope unit="page">41-51</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <body>
             <pb n="3" />

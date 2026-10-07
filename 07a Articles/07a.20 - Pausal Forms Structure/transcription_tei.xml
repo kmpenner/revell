@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Pausal Forms and the Structure of Biblical Poetry</title>
-      <author>E. J. Revell</author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Brill</publisher>
-      <date when="1981">1981</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Pausal Forms and the Structure of Biblical Poetry</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.20</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
           <author>E. J. Revell</author>
           <title level="a">Pausal Forms and the Structure of Biblical Poetry</title>
-        </analytic>
-        <monogr>
-          <title level="j">Vetus Testamentum</title>
-          <imprint>
-            <biblScope unit="volume">XXXI</biblScope>
-            <date when="1981">1981</date>
-            <biblScope unit="page" from="186" to="199">186-199</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note>Filename: 07a.20.pdf</note>
-  </notesStmt>
-</teiHeader>
+          <title level="j">Vetus Testamentum XXXI (1981), p. 186-199.</title>
+          <date>1981</date>
+          <biblScope unit="page">186-199</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -38,21 +32,21 @@
 <note place="top-right" type="handwritten">Bib 39</note>
 
 <p rendition="center">
-    Volume 9<br/>
+    Volume 9<lb/>
     1985
 </p>
 
 <p rendition="center">
-    Biblical and Other Studies<br/>
-    in memory of<br/>
+    Biblical and Other Studies<lb/>
+    in memory of<lb/>
     S. D. Goitein
 </p>
 
 <p rendition="center">Edited by: Reuben Ahroni</p>
 
 <p rendition="center">
-    Department of Judaic and Near Eastern<br/>
-    Languages and Literatures<br/>
+    Department of Judaic and Near Eastern<lb/>
+    Languages and Literatures<lb/>
     The Ohio State University
 </p>
       <pb n="277"/>
@@ -561,14 +555,14 @@ follows its fourth word.
 gôyim rabbîm</hi> (“You will lend to many nations”, Deut 28:12) and eight
 other cases in which the second constituent is composed of two or three</p>
 
-<note xml:id="n31">to the conditioning of stress position. The most recent study (Artom, 1958) involves the
+<note xml:id="n31b">to the conditioning of stress position. The most recent study (Artom, 1958) involves the
 accentuation in the attempt to do this, but the rules evolved (p. 208) do not cover even the
 limited area of forms from roots III <hi rend="italic">h</hi> in two-word clauses. Penultimate <hi rend="italic">ṣere</hi> is stressed
 with a conjunctive accent in <hi rend="italic">wenilʾētî</hi> (Jer 20:9), <hi rend="italic">wenidkêtî</hi> (Ps 38:9), and is not stressed
 with a disjunctive in <hi rend="italic">wehirbētî</hi> (Lev 26:9).
 31. To assist precise comparisons, the forms listed are categorized as from (a) hollow
 roots, (b) geminate roots, (c) roots III <hi rend="italic">ʾ</hi>, (d) roots III <hi rend="italic">h</hi>.</note>
-<note xml:id="n32">32. As in the two <hi rend="italic">hipʿil</hi> forms in Ps 118:25, the equally surprising <hi rend="italic">mizreḥā šāmeš</hi> (Deut
+<note xml:id="n32b">32. As in the two <hi rend="italic">hipʿil</hi> forms in Ps 118:25, the equally surprising <hi rend="italic">mizreḥā šāmeš</hi> (Deut
 4:41), and <hi rend="italic">yišpūṭû hem</hi> (Exod 18:26). Final stress is not likely to have arisen through error
 or carelessness in any of these cases, but the conditioning which presumably caused it is
 not understood.</note>

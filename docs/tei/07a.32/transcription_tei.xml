@@ -1,62 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>First Person Imperfect Forms with Waw Consecutive</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Brill</publisher>
-      <date when="1988">1988</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>First Person Imperfect Forms with Waw Consecutive</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.32</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">First Person Imperfect Forms with Waw Consecutive</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Vetus Testamentum</title>
-          <imprint>
-            <biblScope unit="volume">XXXVIII</biblScope>
-            <date when="1988">1988</date>
-            <biblScope unit="page" from="419" to="426">419-426</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-    <langUsage>
-      <language ident="en">English</language>
-    </langUsage>
-  </profileDesc>
-  <revisionDesc>
-    <change>
-      <date>2023-10-27</date>
-      <label>File created from citation</label>
-    </change>
-  </revisionDesc>
-</teiHeader>
+          <title level="j">Vetus Testamentum XXXVIII (1988), p. 419-426.</title>
+          <date>1988</date>
+          <biblScope unit="page">419-426</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
-<div type="titlePage">
+
     <p rend="align(center)">OFFPRINT FROM</p>
-    <head type="main" rend="align(center) size(huge)">HEBREW STUDIES</head>
+    <p rend="align(center) size(huge)"><hi rend="bold">HEBREW STUDIES</hi></p>
     <p rend="align(center)">
         A Journal Devoted to<lb/>
         Hebrew Language and Literature
@@ -72,27 +46,25 @@
         Pet J Gentry
     </ab>
 
-    <div type="editorialBoard" rend="align(center)">
-        <p>
+    <p rend="editorialBoard align(center)">
             FREDERICK E. GREENSPAHN, Editor<lb/>
             RACHEL BRENNER, Associate Editor<lb/>
             EDWARD GOLDMAN, Associate Editor<lb/>
             DAVID MARCUS, Book Review Editor
         </p>
-    </div>
+    
 
-    <div type="publisher" rend="align(center)">
+    
         <p> Published at the University of Wisconsin–Madison by<lb/>
             The National Association of Professors of Hebrew<lb/>
             in American Institutions of Higher Learning
         </p>
-        <p xml:lang="he" dir="rtl">איגוד הפרופסורים לעברית בארצות־הברית</p>
-    </div>
-</div>
+        <p xml:lang="he" rend="rtl">איגוד הפרופסורים לעברית בארצות־הברית</p>
+    
       <pb/>
 <head rend="center">THE SYSTEM OF THE FINITE VERB IN CLASSICAL BIBLICAL HEBREW<ptr target="#n1"/></head>
-<docAuthor rend="center">Peter J. Gentry</docAuthor>
-<docEdition rend="center">University of Toronto</docEdition>
+<p rend="center">Peter J. Gentry</p>
+<p rend="center">University of Toronto</p>
 <p rend="indent">This article provides a comprehensive description of the verbal system of classical biblical Hebrew, explaining how tense, aspect, and modality are signaled and correlating form and function in a way that accounts adequately and simply for the entire range of usage. A sensitive balance is maintained between synchronic and diachronic analysis. Also considered are communicative constraints, such as discourse grammar, pragmatics, and contextual meanings versus implicature. The base forms are primarily aspectual, with temporal deixis a function of aspectual default and discourse setting. Integrated within the model is a fresh proposal for understanding so-called volitives in classical biblical Hebrew. Normally command forms in Hebrew are considered a unified system of volitives consisting of cohortative, imperative, and jussive. Following up on the work of Niccacci, Revell and more recently Shulman on (so-called) modal forms in Hebrew, it is argued that the volitives should not be viewed as a unified system. Rather, projective modality apart from imperative forms is signaled by position of the verb. This in itself is not new. It is further argued, however, that the <emph rend="italic">-āh</emph> suffix normally considered to be the marker of the cohortative functions in a manner similar to the Akkadian ventive and has nothing to do with projective modality. The explanatory power of this proposal is such that it can explain the distribution of the <emph rend="italic">-āh</emph> suffix on all verb forms in the Hebrew Bible as well as forms usually eliminated from discussion as extrasystemic or corruptions in the text. Striking support, moreover, is found in the Amarna Canaanite texts.</p>
 <head>INTRODUCTION</head>
 <p rend="indent">All who read the texts of classical biblical Hebrew<ptr target="#n2"/>—students and scholars alike—continue to be perplexed and troubled by the nature of the Hebrew verbal system. Indeed, Leslie McFall aptly summed things up in the title of his 1982 work: <emph rend="italic">The Enigma of the Hebrew Verbal System</emph>.<ptr target="#n3"/></p>
@@ -466,7 +438,7 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 
 <head>Gen 17:5–8</head>
 
-<p xml:lang="he" dir="rtl">
+<p xml:lang="he" rend="rtl">
     [5] וְלֹא־יִקָּרֵא עוֹד אֶת־שִׁמְךָ אַבְרָם וְהָיָה שִׁמְךָ אַבְרָהָם כִּי אַב־הֲמוֹן גּוֹיִם נְתַתִּֽיךָ׃<br/>
     [6] וְהִפְרֵתִי אֹתְךָ בִּמְאֹד מְאֹד וּנְתַתִּיךָ לְגוֹיִם וּמְלָכִים מִמְּךָ יֵצֵֽאוּ׃<br/>
     [7] וַהֲקִמֹתִי אֶת־בְּרִיתִי בֵּינִי וּבֵינֶיךָ וּבֵין זַרְעֲךָ אַחֲרֶיךָ לְדֹרֹתָם לִבְרִית עוֹלָם לִהְיוֹת לְךָ לֵאלֹהִים וּלְזַרְעֲךָ אַחֲרֶֽיךָ׃<br/>
@@ -487,7 +459,7 @@ Wright, <title>The New Testament and the People of God</title> [Minneapolis: For
 
 <head>Gen 1:29</head>
 
-<p xml:lang="he" dir="rtl">
+<p xml:lang="he" rend="rtl">
     וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת־כָּל־עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ וְאֶת־כָּל־הָעֵץ אֲשֶׁר־בּוֹ פְרִי־עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָֽה׃
 </p>
 
@@ -827,7 +799,7 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <span>31</span> Gentry: System of the Finite Verb
 </fw>
 
-<div type="section">
+
     <head>Deut 6:4–5</head>
     <p xml:lang="he" rend="align(right)">
         [4] שְׁמַע יִשְׂרָאֵל יהוה אלהינו יהוה אחד: [5] <seg rend="underline">וְאָהַבְתָּ</seg> את יהוה...
@@ -835,9 +807,9 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <p rend="indent">
         Hear O Israel, Yahweh, our God, Yahweh is one. And <hi rend="italic">you shall love</hi> Yahweh...
     </p>
-</div>
 
-<div type="section">
+
+
     <head>Judg 9:33</head>
     <p xml:lang="he" rend="align(right)">
         והיה בבקר כזרח השמשׁ <seg rend="underline">תַּשְׁכִּים וּפָשַׁטְתָּ</seg> על-העיר...
@@ -845,9 +817,9 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <p rend="indent">
         In the morning, at the rising of the sun, <hi rend="italic">you must arise early</hi> and make a raid on the town.
     </p>
-</div>
 
-<div type="section">
+
+
     <head>Gen 22:12</head>
     <p xml:lang="he" rend="align(right)">
         ויאמר <seg rend="underline">אַל-תִּשְׁלַח</seg> ידך אל-הנער <seg rend="underline">וְאַל-תַּעַשׂ</seg> לו מאומה...
@@ -855,9 +827,9 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <p rend="indent">
         And he said, “<hi rend="italic">Do not lay</hi> your hand on the lad and <hi rend="italic">do not do</hi> anything to him!”
     </p>
-</div>
 
-<div type="section">
+
+
     <head>Gen 18:3</head>
     <p xml:lang="he" rend="align(right)">
         ויאמר אדני אם-נא מצאתי חן בעיניך <seg rend="underline">אַל-נָא תַעֲבֹר</seg> מעל עבדך:
@@ -865,9 +837,9 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <p rend="indent">
         And he (Abraham) said, “My lord, if I have found favor in your eyes, <hi rend="italic">do not pass</hi> by your servant.”
     </p>
-</div>
 
-<div type="section">
+
+
     <head>Exod 20:14</head>
     <p xml:lang="he" rend="align(right)">
         <seg rend="underline">לֹא תִנְאָף</seg>:
@@ -875,14 +847,14 @@ The imperative verb form is not used with negatives. Instead, vetitives are indi
     <p rend="indent">
         You shall not commit adultery.
     </p>
-</div>
 
-<div type="section">
+
+
     <head rend="italic">First Person Projectives</head>
     <p>
         First person projectives are indicated by prefix forms in initial position, with or without the <seg xml:lang="he">הָ-</seg> suffix. This suffix is not a modal morpheme and does not mark the form as projective. As one might expect from the nature of experience and everyday human relations, most contexts require only perfective aspect.<note n="85"/> Moreover, most roots have no means of distinguishing formally short and long prefix forms for first person. Only rarely, then, is it necessary to distinguish long from short prefix forms to mark clearly imperfective aspect. This is accomplished (a) in positive projectives by employing N-suffixes as opposed to H-suffixes, (b) in negative projectives
     </p>
-</div>
+
 
 <note n="85">
     Qimron concludes from his analysis of consecutive and conjunctive imperfect that the <hi rend="italic">yiqtol</hi> in <hi rend="italic">wayyiqtol</hi> forms is almost always short prefix (E. Qimron, “Consecutive and Conjunctive Imperfect: The Form of the Imperfect with <hi rend="italic">Waw</hi> in Biblical Hebrew,” <hi rend="italic">JQR</hi> 77 [1986-87] 151).
@@ -1333,7 +1305,8 @@ quently B. Johnson finds only three 2nd person imperfects with conjunctive <hi r
 (necessarily clause-initial) in the whole of the Pentateuch and Former Prophets
 (<hi rend="italic">Hebräisches Perfekt und Imperfekt mit vorangehendem wᵉ</hi> [Lund, 1979], p. 57), because
 imperatives carry the modal function in affirmative clauses with 2nd person verbs
-(Bergsträsser, II § 10a).</p></note> The
+(Bergsträsser, II § 10a).</note></p>
+<p>The
 semantic contrast modal/indicative originally marked by the short
 and long imperfect forms was abandoned during the biblical
 period.<note n="10">The extent of semantic distinction is questionable even in the classical form

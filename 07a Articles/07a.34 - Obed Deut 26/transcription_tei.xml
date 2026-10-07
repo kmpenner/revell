@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>'obed (Deut 26:5) and the Function of the Participle in M.T.</title>
-      <author>E. J. Revell</author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Sefarad</publisher>
-      <date when="1988">1988</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title level="a">'obed (Deut 26:5) and the Function of the Participle in M.T.</title>
+    <fileDesc>
+      <titleStmt>
+        <title>&#x27;obed (Deut 26:5) and the Function of the Participle in M.T.</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.34</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
           <author>E. J. Revell</author>
-        </analytic>
-        <monogr>
-          <title level="j">Sefarad</title>
-          <imprint>
-            <biblScope unit="volume">XLVIII</biblScope>
-            <date when="1988">1988</date>
-            <biblScope unit="page" from="197" to="205">197-205</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <revisionDesc>
-    <change>
-      <desc>Initial TEI header creation based on file 07a.34.pdf</desc>
-    </change>
-  </revisionDesc>
-</teiHeader>
+          <title level="a">&#x27;obed (Deut 26:5) and the Function of the Participle in M.T.</title>
+          <title level="j">Sefarad XLVIII (1988), p. 197-205.</title>
+          <date>1988</date>
+          <biblScope unit="page">197-205</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>

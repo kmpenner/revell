@@ -2,27 +2,30 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Transcription of 07a.04.pdf</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>Digitized as part of the Revell Digital Corpus Project.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Original PDF: 07a.04.pdf</p>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <charDecl>
-                <char xml:id="char_sof_pasuq_breve">
-                    <charName>HEBREW SOF PASUQ WITH BREVE ABOVE</charName>
-                    <desc>Hebrew sof pasuq (colon) surmounted by a semicircular mark / breve</desc>
-                    <mapping type="unicode">:&#x0306;</mapping>
-                </char>
-            </charDecl>
-        </encodingDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A New Biblical Fragment with Palestinian Vocalization</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.04</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">A New Biblical Fragment with Palestinian Vocalization</title>
+          <title level="j">Textus VII (1969), p. 59-75.</title>
+          <date>1969</date>
+          <biblScope unit="page">59-75</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <body>
             <pb />
@@ -48,17 +51,13 @@
             in content.<note place="foot" n="2">The poems discernable are for the ‘18 benedictions’,
             and have an alphabetic acrostic. In TS NS 249 :6 (see below) fol. 2v, lines 15–17 of the
             lower writing read:— <lb /><foreign xml:lang="he">
-                        או בליל פםחתה בב </foreign><gap reason="lost" extent="8-10 chars" />
+                        או בליל פםחתה בב </foreign><gap agent="lost" extent="8-10 chars" />
                 <foreign
-                        xml:lang="he">במוז ב</foreign><gap reason="lost" extent="1 chars" />
+                        xml:lang="he">במוז ב</foreign><gap agent="lost" extent="1 chars" />
                 <foreign
-                        xml:lang="he">שומיד</foreign></lb>
-<foreign xml:lang="he">שומר אשמוד </foreign> <gap
-                        reason="lost" extent="8-10 chars" />
-<foreign xml:lang="he">בתחיית םל בֿ
-                        ננותה נא ו</foreign><damage reason="faded">]</damage></lb>
+                        xml:lang="he">שומיד</foreign><gap agent="lost" extent="8-10 chars" /><foreign xml:lang="he">שומר אשמוד </foreign><gap agent="lost" extent="8-10 chars" /><foreign xml:lang="he">בתחיית םל בֿ ננותה נא ו</foreign><damage agent="faded">]</damage><lb/>
 <foreign
-                        xml:lang="he">עד משמך לי</foreign> <damage reason="faded">]</damage>
+                        xml:lang="he">עד משמך לי</foreign> <damage agent="faded">]</damage>
 <lb />
 <lb />A
             similar amount can be read on a few lines of TS NS 272: 11 fol. 1r. Elsewhere, for the
@@ -86,7 +85,7 @@
                     <cell>Fol. 1, recto. I Chron. 3:16</cell>
                     <cell>
                         <foreign xml:lang="he">צדקיהו ב</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
@@ -95,80 +94,80 @@
                         <foreign xml:lang="he">ן</foreign>
                         <g ref="#char_sof_pasuq_breve">:&#x0306;</g>
                         <foreign xml:lang="he">ומלכידם ו</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>18-19</cell>
                     <cell>
                         <foreign xml:lang="he">ונדביה : ובני פי</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>19</cell>
                     <cell>
                         <foreign xml:lang="he">ורננ משולס . וחננ</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>20</cell>
                     <cell>
                         <foreign xml:lang="he">וחשובה הל יֹ֕ה וחס</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>21</cell>
                     <cell>
                         <foreign xml:lang="he">ובז . חנניה פלטיה . וישע</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>21-22</cell>
                     <cell><foreign xml:lang="he">י.רני.עבדיהי.ה</foreign>:<foreign xml:lang="he">ו</foreign><damage
-                            reason="faded">]</damage></cell>
+                            agent="faded">]</damage></cell>
                 </row>
                 <row>
                     <cell>22-23</cell>
                     <cell><foreign xml:lang="he">יה י עיה חט א ח ר שפ[ ]ה:[ ]ובז.] </foreign>:<foreign
                             xml:lang="he"><damage
-                                reason="faded">[ ]</damage>ובז</foreign>.<damage
-                            reason="faded">]</damage></cell>
+                                agent="faded">[ ]</damage>ובז</foreign>.<damage
+                            agent="faded">]</damage></cell>
                 </row>
                 <row>
                     <cell>23-24</cell>
                     <cell>
                         <foreign xml:lang="he">זוי ני קיה ק ה : ובני . עינֹ יֹהו שי</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>24</cell>
                     <cell><foreign xml:lang="he">יה קוֹב ונֹ יֹה ועננֹ שׁעַה</foreign>:<damage
-                            reason="faded">]</damage></cell>
+                            agent="faded">]</damage></cell>
                 </row>
                 <row>
                     <cell>4: 1-2</cell>
                     <cell>
                         <foreign xml:lang="he">בני דה ץ רוֹן כמֹ ר . שׁובל : וראיה</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>2</cell>
                     <cell>
                         <foreign xml:lang="he">ז. ב ד . יח ויֹת . ל ת . מ ת . לה א ת</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>2-3</cell>
                     <cell>
                         <foreign xml:lang="he">תי: ואלה י . עיטַ על . ויֹמְ בְ שׁ אֹ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                         <foreign xml:lang="he">ח</foreign>
                     </cell>
                 </row>
@@ -176,13 +175,13 @@
                     <cell>3-4</cell>
                     <cell>
                         <foreign xml:lang="he">הצללפוני : ופנואל י . ד עִ י . חוֹשָה</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>4-5</cell>
                     <cell><foreign xml:lang="he">ה . י. חוֹ ר . ר אב ת . ל : ולאשׁחור י </foreign>.<damage
-                            reason="faded">]</damage></cell>
+                            agent="faded">]</damage></cell>
                 </row>
                 <row>
                     <cell>5-6</cell>
@@ -194,58 +193,60 @@
                 <cell>6</cell>
                 <cell>
                 <foreign xml:lang="he">נערה ת . אחוֹם ת . חפ ת . מנ ת . ר</foreign>.
+                </cell>
+                </row>
                 <row>
                 <cell>6-8</cell>
                 <cell>
-                    <foreign xml:lang="he">א ני נרה : ובני א צ נן :וקוץ . ל
-                    <damage reason="faded">]</damage>
+                    <foreign xml:lang="he">א ני נרה : ובני א צ נן :וקוץ . ל</foreign>
+                    <damage agent="faded">]</damage>
                 </cell>
-            </table></lb> TS NS. 172:11 Fol. 1, verso. <row>
+            </row></table><p>TS NS. 172:11 Fol. 1, verso.</p><table><row>
                 <cell>Fol. 1, verso. I Chron. 4:14</cell>
                 <cell>
                     <foreign xml:lang="he">ת רֹה יֹה</foreign>
-                    <damage reason="faded">[</damage>
+                    <damage agent="faded">[</damage>
                 </cell>
             </row>
                 <row>
                 <cell>14</cell>
                 <cell>
-                    <damage reason="faded">]</damage>
+                    <damage agent="faded">]</damage>
                     <foreign xml:lang="he">ים הו :</foreign>
                 </cell>
             </row>
                 <row>
                 <cell>16</cell>
                 <cell>
-                    <damage reason="faded">]</damage>
+                    <damage agent="faded">]</damage>
                     <foreign xml:lang="he">ערו . אלֹ ונֹ נֹ אל.ה</foreign>
                 </cell>
             </row>
                 <row>
                 <cell>17</cell>
                 <cell>
-                    <damage reason="faded">]</damage>
+                    <damage agent="faded">]</damage>
                     <foreign xml:lang="he">אלֹ ף . פה תיריה ואש :</foreign>
                 </cell>
             </row>
                 <row>
                 <cell>17-18</cell>
                 <cell>
-                    <damage reason="faded">]</damage>
+                    <damage agent="faded">]</damage>
                     <foreign xml:lang="he">מֶרֶד עֹפ . ויל.ו ותה ת . מ.</foreign>
                 </cell>
             </row>
                 <row>
                 <cell>18</cell>
                 <cell>
-                    <damage reason="faded">]</damage>
+                    <damage agent="faded">]</damage>
                     <foreign xml:lang="he">אמַע : ואשׁתו . היהודיה</foreign>
                 </cell>
             </row>
                 <row>
                 <cell></cell>
                 <cell>
-                    <foreign xml:lang="he"><damage reason="faded">[</damage>י דוֹרת . חב . י . כו ת
+                    <foreign xml:lang="he"><damage agent="faded">[</damage>י דוֹרת . חב . י . כו ת
             . א י</foreign>
                 </cell>
             </row>
@@ -259,7 +260,7 @@
                     <cell>18</cell>
                     <cell>
                         <foreign xml:lang="he">נוא</foreign>
-                        <damage reason="faded">[ ]</damage>
+                        <damage agent="faded">[ ]</damage>
                         <hi rend="underline">
                             <foreign xml:lang="he">בתיה ב עה שר . ל ק ד ס</foreign>
                         </hi>
@@ -300,7 +301,7 @@
                     <cell>22-23</cell>
                     <cell>
                         <foreign xml:lang="he">ר. ס : הִמה רי בי ע ר.ה עַם . מָ . בת ישׁ]</foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
@@ -329,47 +330,46 @@
                 </row>
             </table>
 
-        </lb>
-            TS NS 172:11 <table>
-                <row>Fol. 2, recto. I Chron. 4:29-30</row>
+        <p>TS NS 172:11</p>
+            <table>
+                <row><cell>Fol. 2, recto. I Chron. 4:29-30</cell></row>
                 <row>
-                    <foreign xml:lang="he">[ חה צצ [ ] ובבחואל </foreign>
+                    <cell><foreign xml:lang="he">[ חה צצ [ ] ובבחואל </foreign></cell>
                 </row>
             </table>
-            </p>
             <table>
                 <row>
                     <cell>30-31</cell>
                     <cell>
                         <foreign xml:lang="he">[ג : ובביח . מב ר . סוס בביח]</foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>31-32</cell>
                     <cell>
-                        <foreign xml:lang="he"><damage reason="faded">[</damage>רִים אָה . רִיָה ד .
+                        <foreign xml:lang="he"><damage agent="faded">[</damage>רִים אָה . רִיָה ד .
             לָךְ . ד : וְחַצְרֵיהֶם</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>32-33</cell>
                     <cell>
-                        <foreign xml:lang="he"><damage reason="faded">]</damage> רֶמֶ וְתֹכֶן
+                        <foreign xml:lang="he"><damage agent="faded">]</damage> רֶמֶ וְתֹכֶן
             עֶשֶׂרִי חָשׁ : וְכָל חֵיָה </foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>33</cell>
                     <cell>
-                        <foreign xml:lang="he"><damage reason="faded">]</damage> עַר הָא ד . בַּעַ.ל
+                        <foreign xml:lang="he"><damage agent="faded">]</damage> עַר הָא ד . בַּעַ.ל
             זֹא תֹּם שׁם ס :</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>34-35</cell>
                     <cell>
-                        <foreign xml:lang="he"><damage reason="faded">[</damage>וַיִּמְל וְיוֹשָׁה
+                        <foreign xml:lang="he"><damage agent="faded">[</damage>וַיִּמְל וְיוֹשָׁה
             וְה : וְיֹאֵל וְיֵהוּ וֹ . יִשָׁה</foreign>
                     </cell>
                 </row>
@@ -377,7 +377,7 @@
                     <cell>35-36</cell>
                     <cell>
                         <foreign xml:lang="he">ן <gap
-                                reason="lost" extent="3-5 chars" />[ ] וְאֶלְיוֹעֵינַי ק שָׁחַ
+                                agent="lost" extent="3-5 chars" />[ ] וְאֶלְיוֹעֵינַי ק שָׁחַ
             וַעֲשָׂיָ וָא וְשָׁא</foreign>
                     </cell>
                 </row>
@@ -385,7 +385,7 @@
                     <cell>36-37</cell>
                     <cell>
                         <foreign xml:lang="he">ה : וַיּוּה[ ]<gap
-                                reason="lost" extent="3-4 chars" /> עַי . ן . אֵלִין . יְדָיָה . וֹ
+                                agent="lost" extent="3-4 chars" /> עַי . ן . אֵלִין . יְדָיָה . וֹ
             . רָ ן .</foreign>
                     </cell>
                 </row>
@@ -393,13 +393,13 @@
                     <cell>37-38</cell>
                     <cell>
                         <foreign xml:lang="he">ה : אֵלָה<damage
-                                reason="faded">]</damage> תְּ בִי יָהּ פָּץ לָרוֹב :</foreign>
+                                agent="faded">]</damage> תְּ בִי יָהּ פָּץ לָרוֹב :</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>39</cell>
                     <cell>
-                        <foreign xml:lang="he">וַיֵּלְכוּ א .[ ] <gap reason="lost"
+                        <foreign xml:lang="he">וַיֵּלְכוּ א .[ ] <gap agent="lost"
                                 extent="4-5 chars" /> מִזְרַח . הַגָּ לְבַקֵּשׁ .</foreign>
                     </cell>
                 </row>
@@ -407,22 +407,22 @@
                     <cell>39-40</cell>
                     <cell>
                         <foreign xml:lang="he">מֹרְ לָם : וַיִּמְצ [ ]<gap
-                                reason="lost" extent="3 chars" />עָה שָׁמֵן וְטוֹ</foreign>
+                                agent="lost" extent="3 chars" />עָה שָׁמֵן וְטוֹ</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>40</cell>
                     <cell>
                         <foreign xml:lang="he">וְהָא רַחֲבַ . יָדֵי שׁ[ ]<gap
-                                reason="lost" extent="3-4 chars" /> לוֹ[ ] <gap
-                                reason="lost" extent="1 chars" /> . מִן . חָם בִּים</foreign>
+                                agent="lost" extent="3-4 chars" /> לוֹ[ ] <gap
+                                agent="lost" extent="1 chars" /> . מִן . חָם בִּים</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>40-41</cell>
                     <cell>
                         <foreign xml:lang="he">שם ס : ויבאו אה . בים<gap
-                                reason="lost" extent="3-4 chars" />מיו . ד . ד</foreign>
+                                agent="lost" extent="3-4 chars" />מיו . ד . ד</foreign>
                     </cell>
                 </row>
                 <row>
@@ -438,13 +438,13 @@
                         <foreign xml:lang="he">עונק</foreign>
                     </cell>
                     <cell>
-                        <foreign xml:lang="he"<note place="margin">
+                        <note place="margin">
                                 <choice>
-                                    <orig type="qere">עונק</orig>
+                                    <orig>עונק</orig>
                                     <reg type="ketiv">עינכ</reg>
                                 </choice>
-                            </note>>עונק
-            וילֹו . ת . אה ת . המעינ<damage reason="faded">]</damage> ו.מ</foreign>
+                        </note>
+                        <foreign xml:lang="he">עונק וילֹו . ת . אה ת . המעינ<damage agent="faded">]</damage> ו.מ</foreign>
                     </cell>
                 </row>
             </table>
@@ -457,78 +457,78 @@
                     <cell>41</cell>
                     <cell>
                         <foreign xml:lang="he">וַיְחַרימ֫וּ ד . ם הז וַישׁ.בַנ [ ]<gap
-                                reason="lost" extent="5-6 chars" /> י . עָ֫ה</foreign>
+                                agent="lost" extent="5-6 chars" /> י . עָ֫ה</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>41-42</cell>
                     <cell>
                         <foreign xml:lang="he">לָ֫נ שׁם : ומָהם ן . ע הָ֫כ</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>42</cell>
                     <cell>
                         <foreign xml:lang="he">חַ֫ש . מא טיהוּ יה פִ֫יה </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>42-43</cell>
                     <cell>
                         <foreign xml:lang="he">נָ שָׁע ם : וַיכו ת . ת . ל.י לַ֫ע</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>43</cell>
                     <cell>
                         <foreign xml:lang="he">וַישו . שׁ֫ ע ם . ה : </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>5:1</cell>
                     <cell>
                         <foreign xml:lang="he">ובני . ן . ר . אַ֫ל / י . א . ורֹ וב</foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>1</cell>
                     <cell>
                         <foreign xml:lang="he">ס יצו אב ננֹה תו נִ֫י סף ן א֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>1-2</cell>
                     <cell>
                         <foreign xml:lang="he">סד ה : כי יהוּדה גָ אַ֫ח זננָ֫ מ </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>3</cell>
                     <cell>
                         <foreign xml:lang="he">בני . ראבן ר . ישׁ חנֹ לוֹ ח֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>4-5</cell>
                     <cell>
-                        <foreign xml:lang="he">ה . בנ ג בני ו : מ[ ]<gap reason="lost"
+                        <foreign xml:lang="he">ה . בנ ג בני ו : מ[ ]<gap agent="lost"
                                 extent="1 chars" /> בנ֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>5-6</cell>
                     <cell>
-                        <foreign xml:lang="he">נ בנ בע ו : בארה . [ ]<gap reason="lost"
-                                extent="2-3 chars" /> הג֫ <damage reason="faded">]</damage>
+                        <foreign xml:lang="he">נ בנ בע ו : בארה . [ ]<gap agent="lost"
+                                extent="2-3 chars" /> הג֫ <damage agent="faded">]</damage>
                         </foreign>
                     </cell>
                 </row>
@@ -537,53 +537,53 @@
                 </row>
                 <row>
                     <cell>6-7</cell>
-                    <cell><damage reason="lost">[</damage><foreign xml:lang="he">אשׁר</foreign><damage
-                            reason="lost">]</damage><foreign xml:lang="he">כ ר . אשׁר א֫ נִ֫י : ואח֫ </foreign><damage
-                            reason="faded">]</damage> / <damage reason="lost">[</damage><foreign
-                            xml:lang="he">א</foreign><damage reason="lost">]</damage><foreign
-                            xml:lang="he">שׁור</foreign><damage reason="lost">[</damage><foreign
-                            xml:lang="he">ק</foreign><damage reason="lost">]</damage></cell>
+                    <cell><damage agent="lost">[</damage><foreign xml:lang="he">אשׁר</foreign><damage
+                            agent="lost">]</damage><foreign xml:lang="he">כ ר . אשׁר א֫ נִ֫י : ואח֫ </foreign><damage
+                            agent="faded">]</damage> / <damage agent="lost">[</damage><foreign
+                            xml:lang="he">א</foreign><damage agent="lost">]</damage><foreign
+                            xml:lang="he">שׁור</foreign><damage agent="lost">[</damage><foreign
+                            xml:lang="he">ק</foreign><damage agent="lost">]</damage></cell>
                 </row>
                 <row>
                     <cell>7-8</cell>
                     <cell>
                         <foreign xml:lang="he">תת֫ם הך א ה : ובלע ן ע֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>8</cell>
                     <cell>
                         <foreign xml:lang="he">ן א֫ הו ב . בעע ד֫⁻ נב ל . </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>9</cell>
                     <cell>
                         <foreign xml:lang="he">ישׁ ר . א . רה ן . נה פ֫ר </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>9-10</cell>
                     <cell>
                         <foreign xml:lang="he">ע . ד : ובימי . שאו ע֫ו . </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>10</cell>
                     <cell>
                         <foreign xml:lang="he">וַל֫ו ד. וישׁב יה ל . ל . </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                     </cell>
                 </row>
                 <row>
                     <cell>11-12</cell>
                     <cell>
                         <foreign xml:lang="he">ובני . גד . ד י֫ב א֫ץ . </foreign>
-                        <damage reason="faded">[</damage>
+                        <damage agent="faded">[</damage>
                         <foreign xml:lang="he">ד. ה : יואל .</foreign>
                     </cell>
                 </row>
@@ -591,7 +591,7 @@
                     <cell>12-13</cell>
                     <cell>
                         <foreign xml:lang="he">ש ה֫ר ושׁפם נה </foreign>
-                        <gap reason="lost" />
+                        <gap agent="lost" />
                         <foreign xml:lang="he">ן : ואחיהם</foreign>
                     </cell>
                 </row>
@@ -599,7 +599,7 @@
                     <cell>13</cell>
                     <cell>
                         <foreign xml:lang="he">ת . יה א֫ ל ושׁ</foreign>
-                        <gap reason="lost" />
+                        <gap agent="lost" />
                         <foreign xml:lang="he">ע . ו֫ע ה :</foreign>
                     </cell>
                 </row>
@@ -607,9 +607,9 @@
                     <cell>14</cell>
                     <cell>
                         <foreign xml:lang="he">אלה / בני</foreign>
-                        <gap reason="lost" />
+                        <gap agent="lost" />
                         <foreign xml:lang="he">א֫ </foreign>
-                        <gap reason="lost" />
+                        <gap agent="lost" />
                         <foreign xml:lang="he">ן חוֹר ן ר֫וח ן עד .</foreign>
                     </cell>
                 </row>
@@ -623,7 +623,7 @@
                     <cell>15-16</cell>
                     <cell>
                         <foreign xml:lang="he">נ֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                         <foreign xml:lang="he"> : וַישׁבו בגע בבשׁ ובביה</foreign>
                     </cell>
                 </row>
@@ -631,14 +631,14 @@
                     <cell>16-17</cell>
                     <cell>
                         <foreign xml:lang="he">ל֫ </foreign>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                         <foreign xml:lang="he"> שׁר. ל . תם : כלם חֹשׂו מי</foreign>
                     </cell>
                 </row>
                 <row>
                     <cell>17</cell>
                     <cell>
-                        <damage reason="faded">]</damage>
+                        <damage agent="faded">]</damage>
                         <foreign xml:lang="he">ד.ה ובימ ם . ך . ל :</foreign>
                     </cell>
                 </row>
@@ -665,7 +665,7 @@
                     <cell>18</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">לְמָן מלח עִים . וארע . אֲ ע .</foreign>
                     </cell>
                 </row>
@@ -680,7 +680,7 @@
                     <cell>19–20</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">טר . פִּשׁ ב : וַיַּעַזְרוּ על הַנִּי .</foreign>
                     </cell>
                 </row>
@@ -688,7 +688,7 @@
                     <cell>20</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">ם. הַהוּא כ הֵם כִּי אֵלם . זָעַק</foreign>
                     </cell>
                 </row>
@@ -696,7 +696,7 @@
                     <cell>20–21</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">וַנַעֲתָוּ הֵם י . ו . ו : וַיִּשְׁבּוּ הַם</foreign>
                     </cell>
                 </row>
@@ -704,11 +704,11 @@
                     <cell>21</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">אֶ</foreign>
-                        <damage reason="lost">]</damage>
+                        <damage agent="lost">]</damage>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">ם . שׁ א רִי אַפַּיִם וְנַ</foreign>
                     </cell>
                 </row>
@@ -716,15 +716,15 @@
                     <cell>21–22</cell>
                     <cell>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">אףְ</foreign>
-                        <damage reason="lost">]</damage>
+                        <damage agent="lost">]</damage>
                         <space rend="tab" />
-                        <damage reason="lost">[</damage>
+                        <damage agent="lost">[</damage>
                         <foreign xml:lang="he">ללים בִּי נָפַל כְּ מֵהַהִים</foreign>
                     </cell>
                 </row>
-            </table>        <item>
+            </table>        <list><item>
             14 <p>
                     <foreign xml:lang="he">אלה / בני[ ]א֫ [ ]ן חוֹר ן ר֫וח ן עד .</foreign>
                 </p></item>

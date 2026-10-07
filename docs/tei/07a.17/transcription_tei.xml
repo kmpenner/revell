@@ -1,59 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Biblical Punctuation and Chant in the Second Temple Period</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Brill</publisher>
-      <date when="1976">1976</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Biblical Punctuation and Chant in the Second Temple Period</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.17</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Biblical Punctuation and Chant in the Second Temple Period</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Journal for the Study of Judaism</title>
-          <imprint>
-            <biblScope unit="volume">7</biblScope>
-            <date when="1976">1976</date>
-            <biblScope unit="page">181-198</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <encodingDesc>
-    <p>Encoded from the file 07a.17_Biblical_Punctuation_and_Chant_in_the_Second_Temple_Period.pdf</p>
-  </encodingDesc>
-</teiHeader>
+          <title level="j">Journal for the Study of Judaism 7 (1976), p. 181-198.</title>
+          <date>1976</date>
+          <biblScope unit="page">181-198</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb n="117"/>
-<milestone unit="header" rendition="right">Journal for the Study of Judaism, Vol. VII, No. 2</milestone>
+<fw type="header" rendition="right">Journal for the Study of Judaism, Vol. VII, No. 2</fw>
 
 <head>BIBLICAL PUNCTUATION AND CHANT IN THE SECOND TEMPLE PERIOD</head>
 
-<byline>BY</byline>
+<p rend="byline">BY</p>
 
-<docAuthor>E. J. REVELL</docAuthor>
-<docImprint>Toronto</docImprint>
+<p rend="author">E. J. REVELL</p>
+<p rend="imprint">Toronto</p>
 
 <p>The accent system is painstakingly marked in scholarly editions of the Hebrew Bible, but few who use these editions have any regard for it. In contrast, mediaeval Jewish sources emphasize the value of the study of the massoretic accents, as do Syrian and Samaritan sources for the corresponding features of their texts. One of the main reasons why the accents were of value is that they—or the melodic formulae they represent—function as punctuation. That is, they represent the syntactic analysis of the text which is the foundation for its interpretation. This analysis cannot be satisfactorily achieved simply by applying the basic rules of syntax, since in many cases there is not enough information to determine accurately the syntactic relationship of a word or phrase in the written text. Consequently this relationship must be determined on the basis of the particular interpretation which seems most suitable to the analyst. The importance of establishing syntactical relationships in such ambiguous cases, and so establishing the (literal) meaning of the text, is obvious, and it is not surprising to find that more attention was paid to this by early scholars than to establishing the correct pronunciation of words. Punctuation was marked by accent signs in the Syriac Bible, and probably in the Hebrew, well before the introduction of vowel signs, and it is well known that the punctuation of the Hebrew Bible, expressed in the form of a chant, was in use long before the invention of these signs <note n="1">1)</note>. It seems likely, in fact, that the punctuation was the first feature after the consonantal text to become stabilized in the Jewish Biblical tradition.</p>
 
@@ -66,24 +48,24 @@
 <head>E. J. REVELL</head>
 <head>I. THE PUNCTUATION OF BARTHÉLEMY’S TEXT OF THE TWELVE PROPHETS (BAR.)</head>
 
-<p>The earliest known example of punctuation in a Biblical text occurs in a Septuagint text of the second century BC, papyrus 957, which is punctuated by spaces corresponding almost exactly to the Tiberian accents in the Hebrew text, as I have shown in an earlier article <note n="2">). The next earliest example occurs in the Greek translation of the Twelve Prophets published by BARTHÉLEMY (hence-forward “Bar.” <note n="3">). I argued in the same article that this punctuation also is related to the Tiberian accentuation. Since writing that, however, I have been fortunate enough, thanks to the kind help of Prof. BARTHÉLEMY, P. BENOIT O. P., and Dr MAGEN BROSHI, to obtain photographs of all the fragments of this text <note n="4">). The following table shows that the punctuation shown in these photographs does not correspond closely to any group of the accents of <hi rend="italic">BHK</hi> <note n="5">).</p>
+<p>The earliest known example of punctuation in a Biblical text occurs in a Septuagint text of the second century BC, papyrus 957, which is punctuated by spaces corresponding almost exactly to the Tiberian accents in the Hebrew text, as I have shown in an earlier article .<note n="2"/> The next earliest example occurs in the Greek translation of the Twelve Prophets published by BARTHÉLEMY (hence-forward “Bar.” .<note n="3"/> I argued in the same article that this punctuation also is related to the Tiberian accentuation. Since writing that, however, I have been fortunate enough, thanks to the kind help of Prof. BARTHÉLEMY, P. BENOIT O. P., and Dr MAGEN BROSHI, to obtain photographs of all the fragments of this text .<note n="4"/> The following table shows that the punctuation shown in these photographs does not correspond closely to any group of the accents of <hi rend="italic">BHK</hi> .<note n="5"/></p>
 
 <list>
     <item>A division corresponds to <hi rend="italic">silluq</hi> in 63 of 65 cases (93%)</item>
     <item><hi rend="italic">atnah</hi> in 27 of 33 cases (82%)</item>
     <item><hi rend="italic">zaqef</hi> in 41 of 61 cases (67%)</item>
-    <item><hi rend="italic">revia</hi> <note n="6">) in 8 of 25 cases (32%)</item>
-    <item><hi rend="italic">tifha</hi> <note n="7">) in 3</item>
-    <item><hi rend="italic">conjunctives</hi> <note n="8">) in 2</item>
+    <item><hi rend="italic">revia</hi> <note n="6"/> in 8 of 25 cases (32%)</item>
+    <item><hi rend="italic">tifha</hi> <note n="7"/> in 3</item>
+    <item><hi rend="italic">conjunctives</hi> <note n="8"/> in 2</item>
 </list>
 
 <note n="2">) See “The Oldest Evidence for the Hebrew Accent System” <hi rend="italic">BJRyLL</hi> 54 (1971-2), p. 214-222.</note>
 <note n="3">) The MS of the Twelve Prophets was described by P. BARTHÉLEMY, O.P., in <hi rend="italic">RB</hi> 60 (1953), p. 18-29, and published by him in <hi rend="italic">Les dévanciers d’ Aquila</hi> (= <hi rend="italic">VTS</hi> X, Leiden 1963). A few more fragments from the MS were published by B. LIFSHITZ in <hi rend="italic">Yediot</hi> 26 (1962), p. 183-190.</note>
 <note n="4">) I wish to express here my deep gratitude to those named for their help, and, further, to Dr MAGEN BROSHI of the Shrine of the Book at the Israel Museum for providing me with photographs of the MS, and for granting me permission, on behalf of the Shrine of the Book, to publish a study based on them, and to P. BENOIT O.P. for granting me similar permission on behalf of the committee in charge of publication of the series <hi rend="italic">Discoveries in the Judaean Desert</hi>, in which full publication of this MS will soon take place.</note>
 <note n="5">) <hi rend="italic">BHK</hi>, the third edition of KITTEL’s <hi rend="italic">Biblia Hebraica</hi> is the representative of the Hebrew text used here. BARTHÉLEMY, <hi rend="italic">Les dévanciers</hi> (p. 168, n. 6) disagrees with the identifications proposed by LIFSHITZ for some of the fragments which he published. Of these, only fragment 8 is of interest to this paper. I have accepted BARTHÉLEMY’s identification of this as more likely than that of LIFSHITZ, and so recorded a division at Na 3, 3, but in my own opinion this too is doubtful.</note>
-<note n="6">) One of these in Jon 4, 2 is questionable (see below, n. 22).</note>
-<note n="7">) Mi 1, 6; 5, 2; Hb 2, 5. There is possibly a further example in Ze 1, 14 καὶ ταχεια where the <hi rend="italic">kappa</hi> seems enlarged, but BARTHÉLEMY is probably correct in not marking this.</note>
-<note n="8">) Mi 1, 3 καὶ [ἐπιβήσεται]; Na 3, 9 καὶ λιβυ[ες]. The corresponding words</note>
+<note n="6">One of these in Jon 4, 2 is questionable (see below, n. 22).</note>
+<note n="7">Mi 1, 6; 5, 2; Hb 2, 5. There is possibly a further example in Ze 1, 14 καὶ ταχεια where the <hi rend="italic">kappa</hi> seems enlarged, but BARTHÉLEMY is probably correct in not marking this.</note>
+<note n="8">Mi 1, 3 καὶ [ἐπιβήσεται]; Na 3, 9 καὶ λιβυ[ες]. The corresponding words</note>
       <pb n="183"/>
 <fw type="header">BIBLICAL PUNCTUATION AND CHANT 183</fw>
 
@@ -152,11 +134,11 @@
       <pb n="188"/>
 <fw type="header">188 <space dim="horizontal" extent="medium"/> E. J. REVELL</fw>
 
-<p>are two levels of division in A. The larger division is marked by a system of spaces in the line, and large letters in the margin, similar to that used to mark the paragraphs of Bar. Smaller units within these are marked by spaces about the width of an average letter, in which a dot is placed. A marks 50 larger divisions in this passage, of which 40 (80%) correspond to sentence or paragraph divisions in Bar. Of 95 smaller divisions marked in A, only 11 (12%) correspond to paragraph or sentence divisions in Bar <note n="29">). Moreover the relation of punctuation to syntax in A is—as is shown both by this comparison and in the analysis below—very similar to that in Bar. It is consequently, clear that the punctuation of the two texts follows the same pattern. We can, therefore, take A as an example of the type of punctuation employed in Bar., and use it as such, where Bar. is not preserved, for comparisons with other texts <note n="30">).</p>
+<p>are two levels of division in A. The larger division is marked by a system of spaces in the line, and large letters in the margin, similar to that used to mark the paragraphs of Bar. Smaller units within these are marked by spaces about the width of an average letter, in which a dot is placed. A marks 50 larger divisions in this passage, of which 40 (80%) correspond to sentence or paragraph divisions in Bar. Of 95 smaller divisions marked in A, only 11 (12%) correspond to paragraph or sentence divisions in Bar <note n="29"/>. Moreover the relation of punctuation to syntax in A is—as is shown both by this comparison and in the analysis below—very similar to that in Bar. It is consequently, clear that the punctuation of the two texts follows the same pattern. We can, therefore, take A as an example of the type of punctuation employed in Bar., and use it as such, where Bar. is not preserved, for comparisons with other texts <note n="30"/>.</p>
 
 <head>II. THE PUNCTUATION OF SAMARITAN MSS</head>
 
-<p>One subject for comparison which immediately suggests itself is the Samaritan accentuation. The punctuation which it represents is, superficially at least, very similar to that of Bar. Paragraphs are marked. These are divided internally into major units by <foreign xml:lang="smp">afsaq</foreign>, and these in turn are divided into minor units by other accents <note n="31">). In the available MSS there is a high level of agreement on the marking of paragraphs, and of the major stops within paragraphs. However there is much less agreement in the marking of minor stops, and very little agreement over which particular accent sign should be used to mark any given stop <note n="32">). Consequently, comparison with A must be made simply in terms of stops, as there is no possibility of comparing major and minor divisions unless a single MS is arbitrarily chosen to represent the Samaritan system.</p>
+<p>One subject for comparison which immediately suggests itself is the Samaritan accentuation. The punctuation which it represents is, superficially at least, very similar to that of Bar. Paragraphs are marked. These are divided internally into major units by <foreign xml:lang="smp">afsaq</foreign>, and these in turn are divided into minor units by other accents <note n="31"/>. In the available MSS there is a high level of agreement on the marking of paragraphs, and of the major stops within paragraphs. However there is much less agreement in the marking of minor stops, and very little agreement over which particular accent sign should be used to mark any given stop <note n="32"/>. Consequently, comparison with A must be made simply in terms of stops, as there is no possibility of comparing major and minor divisions unless a single MS is arbitrarily chosen to represent the Samaritan system.</p>
 
 <note n="29"> 66 (69%) correspond to clause divisions in Bar., and 18 (19%) are used where Bar. has no division.</note>
 <note n="30"> It can be assumed here that the punctuation in A derives from indepedent grammatical analysis. This seems unlikely to me, but the very interesting problem of the origin of this punctuation is beyond the scope of this paper.</note>

@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Studies in the Palestinian Vocalization of Hebrew</title>
-                <author>E. J. Revell</author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>University of Toronto Press</publisher>
-                <pubPlace>Toronto</pubPlace>
-                <date>1970</date>
-            </publicationStmt>
-            <sourceDesc>
-                <biblStruct>
-                    <analytic>
-                        <title level="a">Studies in the Palestinian Vocalization of Hebrew</title>
-                        <author>
-                            <persName>
-                                <forename>E.</forename>
-                                <forename>J.</forename>
-                                <surname>Revell</surname>
-                            </persName>
-                        </author>
-                    </analytic>
-                    <monogr>
-                        <title level="m">Essays on the Ancient Semitic World</title>
-                        <editor>J. W. Wevers</editor>
-                        <editor>D. B. Redford</editor>
-                        <imprint>
-                            <pubPlace>Toronto</pubPlace>
-                            <publisher>University of Toronto Press</publisher>
-                            <date>1970</date>
-                            <biblScope unit="page">59-100</biblScope>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
-                <desc>Digital version created from file 07a.05.pdf</desc>
-            </change>
-        </revisionDesc>
-    </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studies in the Palestinian Vocalization of Hebrew</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.05</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Studies in the Palestinian Vocalization of Hebrew</title>
+          <title level="j">Essays on the Ancient Semitic World (eds. Wevers and Redford, Toronto 1970), p. 59-100.</title>
+          <date>1970</date>
+          <biblScope unit="page">59-100</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
     <text>
         <body>
             <pb />
@@ -399,7 +381,7 @@
                 appears in HTPV.</note>
             <note xml:id="n17" place="foot">17 Transcription of consonants is conventional, and that
                 of vowel signs is given in paragraph 2 above. These letters are placed within
-                ‘pointed brackets’ <> to indicate graphemic transcription.</note>
+                ‘pointed brackets’ &lt;&gt; to indicate graphemic transcription.</note>
             <pb n="56" />
             <head>Essays on the Ancient Semitic World</head>
             <p>transcribed graphemes, but in italics to avoid confusion.<hi rend="superscript">18</hi>
@@ -1337,14 +1319,13 @@
             <footer>6</footer>
             <pb n="70" />
             <head>Essays on the Ancient Semitic World</head>
-            <p>recorded by bA in non-final syllables (Philippi’s law) and in some final syllables.<note
-                    n="66">In Pal., the change has taken place in the same situations as in bA, and
+            <p>recorded by bA in non-final syllables (Philippi’s law) and in some final syllables.<note n="66"/>In Pal., the change has taken place in the same situations as in bA, and
                 is spreading rapidly to all final syllables. This can cause surprise only to those
                 who think of the Hebrew recorded in bA as an artificially reconstructed dialect
                 which had been maintained for centuries in a completely foreign environment with no
                 possibility of normal development. Such a view is untenable (see note 88). The
                 completion of the change known as ‘Philippi’s law’ was recent when bA was recorded,
-                since this change is not complete in the language transcribed by Origen.<note n="67">Since
+                since this change is not complete in the language transcribed by Origen.<note n="67"/>Since
                 change must have been in progress so recently before bA was recorded, it is not
                 surprising that it should continue after that time in new situations similar to
                 those in which it had already occurred. That this change did continue is shown in
@@ -1356,7 +1337,7 @@
                 occurs a total of 53 times in closed, unstressed final syllables, mostly in
                 ‘segolate’ forms as described in paragraphs 10 and 11, but also elsewhere.<note
                     n="69">It is assumed that a change of quality is involved, since the use of ⟨e′⟩
-                in this position in segolate forms is</p>
+                in this position in segolate forms is</note></p>
             <note n="66">See Bauer-Leander (1922), no. 14z, <hi rend="italic">a′</hi>, to which can
                 be added (against his no. 45f) the <hi rend="italic">pi‘el</hi> forms found in bA. <hi
                     rend="italic">Pi‘al</hi> forms are common in Bab. (as in Pal.), and are
@@ -1389,11 +1370,7 @@
             <head>Revell: The Palestinian Vocalization of Hebrew 71</head>
             <p>dependent on the quality of the preceding vowel (see paragraph 11). If this is the
                 case, the instances in which this change takes place in open syllables after ‘a’ or
-                ‘o’ vowels should no doubt be included under this pattern.<note n="70">70 However,
-                it is impossible to say what vowel qualities would be involved in this change.<note
-                    n="71">71 There is, moreover, some possibility that a change of quantity was
-                involved.<note n="72">72 Further information is needed before a definite decision
-                can be reached.</p>
+                ‘o’ vowels should no doubt be included under this pattern.<note n="70">70 However, it is impossible to say what vowel qualities would be involved in this change.</note><note n="71">71 There is, moreover, some possibility that a change of quantity was involved.</note><note n="72">72 Further information is needed before a definite decision can be reached.</note></p>
 
             <head>The relationship of the Palestinian dialect to that of bA</head>
             <p>31 The interchanges of vowel signs just described constitute one of the three major
@@ -2243,16 +2220,15 @@
                 the rule given by the early grammarians, with the exception that they state that <hi
                     rend="italic">shewa</hi> before any laryngeal has the quality of the vowel
                 following the laryngeal, not, for all but ‘a’ vowels, solely before <hi
-                    rend="italic">’alef</hi> and <hi rend="italic">he</hi> as in this ms.<note
-                    n="131">131 This care in the indication of ‘<hi rend="italic">shewa</hi> vowel’
+                    rend="italic">’alef</hi> and <hi rend="italic">he</hi> as in this ms.<note n="131"/> This care in the indication of ‘<hi rend="italic">shewa</hi> vowel’
                 quality is not, so far as I know, carried so far in any other ms., but there are
-                other examples.<note n="132">132 The fact that <hi rend="italic">’alef</hi> and <hi
+                other examples.<note n="132"/> The fact that <hi rend="italic">’alef</hi> and <hi
                     rend="italic">he</hi> are often shown as separating two vowel sounds, either of
                 the same or of different qualities, and the obvious distinction between these two
                 and the other laryngeals, should make scholars more cautious in assuming the
-                breakdown of the Palestinian laryngeal system.<note n="133">133</note></p>
+                breakdown of the Palestinian laryngeal system.<note n="133"/></p>
 
-            <note n="131">131 See, e.g., Derenbourg, 1870, p. 369; Qimhi, 1842, p. 138b; Skoss,
+            <note n="131">See, e.g., Derenbourg, 1870, p. 369; Qimhi, 1842, p. 138b; Skoss,
                 1955, p. 31; Nutt, 1870, p. 130; Ginsburg, 1897, p. 988, no. 14 (his edition of a
                 form of <hi rend="italic">Diqduqe haTǝ’amim</hi>; the fuller Baer-Strack edition is
                 not available to me) and the information given by Levy, 1936, pp. 17* and 30. I have
@@ -2273,7 +2249,7 @@
                 have following <hi rend="italic">holem</hi>, 13r6, 14r2; <hi rend="italic">ṣere</hi>,
                 12v24, 26, 29; <hi rend="italic">ḥireq</hi>, 14v18.</note>
 
-            <note n="132">132 TS 12:195+ shows almost as complete a system, but with some
+            <note n="132">TS 12:195+ shows almost as complete a system, but with some
                 differences, principally that the rules for this ‘harmonization’ of ‘<hi
                     rend="italic">shewa</hi> vowels’ seem to apply with any laryngeal followed by
                 any vowel. &lt;o&gt; is used before bA <hi rend="italic">’alef</hi> and <hi

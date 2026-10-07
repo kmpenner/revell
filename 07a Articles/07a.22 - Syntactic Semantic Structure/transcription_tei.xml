@@ -1,44 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Syntactic/Semantic Structure and the Reflexes of Original Short 'a' in Tiberian Pointing</title>
-      <author>
-        <forename>E.</forename>
-        <forename>J.</forename>
-        <surname>Revell</surname>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>The Ohio State University</publisher>
-      <date when="1981">1981</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title level="a">Syntactic/Semantic Structure and the Reflexes of Original Short 'a' in Tiberian Pointing</title>
-          <author>
-            <forename>E.</forename>
-            <forename>J.</forename>
-            <surname>Revell</surname>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Hebrew Annual Review</title>
-          <imprint>
-            <biblScope unit="volume">V</biblScope>
-            <date when="1981">1981</date>
-            <biblScope unit="page" from="75" to="100">75-100</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note type="filename">07a.22_Syntactic-Semantic_Structure_and_the_Reflexes_of_Original_Short_'a'_in_Tiberian_Pointing.pdf</note>
-  </notesStmt>
-</teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Syntactic/Semantic Structure and the Reflexes of Original Short &#x27;a&#x27; in Tiberian Pointing</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.22</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Syntactic/Semantic Structure and the Reflexes of Original Short &#x27;a&#x27; in Tiberian Pointing</title>
+          <title level="j">Hebrew Annual Review V (1981), p. 75-100.</title>
+          <date>1981</date>
+          <biblScope unit="page">75-100</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>
@@ -181,7 +167,7 @@
 <item>35. Lev 18:5 <foreign xml:lang="he">יַעֲשֶׂה ... וָחַי בָּהֶם</foreign></item>
 </list>
 
-<p>Grammars describing the use of <emph rendition="#italic">qames</emph> with <emph rendition="#italic">waw</emph> do not regard it as following a fixed pattern, but there are, in fact, very few exceptions to the description just given. Where the second of a pair of words is stressed on the first syllable, and is not followed by a modifier, I have noted only eleven cases where <emph rendition="#italic">qames</emph> is not used with prefixed <emph rendition="#italic">waw</emph>,<note n="13">13. Exod 17:12, 24:14, 1 Sam 22:13, 23:27, 1 Kgs 18:45, Isa 49:4, Jer 46:9, Ps 87:5, 94:6, Neh 6:2, 1 Chr 5:18.</note> as against some 350 cases where it does occur (3% exceptions). There are four cases where <emph rendition="#italic">qames</emph> is not used where expected at the end of a longer list.<note n="14">14. Exod 17:10, Jer 40:10, 1 Chr 1:32, 2 Chr 3:14; <emph rendition="#italic">wqw'</emph> in Ezek 23:23 is considered to be within a longer list.</note> With a single verb, under the same conditions, <emph rendition="#italic">qames</emph> is not used in three cases (see note 17), but is used in 53 (5% exceptions). There are no exceptions at all in the numeral and measurement categories. Some exceptions may be due, at least in part, to the phonological context. In seven of the 18 cases where expected <emph rendition="#italic">qames</emph> does not occur, the stressed vowel is <emph rendition="#italic">šureq</emph>.<note n="15">15. In proper nouns, <foreign xml:lang="he">hwr</foreign> (Exod 17:10, 12, 24:14); <foreign xml:lang="he">pwt</foreign> (Jer 46:9); <foreign xml:lang="he">šwh</emph> (1 Chr 1:32); common nouns <foreign xml:lang="he">rwh</foreign> ‘wind’ (1 Kgs 18:45); <foreign xml:lang="he">bws</foreign> ‘linen’ (2 Chr 3:14). One can also note the absence of <emph rendition="#italic">qames</emph> on <emph rendition="#italic">waw</emph> before proper nouns of this form with longer lists, as Ezek 30:5, but this is not necessarily significant.</note></p>
+<p>Grammars describing the use of <emph rendition="#italic">qames</emph> with <emph rendition="#italic">waw</emph> do not regard it as following a fixed pattern, but there are, in fact, very few exceptions to the description just given. Where the second of a pair of words is stressed on the first syllable, and is not followed by a modifier, I have noted only eleven cases where <emph rendition="#italic">qames</emph> is not used with prefixed <emph rendition="#italic">waw</emph>,<note n="13">13. Exod 17:12, 24:14, 1 Sam 22:13, 23:27, 1 Kgs 18:45, Isa 49:4, Jer 46:9, Ps 87:5, 94:6, Neh 6:2, 1 Chr 5:18.</note> as against some 350 cases where it does occur (3% exceptions). There are four cases where <emph rendition="#italic">qames</emph> is not used where expected at the end of a longer list.<note n="14">14. Exod 17:10, Jer 40:10, 1 Chr 1:32, 2 Chr 3:14; <emph rendition="#italic">wqw'</emph> in Ezek 23:23 is considered to be within a longer list.</note> With a single verb, under the same conditions, <emph rendition="#italic">qames</emph> is not used in three cases (see note 17), but is used in 53 (5% exceptions). There are no exceptions at all in the numeral and measurement categories. Some exceptions may be due, at least in part, to the phonological context. In seven of the 18 cases where expected <emph rendition="#italic">qames</emph> does not occur, the stressed vowel is <emph rendition="#italic">šureq</emph>.<note n="15">15. In proper nouns, <foreign xml:lang="he">hwr</foreign> (Exod 17:10, 12, 24:14); <foreign xml:lang="he">pwt</foreign> (Jer 46:9); <foreign xml:lang="he">šwh</foreign> (1 Chr 1:32); common nouns <foreign xml:lang="he">rwh</foreign> ‘wind’ (1 Kgs 18:45); <foreign xml:lang="he">bws</foreign> ‘linen’ (2 Chr 3:14). One can also note the absence of <emph rendition="#italic">qames</emph> on <emph rendition="#italic">waw</emph> before proper nouns of this form with longer lists, as Ezek 30:5, but this is not necessarily significant.</note></p>
       <pb n="81"/>
 <head>SYNTACTIC/SEMANTIC STRUCTURE 81</head>
 

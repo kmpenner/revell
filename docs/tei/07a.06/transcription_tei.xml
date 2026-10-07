@@ -4,45 +4,26 @@
     <fileDesc>
       <titleStmt>
         <title>The Placing of the Accent Signs in Biblical Texts with Palestinian Pointing</title>
-        <author>E. J. Revell</author>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>University of Toronto Press</publisher>
-        <pubPlace>Toronto</pubPlace>
-        <date>1972</date>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.06</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <biblStruct>
-          <analytic>
-            <title level="a">The Placing of the Accent Signs in Biblical Texts with Palestinian
-              Pointing</title>
-            <author>
-              <persName>
-                <forename>E.</forename>
-                <forename>J.</forename>
-                <surname>Revell</surname>
-              </persName>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Studies on the Ancient Palestinian Worlds</title>
-            <editor>J. W. Wevers</editor>
-            <editor>D. B. Redford</editor>
-            <imprint>
-              <pubPlace>Toronto</pubPlace>
-              <publisher>University of Toronto Press</publisher>
-              <date>1972</date>
-              <biblScope unit="page">34-45</biblScope>
-            </imprint>
-          </monogr>
-        </biblStruct>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Placing of the Accent Signs in Biblical Texts with Palestinian Pointing</title>
+          <title level="j">Studies on the Ancient Palestinian Worlds, eds. Wevers and Redford, Toronto 1972), p. 34-45.</title>
+          <date>1972</date>
+          <biblScope unit="page">34-45</biblScope>
+        </bibl>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change>
-        <desc>Digital version created from file SBH-C368-NT21010614360.pdf</desc>
-      </change>
-    </revisionDesc>
   </teiHeader>
   <text>
     <body>

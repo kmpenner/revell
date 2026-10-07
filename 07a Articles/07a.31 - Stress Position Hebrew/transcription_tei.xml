@@ -1,57 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Stress Position in Hebrew Verb Forms with vocalic Affix</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>Oxford University Press</publisher>
-      <date when="1987">1987</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
+    <fileDesc>
+      <titleStmt>
+        <title>Stress Position in Hebrew Verb Forms with vocalic Affix</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.31</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
           <title level="a">Stress Position in Hebrew Verb Forms with vocalic Affix</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">Journal of Semitic Studies</title>
-          <imprint>
-            <biblScope unit="volume">XXXII</biblScope>
-            <date when="1987">1987</date>
-            <biblScope unit="page" from="249" to="271">249-271</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-    <langUsage>
-      <language ident="en">English</language>
-      <language ident="he">Hebrew</language>
-    </langUsage>
-  </profileDesc>
-  <revisionDesc>
-    <change>
-      <date>2023-10-27</date>
-      <label>Initial TEI header creation</label>
-    </change>
-  </revisionDesc>
-</teiHeader>
+          <title level="j">Journal of Semitic Studies XXXII (1987), p. 249-271.</title>
+          <date>1987</date>
+          <biblScope unit="page">249-271</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb/>

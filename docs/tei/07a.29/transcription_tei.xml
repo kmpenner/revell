@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>The Vowelling of 'i type' Segolates in Tiberian Hebrew</title>
-      <author>
-        <persName>
-          <forename>E.</forename>
-          <forename>J.</forename>
-          <surname>Revell</surname>
-        </persName>
-      </author>
-    </titleStmt>
-    <publicationStmt>
-      <publisher>University of Chicago Press</publisher>
-      <date when="1985">1985</date>
-    </publicationStmt>
-    <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title level="a">The Vowelling of 'i type' Segolates in Tiberian Hebrew</title>
-          <author>
-            <persName>
-              <forename>E.</forename>
-              <forename>J.</forename>
-              <surname>Revell</surname>
-            </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j">The Journal of Near Eastern Studies</title>
-          <imprint>
-            <date when="1985">1985</date>
-            <biblScope unit="volume">44</biblScope>
-            <biblScope unit="page" from="319" to="328">319-328</biblScope>
-          </imprint>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <notesStmt>
-    <note type="filename">07a.29_The_Vowelling_of_i_type_Segolates_in_Tiberian_Hebrew.pdf</note>
-  </notesStmt>
-</teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Vowelling of &#x27;i type&#x27; Segolates in Tiberian Hebrew</title>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.29</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">The Vowelling of &#x27;i type&#x27; Segolates in Tiberian Hebrew</title>
+          <title level="j">The Journal of Near Eastern Studies 44, (1985) p. 319-328.</title>
+          <date>1985</date>
+          <biblScope unit="page">319-328</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
       <pb n="319"/>
@@ -134,8 +116,8 @@ All rights reserved.
       <pb n="325"/>
 <head>THE VOWELING OF "<hi rend="italic">i</hi> TYPE" SEGOLATES IN TIBERIAN HEBREW 325</head>
 
-<p>but less favorable conditions had prevented the change to <hi rend="italic">qames</hi> up to the time when the development of distinctive pausal forms ceased (&sect;&sect;3.3b, 3.4b, 3.5b).<note n="32">That it did cease is shown by the fact that pausal forms are not always used in pausal position, i.e., pausal or contextual forms were fixed according to one convention of reading and did not change when the convention changed. See my article, "Pausal Forms in Biblical Hebrew: Their Function, Origin, and Significance," <hi rend="italic">JSS</hi> 25 (1980): 170.</note> 
-6.4 Where conditions were particularly unfavorable for the change from <hi rend="italic">i</hi> to <hi rend="italic">a</hi>, this change did not occur before the syllable became open. This seems to occur chiefly with voiceless continuants, suggesting that, where it occurred, <hi rend="italic">ʾ</hi> was not a stop, and <hi rend="italic">ʿ</hi> was not voiced. When the opening occurred, the unchanged vowel gave rise to <hi rend="italic">ṣere</hi>, as is usual with original short <hi rend="italic">i</hi> in open stressed syllables. This has generally occurred even in pause in the forms listed in &sect;&sect; 3.1 and 3.2. Elsewhere, the change to <hi rend="italic">a</hi> had always taken place in pause before the opening of the syllable, so that <hi rend="italic">ṣere</hi> occurs only in contextual situations. In fact, in many cases the change to <hi rend="italic">a</hi> had occurred in these situations also, where the word was not closely related to what followed, so that <hi rend="italic">ṣere</hi> is generally restricted to construct and other close-joined situations (&sect; 3.5a). However, the extent to which <hi rend="italic">ṣere</hi> occurs differs in different words, and the information is not adequate to show the factors which condition such small details of usage. Examples are: in <hi rend="italic">šbr</hi> "breaking," <hi rend="italic">ṣere</hi> is used in some construct forms (Amos 6:6, lsa. 30:14), <hi rend="italic">segol</hi> in others (Lev. 21:19, 19, and eight others). <hi rend="italic">Segol</hi> is used in other absolute forms, <hi rend="italic">qames</hi> in pause (Prov. 17:19, Lam. 3:47). In <hi rend="italic">sml</hi>, <hi rend="italic">ṣere</hi> is used in construct situations (Ezek. 8:3, 5), <hi rend="italic">segol</hi> in absolute (2 Chron. 33:7, 15), <hi rend="italic">qames</hi> in pause (Deut. 4:16). In <hi rend="italic">skl</hi>, <hi rend="italic">ṣere</hi> is used in construct forms, before an adjective, or in the first of a pair of nouns (Ps. 111:10, Prov. 3:4, 13:15, 16:22, 19:11, 23:9, 1 Chron. 22:12, 2 Chron. 2:11, 30:22; see n. 19 above). <hi rend="italic">Segol</hi> is used at the end of a construct phrase (1 Sam. 25:3, Ezra 8:18) or of a clause (Neh. 8:8, 1 Chron. 26:14). <hi rend="italic">Qames</hi> is used in pause (Job 17:4). In <hi rend="italic">yšʿ</hi>, <hi rend="italic">ṣere</hi> is used within clauses, including construct situations (Hab. 3:13, 13, Ps. 12:6, 20:7, 50:23), <hi rend="italic">segol</hi> at the ends of clauses, including pausal situations (lsa. 45:8, 61:10, Ps. 132:16, Job 5:4, 11). It is noteworthy that in these examples, the more limited use of <hi rend="italic">ṣere</hi> correlates with use of <hi rend="italic">qames</hi> in pause and vice versa, showing that the decisive factor in the development of the voweling of these forms was the extent to which the change from <hi rend="italic">i</hi> to <hi rend="italic">a</hi> had taken place, which varied in each form.</p>
+<p>but less favorable conditions had prevented the change to <hi rend="italic">qames</hi> up to the time when the development of distinctive pausal forms ceased (§§3.3b, 3.4b, 3.5b).<note n="32">That it did cease is shown by the fact that pausal forms are not always used in pausal position, i.e., pausal or contextual forms were fixed according to one convention of reading and did not change when the convention changed. See my article, "Pausal Forms in Biblical Hebrew: Their Function, Origin, and Significance," <hi rend="italic">JSS</hi> 25 (1980): 170.</note> 
+6.4 Where conditions were particularly unfavorable for the change from <hi rend="italic">i</hi> to <hi rend="italic">a</hi>, this change did not occur before the syllable became open. This seems to occur chiefly with voiceless continuants, suggesting that, where it occurred, <hi rend="italic">ʾ</hi> was not a stop, and <hi rend="italic">ʿ</hi> was not voiced. When the opening occurred, the unchanged vowel gave rise to <hi rend="italic">ṣere</hi>, as is usual with original short <hi rend="italic">i</hi> in open stressed syllables. This has generally occurred even in pause in the forms listed in §§ 3.1 and 3.2. Elsewhere, the change to <hi rend="italic">a</hi> had always taken place in pause before the opening of the syllable, so that <hi rend="italic">ṣere</hi> occurs only in contextual situations. In fact, in many cases the change to <hi rend="italic">a</hi> had occurred in these situations also, where the word was not closely related to what followed, so that <hi rend="italic">ṣere</hi> is generally restricted to construct and other close-joined situations (§ 3.5a). However, the extent to which <hi rend="italic">ṣere</hi> occurs differs in different words, and the information is not adequate to show the factors which condition such small details of usage. Examples are: in <hi rend="italic">šbr</hi> "breaking," <hi rend="italic">ṣere</hi> is used in some construct forms (Amos 6:6, lsa. 30:14), <hi rend="italic">segol</hi> in others (Lev. 21:19, 19, and eight others). <hi rend="italic">Segol</hi> is used in other absolute forms, <hi rend="italic">qames</hi> in pause (Prov. 17:19, Lam. 3:47). In <hi rend="italic">sml</hi>, <hi rend="italic">ṣere</hi> is used in construct situations (Ezek. 8:3, 5), <hi rend="italic">segol</hi> in absolute (2 Chron. 33:7, 15), <hi rend="italic">qames</hi> in pause (Deut. 4:16). In <hi rend="italic">skl</hi>, <hi rend="italic">ṣere</hi> is used in construct forms, before an adjective, or in the first of a pair of nouns (Ps. 111:10, Prov. 3:4, 13:15, 16:22, 19:11, 23:9, 1 Chron. 22:12, 2 Chron. 2:11, 30:22; see n. 19 above). <hi rend="italic">Segol</hi> is used at the end of a construct phrase (1 Sam. 25:3, Ezra 8:18) or of a clause (Neh. 8:8, 1 Chron. 26:14). <hi rend="italic">Qames</hi> is used in pause (Job 17:4). In <hi rend="italic">yšʿ</hi>, <hi rend="italic">ṣere</hi> is used within clauses, including construct situations (Hab. 3:13, 13, Ps. 12:6, 20:7, 50:23), <hi rend="italic">segol</hi> at the ends of clauses, including pausal situations (lsa. 45:8, 61:10, Ps. 132:16, Job 5:4, 11). It is noteworthy that in these examples, the more limited use of <hi rend="italic">ṣere</hi> correlates with use of <hi rend="italic">qames</hi> in pause and vice versa, showing that the decisive factor in the development of the voweling of these forms was the extent to which the change from <hi rend="italic">i</hi> to <hi rend="italic">a</hi> had taken place, which varied in each form.</p>
 
 <p>7. The voweling of these nouns in manuscripts with Babylonian pointing, which differs somewhat from that described above, can be briefly described as follows.<note n="33">The basic information is given in I. Yeivin, <hi rend="italic">The Hebrew Language Tradition as Reflected in the Babylonian Vocalization</hi> (Jerusalem, 1985), <foreign xml:lang="he">לד</foreign> (pp. 808 ff.) I am most grateful to Professor Yeivin for providing me with a copy of this material before its publication. The Tiberian names are used there, and here, for the Babylonian vowel signs. <hi rend="italic">Qames</hi>, <hi rend="italic">ṣere</hi>, and <hi rend="italic">hireq</hi> have a similar range of use in the two traditions. However, the Babylonian <hi rend="italic">patah</hi> corresponds both to Tiberian <hi rend="italic">patah</hi> and to most uses of <hi rend="italic">segol</hi>. Only nouns already studied in the Tiberian tradition are considered here.</note>
 7.1 In an open stressed syllable in context, <hi rend="italic">ṣere</hi> occurs after initial <hi rend="italic">alef</hi> in all six cases. With other gutturals, <hi rend="italic">ṣere</hi> occurs after <hi rend="italic">he</hi> in two of three cases, after <hi rend="italic">het</hi> in five of twelve cases, after <hi rend="italic">ʿayin</hi> in six of sixteen cases (of which two others show both <hi rend="italic">ṣere</hi> and <hi rend="italic">patah</hi>). After other consonants, <hi rend="italic">ṣere</hi> occurs only in <hi rend="italic">spr</hi> and <hi rend="italic">tšʿ</hi> (but not in <hi rend="italic">sbl</hi>, <hi rend="italic">sml</hi>, <hi rend="italic">spl</hi>, <hi rend="italic">str</hi>, <hi rend="italic">tbn</hi>, <hi rend="italic">tqʿ</hi>). Elsewhere, <hi rend="italic">patah</hi> is used.<note n="34">This describes the standard forms. A few cases where <hi rend="italic">ṣere</hi> is used in late and possibly Tiberianizing sources (<hi rend="italic">msk</hi>, <hi rend="italic">slʿ</hi>, <hi rend="italic">rbʿ</hi>) are ignored, as are the few cases where these words show <hi rend="italic">o</hi> or <hi rend="italic">u</hi> in any of the three situations, a specifically Babylonian phenomenon.</note> That is, <hi rend="italic">patah</hi> occurs in the Babylonian</p>

@@ -4,44 +4,26 @@
     <fileDesc>
       <titleStmt>
         <title>Sign and Sound in the Study of Written Texts</title>
-        <author>
-          <persName>
-            <forename>E.</forename>
-            <forename>J.</forename>
-            <surname>Revell</surname>
-          </persName>
-        </author>
+        <author>Ernest John Revell</author>
+        <respStmt><resp>Digitization and TEI encoding</resp><name>Revell Digital Corpus project, St. Francis Xavier University (Fr. Ed Gatto Chair of Christian Studies)</name></respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>Canadian Linguistic Association</publisher>
-        <date when="1967">1967</date>
+        <publisher>Revell Digital Corpus</publisher>
+        <idno type="corpus">07a.03</idno>
+        <availability status="restricted">
+          <p>Rights status: pending. Rights review in progress. Full text is shown provisionally for scholarly use.</p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <biblStruct>
-          <analytic>
-            <title level="a">Sign and Sound in the Study of Written Texts</title>
-            <author>
-              <persName>
-                <forename>E.</forename>
-                <forename>J.</forename>
-                <surname>Revell</surname>
-              </persName>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Canadian Journal of Linguistics</title>
-            <imprint>
-              <date when="1967">1967</date>
-              <biblScope unit="volume">13</biblScope>
-              <biblScope unit="page" from="24" to="33">24-33</biblScope>
-            </imprint>
-          </monogr>
-        </biblStruct>
+        <bibl type="original">
+          <author>E. J. Revell</author>
+          <title level="a">Sign and Sound in the Study of Written Texts</title>
+          <title level="j">Canadian Journal of Linguistics 13 (1967), p. 24-30.</title>
+          <date>1967</date>
+          <biblScope unit="page">24-30</biblScope>
+        </bibl>
       </sourceDesc>
     </fileDesc>
-    <notesStmt>
-      <note type="filename">07a.03_Sign_and_Sound_in_the_Study_of_Written_Texts.pdf</note>
-    </notesStmt>
   </teiHeader>
   <text>
     <body>
