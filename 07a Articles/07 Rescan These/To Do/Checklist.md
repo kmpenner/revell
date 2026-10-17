@@ -72,8 +72,17 @@ Follow this **"High Fidelity"** pipeline for each of the 53 articles located in 
 ### Wrong File Mappings
 - [ ] **7a.20**: Currently contains files for `7a.30` and `7a.43`. Move to correct folders.
 - [ ] **7a.23**: Currently contains files for `7a.34`. Fix mapping.
-- [ ] **7a.28**: Verify if content is correct.
+- [x] **7a.28**: Verified (2026-10-17). The PDF and transcription.md are correct. The TEI held Gentry's *Hebrew Studies* 1998 article and was rebuilt from transcription.md.
 - [ ] **7a.30**: Currently contains files for `7a.37`. Fix mapping.
+
+### Wrong Documents: Text Missing, Scan Must Be Redone (audit 2026-10-17)
+No correct copy of these was found anywhere in the project or the Google Drive copy. Each one is marked
+"text missing, scan must be redone" in its TEI header and on its site page (`text_status` in `metadata/records.json`).
+The wrong files are kept in each folder with `reject` in their names.
+- [ ] **7a.20** "Pausal Forms and the Structure of Biblical Poetry", *Vetus Testamentum* 31 (1981), 186–199. Scan and transcribe. (The old files were 7a.30 + 7a.43.)
+- [ ] **7a.23** "Nesigah and the History of the Masorah". Scan and transcribe. (The old PDF is the Sefarad 48 offprint of **7a.34**, and has a usable text layer for 7a.34. The old `07a.23.md` is part of 7a.19.)
+- [ ] **7a.39** Anchor Bible Dictionary articles (Emendations, Scribes, etc.). Scan and transcribe. The old PDF was another author's book (Albanese, *Translation Technique and Literary Structures in Greek Isaiah*, SBL Press), not Revell. It was being served on the public site. The "missing pages 76, 122, 168, 300" above refer to that book.
+- [ ] **7a.50** "The Leningrad Codex as a Representative of the Masoretic Text", 34-page typescript (1997). Scan the typescript. (The old PDF is Aron Dotan's 1972 sample copy of Genesis.)
 
 ### Missing Articles
 - [ ] **7a.11**: Not found.
