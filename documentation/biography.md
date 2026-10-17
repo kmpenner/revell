@@ -4,251 +4,154 @@ title: Biography of Ernest John Revell
 permalink: /biography/
 ---
 
-# The Man Who Listened to the Ink: The Life and Work of Ernest John Revell
+# Ernest John Revell (1934–2017): Life and Work
 
-> *"A word fitly spoken is like apples of gold in pictures of silver."*  
-> — Proverbs 25:11
+Ernest John Revell, known as John, taught Hebrew at the University of Toronto. He worked on the Hebrew of the Dead Sea Scrolls, on the Palestinian vocalization found in manuscripts from the Cairo Genizah, and on the Masoretic accents and pausal forms. Later in his career he turned to the syntax and narrative style of Biblical Hebrew prose.<sup>1</sup> He was also a botanical watercolour artist.<sup>2</sup>
 
-> *"To see a world in a grain of sand, and a heaven in a wild flower..."*  
-> — William Blake, *Auguries of Innocence*
+Most of his articles are transcribed on this site, and the notes below link to them.
 
 ---
 
-### I. The Whispering Ink: A Scholar and His Glass
+### Family and early life
 
-In the quiet corners of the world, two kinds of people lean over magnifying glasses: detectives hunting clues, and scholars reading ancient manuscripts. Ernest John Revell spent his life doing both at once.<sup>1</sup>
+John Revell was born on 15 April 1934 in Bangalore (Bengaluru), India.<sup>1,2</sup>
 
-Picture a thousand-year-old scrap of sheepskin, rescued from a dusty attic in Old Cairo. The ink has faded to the dull brown of autumn leaves. The parchment is torn, stained by centuries of grease and damp. Yet hovering just above the consonants are tiny, faded marks—dots and strokes no bigger than the head of a pin.
+His mother, Edith Mary Peckham Sheppard, was born in Toronto on 3 August 1900. She articled with Leighton McCarthy and was called to the Ontario bar with honours in January 1925, the 43rd woman lawyer in the province. She stayed on at McCarthy and McCarthy, and the *Dictionary of Canadian Biography* counts her among the first women to practise in a prominent corporate-law firm in a major Canadian city.
 
-To an untrained eye, they look like ink splatters or dust. To Ernest John Revell, they were sound.
+She resigned in the spring of 1929. On 14 June that year, in Bombay, she married Captain Alfred John Revell of the 1st Madras Pioneers, and the couple settled in Bangalore. They had two children, a daughter, Elizabeth, and a son, John, and both later had academic careers in Canada. Edith died in Bangalore on 16 November 1934, after an appendectomy, when John was seven months old.<sup>3</sup>
 
-They were musical cadences, grammatical boundaries, and living human voices from another millennium. Miss one faded dot, and you might miss how an ancient Hebrew speaker paused for breath or stressed a sacred syllable. See it clearly, and the melody of an ancient language returns to life.
-
-For over fifty years, operating from the University of Toronto, Revell leaned over parchment fragments from the Dead Sea caves and the Cairo Genizah.<sup>1</sup> While other scholars debated broad theological theories, Revell did something much harder: he looked at what was actually written on the page. Across more than fifty books and articles, he quietly dismantled centuries of guesswork about how the Hebrew Bible was preserved.<sup>2</sup>
-
-And when his eyes grew tired of ancient scripts, he walked out into the Canadian woods. There, using the very same razor-sharp eye, he painted wild plants in delicate, scientifically exact watercolours that won praise from the Royal Botanic Gardens at Kew.<sup>49</sup>
-
-This is the story of a soldier’s son who decoded the secret music of the Hebrew Bible.
+His father, Major Alfred John Revell (1893–1945), served with the 1st Battalion, 1st Madras Pioneers (King George's Own) from 1917 to 1934. From 1929 to 1932 he was Adjutant and Quartermaster at Kitchener College, an officer-training establishment at Nowgong. In 1934–35 he served with the 1st Kumaon Rifles.<sup>4</sup> He died in 1945, when John was eleven, and is buried in England, in the cemetery close to John's childhood home.<sup>2</sup>
 
 ---
 
-### II. An Imperial Cradle: From Bangalore to the Bar
+### Doctorate and the Hebrew of Qumran
 
-Ernest John Revell was born into an empire on the move. He arrived on 15 April 1934 in Bengaluru (Bangalore), India, in the high summer of the British Raj.<sup>1</sup>
+Revell took his doctorate at the University of Toronto in 1962. His thesis, "A Structural Analysis of the Grammar of 1 Q S", was directed by Professor J. W. Wevers.<sup>5</sup> 1QS, the Community Rule (also called the Manual of Discipline), is one of the scrolls found in the caves near Qumran from 1947 on.
 
-His father, Major Alfred John Revell (1893–1945), was a decorated career officer in the British Indian Army.<sup>10</sup> Major Revell served with the 1st Battalion of the 1st Madras Pioneers, an elite engineering and infantry unit with deep roots in southern India.<sup>10</sup> Between 1929 and 1932, the Major served as Adjutant and Quartermaster at Kitchener College in Nowgong, drilling discipline, logistics, and precision into young cadets.<sup>11</sup>
+His first articles came out of this work, and both appeared in *Revue de Qumran*. The first (1962) studies the order of the elements in the verbal clause of 1QS.<sup>5</sup> The second (1964) examines clause structure in the prose documents of Qumran Cave I.<sup>6</sup>
 
-In that colonial household, precision was not an option; it was an atmosphere.
-
-Yet the cradle in Bangalore also held heartbreak. Revell’s mother was Edith Mary Peckham Sheppard (1900–1934). She was no ordinary soldier's wife. A brilliant Canadian lawyer, Edith had broken barriers in Ontario, becoming one of the earliest women called to the bar in the Law Society of Upper Canada.<sup>12</sup> But tragedy struck without mercy: Edith died in 1934, the very year John was born.<sup>14</sup> The boy never knew his mother’s voice.
-
-Eleven years later, in 1945, the second blow fell. Major Revell died, leaving young John an orphan of the empire at just eleven years old.<sup>10</sup>
-
-What remained of the family gathered in Canada. John was raised alongside his older sister, Margaret Elizabeth Revell. Elizabeth possessed the family’s fierce intellect; she became a gifted humanitarian and polyglot who mastered eleven languages before her death in Midland, Ontario.<sup>14</sup>
-
-Rooted in British soldiering, Indian geography, and Canadian law, Revell grew up carrying a quiet reserve. He kept an enduring love for the rolling green lanes of England, but it was in Canada that he found his true intellectual harbor.<sup>8</sup>
+The Canada Council supported his research in these years. Its first annual report (1958) lists a $400 travel grant for study at the Hebrew University in Jerusalem.<sup>7</sup> Its 1963 report lists a $550 travel grant to attend the International Congress of Old Testament scholars in Bonn.<sup>8</sup> In the preface to his 1970 book he thanks the Council for further travel grants and for a fellowship in 1967–68 that gave him a year in England. He also thanks the University of Toronto President's Fund for a trip to Cambridge in 1964.<sup>9</sup>
 
 ---
 
-### III. The Qumran Revolution: Breaking the Code of 1QS
+### Palestinian vocalization
 
-By the late 1950s, Revell was a graduate student at the University of Toronto. Across the Atlantic, the world of biblical studies was on fire.
+The Hebrew Bible was first written in consonants only. Between about the seventh and tenth centuries, scholars known as Masoretes added signs for vowels and accents. The system developed at Tiberias, associated with the ben Asher family, became the standard one; it writes most vowel signs below the letters. It was not the only system. Among the manuscripts recovered from the Genizah of the Ben Ezra Synagogue in Cairo at the end of the nineteenth century are texts in the Palestinian system, which writes its vowel signs above the letters.<sup>10</sup>
 
-In 1947, a young Bedouin goat-herder had tossed a stone into a dark cave in the cliffs of Qumran, above the Dead Sea, and heard pottery shatter. The Dead Sea Scrolls had emerged from two thousand years of darkness.
+Revell's interest in these texts began with the books of Paul Kahle, whom he later met in Oxford. The work started as a joint study with Manfried Dietrich of the non-biblical texts in the Taylor-Schechter New Series at Cambridge; Kahle introduced the two of them. Dietrich later withdrew, and Revell went on to find about thirty new texts at Cambridge.<sup>9</sup>
 
-For the first time in history, scholars held biblical scrolls written before the time of Christ—over a thousand years older than any medieval Hebrew manuscript previously known. Most professors rushed to ask big historical questions: Who wrote these scrolls? Was the "Teacher of Righteousness" John the Baptist?
+The result was *Hebrew Texts with Palestinian Vocalization* (University of Toronto Press, 1970). It publishes thirteen texts, but Revell states that the main purpose of the book is to analyse and classify the Palestinian pointing, not to study and publish texts.
 
-Revell took a radically different path.
+He faults earlier studies for classifying the Palestinian texts only by how closely they resemble the ben Asher pointing. The older view, that departures from the Tiberian norm were errors or ignorance, had rightly been rejected. But in his view the reaction against it had produced a new dichotomy between "true Palestinian" and "Tiberianized" texts. Revell instead describes some dozen non-biblical texts that show eleven types of vocalization. He explains these types as reflecting two major dialect groups of Palestinian Hebrew.<sup>9</sup>
 
-In 1962, he finished his doctorate at Toronto with a dissertation titled *A Structural Analysis of the Grammar of the Manual of Discipline (1QS)*.<sup>1</sup> The *Manual of Discipline*—the Community Rule—was the foundational constitution of the desert sect at Qumran. It laid out their punishments, their sacred meals, and their apocalyptic vows.
+A 1969 article in *Textus* applies the same approach to a single biblical text. TS NS 172:11 is a palimpsest fragment of 1 Chronicles from the Henriques Collection at Cambridge, found by N. Allony. Revell classifies its conjunctive accent signs by their Tiberian equivalents:<sup>11</sup>
 
-Instead of hunting for historical figures, Revell asked a simpler, deeper question: *How did these people actually write Hebrew?*
-
-Ancient Hebrew had no written vowels. Words were strings of consonants. Scribes relied on shared memory and spoken custom to read them aloud. Revell applied structural linguistics—the cutting-edge science that treated language as a complete, interlocking machine—to the text of 1QS. He showed how word order and verb endings functioned before anyone had ever invented vowel dots.
-
-His work caught the attention of Canada’s top cultural institutions. In 1958, the Canada Council awarded him a grant to study at the Hebrew University in Jerusalem.<sup>15</sup> He stood face-to-face with the original scrolls. In 1963, another grant sent him to Bonn; by 1967, a fellowship carried him to Cambridge to examine fragments recovered from the Cairo Genizah.<sup>16</sup>
-
-The soldier’s son had found his battlefield.
-
----
-
-### IV. The Lost Sounds of Palestine: Overturning the Giants
-
-To understand the puzzle Revell took on next, one must understand how our modern Bible received its vowels.
-
-For centuries after the fall of Jerusalem, the Hebrew Bible remained consonantal. Then, between roughly 600 and 1000 CE, groups of Jewish scholars called **Masoretes** ("guardians of tradition") invented written vowel points and accent marks to preserve the correct public reading.
-
-The system that won the day was developed in Tiberias, on the shores of the Sea of Galilee, by the ben Asher family. Known as the **Tiberian system**, it placed its vowel signs mostly *under* the letters. It became the gold standard of Jewish printing worldwide.
-
-But in the late nineteenth century, scholars cleared out the *Genizah*—the sacred storeroom—of the Ben Ezra Synagogue in Cairo. They discovered thousands of parchment leaves written in a forgotten, alternative tradition: **Palestinian vocalization**.<sup>4</sup>
-
-In Palestinian manuscripts, the vowel signs sat *above* the letters.
-
-When legendary German scholar Paul Kahle studied these fragments early in the twentieth century, he viewed them as primitive, chaotic attempts that led up to Tiberian perfection.<sup>18</sup>
-
-Revell refused to accept that verdict. In his 1970 monograph, *Hebrew Texts with Palestinian Vocalization*, and his 1977 study, *Biblical Texts with Palestinian Pointing and Their Accents*, he went back to the raw manuscripts.<sup>1</sup> He studied thirteen Genizah texts, comparing them letter by letter with the work of Kahle and German scholar Manfried Dietrich.<sup>16</sup>
-
-His conclusion was a bombshell: the Palestinian system was not a clumsy, broken version of Tiberian Hebrew.
-
-It was an independent, highly refined, living dialect of Hebrew that flourished in the Land of Israel centuries before the Tiberian scribes standardized the text.<sup>16</sup> Scribes had not placed their vowel dots at random; they were recording local pronunciation habits that differed from the northern Galilean accent.<sup>16,23</sup> In one stroke, Revell rescued an entire lost dialect from the margins of history.
-
----
-
-### V. Deciphering the Accents: Music, Syntax, and Shorthand Bibles
-
-Revell did not stop with vowels. He turned his attention to the most complex layer of the biblical text: the cantillation accents, or *te'amim*.<sup>1</sup>
-
-In the Hebrew Bible, these small marks perform three functions at the same time:
-1. They dictate the **musical chant** for synagogue reading.
-2. They mark the **stressed syllable** of each word.
-3. They function as **punctuation**, dividing sentences into musical clauses, colons, and pauses.
-
-Revell analyzed the Palestinian marks and showed that their rules were as strict as mathematics:
-
-| **Palestinian Sign Variant** | **Tiberian Functional Equivalent** | **Revell's Structural Observation on Usage** |
+| **Sign** | **Tiberian equivalents** | **Revell's description** |
 |----|----|----|
-| **Sign (i)** | *munah, mehuppak, merka, darga, maqqef* | The workhorse conjunctive sign of the Palestinian system.<sup>21</sup> |
-| **Sign (ii)** | *merka* or *darga* | Used before *tifha* or *tebir*, especially when few syllables separate two stressed words.<sup>21</sup> |
-| **Sign (iii)** | *merka* or *darga* | A composite sign used before *tifha*, *tebir*, or *zarqa*, likely acting as an intentional correction.<sup>21</sup> |
-| **Sign (iv)** | *azla* | A hybrid combining a Palestinian sign with a Tiberian mark, showing two traditions touching.<sup>21</sup> |
-| **Sign (v)** | *telisha qetana* | An alternative composite mark in specific biblical verses.<sup>21</sup> |
+| (i) | *munah*, *mehuppak*, *merka*, *darga*, *maqqef* | The most common sign. |
+| (ii) | *merka*, *darga* | Used before *tifha* or *tebir*. |
+| (iii) | — | Probably signs (i) and (ii) on the same word, one an alternative to or a correction of the other. |
+| (iv) | *azla* | A combination of a Palestinian and a Tiberian sign. |
+| (v) | *telisha qetana* | |
 
-While sorting these marks, Revell solved another stubborn riddle: the mystery of the **serugin** texts.<sup>20</sup>
-
-Among the Genizah finds were strange Bibles where scribes had written only the first word, or even just the first letter, of each verse. Victorian scholars like Christian David Ginsburg assumed they were practice sheets scribbled by schoolboys.<sup>20</sup>
-
-Revell proved that this explanation was completely wrong.
-
-These were not children's notebooks. They were high-level cue sheets for professional synagogue readers and official translators (*meturgemanim*).<sup>24</sup> To chant an entire biblical chapter from single letters required the entire text to be engraved in memory. Revell showed that these abbreviated Bibles were proof of extraordinary oral mastery.
+He concludes that the Palestinian tradition had two main streams.<sup>11</sup> His 1977 monograph, *Biblical Texts with Palestinian Pointing and Their Accents* (Masoretic Studies 4), turned to the accents of the biblical texts with Palestinian pointing.<sup>12</sup>
 
 ---
 
-### VI. The Great Bridge: Translating Israel Yeivin
+### Abbreviated ("shorthand") manuscripts
 
-In the middle of the twentieth century, the world center for Masoretic research was Jerusalem. The undisputed master of the field was Professor **Israel Yeivin**, whose groundbreaking 1968 study of the Aleppo Codex transformed biblical scholarship.<sup>6</sup>
+Some Genizah manuscripts, sometimes called *serugin*, write only part of each verse, with its vowel and accent signs. Christian David Ginsburg took them to be aids for students memorizing the text.<sup>13</sup>
 
-There was only one problem: Yeivin wrote in dense, highly technical Hebrew.
+In a 1974 paper Revell argued that "the basic purpose of this text is to represent the accent system". He rejected the view that such a manuscript was an aide-mémoire "designed to stimulate the recollection of one who had the text by heart", adding: "The system of abbreviation is much too complex for this." He concluded that the "shorthand" manuscript was "a quite widely used method of presenting the accent system."<sup>14</sup>
 
-To most graduate students and professors in North America and Britain, this research was locked behind a linguistic wall. Western universities continued to teach Hebrew with nineteenth-century German textbooks.
-
-Revell decided to knock that wall down.
-
-He took on the demanding task of translating and editing Yeivin’s masterwork. In 1980, the Society of Biblical Literature and the International Organization for Masoretic Studies published his translation as *Introduction to the Tiberian Masorah*.<sup>1,6</sup>
-
-The book became an instant classic. It laid out the entire Masoretic machine: how consonants were used as vowels (*matres lectionis*), how the *shewa* vowel behaved, how the doubling dot (*dagesh*) worked, and how scribes placed marginal notes (*Masorah parva* and *Masorah magna*) to guard against copyist errors.
-
-Revell did more than translate sentences; he created the English vocabulary for the field.<sup>5,7</sup> Terms like "conjunctive," "disjunctive," "heavy pause," and "secondary stress" became the shared currency of biblical scholarship. Without Revell’s bridge, modern Masoretic research in the English-speaking world would have been set back by decades.
+Kim Phillips, in a 2022 survey of these manuscripts, agrees with Revell that they were Masoretic tools. But he finds Revell's account of their function, as representing only the accents, "far too narrow".<sup>13</sup>
 
 ---
 
-### VII. The Leningrad Codex: The Detective of B19a
+### Translating Yeivin and editing for the IOMS
 
-In 1998, biblical scholarship celebrated a milestone: the first full photographic facsimile edition of the **Leningrad Codex** (manuscript B19a).<sup>30</sup>
+In 1980 Revell published his English translation of Israel Yeivin's survey of the Masorah, written in Hebrew, as *Introduction to the Tiberian Masorah* (Masoretic Studies 5); he also edited the volume. The book covers the Masoretic notes, the vowel signs and the accents of the Tiberian tradition. Current work on the Masorah still cites the English edition.<sup>15,16</sup>
 
-Housed in the National Library of Russia in St. Petersburg, this codex was completed in 1009 CE. It is the oldest complete manuscript of the Hebrew Bible in existence.<sup>30</sup> Because the older Aleppo Codex lost roughly a third of its leaves in 1947, the Leningrad Codex serves as the master text for almost every modern scholarly Bible, including *Biblia Hebraica Stuttgartensia* (BHS) and *Biblia Hebraica Quinta* (BHQ).<sup>30</sup>
-
-The editors—David Noel Freedman, James A. Sanders, and Victor V. Lebedev—needed someone to write the definitive introductory essay on the text itself. They turned to Revell.<sup>9</sup>
-
-Revell stepped into the codex like an archivist inspecting a crime scene. He analyzed the handwriting of **Samuel ben Jacob**, the master scribe who copied the codex in Cairo a thousand years ago.<sup>34</sup>
-
-Revell demonstrated that the codex was not a flat, uniform block. Its consonants belonged to an earlier tradition, while its vowel points and accents reflected ongoing debates between rival Masoretic schools (the ben Asher and ben Naftali traditions).<sup>9</sup>
-
-In 1996, Revell had published a study examining places where Samuel ben Jacob had taken a sharp knife and scraped secondary stress marks (*ga'ayot*) off the vellum.<sup>5</sup> Why scrape away the ink? Because the scribe was actively revising his manuscript to match changing pronunciation standards.
-
-Revell proved that the biblical text was never a frozen museum piece. It was a living, carefully tended heritage, copied by human beings who cared deeply about every breath.
+For the International Organization for Masoretic Studies he edited *Masoretic Studies* 6 (1990) and 8 (1996), the second being the proceedings of the Twelfth Congress.<sup>17</sup>
 
 ---
 
-### VIII. The Secret Music of the Pausal Forms
+### The Leningrad Codex
 
-In the prime of his career, Revell tackled a mystery that had puzzled grammarians for two hundred years: the mystery of **pausal forms**.<sup>1</sup>
+The Leningrad Codex (Firkovich B19a), in the National Library of Russia, is the oldest complete Masoretic Bible. The scribe Samuel ben Jacob wrote and pointed it in Fustat, Egypt, early in the eleventh century. *Biblia Hebraica* (BHK), *Biblia Hebraica Stuttgartensia* (BHS) and *Biblia Hebraica Quinta* (BHQ) all use it as their base text.<sup>18</sup>
 
-In Biblical Hebrew, words at the end of a verse, or at the midpoint marked by the accent *atnah*, often change their shape. Short vowels become long vowels (a short *a* becomes a long *a*), or the accent jumps backward to an earlier syllable.<sup>39</sup>
+The 1998 facsimile edition, edited by Astrid B. Beck, David Noel Freedman and James A. Sanders, includes Revell's essay "The Leningrad Codex as a Representative of the Masoretic Text".<sup>19</sup> (This site's page for that essay currently holds the wrong document; a corrected transcription is in progress.)
 
-Why did these changes happen? Traditional scholars argued that the vowel changes and the accent marks belonged to two different historical reading traditions that had been glued together by later scribes.<sup>3</sup>
-
-In two landmark papers—"Pausal Forms in Biblical Hebrew" (1980) and "Pausal Forms and the Structure of Biblical Poetry" (1981)—Revell showed that this theory was mistaken.<sup>1</sup>
-
-He proved that the pausal shifts were governed by strict rules of **sentence rhythm**.<sup>39</sup> The accent marks were not just grammar signs; they were musical cadence marks, functioning like commas, colons, and periods in spoken poetry.<sup>40</sup>
-
-When a pausal form seemed to break the logical rules of syntax, Revell demonstrated that the author was using the pause for dramatic effect—slowing down the rhythm to highlight a word of grief, surprise, or theological awe.<sup>42</sup> The accents and vowels formed one unified, living instrument. Today, modern linguists using constraint-based theories still build upon Revell’s foundational discoveries.<sup>3,28</sup>
+The 1996 volume of IOMS proceedings that Revell edited includes Harold P. Scanlin's study "Erased Ga'ayot in the Leningrad Codex", on secondary-stress marks that were erased from the manuscript.<sup>20</sup>
 
 ---
 
-### IX. The Other Eye: Botanical Watercolours of Canada
+### Pausal forms and stress
 
-To know Ernest John Revell only as an expert on Hebrew grammar is to know only half the man.
+In Biblical Hebrew, a word at a major break in the verse, typically under the accents *silluq* or *atnah*, often takes a distinct pausal form, with a lengthened vowel or a different position of stress. Revell's 1981 article on the reflexes of original short *a* in Tiberian pointing relates one set of these vowel alternations to syntactic and semantic structure.<sup>21</sup>
 
-The very same eyes that searched sheepskin manuscripts for micro-dots looked upon the natural world with wonder. Outside his university study, Revell was an accomplished, critically recognized **botanical watercolour artist**.<sup>1</sup>
+In "Pausal Forms in Biblical Hebrew: Their Function, Origin and Significance" (1980), he argued that pausal forms in prose "reflect a system of text division which is independent of, and somewhat different from, that reflected by the accents". The Masoretic Text, on this view, contains two systems of text division. He thought the accent system had probably superseded the pausal system, which by then was already fixed in pronunciation. There was no conclusive evidence as to which system was earlier, but the pausal system had ancient roots.<sup>22</sup>
 
-His major public triumph came in 1980 with the publication of *"And Some Brought Flowers": Plants in a New World*, written by Mary Alice Downie and Mary Hamilton and published by the University of Toronto Press.<sup>47</sup> The book gathered impressions of early Canadian explorers, including Catharine Parr Traill and Samuel Hearne, as they encountered the raw wilderness of North America.<sup>47</sup>
+He extended the question to biblical poetry in a 1981 article in *Vetus Testamentum*,<sup>23</sup> and in 1986 he examined pausal forms in texts with Palestinian pointing.<sup>24</sup> A book-length treatment, *The Pausal System: Divisions in the Hebrew Biblical Text as Marked by Voweling and Stress Position*, edited by Raymond de Hoop and Paul Sanders, appeared in 2015.<sup>25</sup>
 
-For this book, Revell painted seventy magnificent, scientifically exact watercolours.<sup>48</sup>
-
-He painted everyday plants like dandelions, wild fiddleheads, and bedstraw. He painted rare woodland flora like bittersweet, wintergreen, wappatoo, and camass.<sup>48</sup>
-
-The book was hailed by art critics and scientists alike, earning designation as a **Kew Magazine Monograph** by the Royal Botanic Gardens at Kew in England.<sup>49</sup> In 1988, the Canadian Botanical Association chose one of his floral paintings for a commemorative plate celebrating the nation’s history.<sup>51</sup>
-
-Philology and botanical art were not separate hobbies for Revell; they were expressions of the same gift. Both demanded complete honesty before the object. Whether looking at a leaf stem or a Hebrew root, Revell refused to force nature into artificial boxes. He painted and transcribed what was truly there.
+Related work on stress includes "Stress and the Waw 'Consecutive' in Biblical Hebrew" (1984) and the monograph *Nesiga (Retraction of Word Stress) in Tiberian Hebrew* (1987).<sup>26</sup>
 
 ---
 
-### X. The Digital Resurrection: The 2026 Revell Project
+### Syntax and narrative
 
-The richness of Revell’s scholarship created a preservation crisis for the digital age.
+From the mid-1980s Revell's articles turned increasingly to the syntax and style of Biblical Hebrew prose.<sup>27</sup> They treat:
 
-His work contains thousands of lines of Hebrew, complete with delicate vowel points and cantillation signs. These studies were scattered across more than fifty different books, festschriften, and out-of-print journals.<sup>2</sup>
+- narrative technique in the account of the battle with Benjamin in Judges 20 (1985);
+- the system of the verb in standard biblical prose (1989);
+- word order in verbless clauses (1989, 1999);
+- conditional particles (1991);
+- concord with compound subjects (1993);
+- the pronouns *ʾny* and *ʾnky* (1995);
+- the repetition of introductions to speech (1997);
+- the terms Midian and Ishmael in the Joseph story (2001).
 
-Standard scanners and automated Optical Character Recognition (OCR) fail completely when faced with Hebrew accents. When standard OCR tries to read a page of Revell’s analysis, it turns the Hebrew text into meaningless scrambled characters.<sup>2</sup> Without expert intervention, Revell’s life work was in danger of disappearing from online search engines.
-
-In 2026, a major digital humanities initiative titled **The Revell Digital Corpus** was launched to solve this problem. Directed by Ken Penner and supported through the Gatto Chair of Christian Studies at St. Francis Xavier University, the project sets out to rescue Revell's research.<sup>2</sup>
-
-The team produces 400 dpi archival scans of fifty-three physical offprints. Student researchers and biblical scholars proofread the Hebrew text by hand against the facsimiles, checking every dot and accent mark.<sup>2</sup>
-
-The text is then encoded in **Text Encoding Initiative (TEI) XML**. In TEI, every accent, citation, grammatical term, and footnote is tagged with machine-readable meaning. Published as a clean, open website on GitHub Pages, the corpus ensures that Revell’s insights will remain searchable, citable, and alive for future generations of linguists.<sup>2</sup>
-
-Revell’s original handwritten index cards and tables were essentially analog databases; today, digital code is finally catching up with his vision.
-
----
-
-### XI. The Long Walk Home: Antigonish to an English Churchyard
-
-Revell served the University of Toronto for over thirty years, serving as professor and Chair of the Department of Near and Middle Eastern Civilizations.<sup>1</sup> He was elected a Fellow of the Royal Society of Canada, the highest academic honor the nation offers to scholars in the humanities.<sup>8</sup> He was a pillar of the Canadian Society of Biblical Studies alongside colleagues like Peter Craigie, Albert Pietersma, and Eileen Schuller.<sup>44</sup>
-
-Even in retirement, his mind never slowed down. He continued publishing cutting-edge papers well into his eighties, with his final articles appearing in 2016.<sup>1</sup>
-
-When he stepped away from the lecture hall, he returned for a season to England. In the quiet parish church of his ancestors, the scholar who had spent decades analyzing ancient rhythm found joy in a new sound: he became a village bell ringer.<sup>8</sup> He tended his garden and took long walks across the fields.
-
-In his final years, he lived in Antigonish, Nova Scotia, near family. Ernest John Revell died on 15 December 2017 at the age of 83.<sup>1</sup>
-
-He was predeceased by his wife of fifty-two years, Ann Margaret (née Morgan).<sup>8</sup> He was survived by his son John, daughter Bridget, son-in-law Stephen Marmura, and two grandchildren, Hana and Alex.<sup>8</sup>
-
-On 20 December 2017, a funeral service was held at St. Paul’s Anglican Church in Antigonish.<sup>8</sup> But his final wish looked across the ocean. According to his instructions, his ashes were carried back to England, to be buried near his father’s grave in the churchyard near his family home.<sup>8</sup> The journey that began in Bangalore, flowered in Toronto, and closed in Nova Scotia came to rest in English soil.
-
-| **Milestone** | **Year** | **Event and Significance** |
-|----|----|----|
-| **Birth** | 1934 | Born 15 April in Bengaluru, India, to Maj. Alfred John Revell and Edith Sheppard.<sup>1</sup> |
-| **Research Grants** | 1958–1968 | Canada Council awards fund study in Jerusalem, Bonn, and Cambridge.<sup>15,16</sup> |
-| **Doctorate** | 1962 | Awarded PhD at University of Toronto on Dead Sea Scroll 1QS.<sup>1</sup> |
-| **Palestinian Vowels** | 1970 | Publishes *Hebrew Texts with Palestinian Vocalization* (UTP).<sup>1</sup> |
-| **Accent Study** | 1977 | Publishes *Biblical Texts with Palestinian Pointing and Their Accents*.<sup>1</sup> |
-| **Yeivin Translation** | 1980 | Publishes English edition of *Introduction to the Tiberian Masorah*.<sup>1</sup> |
-| **Botanical Art** | 1980 | Illustrates *"And Some Brought Flowers"* with 70 original watercolours.<sup>48</sup> |
-| **Leningrad Codex** | 1998 | Contributes text analysis to the landmark photographic facsimile edition.<sup>9</sup> |
-| **Final Papers** | 2016 | Submits final scholarly articles on Hebrew grammar.<sup>1</sup> |
-| **Passing** | 2017 | Dies 15 December in Antigonish, Nova Scotia; buried in England.<sup>1</sup> |
+His 1996 monograph, *The Designation of the Individual: Expressive Usage in Biblical Narrative*, studies the ways biblical narrative designates individual characters.<sup>28</sup> He also wrote on the interpretative significance of the Masoretic punctuation for *Hebrew Bible/Old Testament: The History of Its Interpretation*, a project directed by Magne Sæbø.<sup>29</sup>
 
 ---
 
-### XII. Epilogue: The Craft of Seeing
+### Botanical watercolours
 
-Ernest John Revell left behind no sensational theories, no easy slogans, and no academic vanity.
+Revell painted the seventy watercolours in *"And Some Brought Flowers": Plants in a New World*, by Mary Alice Downie and Mary Hamilton (University of Toronto Press, 1980). The book presents plants that early travellers found in North America, from ash to wintergreen, among them bittersweet, wappatoo, bedstraw, camass, fiddleheads and dandelion. Each painting is accompanied by quotations from explorers and settlers, and the plants are arranged alphabetically in the manner of the old herbals.<sup>30</sup>
 
-What he left behind was something far more lasting: truthfulness before the evidence.
+His obituary describes him as a botanical watercolour artist and an avid gardener.<sup>2</sup>
 
-Where other scholars saw chaotic scribal errors, Revell saw living speech. Where others saw dry grammatical lists, he heard music and poetry. And where casual walkers saw weeds in a ditch, he saw delicate petals worthy of a master’s brush.
+---
 
-Whether bending over sheepskin or sketching a Canadian wildflower, Ernest John Revell taught us how to look—and how to listen.
+### Career and later life
+
+Revell was a professor in the Department of Near Eastern Studies at the University of Toronto, later the Department of Near and Middle Eastern Civilizations. He served as its chair and became professor emeritus. He was a member of the Royal Society of Canada.<sup>2</sup> A history of the Canadian Society of Biblical Studies names him as a member of the Society, and as the only Canadian who had then contributed to *Revue de Qumran*.<sup>31</sup>
+
+He was married for 52 years to Ann Margaret (née Morgan), who died before him. After retiring he moved to England, where he was a bell ringer for his local church; he also enjoyed long walks. He went on publishing as recently as 2016.<sup>2</sup>
+
+He died in Antigonish, Nova Scotia, on 15 December 2017, aged 83. He was survived by his children, John and Bridget, his son-in-law Stephen Marmura, his grandchildren Hana and Alex Marmura, and his sister Elizabeth Revell. The funeral was held at St. Paul's Anglican Church in Antigonish on 20 December. His ashes were taken to England, to be buried near his father's grave.<sup>2</sup>
+
+| **Year** | **Event** |
+|----|----|
+| 1934 | Born 15 April in Bangalore, India.<sup>1</sup> |
+| 1958 | Canada Council travel grant for study at the Hebrew University.<sup>7</sup> |
+| 1962 | PhD, University of Toronto, on the grammar of 1QS; first article in *Revue de Qumran*.<sup>5</sup> |
+| 1967–68 | Canada Council fellowship; a year in England.<sup>9</sup> |
+| 1970 | *Hebrew Texts with Palestinian Vocalization*.<sup>9</sup> |
+| 1977 | *Biblical Texts with Palestinian Pointing and Their Accents*.<sup>12</sup> |
+| 1980 | English edition of Yeivin, *Introduction to the Tiberian Masorah*; article on pausal forms; watercolours for *"And Some Brought Flowers"*.<sup>15,22,30</sup> |
+| 1996 | *The Designation of the Individual*; editor, *Masoretic Studies* 8.<sup>17,28</sup> |
+| 1998 | Essay in the Leningrad Codex facsimile edition.<sup>19</sup> |
+| 2015 | *The Pausal System*.<sup>25</sup> |
+| 2017 | Dies 15 December in Antigonish, Nova Scotia.<sup>2</sup> |
+
+---
+
+### The Revell Digital Corpus
+
+In 2026 a proposal in support of the objectives of the Gatto Chair of Christian Studies at St. Francis Xavier University set out to digitize Revell's articles: about 53 of them, some 850 pages. The proposal notes that standard OCR "reduces this linguistic data to unsearchable gibberish", because of the Hebrew vowel and accent signs.
+
+The plan calls for 400 dpi scans, AI-assisted OCR, and manual proofreading of the Hebrew by a student research assistant. The texts are encoded in TEI XML and published on GitHub Pages.<sup>32</sup> This site is the result.
 
 
 #### Works cited
@@ -256,208 +159,171 @@ Whether bending over sheepskin or sketching a Canadian wildflower, Ernest John R
 1.  Ernest John Revell - Wikipedia, accessed May 28, 2026,
     [<u>https://en.wikipedia.org/wiki/Ernest_John_Revell</u>](https://en.wikipedia.org/wiki/Ernest_John_Revell)
 
-2.  Revell digitization proposal 2026.docx,
-    [<u>https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2</u>](https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2)
-
-3.  Reading the Pausal Forms Together with the Accents in the Masoretic
-    Text, accessed May 28, 2026,
-    [<u>https://repository.sbts.edu/handle/10392/7103</u>](https://repository.sbts.edu/handle/10392/7103)
-
-4.  Cairo Genizah - Jewish Virtual Library, accessed May 28, 2026,
-    [<u>https://www.jewishvirtuallibrary.org/genizah-cairo</u>](https://www.jewishvirtuallibrary.org/genizah-cairo)
-
-5.  Samuel ben Jacob's Treatment of Exceptional Vocalic Shewas - Open
-    Book Publishers, accessed May 28, 2026,
-    [<u>https://books.openbookpublishers.com/10.11647/obp.0207.10.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0207.10.pdf)
-
-6.  Studies in Semitic Vocalisation and Reading Traditions - Open Book
-    Publishers, accessed May 28, 2026,
-    [<u>https://books.openbookpublishers.com/10.11647/obp.0207.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0207.pdf)
-
-7.  HEB 3A03/HEB 6A06 Intermediate Hebrew I Mark J. Boda, Ph.D. McMaster
-    Divinity College McMaster University (905) 525-9140x24095 m,
-    accessed May 28, 2026,
-    [<u>https://mcmasterdivinity.ca/wp-content/uploads/2018/02/Boda-HEB-3A03-Intermediate-Hebrew-1-F13.pdf</u>](https://mcmasterdivinity.ca/wp-content/uploads/2018/02/Boda-HEB-3A03-Intermediate-Hebrew-1-F13.pdf)
-
-8.  Obituary of Ernest John Revell \| MacIsaac Funeral Home, accessed
-    May 28, 2026,
-    [<u>https://macisaacs.ca/tribute/details/140/Ernest-Revell/obituary.html</u>](https://macisaacs.ca/tribute/details/140/Ernest-Revell/obituary.html)
-
-9.  hebrew bible — Publications - ANCIENT JEW REVIEW, accessed May 28,
-    2026,
-    [<u>https://www.ancientjewreview.com/read/tag/hebrew+bible</u>](https://www.ancientjewreview.com/read/tag/hebrew+bible)
-
-10. Online Collection \| National Army Museum, London, accessed May 28,
-    2026,
-    [<u>https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription=&event=&campaign=&associatedName=&unit=&placeNotes=&productionNotes=&keyword=&flag=0&page=520</u>](https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription&event&campaign&associatedName&unit&placeNotes&productionNotes&keyword&flag=0&page=520)
-
-11. Inventory Search - Online Collection \| National Army Museum,
-    London, accessed May 28, 2026,
-    [<u>https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription=&event=&campaign=&associatedName=&unit=&placeNotes=&productionNotes=&keyword=&ot\[\]=12&flag=1&page=71</u>](https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription&event&campaign&associatedName&unit&placeNotes&productionNotes&keyword&ot%5B%5D=12&flag=1&page=71)
-
-12. SHEPPARD, EDITH MARY PECKHAM (Revell) - Dictionary of Canadian
-    Biography, accessed May 28, 2026,
-    [<u>https://www.biographi.ca/en/bio/sheppard_edith_mary_peckham_16E.html</u>](https://www.biographi.ca/en/bio/sheppard_edith_mary_peckham_16E.html)
-
-13. Edith Mary Peckham Sheppard - Wikidata, accessed May 28, 2026,
-    [<u>https://www.wikidata.org/wiki/Q134411227</u>](https://www.wikidata.org/wiki/Q134411227)
-
-14. Margaret "Elizabeth" REVELL - Obituary - Midland Today, accessed May
-    28, 2026,
-    [<u>https://www.midlandtoday.ca/obituaries/revell-margaret-elizabeth-2247817</u>](https://www.midlandtoday.ca/obituaries/revell-margaret-elizabeth-2247817)
-
-15. First Annual Report - à www.publications.gc.ca, accessed May 28,
-    2026,
-    [<u>https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1958-eng.pdf</u>](https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1958-eng.pdf)
-
-16. Hebrew texts with Palestinian v - Revell, E. J. (Ernest John),
-    19.pdf,
-    [<u>https://drive.google.com/open?id=1BvKhGxEMvGEHiBzsJm0ofKSmNllGkJA1</u>](https://drive.google.com/open?id=1BvKhGxEMvGEHiBzsJm0ofKSmNllGkJA1)
-
-17. the canada council - à www.publications.gc.ca, accessed May 28,
-    2026,
-    [<u>https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1963-eng.pdf</u>](https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1963-eng.pdf)
-
-18. Maḥzor Vitry's "Palestinian Vocalization": Is It Really
-    Vocalization? - Project MUSE, accessed May 28, 2026,
-    [<u>https://muse.jhu.edu/article/967050</u>](https://muse.jhu.edu/article/967050)
-
-19. Introduction to the Masorah \| The Masorah of the Cairo Codex of the
-    Prophets in Perez-Castro's Printed Edition - ANCIENT JEW REVIEW,
-    accessed May 28, 2026,
-    [<u>https://www.ancientjewreview.com/read/2020/9/18/introduction-to-the-masorah-the-masorah-of-the-cairo-codex-of-the-prophets-in-perez-castros-printed-edition</u>](https://www.ancientjewreview.com/read/2020/9/18/introduction-to-the-masorah-the-masorah-of-the-cairo-codex-of-the-prophets-in-perez-castros-printed-edition)
-
-20. Abbreviated Bible Manuscripts in the Cairo Genizah in - Brill,
-    accessed May 28, 2026,
-    [<u>https://brill.com/view/journals/text/31/1-2/article-p69_5.xml</u>](https://brill.com/view/journals/text/31/1-2/article-p69_5.xml)
-
-21. a new biblical fragment with palestinian vocalisation - ej revell,
-    accessed May 28, 2026,
-    [<u>https://bibleproject.huji.ac.il/sites/default/files/he_bible_project/files/revell_e.j.pdf</u>](https://bibleproject.huji.ac.il/sites/default/files/he_bible_project/files/revell_e.j.pdf)
-
-22. A NEW BIBLICAL FRAGMENT WITH PALESTINIAN VOCALISATION E. J. REVELL
-    1.1 This article discusses a text from the Henriques Collecti -
-    Brill, accessed May 28, 2026,
-    [<u>https://brill.com/view/journals/text/7/1/article-p59_5.pdf</u>](https://brill.com/view/journals/text/7/1/article-p59_5.pdf)
-
-23. The Bible of the Land of Israel \| Cambridge University Library,
-    accessed May 28, 2026,
-    [<u>https://www.lib.cam.ac.uk/collections/departments/taylor-schechter-genizah-research-unit/projects/bible-land-israel</u>](https://www.lib.cam.ac.uk/collections/departments/taylor-schechter-genizah-research-unit/projects/bible-land-israel)
-
-24. serugin (shorthand) of onqelos from the cairo genizah - Brill,
-    accessed May 28, 2026,
-    [<u>https://brill.com/downloadpdf/book/edcoll/9789004205215/Bej.9789004202955.i-313_009.xml</u>](https://brill.com/downloadpdf/book/edcoll/9789004205215/Bej.9789004202955.i-313_009.xml)
-
-25. The tiberian Tradition in Common Bibles from the Cairo Genizah -
-    OpenEdition Books, accessed May 28, 2026,
-    [<u>https://books.openedition.org/obp/16684?lang=en</u>](https://books.openedition.org/obp/16684?lang=en)
-
-26. Ernest John Revell - Wikipedia, accessed May 28, 2026,
-    [<u>https://de.wikipedia.org/wiki/Ernest_John_Revell</u>](https://de.wikipedia.org/wiki/Ernest_John_Revell)
-
-27. The scribal tractates and the transformation of the Torah scroll \|
-    Journal of Jewish Studies, accessed May 28, 2026,
-    [<u>https://www.liverpooluniversitypress.co.uk/doi/10.3828/jjs.2025.76.2.225</u>](https://www.liverpooluniversitypress.co.uk/doi/10.3828/jjs.2025.76.2.225)
-
-28. Chapter 3 Oral-Written Textuality in: Dead Sea Media - Brill,
-    accessed May 28, 2026,
-    [<u>https://brill.com/display/book/9789004408203/BP000014.xml</u>](https://brill.com/display/book/9789004408203/BP000014.xml)
-
-29. The Cacophony of Colophons in the Cairo Codex of the Prophets - Open
-    Book Publishers, accessed May 28, 2026,
-    [<u>https://books.openbookpublishers.com/10.11647/obp.0464.03.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0464.03.pdf)
-
-30. The Leningrad Codex. A Facsimile Edition by Freedman, David Noel
-    (ed.) \| Hardcover, accessed May 28, 2026,
-    [<u>https://www.biblio.com/book/leningrad-codex-facsimile-edition-freedman-david/d/1476060652</u>](https://www.biblio.com/book/leningrad-codex-facsimile-edition-freedman-david/d/1476060652)
-
-31. A. BECK (ed.), "The Leningrad Codex. A Facsimile Edition" (Book,
-    accessed May 28, 2026,
-    [<u>https://search.proquest.com/openview/935ce723d3bec917b8f8dc1a2c079281/1?pq-origsite=gscholar&cbl=1817929</u>](https://search.proquest.com/openview/935ce723d3bec917b8f8dc1a2c079281/1?pq-origsite=gscholar&cbl=1817929)
-
-32. Excerpt_9781540963659.pdf - Supadu, accessed May 28, 2026,
-    [<u>https://cdn-static.supadu.com/baker-academic-us/pdf/Excerpt_9781540963659.pdf</u>](https://cdn-static.supadu.com/baker-academic-us/pdf/Excerpt_9781540963659.pdf)
-
-33. Two New Fragments from the Scribe behind the Leningrad Codex (B19a),
-    accessed May 28, 2026,
-    [<u>https://www.repository.cam.ac.uk/bitstreams/16cce356-8789-405c-b0ee-d6d8725e9d25/download</u>](https://www.repository.cam.ac.uk/bitstreams/16cce356-8789-405c-b0ee-d6d8725e9d25/download)
-
-34. A NEW CODEX FROM THE SCRIBE BEHIND THE LENINGRAD CODEX: L17 -
-    University of Cambridge, accessed May 28, 2026,
-    [<u>https://api.repository.cam.ac.uk/server/api/core/bitstreams/c3100cea-6077-4bc9-ac2e-3a1387e17995/content</u>](https://api.repository.cam.ac.uk/server/api/core/bitstreams/c3100cea-6077-4bc9-ac2e-3a1387e17995/content)
-
-35. A NEW CODEX FROM THE SCRIBE BEHIND THE LENINGRAD CODEX: L17 \|
-    Tyndale Bulletin, accessed May 28, 2026,
-    [<u>https://www.tyndalebulletin.org/article/29425-a-new-codex-from-the-scribe-behind-the-leningrad-codex-l17.pdf</u>](https://www.tyndalebulletin.org/article/29425-a-new-codex-from-the-scribe-behind-the-leningrad-codex-l17.pdf)
-
-36. Studies in Semitic Vocalisation and Reading Traditions - Open Book
-    Publishers, accessed May 28, 2026,
-    [<u>https://books.openbookpublishers.com/10.11647/obp.0207.11.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0207.11.pdf)
-
-37. Samuel ben Jacob's Treatment of Exceptional Vocalic Shewas -
-    OpenEdition Books, accessed May 28, 2026,
-    [<u>https://books.openedition.org/obp/16674</u>](https://books.openedition.org/obp/16674)
-
-38. <span dir="rtl">ז ָא</span> – YIQTOL AS EVIDENTIAL STRATEGY IN
-    BIBLICAL HEBREW\* - Oxford Academic, accessed May 28, 2026,
-    [<u>https://academic.oup.com/jss/article-pdf/68/2/347/51942884/fgad004.pdf</u>](https://academic.oup.com/jss/article-pdf/68/2/347/51942884/fgad004.pdf)
-
-39. SYNTACTIC/SEMANTIC STRUCTURE AND THE REFLEXES OF ORIGINAL SHORT a IN
-    TIBERIAN POINTING., accessed May 28, 2026,
-    [<u>https://kb.osu.edu/server/api/core/bitstreams/485e5297-d812-55b9-960a-12220f4299f6/content</u>](https://kb.osu.edu/server/api/core/bitstreams/485e5297-d812-55b9-960a-12220f4299f6/content)
-
-40. The System of Masoretic Accentuation: Some Introductory Issues -
-    Érudit, accessed May 28, 2026,
-    [<u>https://www.erudit.org/en/journals/jhs/2022-v22-jhs07286/1096693ar.pdf</u>](https://www.erudit.org/en/journals/jhs/2022-v22-jhs07286/1096693ar.pdf)
-
-41. the new international version and its textual principles in the book
-    of psalms . . . bruce k. waltke - Evangelical Theological Society,
-    accessed May 28, 2026,
-    [<u>https://etsjets.org/wp-content/uploads/2010/08/files_JETS-PDFs_32_32-1_32-1-pp017-026_JETS.pdf</u>](https://etsjets.org/wp-content/uploads/2010/08/files_JETS-PDFs_32_32-1_32-1-pp017-026_JETS.pdf)
-
-42. A Former Rector of Monken Hadley: ‎Pausal Forms and Accents, accessed
-    May 28, 2026,
-    [<u>http://hadleyrectory.blogspot.com/2017/02/pausal-forms-and-accents.html</u>](http://hadleyrectory.blogspot.com/2017/02/pausal-forms-and-accents.html)
-
-43. A History of CSBS (Oct. 2017) - Canadian Society of Biblical
-    Studies, accessed May 28, 2026,
-    [<u>https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf</u>](https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf)
-
-44. Canada Day Special: Top Ten Canadian Biblical Scholars \| Three
-    Things, accessed May 28, 2026,
-    [<u>https://three-things.ca/canada-day-special-top-ten-canadian-biblical-scholars/</u>](https://three-things.ca/canada-day-special-top-ten-canadian-biblical-scholars/)
-
-45. Jewish Studies Academic Program Review Self-Study Report - Florida
-    Atlantic University, accessed May 28, 2026,
-    [<u>https://www.fau.edu/iea/documents/pdf/pr2019/jewish-studies-self-study-2019.pdf</u>](https://www.fau.edu/iea/documents/pdf/pr2019/jewish-studies-self-study-2019.pdf)
-
-46. Ernest REVELL Obituary (2017) - The Globe and Mail - Legacy,
+2.  Ernest REVELL Obituary (2017) - The Globe and Mail - Legacy,
     accessed May 28, 2026,
     [<u>https://www.legacy.com/ca/obituaries/theglobeandmail/name/ernest-revell-obituary?id=41409090</u>](https://www.legacy.com/ca/obituaries/theglobeandmail/name/ernest-revell-obituary?id=41409090)
 
-47. CONTEMPORARY QU€B€C FICTION - Canadian Literature, accessed May 28,
-    2026,
-    [<u>https://canlit.ca/wp-content/uploads/2015/09/CL088-Full-Issue.pdf</u>](https://canlit.ca/wp-content/uploads/2015/09/CL088-Full-Issue.pdf)
+3.  SHEPPARD, EDITH MARY PECKHAM (Revell) - Dictionary of Canadian
+    Biography, accessed May 28, 2026,
+    [<u>https://www.biographi.ca/en/bio/sheppard_edith_mary_peckham_16E.html</u>](https://www.biographi.ca/en/bio/sheppard_edith_mary_peckham_16E.html)
 
-48. accessed May 28, 2026,
+4.  Inventory Search - Online Collection \| National Army Museum,
+    London, accessed May 28, 2026,
+    [<u>https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription=&event=&campaign=&associatedName=&unit=&placeNotes=&productionNotes=&keyword=&ot\[\]=12&flag=1&page=71</u>](https://collection.nam.ac.uk/inventory/objects/results.php?shortDescription&event&campaign&associatedName&unit&placeNotes&productionNotes&keyword&ot%5B%5D=12&flag=1&page=71)
+
+5.  E. J. Revell, "The Order of the Elements in the Verbal Statement
+    Clause in 1Q Serek", *Revue de Qumran* 3 (1962): 559–569. The first
+    footnote gives the thesis title and director. On this site:
+    [07a.01](articles/07a.01_transcription_tei.html)
+
+6.  E. J. Revell, "Clause Structure in the Prose Documents of Qumran
+    Cave I", *Revue de Qumran* 5 (1964): 3–22. On this site:
+    [07a.02](articles/07a.02_transcription_tei.html)
+
+7.  First Annual Report - à www.publications.gc.ca, accessed May 28,
+    2026,
+    [<u>https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1958-eng.pdf</u>](https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1958-eng.pdf)
+
+8.  the canada council - à www.publications.gc.ca, accessed May 28,
+    2026,
+    [<u>https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1963-eng.pdf</u>](https://publications.gc.ca/collections/collection_2015/canadacouncil/K21-1-1-1963-eng.pdf)
+
+9.  E. J. Revell, *Hebrew Texts with Palestinian Vocalization* (Toronto:
+    University of Toronto Press, 1970), preface and introduction. On
+    this site: [07b.01](books/7.b.01.html)
+
+10. Cairo Genizah - Jewish Virtual Library, accessed May 28, 2026,
+    [<u>https://www.jewishvirtuallibrary.org/genizah-cairo</u>](https://www.jewishvirtuallibrary.org/genizah-cairo)
+
+11. E. J. Revell, "A New Biblical Fragment with Palestinian
+    Vocalization", *Textus* 7 (1969): 59–75. On this site:
+    [07a.04](articles/07a.04_transcription_tei.html)
+
+12. E. J. Revell, *Biblical Texts with Palestinian Pointing and Their
+    Accents*, Masoretic Studies 4 (Missoula: Scholars Press, 1977).
+
+13. Kim Phillips, "Abbreviated Bible Manuscripts in the Cairo Genizah:
+    An Initial Survey of Form and Function", *Textus* 31 (2022),
+    accessed May 28, 2026,
+    [<u>https://brill.com/view/journals/text/31/1-2/article-p69_5.xml</u>](https://brill.com/view/journals/text/31/1-2/article-p69_5.xml)
+
+14. E. J. Revell, "Mdw II, MS M, and other Palestinian MSS with
+    Defective Accentuation", *1972 and 1973 Proceedings IOMS*, Masoretic
+    Studies 1 (1974): 149–157. On this site:
+    [07a.13](articles/07a.13_transcription_tei.html)
+
+15. Israel Yeivin, *Introduction to the Tiberian Masorah*, translated
+    and edited by E. J. Revell, Masoretic Studies 5 (Missoula: Scholars
+    Press for the Society of Biblical Literature and the International
+    Organization for Masoretic Studies, 1980).
+
+16. Studies in Semitic Vocalisation and Reading Traditions - Open Book
+    Publishers, accessed May 28, 2026,
+    [<u>https://books.openbookpublishers.com/10.11647/obp.0207.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0207.pdf)
+
+17. E. J. Revell, ed., *Masoretic Studies* 6 (Scholars Press, 1990);
+    E. J. Revell, ed., *Proceedings of the Twelfth International
+    Congress of the International Organization for Masoretic Studies*,
+    Masoretic Studies 8 (Scholars Press, 1996).
+
+18. Two New Fragments from the Scribe behind the Leningrad Codex (B19a),
+    accessed May 28, 2026,
+    [<u>https://www.repository.cam.ac.uk/bitstreams/16cce356-8789-405c-b0ee-d6d8725e9d25/download</u>](https://www.repository.cam.ac.uk/bitstreams/16cce356-8789-405c-b0ee-d6d8725e9d25/download)
+
+19. E. J. Revell, "The Leningrad Codex as a Representative of the
+    Masoretic Text", in *The Leningrad Codex: A Facsimile Edition*, ed.
+    Astrid B. Beck, David Noel Freedman and James A. Sanders (Grand
+    Rapids: Eerdmans; Leiden: Brill, 1998). On this site (wrong document
+    at present): [07a.50](articles/07a.50_transcription_tei.html)
+
+20. Harold P. Scanlin, "Erased Gaʿayot in the Leningrad Codex", in
+    Revell, ed., *Proceedings of the Twelfth International Congress*
+    (note 17), 105–125; cited in Samuel ben Jacob's Treatment of
+    Exceptional Vocalic Shewas - Open Book Publishers, accessed May 28,
+    2026,
+    [<u>https://books.openbookpublishers.com/10.11647/obp.0207.10.pdf</u>](https://books.openbookpublishers.com/10.11647/obp.0207.10.pdf)
+
+21. E. J. Revell, "Syntactic/Semantic Structure and the Reflexes of
+    Original Short *a* in Tiberian Pointing", *Hebrew Annual Review* 5
+    (1981): 75–100. On this site:
+    [07a.22](articles/07a.22_transcription_tei.html)
+
+22. E. J. Revell, "Pausal Forms in Biblical Hebrew: Their Function,
+    Origin and Significance", *Journal of Semitic Studies* 25 (1980):
+    165–179. On this site:
+    [07a.19](articles/07a.19_transcription_tei.html)
+
+23. E. J. Revell, "Pausal Forms and the Structure of Biblical Poetry",
+    *Vetus Testamentum* 31 (1981): 186–199. On this site (the page does
+    not yet hold this article's text):
+    [07a.20](articles/07a.20_transcription_tei.html)
+
+24. E. J. Revell, "Pausal Phenomenon and the Biblical Tradition in Texts
+    with Palestinian Pointing", in *Targum, Derash, Berith: In Memoriam
+    del Prof. Alejandro Díez Macho*, ed. D. Muñoz León (Madrid, 1986). On
+    this site: [07a.28](articles/07a.28_transcription_tei.html)
+
+25. E. J. Revell, *The Pausal System: Divisions in the Hebrew Biblical
+    Text as Marked by Voweling and Stress Position*, ed. Raymond de Hoop
+    and Paul Sanders (Sheffield: Sheffield Phoenix, 2015); see A Former
+    Rector of Monken Hadley: Pausal Forms and Accents, accessed May 28,
+    2026,
+    [<u>http://hadleyrectory.blogspot.com/2017/02/pausal-forms-and-accents.html</u>](http://hadleyrectory.blogspot.com/2017/02/pausal-forms-and-accents.html)
+
+26. E. J. Revell, "Stress and the Waw 'Consecutive' in Biblical
+    Hebrew", *Journal of the American Oriental Society* 104 (1984):
+    437–444, on this site:
+    [07a.25](articles/07a.25_transcription_tei.html); E. J. Revell,
+    *Nesiga (Retraction of Word Stress) in Tiberian Hebrew*, Textos y
+    Estudios 39 (Madrid, 1987), on this site:
+    [07b.04](books/7.b.04.html)
+
+27. On this site:
+    "The Battle with Benjamin (Jud. XX 29–48) and Hebrew Narrative
+    Techniques", *Vetus Testamentum* 35 (1985):
+    [07a.24](articles/07a.24_transcription_tei.html);
+    "The System of the Verb in Standard Biblical Prose", *Hebrew Union
+    College Annual* 60 (1989):
+    [07a.36](articles/07a.36_transcription_tei.html);
+    "The Conditioning of Word Order in Verbless Clauses in Biblical
+    Hebrew", *Journal of Semitic Studies* 34 (1989):
+    [07a.35](articles/07a.35_transcription_tei.html);
+    "Conditional Particles in Biblical Hebrew Prose", in *Semitic
+    Studies in Honor of Wolf Leslau* (1991):
+    [07a.43](articles/07a.43_transcription_tei.html);
+    "Concord with Compound Subjects and Related Uses of Pronouns in
+    Biblical Hebrew", *Vetus Testamentum* 43 (1993):
+    [07a.45](articles/07a.45_transcription_tei.html);
+    "'NY and 'NKY: Redundancy or Expressive Contrast", *Journal of
+    Semitic Studies* 40 (1995):
+    [07a.48](articles/07a.48_transcription_tei.html);
+    "The Repetition of Introductions to Speech as a Feature of Biblical
+    Hebrew", *Vetus Testamentum* 47 (1997):
+    [07a.51](articles/07a.51_transcription_tei.html);
+    "Thematic Continuity and the Conditioning of Word Order in Verbless
+    Clauses", in *The Verbless Clause in Biblical Hebrew*, ed. Cynthia
+    L. Miller (1999):
+    [07a.52](articles/07a.52_transcription_tei.html);
+    "Midian and Ishmael in Genesis 37: Synonyms in the Joseph Story", in
+    *The World of the Aramaeans* I, ed. Michèle Daviau et al.
+    (2001): [07a.53](articles/07a.53_transcription_tei.html)
+
+28. E. J. Revell, *The Designation of the Individual: Expressive Usage
+    in Biblical Narrative*, Contributions to Biblical Exegesis and
+    Theology 14 (Kampen: Kok Pharos, 1996).
+
+29. E. J. Revell, "The Interpretative Significance of the Masoretic
+    Punctuation", written for *Hebrew Bible/Old Testament: The History
+    of Its Interpretation*, vol. I, part 2, ed. Magne Sæbø. On this
+    site: [07a.49](articles/07a.49_transcription_tei.html)
+
+30. "And Some Brought Flowers": Plants in a New World - Google Books,
+    accessed May 28, 2026,
     [<u>https://books.google.com/books/about/And_Some_Brought_Flowers.html?id=3GQ_AAAAYAAJ&source=kp_book_description</u>](https://books.google.com/books/about/And_Some_Brought_Flowers.html?id=3GQ_AAAAYAAJ&source=kp_book_description)
 
-49. 'and some brought flowers' by Downie, Mary Alice and Hamilton, Mary
-    \| Hardcover \| 1980, accessed May 28, 2026,
-    [<u>https://www.biblio.com/book/some-brought-flowers-downie-mary-alice/d/855207899</u>](https://www.biblio.com/book/some-brought-flowers-downie-mary-alice/d/855207899)
+31. A History of CSBS (Oct. 2017) - Canadian Society of Biblical
+    Studies, accessed May 28, 2026,
+    [<u>https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf</u>](https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf)
 
-50. 'and some brought flowers'. Plants in a New World. With
-    illustrations by E.J. Revell \| Mary Alice DOWNIE, Mary HAMILTON -
-    Michael Treloar Antiquarian Booksellers, accessed May 28, 2026,
-    [<u>https://www.treloars.com/pages/books/126743/mary-alice-downie-mary-hamilton/and-some-brought-flowers-plants-in-a-new-world-with-illustrations-by-e-j-revell</u>](https://www.treloars.com/pages/books/126743/mary-alice-downie-mary-hamilton/and-some-brought-flowers-plants-in-a-new-world-with-illustrations-by-e-j-revell)
-
-51. Canadian Botanical Plate: Ernest John Revell Floral Design, 150th,
-    accessed May 28, 2026,
-    [<u>https://www.etsy.com/listing/996662696/canadian-botanical-plate-ernest-john</u>](https://www.etsy.com/listing/996662696/canadian-botanical-plate-ernest-john)
-
-52. e Text of the Masoretes, accessed May 28, 2026,
-    [<u>http://www.etf.cuni.cz/~tomasek/dis.pdf</u>](http://www.etf.cuni.cz/~tomasek/dis.pdf)
-
-53. E. J. Revell (1934-), (Ernest John) \| The National Library of
-    Israel, accessed May 28, 2026,
-    [<u>https://www.nli.org.il/en/a-topic/987007267029405171</u>](https://www.nli.org.il/en/a-topic/987007267029405171)
+32. Revell digitization proposal 2026.docx,
+    [<u>https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2</u>](https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2)
