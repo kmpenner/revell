@@ -39,6 +39,10 @@ turns it into <code>metadata/records.json</code>, the item-level record shown on
 permission request in the item's <code>rights_*</code> fields of <code>records.json</code>. Status values:
 <em>pending</em>, <em>open</em>, <em>permission granted</em>, <em>restricted</em>. A restricted item needs a
 <code>summary</code>. The site then shows the record and summary instead of the text, and the scans stay internal.</li>
+<li><strong>Wrong documents.</strong> If an item's scan turns out to hold a different document, write a short note in its
+<code>text_status</code> field in <code>records.json</code> and add the item to the rescan list. The TEI header and the
+item page then say that the text is missing and the scan must be redone. Rename the wrong PDF with
+<code>reject</code> in its name so that it is no longer published.</li>
 <li><strong>Archival scanning.</strong> Offprints are scanned at 400 dpi into <code>scans/</code>, then split and cropped
 per article into <code>07a Articles/&lt;ID&gt; - &lt;short title&gt;/</code>.</li>
 <li><strong>OCR and correction.</strong> AI-assisted OCR produces <code>transcription.md</code>. The student proofreads it
@@ -53,7 +57,7 @@ against the facsimile, with particular care for Hebrew vowel points and Masoreti
 </ol>
 </section>
         <footer>
-            <p>Revell Digital Corpus &mdash; St. Francis Xavier University &mdash; Generated on 2026-10-07</p>
+            <p>Revell Digital Corpus &mdash; St. Francis Xavier University &mdash; Generated on 2026-10-17</p>
         </footer>
     </div>
 </body>
