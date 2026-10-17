@@ -13,7 +13,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.02",
@@ -29,7 +30,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.03",
@@ -45,7 +47,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.04",
@@ -61,7 +64,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.05",
@@ -77,7 +81,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.06",
@@ -93,7 +98,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.07",
@@ -109,7 +115,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.08",
@@ -125,7 +132,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.09",
@@ -141,7 +149,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.10",
@@ -157,7 +166,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.11",
@@ -173,7 +183,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.12",
@@ -189,7 +200,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.13",
@@ -205,7 +217,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.14",
@@ -221,7 +234,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.15",
@@ -237,7 +251,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.16",
@@ -253,7 +268,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.17",
@@ -269,7 +285,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.18",
@@ -285,7 +302,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.19",
@@ -301,7 +319,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.20",
@@ -317,7 +336,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": "The files held 07a.30 and 07a.43 instead of this article (Vetus Testamentum 31, 1981, 186–199). No copy of the article was found in the project files."
  },
  {
   "id": "07a.21",
@@ -333,7 +353,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.22",
@@ -349,7 +370,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.23",
@@ -359,13 +381,14 @@
   "venue": "in Actas de las I.O.M.S., Salamanca, 1983: Textos y Estudios vol. 33, Madrid, 1983, p. 37-48.",
   "year": "1983",
   "pages": "37-48",
-  "scan_pages": 12,
+  "scan_pages": null,
   "tei": true,
   "rights_status": "pending",
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": "The scan is the Sefarad 48 (1988) offprint of 07a.34, “ʼObed (Deut 26:5)”. No copy of this article was found in the project files."
  },
  {
   "id": "07a.24",
@@ -381,7 +404,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.25",
@@ -397,7 +421,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.26",
@@ -413,7 +438,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.27",
@@ -429,7 +455,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.28",
@@ -445,7 +472,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.29",
@@ -461,7 +489,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.30",
@@ -477,7 +506,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.31",
@@ -493,7 +523,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.32",
@@ -509,7 +540,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.33",
@@ -525,7 +557,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.34",
@@ -541,7 +574,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.35",
@@ -557,7 +591,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.36",
@@ -573,7 +608,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.37",
@@ -589,7 +625,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.38",
@@ -605,7 +642,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.39",
@@ -615,13 +653,14 @@
   "venue": "Articles on \"Emendations of the Scribes\", \"Masorah\", \"Masoretes\", \"Masoretic Accents\", \"Masoretic Studies\", \"Masoretic Text\" \"Textus Receptus\" for the Anchor Bible Dictionary (Doubleday, 1991?) (c. 8,000 words)",
   "year": "1991",
   "pages": "",
-  "scan_pages": 361,
+  "scan_pages": null,
   "tei": true,
   "rights_status": "pending",
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": "The scan held another author’s book, not Revell’s Anchor Bible Dictionary articles. No copy of the articles was found in the project files."
  },
  {
   "id": "07a.40",
@@ -637,7 +676,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.41",
@@ -653,7 +693,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.42",
@@ -669,7 +710,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.43",
@@ -685,7 +727,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.44",
@@ -701,7 +744,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.45",
@@ -717,7 +761,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.46",
@@ -733,7 +778,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.47",
@@ -749,7 +795,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.48",
@@ -765,7 +812,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.49",
@@ -781,7 +829,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.50",
@@ -791,13 +840,14 @@
   "venue": ". 34pp. typescript. (Part of) the introduction to a facsimile edition of the Leningrad Codex to be published by Wm. B. Eerdmans, Fall 1997.",
   "year": "1997",
   "pages": "",
-  "scan_pages": 55,
+  "scan_pages": null,
   "tei": true,
   "rights_status": "pending",
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": "The scan is Aron Dotan’s 1972 sample copy of Genesis (Leningrad Codex edition), not Revell’s 34-page typescript. No copy of the typescript was found in the project files."
  },
  {
   "id": "07a.51",
@@ -813,7 +863,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.52",
@@ -829,7 +880,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07a.53",
@@ -845,7 +897,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.01",
@@ -861,7 +914,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.02",
@@ -877,7 +931,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.03",
@@ -893,7 +948,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.04",
@@ -909,7 +965,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.05",
@@ -925,7 +982,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.06",
@@ -941,7 +999,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "07b.07",
@@ -957,7 +1016,8 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  },
  {
   "id": "08.Book_review_Penkower_2_ocr",
@@ -973,6 +1033,7 @@
   "rights_holder": "",
   "rights_note": "",
   "permission_requested": "",
-  "summary": ""
+  "summary": "",
+  "text_status": ""
  }
 ]
