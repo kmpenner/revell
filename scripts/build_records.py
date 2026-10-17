@@ -6,6 +6,9 @@ Runs after generate_site.py (and before build_search.py). It is idempotent.
    page counts and TEI presence. The rights fields (rights_status, rights_holder, rights_note,
    permission_requested, summary) are kept from the previous run, so edit them there by hand.
    rights_status is one of: pending, open, permission granted, restricted.
+   text_status is empty, or a note that the item's scan holds a different document. A non-empty
+   text_status puts a "text missing, scan must be redone" note in the TEI header (<notesStmt>)
+   and shows that notice on the page instead of the text and facsimile.
 2. Rewrites each source transcription_tei.xml <teiHeader> with the bibliographic record and an
    <availability> statement, and copies it to docs/tei/<id>/.
 3. Article pages get the real title, a record panel and a working TEI link. "restricted" items
@@ -18,7 +21,7 @@ import glob, html, json, os, re, shutil, subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
 REC = os.path.join(ROOT, "metadata", "records.json")
-RIGHTS_FIELDS = {"rights_status": "pending", "rights_holder": "", "rights_note": "", "permission_requested": "", "summary": ""}
+RIGHTS_FIELDS = {"rights_status": "pending", "rights_holder": "", "rights_note": "", "permission_requested": "", "summary": "", "text_status": ""}
 STATUS_TEXT = {
     "pending": "Rights review in progress. Full text is shown provisionally for scholarly use.",
     "open": "Republished with no known restriction.",
@@ -94,7 +97,10 @@ for r in records:
         <availability status="{'restricted' if r['rights_status'] in ('pending', 'restricted') else 'free'}">
           <p>Rights status: {esc(r['rights_status'])}. {esc(STATUS_TEXT[r['rights_status']])}{(' Rights holder: ' + esc(r['rights_holder']) + '.') if r['rights_holder'] else ''}</p>
         </availability>
-      </publicationStmt>
+      </publicationStmt>{f'''
+      <notesStmt>
+        <note type="text_status">Text missing: the scan for this item holds a different document, so the text is missing and the scan must be redone. {esc(r['text_status'])}</note>
+      </notesStmt>''' if r.get('text_status') else ''}
       <sourceDesc>
         <bibl type="original">
           <author>E. J. Revell</author>
@@ -120,6 +126,8 @@ def panel(r):
             ("Pages", esc(r["pages"]) or "&mdash;"), ("Scan", f"{r['scan_pages']} pages" if r["scan_pages"] else "&mdash;"),
             ("Rights", f"<strong>{esc(r['rights_status'])}</strong>: {esc(STATUS_TEXT[r['rights_status']])}"
                        + (f" Rights holder: {esc(r['rights_holder'])}." if r["rights_holder"] else ""))]
+    if r.get("text_status"):
+        rows.append(("Text", "<strong>Text missing. The scan holds a different document and must be redone.</strong>"))
     body = "".join(f"<tr><th>{k}</th><td>{v}</td></tr>" for k, v in rows)
     return f'<div class="record-panel"><table class="record">{body}</table></div>'
 
@@ -138,6 +146,11 @@ for f in glob.glob(os.path.join(DOCS, "articles", "*.html")):
         summary = esc(r["summary"]) or "A project summary is in preparation."
         page = re.sub(r'<div class="content">.*?(</div>\s*</div>\s*</div>\s*</article>)',
                       lambda m: f'<div class="content"><h2>Summary</h2><p>{summary}</p><p>The full text is available through library holdings of <em>{esc(r["venue"])}</em>.</p></div>',
+                      page, count=1, flags=re.S)
+    if r.get("text_status"):
+        notice = (f'<div class="content"><h2>Text missing</h2><p><strong>The scan for this item holds a different document, '
+                  f'so the text is missing. The scan must be redone.</strong> {esc(r["text_status"])}</p></div>')
+        page = re.sub(r'<div class="content">.*?</article>', lambda m: notice + "\n        </div>\n    </div>\n</article>",
                       page, count=1, flags=re.S)
     page = re.sub(r"<title>[^<|]*\|", f"<title>{esc(r['title'])} |", page, count=1)
     open(f, "w", encoding="utf-8").write(page)
@@ -166,6 +179,8 @@ def table(kind):
             name = f'<a href="articles/{article_pages[r["id"]]}">{name}</a>'
         venue = f'<br><small>{esc(r["venue"])}</small>' if r["venue"] else ""
         tei = f'<a href="tei/{r["id"]}/transcription_tei.xml">XML</a>' if r["tei"] else "&mdash;"
+        if r.get("text_status"):
+            tei = "<strong>Text missing; scan must be redone</strong>"
         out.append(f'<tr><td>{r["id"]}</td><td>{name}{venue}</td><td>{r["year"]}</td><td>{r["scan_pages"] or ""}</td><td>{tei}</td><td>{esc(r["rights_status"])}</td></tr>')
     return "\n".join(out) + "</tbody></table>"
 
@@ -198,6 +213,10 @@ turns it into <code>metadata/records.json</code>, the item-level record shown on
 permission request in the item's <code>rights_*</code> fields of <code>records.json</code>. Status values:
 <em>pending</em>, <em>open</em>, <em>permission granted</em>, <em>restricted</em>. A restricted item needs a
 <code>summary</code>. The site then shows the record and summary instead of the text, and the scans stay internal.</li>
+<li><strong>Wrong documents.</strong> If an item's scan turns out to hold a different document, write a short note in its
+<code>text_status</code> field in <code>records.json</code> and add the item to the rescan list. The TEI header and the
+item page then say that the text is missing and the scan must be redone. Rename the wrong PDF with
+<code>reject</code> in its name so that it is no longer published.</li>
 <li><strong>Archival scanning.</strong> Offprints are scanned at 400 dpi into <code>scans/</code>, then split and cropped
 per article into <code>07a Articles/&lt;ID&gt; - &lt;short title&gt;/</code>.</li>
 <li><strong>OCR and correction.</strong> AI-assisted OCR produces <code>transcription.md</code>. The student proofreads it
