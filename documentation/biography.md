@@ -40,11 +40,11 @@ His father, Major Alfred John Revell (1893–1945), was a decorated career offic
 
 In that colonial household, precision was not an option; it was an atmosphere.
 
-Yet the cradle in Bangalore also held heartbreak. Revell’s mother was Edith Mary Peckham Sheppard (1900–1934). She was no ordinary soldier's wife. A brilliant Canadian lawyer, Edith had broken barriers in Ontario, becoming one of the earliest women called to the bar in the Law Society of Upper Canada.<sup>12</sup> But tragedy struck without mercy: Edith died in 1934, the very year Ernest was born.<sup>14</sup> The boy never knew his mother’s voice.
+Yet the cradle in Bangalore also held heartbreak. Revell’s mother was Edith Mary Peckham Sheppard (1900–1934). She was no ordinary soldier's wife. A brilliant Canadian lawyer, Edith had broken barriers in Ontario, becoming one of the earliest women called to the bar in the Law Society of Upper Canada.<sup>12</sup> But tragedy struck without mercy: Edith died in 1934, the very year John was born.<sup>14</sup> The boy never knew his mother’s voice.
 
-Eleven years later, in 1945, the second blow fell. Major Revell died, leaving young Ernest an orphan of the empire at just eleven years old.<sup>10</sup>
+Eleven years later, in 1945, the second blow fell. Major Revell died, leaving young John an orphan of the empire at just eleven years old.<sup>10</sup>
 
-What remained of the family gathered in Canada. Ernest was raised alongside his older sister, Margaret Elizabeth Revell. Elizabeth possessed the family’s fierce intellect; she became a gifted humanitarian and polyglot who mastered eleven languages before her death in Midland, Ontario.<sup>14</sup>
+What remained of the family gathered in Canada. John was raised alongside his older sister, Margaret Elizabeth Revell. Elizabeth possessed the family’s fierce intellect; she became a gifted humanitarian and polyglot who mastered eleven languages before her death in Midland, Ontario.<sup>14</sup>
 
 Rooted in British soldiering, Indian geography, and Canadian law, Revell grew up carrying a quiet reserve. He kept an enduring love for the rolling green lanes of England, but it was in Canada that he found his true intellectual harbor.<sup>8</sup>
 
