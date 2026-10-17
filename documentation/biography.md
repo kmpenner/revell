@@ -24,7 +24,7 @@ His father, Major Alfred John Revell (1893–1945), served with the 1st Battalio
 
 His mother's family, the Sheppards, were from Ontario. Her grandfather had built the family's fortune in the Georgian Bay Lumber Company, and she herself had studied at Havergal College and the University of Toronto.<sup>3</sup>
 
-John's own obituary places his childhood home in England.<sup>2</sup> His sister's obituary says more about her own path. Elizabeth was born in India on 31 July 1931, spent her childhood in England, and moved to Canada in her teens. In Toronto she attended Bishop Strachan School and then Trinity College at the University of Toronto, before going on to Oxford.<sup>5</sup> John, less than three years younger, probably made the same move, but the sources used here do not say when he came to Canada or where he went to school.
+John's childhood home was in England.<sup>2</sup> His sister Elizabeth, born in India on 31 July 1931, also spent her childhood in England and moved to Canada in her teens. In Toronto she attended Bishop Strachan School and then Trinity College at the University of Toronto, before going on to Oxford.<sup>5</sup>
 
 ---
 
@@ -78,11 +78,11 @@ Kim Phillips, in a 2022 survey of these manuscripts, agrees with Revell that the
 
 ---
 
-### Translating Yeivin and editing for the IOMS
+### Yeivin and the IOMS
 
-In 1980 Revell published his English translation of Israel Yeivin's survey of the Masorah, written in Hebrew, as *Introduction to the Tiberian Masorah* (Masoretic Studies 5); he also edited the volume. The book covers the Masoretic notes, the vowel signs and the accents of the Tiberian tradition. Current work on the Masorah still cites the English edition.<sup>17,18</sup>
+Revell translated and edited Israel Yeivin's Hebrew survey of the Masorah, published in 1980 as *Introduction to the Tiberian Masorah* (Masoretic Studies 5). The book covers the Masoretic notes, the vowel signs and the accents of the Tiberian tradition. Current work on the Masorah still cites the English edition.<sup>17,18</sup>
 
-For the International Organization for Masoretic Studies he edited *Masoretic Studies* 6 (1990) and 8 (1996), the second being the proceedings of the Twelfth Congress.<sup>19</sup>
+For the International Organization for Masoretic Studies (IOMS), which publishes the series, he also edited *Masoretic Studies* 6 (1990) and 8 (1996), the second being the proceedings of the Twelfth Congress.<sup>19</sup>
 
 ---
 
@@ -90,7 +90,7 @@ For the International Organization for Masoretic Studies he edited *Masoretic St
 
 The Leningrad Codex (Firkovich B19a), in the National Library of Russia, is the oldest complete Masoretic Bible. The scribe Samuel ben Jacob wrote and pointed it in Fustat, Egypt, early in the eleventh century. *Biblia Hebraica* (BHK), *Biblia Hebraica Stuttgartensia* (BHS) and *Biblia Hebraica Quinta* (BHQ) all use it as their base text.<sup>20</sup>
 
-The 1998 facsimile edition, edited by Astrid B. Beck, David Noel Freedman and James A. Sanders, includes Revell's essay "The Leningrad Codex as a Representative of the Masoretic Text".<sup>21</sup> (This site's page for that essay currently holds the wrong document; a corrected transcription is in progress.)
+The 1998 facsimile edition, edited by Astrid B. Beck, David Noel Freedman and James A. Sanders, includes Revell's essay "The Leningrad Codex as a Representative of the Masoretic Text".<sup>21</sup>
 
 The 1996 volume of IOMS proceedings that Revell edited includes Harold P. Scanlin's study "Erased Ga'ayot in the Leningrad Codex", on secondary-stress marks that were erased from the manuscript.<sup>22</sup>
 
@@ -151,21 +151,12 @@ He died in Antigonish, Nova Scotia, on 15 December 2017, aged 83. He was survive
 | 1970 | *Hebrew Texts with Palestinian Vocalization*.<sup>11</sup> |
 | 1974 | Full professor.<sup>6</sup> |
 | 1977 | *Biblical Texts with Palestinian Pointing and Their Accents*.<sup>14</sup> |
-| 1980 | English edition of Yeivin, *Introduction to the Tiberian Masorah*; article on pausal forms; watercolours for *"And Some Brought Flowers"*.<sup>17,24,32</sup> |
+| 1980 | Translation and edition of Yeivin, *Introduction to the Tiberian Masorah*; article on pausal forms; watercolours for *"And Some Brought Flowers"*.<sup>17,24,32</sup> |
 | 1986 | Elected Fellow of the Royal Society of Canada.<sup>6</sup> |
 | 1996 | *The Designation of the Individual*; editor, *Masoretic Studies* 8.<sup>19,30</sup> |
 | 1998 | Essay in the Leningrad Codex facsimile edition.<sup>21</sup> |
 | 2015 | *The Pausal System*.<sup>27</sup> |
 | 2017 | Dies 15 December in Antigonish, Nova Scotia.<sup>2</sup> |
-
----
-
-### The Revell Digital Corpus
-
-In 2026 a proposal in support of the objectives of the Gatto Chair of Christian Studies at St. Francis Xavier University set out to digitize Revell's articles: about 53 of them, some 850 pages. The proposal notes that standard OCR "reduces this linguistic data to unsearchable gibberish", because of the Hebrew vowel and accent signs.
-
-The plan calls for 400 dpi scans, AI-assisted OCR, and manual proofreading of the Hebrew by a student research assistant. The texts are encoded in TEI XML and published on GitHub Pages.<sup>34</sup> This site is the result.
-
 
 #### Works cited
 
@@ -253,8 +244,8 @@ The plan calls for 400 dpi scans, AI-assisted OCR, and manual proofreading of th
 21. E. J. Revell, "The Leningrad Codex as a Representative of the
     Masoretic Text", in *The Leningrad Codex: A Facsimile Edition*, ed.
     Astrid B. Beck, David Noel Freedman and James A. Sanders (Grand
-    Rapids: Eerdmans; Leiden: Brill, 1998). On this site (wrong document
-    at present): [07a.50](articles/07a.50_transcription_tei.html)
+    Rapids: Eerdmans; Leiden: Brill, 1998). On this site:
+    [07a.50](articles/07a.50_transcription_tei.html)
 
 22. Harold P. Scanlin, "Erased Gaʿayot in the Leningrad Codex", in
     Revell, ed., *Proceedings of the Twelfth International Congress*
@@ -344,6 +335,3 @@ The plan calls for 400 dpi scans, AI-assisted OCR, and manual proofreading of th
 33. A History of CSBS (Oct. 2017) - Canadian Society of Biblical
     Studies, accessed May 28, 2026,
     [<u>https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf</u>](https://csbs-sceb.ca/wp-content/uploads/2019/08/A_History_of_CSBS.pdf)
-
-34. Revell digitization proposal 2026.docx,
-    [<u>https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2</u>](https://drive.google.com/open?id=1AQGebRQl_hbWA8nqhfF0MvX_2yDYxoT2)
